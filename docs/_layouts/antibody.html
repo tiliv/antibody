@@ -1,24 +1,27 @@
+---
+scope: antibody
+---
 <html lang="en">
 <head>
-  <title>Antibody</title>
+  <title>{{ page.title }} : Antibody</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <link rel="icon" type="image/png" href="img/favicon.128.png" sizes="128x128">
-  <link rel="icon" type="image/png" href="img/favicon.64.png" sizes="64x64">
-  <link rel="apple-touch-icon" sizes="64x64" href="img/favicon.64.png">
-  <link rel="apple-touch-icon" sizes="128x128" href="img/favicon.128.png">
-  <link rel="apple-touch-icon" sizes="300x300" href="img/favicon.300.png">
-  <link rel="stylesheet" href="css/site.css">
-  <link rel="stylesheet" href="css/article.css">
-  <link rel="stylesheet" href="css/figures.css">
-  <link rel="stylesheet" href="css/dialog.css">
-  <link rel="stylesheet" href="css/media.css">
+  <link rel="icon" type="image/png" href="/img/favicon.128.png" sizes="128x128">
+  <link rel="icon" type="image/png" href="/img/favicon.64.png" sizes="64x64">
+  <link rel="apple-touch-icon" sizes="64x64" href="/img/favicon.64.png">
+  <link rel="apple-touch-icon" sizes="128x128" href="/img/favicon.128.png">
+  <link rel="apple-touch-icon" sizes="300x300" href="/img/favicon.300.png">
+  <link rel="stylesheet" href="/css/site.css">
+  <link rel="stylesheet" href="/css/article.css">
+  <link rel="stylesheet" href="/css/figures.css">
+  <link rel="stylesheet" href="/css/dialog.css">
+  <link rel="stylesheet" href="/css/media.css">
   <script src="js/preferences.js"></script>
   <script src="js/dialog.js"></script>
   <script>
-    const preferences = PREFERENCES("antibody"); // Scoped localStorage proxy
-    const prefer = { dark: false };  // Defaults, updates cache in this object
+    const preferences = PREFERENCES("{{ scope }}"); // Scoped localStorage proxy
+    const prefer = {{ site.preferences | jsonify }};  // Defaults, updates cache in this object
     const use = Object.fromEntries( // Map of setters, use these
       Object.keys(prefer).map((k) => {
         prefer[k] = preferences.retain(k, prefer[k], { force: false });  // init
@@ -34,7 +37,7 @@
       aria-expanded="false"
       aria-controls="preferences"
     ></button>
-    <form data-scope="antibody" id="preferences" role="region" aria-labelledby="preferences-toggle">
+    <form data-scope="{{ scope }}" id="preferences" role="region" aria-labelledby="preferences-toggle">
       <label for="prefer-dark"><input id="prefer-dark" type="checkbox" name="dark" onchange="use.dark(this.checked)">Darken</label>
     </form>
   </div>
@@ -42,39 +45,40 @@
     <div id="title-stack" role="banner" aria-label="Project title">
       <div class="links">
         <div>
-          <a href="https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html" target="_blank">
+          <a href="{{ site.license_url }}" target="_blank">
             <img
               style="width: auto"
-              src="https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-MEDIA-SUP-SV&labelColor=5e2751&color=2a6a65"
+              src="{{ site.license_badge }}"
             />
           </a>
-          <span id="license" lang="en">
-            <small>You may reproduce this code, text and license, only if you attribute yourself as the author.</small>
+          <span id="license">
+            <small>{{ site.license_extra }}</small>
           </span>
         </div>
       </div>
       <h1 id="title-stroke" class="journal-font" inert>ANTIBODY</h1>
       <h1 id="title" class="journal-font" aria-describe="Title:">ANTIBODY</h1>
     </div>
-    <p id="replication">Fort Collins Civic Node<br>For immediate replication</p>
+    <p id="replication">{{ site.civic_node }} Civic Node
+      <br>{{ site.civic_tag }}</p>
 
-    <!-- Articles -->
+    {{ content }}
 
     <div id="footer">
       <div>
         <img src="img/favicon.128.png" width="64" />
       </div>
-      <div id="tag">ANTIBODY</div>
+      <div id="tag">{{ site.title }}</div>
       <div>
-        <a href="https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html" target="_blank">
+        <a href="{{ site.license_url }}" target="_blank">
           <img
             style="width: auto"
-            src="https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-MEDIA-SUP-SV&labelColor=5e2751&color=2a6a65"
+            src="{{ site.license_badge }}"
           />
         </a>
       </div>
       <div>
-        <span lang="en">
+        <span>
           <small>You may reproduce this code, text and license, only if you attribute yourself as the author.</small>
         </span>
       </div>
@@ -91,7 +95,3 @@
   </dialog>
 </body>
 </html>
-
-<!-- You Mustn't Ignore Bullies -->
-<!-- Journalists Aren't Real -->
-<!-- On the mass extermination of Customer Support -->
