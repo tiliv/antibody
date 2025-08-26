@@ -13,10 +13,6 @@ permalink: pretty
 preferences:
   dark: false
 
-collections:
-  journal:
-    output: false
-
 defaults:
   - scope:
       type: "journal"

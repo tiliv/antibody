@@ -2,7 +2,7 @@
 layout: one-message
 ---
 
-{% assign published = site.journal | where_exp: "d", "d.published != false" %}
+{% assign published = site.pages | where_exp: "d", "d.published != false" %}
 
 {% for article in published %}
 ## [{{ article.title }}]({{ article.url }})
