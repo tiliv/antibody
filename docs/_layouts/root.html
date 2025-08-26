@@ -1,9 +1,14 @@
 ---
-scope: antibody
+author: autumn@discoverywritten.com
 ---
 <html lang="en">
 <head>
-  <title>{{ page.title }} : Antibody</title>
+  {% unless page.index %}<meta name="robots" content="noindex, nofollow">{% endunless %}
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+  {% if page.redirect_to %}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">{% endif %}
+  {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endif %}
+
+  <title>{{ page.title | default: site.title }}</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -20,7 +25,7 @@ scope: antibody
   <script src="/js/preferences.js"></script>
   <script src="/js/dialog.js"></script>
   <script>
-    const preferences = PREFERENCES("{{ scope }}"); // Scoped localStorage proxy
+    const preferences = PREFERENCES("{{ preferences }}"); // Scoped localStorage proxy
     const prefer = {{ site.preferences | jsonify }};  // Defaults, updates cache in this object
     const use = Object.fromEntries( // Map of setters, use these
       Object.keys(prefer).map((k) => {
@@ -37,7 +42,7 @@ scope: antibody
       aria-expanded="false"
       aria-controls="preferences"
     ></button>
-    <form data-scope="{{ scope }}" id="preferences" role="region" aria-labelledby="preferences-toggle">
+    <form data-scope="{{ preferences }}" id="preferences" role="region" aria-labelledby="preferences-toggle">
       <label for="prefer-dark"><input id="prefer-dark" type="checkbox" name="dark" onchange="use.dark(this.checked)">Darken</label>
     </form>
   </div>
@@ -56,8 +61,10 @@ scope: antibody
           </span>
         </div>
       </div>
-      <h1 id="title-stroke" class="journal-font" inert>ANTIBODY</h1>
-      <h1 id="title" class="journal-font" aria-describe="Title:">ANTIBODY</h1>
+      <a href="/" style="display: flex; justify-content: center;">
+      <h1 id="title-stroke" class="journal-font" inert>{{ site.title }}</h1>
+      <h1 id="title" class="journal-font" aria-describe="Title:">{{ site.title }}</h1>
+      </a>
     </div>
     <p id="replication">{{ site.civic_node }} Civic Node
       <br>{{ site.civic_tag }}</p>
@@ -66,7 +73,7 @@ scope: antibody
 
     <div id="footer">
       <div>
-        <img src="img/favicon.128.png" width="64" />
+        <img src="/img/favicon.128.png" width="64" />
       </div>
       <div id="tag">{{ site.title }}</div>
       <div>
