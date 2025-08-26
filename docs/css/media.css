@@ -1,0 +1,24 @@
+@media (max-width: 1600px) {
+  #replication {
+    margin-top: -3em;
+  }
+}
+@media (max-width: 950px) {
+  h2 {
+    font-size: 3em !important;
+    text-shadow: 0 5px #19161b !important;
+  }
+  #replication {
+    margin-top: -2em;
+  }
+  .side.left,
+  .side.right {
+    grid-column: content-start / content-end;
+    justify-self: center;
+    width: 100%;
+  }
+  .side img {
+    max-height: 40vh;
+    margin: 0 auto;
+  }
+}

@@ -1,0 +1,54 @@
+article {
+  font-family: ArticleFont, "Times New Roman", times, serif;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+h1 {
+  font-size: 3em;
+  font-weight: normal;
+  text-align: center;
+  margin: 0;
+}
+h2 {
+  word-wrap: break-word;
+  hyphens: auto;
+  font-size: 7em !important;
+  text-align: center;
+  margin: 0.5em 0;
+}
+:root[data-dark="true"] h2 {
+  text-shadow: 0 8px var(--sh) !important;
+}
+h3 {
+  font-size: 2.2em;
+  font-weight: normal;
+}
+a {
+  color: var(--fg1);
+  text-decoration: underline;
+}
+a img {
+  margin: 5px;
+}
+
+article.content {
+  margin-top: 0;
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-auto-flow: row;
+  row-gap: 0;
+}
+article > *:not(.side) {
+  grid-column: content-start / content-end;
+  /* margin: 0; */
+}
+article > p > span {
+  font-family: JournalFont, "Georgia", serif;
+  font-size: 1.8em;
+  text-shadow: 1px 3px var(--sh);
+}
+article > p::before,
+article > p::after { content:""; }
+article > p::before { grid-column: left / content-start; }
+article > p::after { grid-column: content-end / right; }

@@ -1,0 +1,90 @@
+body[inert] {
+  overflow: hidden;
+}
+
+dialog::backdrop {
+  background: #000000a0;
+}
+dialog.content {
+  margin: auto;
+  width: 90vw;
+  max-width: max-content;
+}
+dialog nav {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
+dialog nav h1 {
+  margin: 0 auto;
+  padding: 0;
+  font-size: 1.5em;
+  color: var(--fg2);
+  white-space: nowrap;
+}
+dialog nav > * {
+  align-self: center;
+}
+dialog form {
+  width: min-content;
+  overflow: auto;
+}
+dialog img {
+  max-width: 90vw;
+  max-height: 80vh;
+  display: block;
+  margin: auto;
+}
+dialog p {
+  max-width: max-content;
+}
+
+button.close.mac {
+  --size: 14px;
+  width: var(--size);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  appearance: none;
+  cursor: pointer;
+  background-color: #ff5f57;
+  display: inline-grid;
+  place-items: center;
+  outline: none;
+}
+button.close.mac::after {
+  content: "×";
+  font: 600 calc(var(--size)*0.65)/1 system-ui, -apple-system, sans-serif;
+  color: black;
+  position: absolute;
+  opacity: 0;
+  transition: opacity .15s ease;
+  pointer-events: none;
+}
+button.close.mac:hover::after,
+button.close.mac:focus-visible::after {
+  opacity: 1;
+}
+button.close.mac:focus-visible {
+  border: 1px solid #00000033;
+}
+
+button.close.win {
+  --size: 28px;
+  appearance: none;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
+button.close.win::after {
+  content: "×";
+  font-size: var(--size);
+  color: var(--fg2);
+}
+
+:root[data-dark="true"] dialog.content {
+  background-color: #273e4f;
+}
+:root:not([data-dark="true"]) dialog.content {
+  background-color: oklch(86.067% 0.05159 312.549);
+}
