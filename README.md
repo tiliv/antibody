@@ -1,6 +1,6 @@
-# ANTIBODY
+# Fort Collins Civic Node: ANTIBODY
 
-Fort Collins Civic Node
+We are the People. The corporations are not.
 
 ## License
 
@@ -9,7 +9,3 @@ Fort Collins Civic Node
 This code is licensed under the Hippocratic License 3.0 - BDS-MEDIA-SUP-SV [https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html](https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html).
 
 You may reproduce this code, text and license, only if you attribute yourself as the author.
-
-## Fort Collins Civic Node: ANTIBODY
-
-We are the People. The corporations are not.
