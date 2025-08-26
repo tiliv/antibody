@@ -34,10 +34,8 @@ const PREFERENCES = (() => {
     key,
     retain: (k, v, opts) => retain(scope, k, v, opts),
     retrieve: (k, v, opts) => retrieve(scope, k, v, opts),
-    use: name => {
-      return use[key(scope, name)];
-    },
-    // get: name => cache[key(scope, name)],
+    use: name => use[key(scope, name)],
+    get: name => cache[key(scope, name)],
   })
 })();
 
