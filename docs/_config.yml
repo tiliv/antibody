@@ -6,6 +6,7 @@ license_url: https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html
 civic_node: Fort Collins
 civic_tag: For immediate replication
 
+theme: null
 markdown: kramdown
 permalink: pretty
 
@@ -13,12 +14,12 @@ preferences:
   dark: false
 
 collections:
-  articles:
-    output: true
+  journal:
+    output: false
 
 defaults:
   - scope:
-      type: "articles"
+      type: "journal"
       path: ""
     values:
       published: false
