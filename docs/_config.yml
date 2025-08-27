@@ -15,6 +15,6 @@ preferences:
 
 defaults:
   - scope:
-      path: "journal"
+      path: ""
     values:
       preferences: journal
