@@ -9,8 +9,8 @@ tags: [noting, customer support]
 
 layout: journal
 public: false
-published: false
-index: false
+published: true
+index: true
 ---
 
 {% include contact/autumn-ryan.html subject=page.contact_subject %}

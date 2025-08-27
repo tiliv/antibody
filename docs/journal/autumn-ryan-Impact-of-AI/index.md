@@ -9,8 +9,8 @@ tags: [noting, ai]
 
 layout: journal
 public: false
-published: false
-index: false
+published: true
+index: true
 ---
 
 - the great mirror
