@@ -212,7 +212,7 @@ body {
   padding: 8px 20px;
   margin: 130px auto 20px;
 }
-.content p {
+.content > * {
   color: var(--fg2);
   line-height: 1.8em;
   margin-bottom: 2em;
