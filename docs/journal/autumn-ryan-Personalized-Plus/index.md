@@ -22,7 +22,7 @@ _This story is under development. Sourcing is preserved and will be added to the
 - AT&T discloses that they enrich this data with the data of third parties who build ad profiles on you.
 - I believe a precise map of individuals by ethnicity is being sold by the company Placer Labs Inc, which operates as "placer.ai" and without geographical boundaries, and that they possess the data of all or most phone carrier networks and their reselling partners.
 - Placer Labs believes their data must be fuzzed in some situations, lest it trivialize identification of individuals.
-- The city of Fort Collins procured real-time location data services from Placer Labs Inc approximately one month after the AT&T's Terms and Conditions document for the "Personalized Plus" program was dated November 12, 2024.
+- The city of Fort Collins procured real-time location data services from Placer Labs Inc approximately one month subsequent to the AT&T's Terms and Conditions for "Personalized Plus" became dated November 12, 2024.
 - By August 20, AT&T employees be they retail, corporate and phone were universally unaware of the program.
 - By August 23, phone agents found a script to use.
 - Documentation has been compiled regarding the behavior of AT&T and its AI Agents on the subject of the program and whether it was even real.
