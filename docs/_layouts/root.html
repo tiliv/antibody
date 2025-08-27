@@ -48,26 +48,21 @@ author: autumn@discoverywritten.com
   </div>
   <div id="bg">
     <div id="title-stack" role="banner" aria-label="Project title">
-      <div class="links">
-        <div>
-          <a href="{{ site.license_url }}" target="_blank">
-            <img
-              style="width: auto"
-              src="{{ site.license_badge }}"
-            />
-          </a>
-          <span id="license">
-            <small>{{ site.license_extra }}</small>
-          </span>
-        </div>
-      </div>
       <a href="/" style="display: flex; justify-content: center;">
       <h1 id="title-stroke" class="journal-font" inert>{{ site.title }}</h1>
       <h1 id="title" class="journal-font" aria-describe="Title:">{{ site.title }}</h1>
       </a>
     </div>
-    <p id="replication">{{ site.civic_node }} Civic Node
-      <br>{{ site.civic_tag }}</p>
+    <p id="replication">
+      {{ site.civic_node }} Civic Node
+      <br>{{ site.civic_tag }}
+      <br><a href="{{ site.license_url }}" target="_blank">
+        <img
+          style="width: auto"
+          src="{{ site.license_badge }}"
+        />
+      </a>
+    </p>
 
     {{ content }}
 
