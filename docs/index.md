@@ -2,9 +2,8 @@
 layout: one-message
 ---
 
-{% assign published = site.pages | where_exp: "d", "d.published != false" %}
+{% assign journal = site.pages | where_exp: "doc", "doc.public == true" %}
 
-{% for article in published %}
-## [{{ article.title }}]({{ article.url }})
-{:.journal-font}
+{% for piece in journal %}
+{% include piece.html piece=piece %}
 {% endfor %}
