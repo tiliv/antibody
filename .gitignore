@@ -1,4 +1,5 @@
-.DS_Store
 docs/_site
-docs/journal/
+docs/journal/2025-08-23-*
+
+.DS_Store
 Gemfile.lock
