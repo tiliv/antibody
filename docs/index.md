@@ -1,5 +1,6 @@
 ---
 layout: one-message
+index: true
 ---
 
 {% assign journal = site.pages | where_exp: "doc", "doc.public == true" %}
