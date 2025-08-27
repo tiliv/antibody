@@ -71,6 +71,12 @@ body {
   flex-grow: 1;
   padding: 2em;
 }
+#readme {
+  font-size: 1.2em;
+  font-family: ArticleFont !important;
+  margin: 0 auto;
+  text-align: justify;
+}
 #scroll-top {
   z-index: 5;
   position: sticky;
