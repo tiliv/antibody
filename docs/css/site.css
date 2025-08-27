@@ -205,15 +205,6 @@ body {
 }
 
 /* Content */
-#layout {
-  display: grid;
-  grid-template-columns:
-  [left] 1fr
-  [content-start] minmax(300px, min(700px, 40vw))
-  [content-end] 1fr
-  [right];
-  column-gap: 1.5rem;
-}
 .content {
   width: 40%;
   min-width: 300px;
