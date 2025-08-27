@@ -18,14 +18,14 @@ author: autumn@discoverywritten.com
   <link rel="apple-touch-icon" sizes="128x128" href="/img/favicon.128.png">
   <link rel="apple-touch-icon" sizes="300x300" href="/img/favicon.300.png">
   <link rel="stylesheet" href="/css/site.css">
-  <link rel="stylesheet" href="/css/article.css">
+  <link rel="stylesheet" href="/css/journal.css">
   <link rel="stylesheet" href="/css/figures.css">
   <link rel="stylesheet" href="/css/dialog.css">
   <link rel="stylesheet" href="/css/media.css">
   <script src="/js/preferences.js"></script>
   <script src="/js/dialog.js"></script>
   <script>
-    const preferences = PREFERENCES("{{ preferences }}"); // Scoped localStorage proxy
+    const preferences = PREFERENCES("{{ page.preferences }}"); // Scoped localStorage proxy
     const prefer = {{ site.preferences | jsonify }};  // Defaults, updates cache in this object
     const use = Object.fromEntries( // Map of setters, use these
       Object.keys(prefer).map((k) => {
