@@ -9,19 +9,17 @@ h1 {
   text-align: center;
   margin: 0;
 }
-h2 {
+h2, h3 {
   word-wrap: break-word;
   hyphens: auto;
-  font-size: 7em !important;
   text-align: center;
-  margin: 0.5em 0;
+  margin: 0.5em auto;
 }
-:root[data-dark="true"] h2 {
-  text-shadow: 0 8px var(--sh) !important;
-}
-h3 {
-  font-size: 2.2em;
-  font-weight: normal;
+h2 { font-size: 7em !important; }
+h3 { font-size: 3.4em !important; max-width: 60% }
+:root[data-dark="true"] h2,
+:root[data-dark="true"] h3 {
+  text-shadow: 0 8px var(--sh);
 }
 a {
   color: var(--fg1);
