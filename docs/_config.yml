@@ -8,7 +8,7 @@ civic_tag: For immediate replication
 civic_readme: |
   \# README
 
-  This is [an open-source publication]({{ site.github.repository_url }}) of local-made journalism.
+  This is [an open-source publication](https://github.com/tiliv/antibody) of local-made journalism.
 
   News media will waste our time; Their nutrition is secured through our attention, and our data. They have had it all, but cannot hear us.
 
