@@ -32,6 +32,7 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - Enjoying the opportunity to remind them who I was, I ended the note by requesting that I kindly not be put into an AI privacy nightmare again, because, as I recounted in a summary, an AI had tried to buy my car without anyone knowing.
 - Two emails arrived on Monday morning: 1) A human salesman trying to buy my car, and 2) another LLM service bot who had been routed to my spam box two minutes later.
 - The AI agent claimed the name "Ashley James" and used the personal pronoun "I" alongside the apparent job title of "Internet concierge".
+- The AI agent repeated my broken description of what service I needed, verbatim. It asked in a kindly way to get started on it.
 - My emails with it confirmed its LLM nature as quickly as the auto-reply.
 
 - I called the dealership, only to find the phone ringing with no answer. It was not closing time, but it was near enough that I could imagine needing to ring them a few times if I wanted an explanation.
