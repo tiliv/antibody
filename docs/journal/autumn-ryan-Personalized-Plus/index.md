@@ -20,13 +20,13 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 ### Summary
 
 - Your device ugprades may be enrolling you in the "Personalized Plus" program, contrary to your or any agent knowledge of the program.
-- This program overrides customer CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
+- This program escalates prior actions taken by AT&T to sell your "sensitive data" to partners, overriding other CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
 - This program supercedes but includes participation in the "Personalized" program, which they disclose is illegal in the following states: CO, CT, DE, IA, IN, KY, MD, MN, MT, NE, NH, NJ, OR, TN, TX, UT, and VA.
 - "Personalized Plus" re-enables the undisclosed sale and transfer of your personal details, precise location, browsing on and off their network, on and off of SSL, your "race or ethnic origin", your device identifiers, which apps you have installed, who you communicate with, when you communicate with them, which devices you leave near you, which specific videos you watch, and more.
-- "Personalized Plus" also overrides your CPNI consent settings. "CPNI", "Personalized" and "Personalized Plus": This is a list in ascending strength of invasiveness, and it is also the chronological list of programs AT&T has deployed against you in the span of just a few years.
-- During a period before 2018, and argued in court until the present August 2025--and all major carriers dispute none of the facts that describe them selling our CPNI-enriched data without our consent--They contend that it was legal that they did not need to report our consent for the sale of such data.
+- "CPNI", "Personalized" and "Personalized Plus": This is a list in ascending strength of their invasiveness, and it is also the chronological list of programs AT&T has deployed against you in the span of just a few years.
+- During a period before 2018, AT&T sold CPNI-enriched data to partners without any requirement to report our consent. AT&T presently argues in court that it was legal. The invention of "Personalized Plus" was to begin a new opt-in attack on the public, where our so-called consent was recorded, not obtained and mysteriously reported to their partners.
 - AT&T claims that no reading our messages or calls is possible with the program.
-- However, during and since 2023, the ongoing Chinese espionage attack referred to as "Salt Typhoon" had been found operating in communications infrastructure, reading the contents of selected targets' conversations.
+- However, during and since 2023, the ongoing Chinese espionage attack referred to as "Salt Typhoon" has been found operating in communications infrastructure, reading the contents of selected targets' conversations.
 - AT&T discloses that they enrich this data with the data of third parties who build ad profiles on you.
 - I believe a precise map of individuals by ethnicity is being sold by the company Placer Labs Inc, which operates as "placer.ai" and without geographical boundaries, and that they possess the data of all or most phone carrier networks and their reselling partners.
 - Placer Labs believes their data must be fuzzed in some situations, lest it trivialize identification of individuals.
