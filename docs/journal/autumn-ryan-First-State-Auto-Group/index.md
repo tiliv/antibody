@@ -45,8 +45,20 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - They have no knowledge of the conversation it had with me. There is no human QA at all.
 
 - The morning of Tuesday, I arrived again to ask questions.
-- The dealership is a multi-state operation which authorizes the use of the service known as "impel.ai", whose testimonalies are universally doctored to portray a telling clarification, in the vein of "I just love Amber (Sales AI)!"
-- Impel.ai has not returned requests for a product demo.
+- They still had no knowledge of the conversation that I had with their supposed representative.
+- I ask them if they can in fact access the log.
+- He is able. I confirm this without looking at it myself by soliciting him to answer about the contents: he confirms I used vulgarities in my "conversation" with the unmonitored chat ai.
+- When asked who names the bots, he reveals "Impel" as the operator of the service.
+- I have notes about who authorizes this decision at Crossroads Hyundai. He was not in the state at the time of my visit. Nor was the human sales agent who I confirmed had a specific desk nearby with a second busy individual.
+- The dealership is a multi-state operation which authorizes the use of the service known as "impel.ai".
+- impel.ai features copious testimonalies that are universally doctored. They portray a telling clarification in each, in the vein of "I just love Amber (Sales AI)!"
+- All promotional material for this service purports to label its sales assistants, but I do not know if they never actually label them, or if it is up to each dealership.
+- However, the doctored labels hang a hat on why the label is needed: The service works so well specifically because the humans believe there is a human power agent who is magically not available to come out and say hello.
+- Employee testimonials featured on impel.ai's materials also clearly indicate that they're so bummed they have to tell humans that their LLM hoax can't see them when they close on a deal.
+
+_impel.ai has not returned requests for a product demo._
+
+_Additional contact is being arranged._
 
 
 {% include contact/autumn-ryan.html subject=page.contact_subject %}
