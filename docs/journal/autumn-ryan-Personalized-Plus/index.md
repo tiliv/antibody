@@ -124,7 +124,6 @@ _Supplemental:_
 - I waited for a rep for 30 minutes while two others had a long-lived meeting by themselves at a table. Two people came to wait after me, and one had an appointment whose time was not a concern. The lone appointment on the restaurant-like TV monitor was for someone else later in the day.
 - I selected an additional question this time, about how quickly they can get training for things that do matter. A matter of days was typical.
 - He took some notes about me, and he gave me the support number he would use; It is the same public number I have.
--
 
 _Supplemental:_
 
