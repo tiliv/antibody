@@ -17,7 +17,7 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 
 {% include contact/autumn-ryan.html subject=page.contact_subject %}
 
-#### Summary
+### Summary
 
 - Your device ugprades may be enrolling you in the "Personalized Plus" program, contrary to your or any agent knowledge of the program.
 - This program overrides customer CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
@@ -31,7 +31,7 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - By August 23, phone agents found a script to use.
 - Documentation has been compiled regarding the behavior of AT&T and its AI Agents on the subject of the program and whether it was even real.
 
-#### Colorado
+### Colorado
 
 #### 4932 Thompson Pkwy, Johnstown
 - I found a lingering option for Personalized Plus when scrolling out of the frame of a "See communication options" area of the profile.
