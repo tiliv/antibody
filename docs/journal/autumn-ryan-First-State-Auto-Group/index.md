@@ -15,6 +15,7 @@ index: true
 
 _Notes are under development. Sourcing is preserved and will be added to a draft._
 
+#### Service Center
 - First State Auto Group owns the Crossroads Hyundai location.
 - In 2025, they possess a privacy policy that allows them generous capabilities with marketing. Unsurprisingly, we are signing things like this every day.
 - I went to the dealership because of an outstanding service recall, and a check engine light. I did not feel that I had options.
@@ -27,6 +28,7 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - Their privacy policy makes no mention of AI specifically, therefore I pressed to know what else they can do with the terms as defined by them. None could suggest anything more than "marketing".
 - I left this interaction with the feedback that another _opportunity_ to consent to such a service would be an improvement.
 
+#### Email to Service Center
 - A few months later, I planned a subsequent visit to the dealership to follow up on work they had recommended in the previously documented visit.
 - On a Friday, I submitted a web request to the Service Center. Not believing that I had a way to see the prior service log, I elected to use the web form to describe what I remembered about the work. I described my needed service incorrectly, and I knew this--I was presenting my errors for them to be corrected.
 - Enjoying the opportunity to remind them who I was, I ended the note by requesting that I kindly not be put into an AI privacy nightmare again, because, as I recounted in a summary, an AI had tried to buy my car without anyone knowing.
@@ -34,6 +36,8 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - The AI agent claimed the name "Ashley James" and used the personal pronoun "I" alongside the apparent job title of "Internet concierge".
 - The AI agent repeated my broken description of what service I needed, verbatim. It asked in a kindly way to get started on it.
 - My emails with it confirmed its LLM nature as quickly as the auto-reply.
+
+#### Crossroads Hyundai, Day 1
 
 - I called the dealership, only to find the phone ringing with no answer. It was not closing time, but it was near enough that I could imagine needing to ring them a few times if I wanted an explanation.
 - Instead, the connection is dropped after a robot anounces that the voice mailbox is full.
@@ -43,6 +47,8 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - The employees do not know the term LLM, so I clarify in my request if it is an AI.
 - Ashamed like the last batch, they admit it is.
 - They have no knowledge of the conversation it had with me. There is no human QA at all.
+
+#### Crossroads Hyundai, Day 2
 
 - The morning of Tuesday, I arrived again to ask questions.
 - They still had no knowledge of the conversation that I had with their supposed representative.
