@@ -114,6 +114,7 @@ _Supplemental:_
 - In every case, I am getting to talk to an employee because when I ask for "Personalized Plus", the system does not understand me. It frequently got things wrong, forcing me to restart my call to escape a misunderstood question.
 - Regardless, employees after this point were unavoidably caught off their guard by my ability to cite how many days the policy had been in effect. There was a clear challenge to their perception of what was wrong now.
 - The next day employees were _immediately_ able to locate "Personalized Plus" information to read me before either of us could take a breath. I called a few times to confirm that this was now a standard behavior, and it was.
+- In addition to the new scripted information, Personalized Plus began appearing in Google search results. Even Google's AI Overview was able to summarize it now. It is as though someone turned off the robots.txt guard, and it happened overnight.
 - I declined CPNI authorization in all cases, but on this new and improved call handling for "Personalized Plus" program, they began making me confirm my physical address. After the second of such attempts, I confirmed but asked why it was being requested. The woman said it was for marketing...
 - Mishandled multiple ways on connections. I have a recording of them hanging up for an "invalid number" during an internal transfer that never let me speak to someone.
 - The phone bot is really interested in catching questions about TV products, and won't even offer wireless, or "Mobility", unless you ask for it.
