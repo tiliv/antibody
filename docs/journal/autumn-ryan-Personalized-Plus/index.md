@@ -13,7 +13,7 @@ published: true
 index: true
 ---
 
-_This story is under development. Sourcing is preserved and will be added to the draft._
+_Notes are under development. Sourcing is preserved and will be added to a draft._
 
 - Your device ugprades may be enrolling you in the "Personalized Plus" program, contrary to your or any agent knowledge of the program.
 - This program overrides customer CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
