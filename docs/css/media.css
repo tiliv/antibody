@@ -5,8 +5,12 @@
 }
 @media (max-width: 950px) {
   h2 {
-    font-size: 3em !important;
-    text-shadow: 0 5px #19161b !important;
+    font-size: 3em;
+    text-shadow: 0 5px var(--sh);
+  }
+  h3 {
+    font-size: 2.3em;
+    text-shadow: 0 3px var(--sh);
   }
   #replication {
     margin-top: -2em;
