@@ -22,7 +22,7 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 - Your device ugprades may be enrolling you in the "Personalized Plus" program, contrary to your or any agent knowledge of the program.
 - This program overrides customer CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
 - This program supercedes but includes participation in the "Personalized" program, which they disclose is illegal in the following states: CO, CT, DE, IA, IN, KY, MD, MN, MT, NE, NH, NJ, OR, TN, TX, UT, and VA.
-- "Personalized Plus" re-enables the undisclosed sale and transfer of your personal details, precise location, browsing on and off their network, on and off of SSL, your "race or ethnic origin", your device identifiers, which apps you have installed, and more.
+- "Personalized Plus" re-enables the undisclosed sale and transfer of your personal details, precise location, browsing on and off their network, on and off of SSL, your "race or ethnic origin", your device identifiers, which apps you have installed, who you communicate with, when you communicate with them, which devices you leave near you, which specific videos you watch, and more.
 - AT&T discloses that they enrich this data with the data of third parties who build ad profiles on you.
 - I believe a precise map of individuals by ethnicity is being sold by the company Placer Labs Inc, which operates as "placer.ai" and without geographical boundaries, and that they possess the data of all or most phone carrier networks and their reselling partners.
 - Placer Labs believes their data must be fuzzed in some situations, lest it trivialize identification of individuals.
