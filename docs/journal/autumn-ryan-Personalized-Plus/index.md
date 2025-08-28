@@ -142,6 +142,6 @@ _I would like to know if AT&T's AI is:_
 
 1. _running unsupervised, handling what AT&T calls "sensitive data in most states"._
 2. _empowered to handle our fully enriched data with real-time location and ethnicity._
-3. _capable of approving the sale of our information without AT&T employees foreknowledge._
+3. _capable of approving the sale of our information without AT&T employees' foreknowledge._
 
 {% include contact/autumn-ryan.html subject=page.contact_subject %}
