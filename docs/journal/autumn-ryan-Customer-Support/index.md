@@ -8,7 +8,7 @@ contact_subject: "NOTING: Customer Support"
 tags: [noting, customer support]
 
 layout: journal
-public: false
+public: true
 published: true
 index: true
 ---
