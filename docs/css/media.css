@@ -26,3 +26,18 @@
     margin: 0 auto;
   }
 }
+@media (max-width: 350px) {
+  h2 {
+    font-size: 2em;
+  }
+  h3 {
+    font-size: 1.8em;
+  }
+  article {
+    font-size: 0.8em;
+  }
+  article ol,
+  article ul {
+    padding-left: 0.5em;
+  }
+}
