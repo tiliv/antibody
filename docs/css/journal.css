@@ -27,7 +27,7 @@ h2, h3 {
   margin: 0.5em auto;
 }
 h2 { font-size: 7em !important; }
-h3 { font-size: 3.4em !important; max-width: 60% }
+h3 { font-size: 3.4em !important }
 :root[data-dark="true"] h2,
 :root[data-dark="true"] h3 {
   text-shadow: 0 8px var(--sh);
