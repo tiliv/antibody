@@ -29,9 +29,11 @@
 @media (max-width: 350px) {
   h2 {
     font-size: 2em;
+    margin: 0.2em auto 0;
   }
   h3 {
     font-size: 1.8em;
+    margin: 0.2em auto 0;
   }
   article {
     font-size: 0.8em;
