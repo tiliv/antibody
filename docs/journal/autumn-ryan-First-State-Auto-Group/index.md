@@ -14,8 +14,6 @@ published: true
 index: true
 ---
 
-_Notes are under development. Sourcing is preserved and will be added to a draft._
-
 #### Service Center
 - First State Auto Group owns the Crossroads Hyundai location.
 - In 2025, they possess a privacy policy that allows them generous capabilities with marketing. Unsurprisingly, we are signing things like this every day.
@@ -66,6 +64,3 @@ _Notes are under development. Sourcing is preserved and will be added to a draft
 _impel.ai has not returned requests for a product demo._
 
 _Additional contact is being arranged._
-
-
-{% include contact/autumn-ryan.html subject=page.contact_subject %}
