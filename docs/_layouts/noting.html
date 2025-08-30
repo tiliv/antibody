@@ -3,10 +3,8 @@ layout: journal
 comment: The page should supply `title` and `date`
 ---
 
-<em>Notes are under development. Sourcing is preserved and will be added to a draft.</em>
-
 {% capture contact_template %}contact/{{ page.author | slugify }}.html{% endcapture %}
 {% capture contact %}{% include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email %}{% endcapture %}
+<em>Notes are under development. Sourcing is preserved and will be added to a draft.</em>
 {{ contact | markdownify }}
-
 {{ content }} 
