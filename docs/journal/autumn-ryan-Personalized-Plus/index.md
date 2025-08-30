@@ -27,7 +27,7 @@ index: true
 - AT&T claims that no reading of our messages or calls is possible with their programs.
 - However, during and since 2023, the ongoing Chinese espionage attack referred to as "Salt Typhoon" has been found operating in communications infrastructure, reading the contents of selected targets' conversations.
 - AT&T discloses that they enrich this data with the data of third parties who build ad profiles on you.
-- I believe a precise map of individuals by ethnicity is being sold by the company Placer Labs Inc, which operates as "placer.ai" and without geographical boundaries, and that they possess the data of all or most phone carrier networks and their reselling partners.
+- I believe a precise map of individuals by ethnicity is being sold by the company Placer Labs Inc, which operates as "placer.ai" without geographical boundaries, and that they possess the data of all or most phone carrier networks and their reselling partners.
 - Placer Labs believes their data must be fuzzed in some situations, lest it trivialize identification of individuals.
 - The city of Fort Collins procured real-time location data services from Placer Labs Inc approximately one month subsequent to AT&T's Terms and Conditions for "Personalized Plus", dated November 12, 2024.
 - By August 20, AT&T employees be they retail, corporate and phone were universally unaware of the program.
