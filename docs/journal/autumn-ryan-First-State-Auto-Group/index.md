@@ -69,6 +69,16 @@ index: true
 
 - It appears the owner of Crossroads Hyundai bought the Reed Hyundai dealership exactly a month ago.
 - The reviews of the location preceding this announcement are very bad. My intuition says that the new owner is specifically scouting dealerships with terrible service, and planning to apply the LLM hoax to fix it.
+- My hunch was a bullseye. The representatives here were at first pretending to not engage with the Impel angle, preferring to reduce it instead to "lead generation".
+- I recorded this interaction.
+- As soon as I brought up Impel being equal to AI sales agents, everyone admitted we were talking about the same thing.
+- The entire interaction, I was counter-monitored by the representatives Meta Ray Bans glasses. Should he review his footage, he will note my direct eye contact with the camera next to his brow.
+- We were able to discuss the legitimate needs of a high-pressure business to respond to queries quickly and efficiently.
+- Trying the question again about who names the AI, a satisfyingly direct answer came forward: "Kate is Kate." The representatives are expressly interested in treating the LLMs as self-sufficient beings.
+- My concerns enumerated to them, despite concessions about business needs, were 1) that Impel's own testimonials *depend* on the LLM hoax--the customers are happy because they think there is a person, and 2) there is literally no QA/QC.
+- The representatives are explicitly uninterested in monitoring the LLMs. They explicitly perceive the job of an LLM to be unsupervised in the success case.
+- I expressed interest a Quality Control initiative. The response to the idea implied I was being idealistic.
+- We agreed on much, but we were not concerned with the same things.
 
 _impel.ai has not returned requests for a product demo._
 
