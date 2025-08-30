@@ -19,7 +19,7 @@ index: true
 ### Summary
 
 - Your device ugprades may be enrolling you in the "Personalized Plus" program, contrary to your or any agent knowledge of the program.
-- This program escalates prior actions taken by AT&T to sell your "sensitive data" to partners, overriding other CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
+- This program, running since at least November 12 2024, escalates prior actions taken by AT&T to sell your "sensitive data" to partners, overriding other CPNI consent choices, and is tooled explicitly to operate "regardless of your state".
 - This program supercedes but includes participation in the "Personalized" program, which they disclose is illegal in the following states: CO, CT, DE, IA, IN, KY, MD, MN, MT, NE, NH, NJ, OR, TN, TX, UT, and VA.
 - "Personalized Plus" re-enables the undisclosed sale and transfer of your personal details, precise location, browsing on and off their network, on and off of SSL, your "race or ethnic origin", your device identifiers, which apps you have installed, who you communicate with, when you communicate with them, which devices you leave near you, which specific videos you watch, and more.
 - "CPNI", "Personalized" and "Personalized Plus": This is a list in ascending strength of their invasiveness, and it is also the chronological list of programs AT&T has deployed against you in the span of just a few years.
