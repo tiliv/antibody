@@ -136,6 +136,16 @@ _Supplemental:_
 3. The pair of Verizon employees seemed surprised that the only so-called "corporate" locations were Greeley and the JFK address.
 4. The pair of Verizon employees reported feeling much more capable that they would know how to escalate a question if they felt pressed by a customer--it required no equivocation on my part to reveal a definition of "escalate" that mapped onto their job. That was heartening and markedly different than the mood of any AT&T employee I've met in the state of Colorado.
 
+### Missouri
+
+#### 6315 Ronald Reagan Dr, Lake Saint Louis
+
+- I recorded this conversation.
+- I focused only on the promptness of AT&T training on new and important programs.
+- I appear to have been "so" knowledgable that his first question to me was whether I worked in association with AT&T. (I remember encountering Wells Fargo account managers face to face who thought I worked in finance just because I knew what I wanted and wouldn't take their recommendations blind. Very similar vibes with this representative.)
+- The usual excuses appeared, but with more force and no time-table, only hedging that AT&T owed them no training at all if it's not a setting the in-store representatives can't alter anyway.
+- When I told him the upgrades he sells to customers are nonetheless switching the setting without even his knowledge, he remained unconcerned.
+- After our conversation had run its course, I asked if he knew what the plain "Personalized" program was, and he did not. He appeared to feel that his personal concern was not useful.
 
 _I have a meager lead for contacting an official privacy policy advisor email address, which I will do and follow up._
 
