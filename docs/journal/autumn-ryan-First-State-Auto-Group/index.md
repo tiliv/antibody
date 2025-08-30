@@ -14,6 +14,8 @@ published: true
 index: true
 ---
 
+### Colorado
+
 #### Service Center
 - First State Auto Group owns the Crossroads Hyundai location.
 - In 2025, they possess a privacy policy that allows them generous capabilities with marketing. Unsurprisingly, we are signing things like this every day.
@@ -60,6 +62,13 @@ index: true
 - All promotional material for this service purports to label its sales assistants, but I do not know if they never actually label them, or if it is up to each dealership.
 - However, the doctored labels hang a hat on why the label is needed: The service works so well specifically because the humans believe there is a human power agent who is magically not available to come out and say hello.
 - Employee testimonials featured on impel.ai's materials also clearly indicate that they're so bummed they have to tell humans that their LLM hoax can't see them when they close on a deal.
+
+### Kansas
+
+#### 7050 W Frontage Rd, Merriam
+
+- It appears the owner of Crossroads Hyundai bought the Reed Hyundai dealership exactly a month ago.
+- The reviews of the location preceding this announcement are very bad. My intuition says that the new owner is specifically scouting dealerships with terrible service, and planning to apply the LLM hoax to fix it.
 
 _impel.ai has not returned requests for a product demo._
 
