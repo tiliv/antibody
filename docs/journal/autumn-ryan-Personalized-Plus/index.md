@@ -8,13 +8,11 @@ author_email: autumn@discoverywritten.com
 contact_subject: "NOTING: AT&T Personalized Plus"
 tags: [noting, at&t, personalized-plus]
 
-layout: journal
+layout: noting
 public: true
 published: true
 index: true
 ---
-
-_Notes are under development. Sourcing is preserved and will be added to a draft._
 
 {% include contact/autumn-ryan.html subject=page.contact_subject %}
 
@@ -148,5 +146,3 @@ _I would like to know if AT&T's AI is:_
 1. _running unsupervised, handling what AT&T calls "sensitive data in most states"._
 2. _empowered to handle our fully enriched data with real-time location and ethnicity._
 3. _capable of approving the sale of our information without AT&T employees' foreknowledge._
-
-{% include contact/autumn-ryan.html subject=page.contact_subject %}
