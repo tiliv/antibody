@@ -82,7 +82,7 @@ _Supplemental:_
 - He reports that it is our responsibility to look into the practices of the companies we use.
 - I trap him with the Google search challenge.
 - I trap him with the AT&T search challenge.
-- He seems to get a little more sympathetic, but his positions are unretracted. He believes mass real-time tracking is a status quo, and was eager to offer that explanation.
+- He seems to get a little more sympathetic, but his positions are unretracted. He believes that this new tier of mass real-time tracking is a status quo, and was eager to offer that explanation.
 
 #### 1387 Sculptor Dr, Loveland
 
