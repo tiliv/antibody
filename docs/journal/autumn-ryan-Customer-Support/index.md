@@ -8,10 +8,8 @@ author_email: autumn@discoverywritten.com
 contact_subject: "NOTING: Customer Support"
 tags: [noting, customer support]
 
-layout: journal
+layout: noting
 public: true
 published: true
 index: true
 ---
-
-{% include contact/autumn-ryan.html subject=page.contact_subject %}
