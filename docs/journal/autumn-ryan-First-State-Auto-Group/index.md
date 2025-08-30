@@ -8,7 +8,7 @@ author_email: autumn@discoverywritten.com
 contact_subject: "NOTING: First State Auto Group"
 tags: [noting, fsag, social-engineering, ai]
 
-layout: journal
+layout: noting
 public: true
 published: true
 index: true
