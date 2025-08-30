@@ -1,5 +1,6 @@
 ---
 date: 2025-08-23
+rank: 2
 title: "NOTING: First State Auto Group"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
