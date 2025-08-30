@@ -7,6 +7,7 @@ comment: The page should supply `title` and `date`
 
 _Notes are under development. Sourcing is preserved and will be added to a draft._
 
-{% include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email %}
+{% capture contact %}{% include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email %}{% endcapture %}
+{{ contact | markdownify }}
 
 {{ content }}
