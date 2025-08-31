@@ -58,7 +58,7 @@ index: true
 - When asked who names the bots, he reveals "Impel" as the operator of the service.
 - I have notes about who authorizes this decision at Crossroads Hyundai. He was not in the state at the time of my visit. Nor was the human sales agent who I confirmed had a specific desk nearby with a second busy individual.
 - The dealership is a multi-state operation which authorizes the use of the service known as "impel.ai".
-- impel.ai features copious testimonalies that are universally doctored. They portray a telling clarification in each, in the vein of "I just love Amber (Sales AI)!"
+- impel.ai features copious testimonials that are universally doctored. They portray a telling clarification in each, in the vein of "I just love Amber (Sales AI)!"
 - All promotional material for this service purports to label its sales assistants, but I do not know if they never actually label them, or if it is up to each dealership.
 - However, the doctored labels hang a hat on why the label is needed: The service works so well specifically because the humans believe there is a human power agent who is magically not available to come out and say hello.
 - Employee testimonials featured on impel.ai's materials also clearly indicate that they're so bummed they have to tell humans that their LLM hoax can't see them when they close on a deal.
