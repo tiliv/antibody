@@ -1,6 +1,7 @@
 ---
 date: 2025-08-27
-title: "NOTING: The Impact of AI"
+rank: 4
+title: "NOTING: Impact of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
@@ -9,7 +10,7 @@ contact_subject: "NOTING: Impact of AI"
 tags: [noting, ai]
 
 layout: noting
-public: false
+public: true
 published: true
 index: true
 ---
