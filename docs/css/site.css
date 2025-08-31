@@ -16,7 +16,7 @@
   --fg1: oklch(0.9037 0 0);
   --fg2: oklch(0.9054 0.0455 309.91);
   --fg-inverse: oklch(0.1076 0 0);
-  --sh: oklch(0.2916 0.0197 311.86);
+  --sh: oklch(20.149% 0.01085 311.883);
   --stroke: oklch(0.2674 0.0049 39.4);
   --shade: oklch(0.2538 0.004 308.29 / 25%);
   --border: oklch(0 0 0 / 25%);
@@ -33,7 +33,6 @@
 
 .journal-font {
   font-family: JournalFont, "Georgia", serif;
-  font-size: 1.5em;
   color: var(--fg2);
   text-shadow: 1px 3px var(--sh);
 }
@@ -109,8 +108,6 @@ body {
 #title-stack {
   position: relative;
   z-index: 1;
-  padding-top: 12em;
-  padding-bottom: 15em;
   transition: padding-bottom 0.5s ease-in-out;
   white-space: nowrap;
   background-color: var(--shade);
@@ -121,10 +118,9 @@ body {
 #title, #title-stroke {
   z-index: 5;
   position: absolute;
-  font-size: 10em;
   text-shadow: none;
-  text-stroke: 21px transparent;
-  -webkit-text-stroke: 21px transparent;
+  text-stroke: .2em transparent;
+  -webkit-text-stroke: .2em transparent;
   transition: font-size 0.5s ease-in-out;
 }
 #title-stroke {
@@ -141,7 +137,6 @@ body {
   z-index: 5;
   text-transform: uppercase;
   width: 100%;
-  margin-top: -5em;
   text-align: center;
   font-weight: bold;
   color: var(--fg2);
@@ -206,16 +201,16 @@ body {
 
 /* Content */
 .content {
-  width: 40%;
-  min-width: 300px;
+  /* width: 40%; */
+  min-width: 400px;
   max-width: 700px;
-  padding: 8px 20px;
+  /* padding: 8px 20px; */
   margin: 130px auto 20px;
 }
 .content > * {
   color: var(--fg2);
   line-height: 1.8em;
-  margin-bottom: 2em;
+  /* margin-bottom: 2em; */
 }
 .content pre {
   color: var(--fg1);
@@ -247,24 +242,4 @@ body {
   clip: rect(0,0,0,0);
   white-space: nowrap;
   border: 0;
-}
-
-@media (max-width: 1600px) {
-  #title-stack { padding-bottom: 11em; }
-  #title-stack h1 { font-size: 7em; }
-}
-@media (max-width: 950px) {
-  #title-stack { padding-bottom: 6.5em; }
-  #title-stack h1 { font-size: 4em; }
-  .links img { width: 40px; }
-}
-@media (max-width: 550px) {
-  #title-stack { padding-bottom: 5em; }
-  #title-stack h1 { font-size: 3em; }
-  .links img { width: 28px; }
-}
-@media (max-width: 350px) {
-  #title-stack { padding-bottom: 4em; }
-  #title-stack h1 { font-size: 2em; }
-  .links img { width: 18px; }
 }

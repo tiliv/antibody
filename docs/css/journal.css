@@ -26,11 +26,11 @@ h2, h3 {
   text-align: center;
   margin: 0.5em auto;
 }
-h2 { font-size: 7em !important; }
-h3 { font-size: 3.4em !important }
-:root[data-dark="true"] h2,
-:root[data-dark="true"] h3 {
-  text-shadow: 0 8px var(--sh);
+h2 { font-size: 7em }
+h3 { font-size: 3.4em }
+h4 { font-size: 1.5em }
+h2, h3, h4 {
+  text-shadow: 0 .06em var(--sh);
 }
 a {
   color: var(--fg1);
@@ -51,7 +51,8 @@ article.content {
 article h3,
 article h4 {
   font-family: ArticleFont;
-  margin: 0.5em auto 0 !important;
+  font-weight: bolder;
+  margin: 2rem auto 0 !important;
 }
 article > *:not(.side) {
   grid-column: content-start / content-end;
