@@ -15,7 +15,7 @@ const DIALOG = {
     dlg.querySelector('nav h1').textContent = img.src.split('/').pop();
     dlg.querySelector('form').append(
       Object.assign(document.createElement('p'), {
-        textContent: figure.querySelector('figcaption').textContent,
+        innerHTML: figure.querySelector('figcaption').innerHTML,
       }),
       Object.assign(document.createElement('img'), {
         src: img.dataset.full || img.src,
