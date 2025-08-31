@@ -72,7 +72,7 @@ index: true
 - My hunch was a bullseye. The representatives here were at first pretending to not engage with the Impel angle, preferring to reduce it instead to "lead generation".
 - I recorded this interaction.
 - As soon as I brought up Impel being equal to AI sales agents, everyone admitted we were talking about the same thing.
-- The entire interaction, I was counter-monitored by the representatives Meta Ray Bans glasses. Should he review his footage, he will note my direct eye contact with the camera next to his brow.
+- The entire interaction, I was counter-monitored by a representative's Meta Ray Bans glasses. Should he review his footage, he will note my direct eye contact with the camera next to his brow.
 - We were able to discuss the legitimate needs of a high-pressure business to respond to queries quickly and efficiently.
 - Trying the question again about who names the AI, a satisfyingly direct answer came forward: "Kate is Kate." The representatives are expressly interested in treating the LLMs as self-sufficient beings.
 - My concerns enumerated to them, despite concessions about business needs, were 1) that Impel's own testimonials *depend* on the LLM hoax--the customers are happy because they think there is a person, and 2) there is literally no QA/QC.
