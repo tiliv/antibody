@@ -41,7 +41,7 @@ index: true
 #### Crossroads Hyundai, Day 1
 
 - I called the dealership, only to find the phone ringing with no answer. It was not closing time, but it was near enough that I could imagine needing to ring them a few times if I wanted an explanation.
-- Instead, the connection is dropped after a robot anounces that the voice mailbox is full.
+- Instead, the connection is dropped after a robot announces that the voice mailbox is full.
 - I called repeatedly while I drove to the location before closing time.
 - When I asked what phone I was actively ringing in front of them, they did not know. They could not reveal or find out.
 - I asked them my real question: Who is Ashley James.
@@ -56,12 +56,18 @@ index: true
 - I ask them if they can in fact access the log.
 - He is able. I confirm this without looking at it myself by soliciting him to answer about the contents: he confirms I used vulgarities in my "conversation" with the unmonitored chat ai.
 - When asked who names the bots, he reveals "Impel" as the operator of the service.
-- I have notes about who authorizes this decision at Crossroads Hyundai. He was not in the state at the time of my visit. Nor was the human sales agent who I confirmed had a specific desk nearby with a second busy individual.
+- I discover that these desk employees represent themselves to me as employees of First State Auto Group. This was not expected, nor does it align easily with declared ownership by 2Autogroup, which also owns the next door Mazda dealership.
+- I have notes about who authorizes this decision at Crossroads Hyundai. He was not in the state at the time of my visit. Nor was the human sales agent present who I confirmed had a specific desk nearby with a second busy individual.
 - The dealership is a multi-state operation which authorizes the use of the service known as "impel.ai".
 - impel.ai features copious testimonials that are universally doctored. They portray a telling clarification in each, in the vein of "I just love Amber (Sales AI)!"
 - All promotional material for this service purports to label its sales assistants, but I do not know if they never actually label them, or if it is up to each dealership.
 - However, the doctored labels hang a hat on why the label is needed: The service works so well specifically because the humans believe there is a human power agent who is magically not available to come out and say hello.
 - Employee testimonials featured on impel.ai's materials also clearly indicate that they're so bummed they have to tell humans that their LLM hoax can't see them when they close on a deal.
+
+_Supplemental:_
+
+1. It is not lost on me that Bojangles Michel's desk ownership is hearsay. We have no first-hand claim with metadata that the desk is anything but a social engineering decoy.
+
 
 ### Kansas
 
@@ -69,6 +75,7 @@ index: true
 
 - It appears the owner of Crossroads Hyundai bought the Reed Hyundai dealership exactly a month ago.
 - The reviews of the location preceding this announcement are very bad. My intuition says that the new owner is specifically scouting dealerships with terrible service, and planning to apply the LLM hoax to fix it.
+- The new owners also got a Toyota dealership.
 - My hunch was a bullseye. The representatives here were at first pretending to not engage with the Impel angle, preferring to reduce it instead to "lead generation".
 - I recorded this interaction.
 - As soon as I brought up Impel being equal to AI sales agents, everyone admitted we were talking about the same thing.
