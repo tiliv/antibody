@@ -30,7 +30,7 @@ If you copy, fork, or start your own repository with the template, you can opera
 
 We compile a static site from these sources and host it with included GitHub Pages and free Cloudflare usage.
 
-_Antibody_, calling itself a Fort Collins Civic Node, is a demonstration that you have powers of communication without using brands as the verbs so quickly. We encourage our community and others nearby to find reasons, 1) to communicate on our own; 2) to do it without moderation by Privilege-protected positions above us; 3)
+_Antibody_, calling itself a Fort Collins Civic Node, is a demonstration that you have powers of communication without using brands as the verbs so easily to search or filter. We encourage our community and others nearby to find reasons 1) to communicate on our own; 2) To do it without moderation by Privilege-protected positions above us; 3) to speak about what you want more of locally.
 
 Copies of this site are unremarkable in form, but their function is anything you want. There is no "back-end" to manage for private processing or to be hacked. The whole thing is open source anyway. Your content does not need protection from being stolen, it needs authenticity so that it cannot be plausibly stolen. The site is just files you could host anywhere, and could further process into non-Pages hosts. It leaves all web decisions to you, including Antibody's minimalist templates to reference, and allows you to grow if you find the need.
 
