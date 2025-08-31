@@ -79,6 +79,7 @@ index: true
 - The representatives are explicitly uninterested in monitoring the LLMs. They explicitly perceive the job of an LLM to be unsupervised in the success case.
 - I expressed interest a Quality Control initiative. The response to the idea implied I was being idealistic.
 - We agreed on much, but we were not concerned with the same things.
+- The Meta Ray Bans observed my Hyundai and license plate as I drove away, with the representative feigning interest in the sky while I waved.
 
 _impel.ai has not returned requests for a product demo._
 
