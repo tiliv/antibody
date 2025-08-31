@@ -256,16 +256,15 @@ body {
 @media (max-width: 950px) {
   #title-stack { padding-bottom: 6.5em; }
   #title-stack h1 { font-size: 4em; }
-  .links img, .feature img { width: 40px; }
-  /* .tabs a { font-size: 1.5rem; } */
+  .links img { width: 40px; }
 }
 @media (max-width: 550px) {
   #title-stack { padding-bottom: 5em; }
   #title-stack h1 { font-size: 3em; }
-  .links img, .feature img { width: 28px; }
+  .links img { width: 28px; }
 }
 @media (max-width: 350px) {
   #title-stack { padding-bottom: 4em; }
   #title-stack h1 { font-size: 2em; }
-  .links img, .feature img { width: 18px; }
+  .links img { width: 18px; }
 }
