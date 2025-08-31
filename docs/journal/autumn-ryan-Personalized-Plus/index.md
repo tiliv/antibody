@@ -147,6 +147,12 @@ _Supplemental:_
 - When I told him the upgrades he sells to customers are nonetheless switching the setting without even his knowledge, he remained unconcerned.
 - After our conversation had run its course, I asked if he knew what the plain "Personalized" program was, and he did not. He appeared to feel that his personal concern was not useful.
 
+_Supplemental:_
+
+1. The plain "Personalized" program is already legal in Missouri.
+
+### More
+
 _I have a meager lead for contacting an official privacy policy advisor email address, which I will do and follow up._
 
 _There are several definitions of "make decisions" in the Terms/Privacy information which include AI by extended definitions supplied by AT&T._
