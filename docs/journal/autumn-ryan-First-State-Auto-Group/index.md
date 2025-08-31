@@ -24,7 +24,7 @@ index: true
 - The terms are not visible, requiring an "INFO" reply.
 - The LLM agent replies instantly to non-Yes/No/Info replies with a second attempt to pressure for a "YES".
 - Requesting employee information from the LLM caused it to go silent.
-- Confronting a trio of three employees with the privacy policy, none could enumerate what the policy allowed for.
+- Confronting a trio of service center employees with the privacy policy, none could enumerate what the policy allowed for.
 - Employees are trained to dodge the question of speaking with the named LLM "rep". It requires a second question to directly expose it as AI.
 - Their privacy policy makes no mention of AI specifically, therefore I pressed to know what else they can do with the terms as defined by them. None could suggest anything more than "marketing".
 - I left this interaction with the feedback that another _opportunity_ to consent to such a service would be an improvement.
