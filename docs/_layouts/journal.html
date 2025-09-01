@@ -12,5 +12,9 @@ comment: The page should supply `title` and `date`
 <div id="layout">
   <article class="content">
     {{ content }}
+    <hr />
+    {% capture contact_template %}contact/{{ page.author | slugify }}.html{% endcapture %}
+    {% capture contact %}{% include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email %}{% endcapture %}
+    {{ contact | markdownify }}
   </article>
 </div>
