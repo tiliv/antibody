@@ -16,7 +16,7 @@ index: true
 
 This piece will reflect on the sprawl and entitlement of copyright holders. A great thicket of these cling to AI in its LLM form, sticking their assertions that mere encounter with copyrighted information is crime.
 
-We will look at ongoing AI-related lawsuits and the failures of all sides to argue coherently. The misunderstanding of the premise of copyright has led businesses and customers to think very wrongly about copyright is and does, and how that differs from what holders wish it does next.
+We will look at ongoing AI-related lawsuits and the failures of all sides to argue coherently. The misunderstanding of the premise of copyright has led businesses and customers to think very wrongly about what copyright is and does, and how that differs from what holders wish it does next.
 
 - Copyright holders investigate AI vendors for signs of learning, and call it crime.
 - Copyright facilitates much, but never crime upon mere sight or memory.
