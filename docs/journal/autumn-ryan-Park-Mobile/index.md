@@ -23,7 +23,7 @@ Many, and most unwittingly, have designed our cities to require the intervention
 
 Parking meters with apps are collecting our license plates and acting as the gateway to dispatch staff to validate it. Whether or not they employ locals or pay well, our data becomes theirs. Were these devices to cease functioning in whole or in part, the parking fees may or may not get paid, who knows! The programmers tell us the spec document by the founders call it "undefined" in the scope. If the system's down, they said that's not in the spec sort of by Design. We just throw exceptions, baby.
 
-Say your parking meter system does or don't collect payment, but inside of software details you're not allowed to look at might be code that fails the payment but due to the logging, your plate definitely goes out into the event queue. It's downstream's job to handle their own schema needs and control states.
+Say your parking meter system does or doesn't collect payment, but inside of software details you're not allowed to look at might be code that fails the payment but due to the logging, your plate definitely goes out into the event queue. It's downstream's job to handle their own schema needs and control states.
 
 But security humans know just what to do with no record of payment. That's not an error state, that's a Problem. You Are A Problem, because software engineers nationally centralize the precise location of parked vehicles in your city are while also learning how to communicate their weekly progress.
 
