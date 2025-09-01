@@ -65,4 +65,4 @@ index: true
 
 **Your locations and characteristics are already an open secret;** This is the great ad profile project undertaken to model you. There is not one company holding it, to opt out of or boycott. It is a mass cooperation built on the presumption that the speculative trade of People was still on the table. Because it is already so, and because we can't take it down without astonishingly aggressive legislation in reply, we need to form Terms that are clear and suggest action.
 
-**People want havens from surveillance.** I want candidates who comprehend the force of that statement. An implementation requires expansive thinking, to block out the metadata invasion to best of our ability and reclaim what was implicit to our Constitution, that a fundamental right to Privacy was the impetus for this all.
+**People want havens from surveillance.** I want candidates who comprehend the force of that statement. An implementation requires expansive thinking, to block out the metadata invasion to the best of our ability and reclaim what was implicit to our Constitution, that a fundamental right to Privacy was the impetus for this all.
