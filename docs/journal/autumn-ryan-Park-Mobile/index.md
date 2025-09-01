@@ -57,7 +57,7 @@ Have we agreed to Privacy at all? Do we think this is legally binding consent? D
 
 We must have Privacy law that is absolute on this, but we can't have that instantly. We do have the power to halt this flow on a case by case basis. No fluid brand is owed the right to use the data they've been entrusted with. If that's this company's entire monetization raison d'être, fire ParkMobile and hire your People.
 
-ParkMobile's claim is that they can Improve their Services with our data, by developing anything new that they want, and which is obviously "not limited" to trends and visiting patterns. Why must every legal document fail-open like this? Their Privacy Policy isn't obscene, but in this most crucial of carve-outs, we are told they haven't even bothered completing the list. Maybe that's a rounding error to them, next to arbitrary new products for green line theory. They update this stuff all the time, last seen changed a month ago July 14 2025.
+ParkMobile's claim is that they can Improve their Services with our data, by developing anything new that they want, and which is obviously "not limited" to trends and visiting patterns. Why must every legal document fail-open like this? Their Privacy Policy isn't obscene, but in this most crucial of carve-outs, we are told they haven't even bothered completing the list. Maybe that's a rounding error to them, next to arbitrary new products for green line theories. They update this stuff all the time, last seen changed a month ago July 14 2025.
 
 This information fails observability tests.
 
