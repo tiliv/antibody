@@ -5,10 +5,10 @@ index: true
 
 {% assign journal_public = site.pages | where_exp: "doc", "doc.public == true" %}
 {% assign journal_published = journal_public | sort: "date" %}
-{% assign journal_ranked = journal_public | sort: "rank" %}
+{% assign journal_ranked = journal_published | sort: "rank" %}
 
-<section id="readme" class="content">
-{{ site.civic_readme | markdownify }}
+<section id="readme" class="content" markdown="1">
+{{ site.civic_readme }}
 </section>
 
 {% for piece in journal_ranked %}

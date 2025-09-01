@@ -62,8 +62,9 @@ bundle exec jekyll serve
 1. Create a folder inside `docs/journal/`
 2. Adjust its name to reflect the piece's public URL (called the "slug" for reasons you can freely read about).
 3. If you have images or audio to present, you will also add an `exhibits` folder inside of that.
-3. Create a file `index.md` just inside your URL folder. The top area is invisible in the main site except where those values are deliberately used during the build, like `title`.
+3. Create a file `index.md` just inside your URL folder. The top section of data is not published with the final site, but can be deliberately used to display things in the template.
 4. The required fields `layout` and `published` make it possible to preview the page in its current form. `public` will link it from the main page.
+5. After committing your own changes to a local feature branch, start a GitHub Pull Request.
 
 
 This is an example piece's `docs/journal/your-name-Your-Subject/index.md` template for examples:
@@ -71,9 +72,9 @@ This is an example piece's `docs/journal/your-name-Your-Subject/index.md` templa
 ---
 # This section uses Yaml format, which is like austere JSON.
 date: 2025-08-23  # optional, the work's attributable date
-rank: 3  # optional, section group for use on mixed pages
+rank: 3  # optional, section group for use on mixed pages, see docs/index.md
 
-title: Your title  # optional, site's title is default value
+title: Your title  # used for the browser's page title, and listing the piece
 author: Your Name  # used for contact card
 author_email: your.email@example.com  # used for contact card
 contact_subject: "Email subject line"  # optional, used for author email on this piece
@@ -85,39 +86,52 @@ public: false  # has visibility on our front page (needs `published`)
 index: false  # has visibility on search engines (needs `published`)
 ---
 
-Line one begins now. This is a small format demonstration, but you should arrange things however you like.
+Line one begins now. This is a small format demonstration, but you should
+arrange things however you like. You can write on long lines with word wrap, or
+use linebreaks (no gaps or indentation) to continue in a paragraph.
+
+The gaps are what make paragraphs in the final result.
 
 1. Lists are their own grouped concept
 2. So treat them like a paragraph's lower neighbor
 3. The margin gap following a list is larger than the top.
 
-The pair of matching `---` `---` lines above the markdown will keep any metadata you need. You can make up your own extras, per document. The combined information there is called the page's front-matter. It is visible during static site builds but does nothing unless some page or layout code uses it as a display `{{ page.yourSetting }}` or in a supported loop.
+The pair of matching `---` `---` lines above the markdown will keep any metadata
+you need. You can make up your own extras, per document. The combined information
+there is called the page's front-matter. It is visible during static site builds
+but does nothing unless some page or layout code uses it as a display, like
+`{{ page.yourSetting }}`, or in a supported loop, etc. It will not be inspectable
+on the final released site unless used.
 
 ### Major header
 
 #### Minor header
 
-**The first bold range** in a paragraph is transformed to header font. The **rest** remain in the article font.
+**The first bold range** in a paragraph is transformed to header font.
+The **rest** remain in the article font.
 
 Normally each blank line signals a paragraph break.
 
-If you are using `noting` or `journal` layouts, the CSS for `#layout` supports a "left" and "right" column. Using the `side` class marks it for staying inline on narrow screens, but escaping to the declared side when there's horizontal space.
+If you are using `noting` or `journal` layouts, the CSS for `#layout` supports a
+"left" and "right" column. Using the `side` class marks it for staying inline on
+narrow screens, but escaping to the declared side when there's horizontal space.
+
+Figures become clickable to open a same-page view of the raw file and caption.
+Audio exhibits will be enabled soon for cache-friendly streaming of long sources,
+using similar methods with section navigation.
 
 <figure class="side left">
-  <img src="./exhibits/KB-auth-personalized_plus_program.png" alt="Screenshot of a knowledge base search lacking relevant results">
+  <img
+    src="./exhibits/KB-auth-personalized_plus_program.png"
+    alt="Screenshot of a knowledge base search lacking relevant results"
+  >
   <figcaption markdown="1">If you want markdown in this caption,
 also use the attribute as shown. Otherwise, no `markdown` attribute
 is required.</figcaption>
 </figure>
 
-You can also use tags like `<aside>` or `<iframe>` with the side classes. If you use HTML, the site will stop expecting markdown format unless you bring it back with a `markdown="1"` attribute.
-
-### Big headings
-
-#### Smaller section headings
-
-Write it down.
-
+You can also use tags like `<aside>` or `<iframe>` with the side classes. If you
+use HTML, the site will stop expecting markdown format unless you bring it back
+with a `markdown="1"` attribute. Avoid indenting markdown text if you use
+multiple lines.
 ```
-
-After committing your own changes to a local feature branch, start a GitHub Pull Request.
