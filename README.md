@@ -45,3 +45,78 @@ We must observe the many ways in which companies and sometimes individuals are f
 In our world building itself on data taxation, Privacy must not be the illusion it is today. Law enforcement need not even follow legal channels to acquire our data if the same can be purchased outright or stolen.
 
 As fluidly as companies update their Terms, governments are too. Antibody thinks you should be writing your Terms too. Let's collaborate here and elsewhere.
+
+# Development
+
+Use Ruby's `bundle` runner to ask `jekyll` to `serve`. This will start a preview server that handles recompiling the site after edits to source files. Some changes, like inside `_config.yml`, need to have a full server stop and restart before the preview site can detect the difference.
+
+We will improve upon this entry point so that explanation is not needed:
+
+```shell
+cd antibody/docs
+bundle exec jekyll serve
+```
+
+## Adding journalism to Antibody
+
+1. Create a folder inside `docs/journal/`
+2. Adjust its name to reflect the piece's public URL (called the "slug" for reasons you can freely read about).
+3. If you have images or audio to present, you will also add an `exhibits` folder inside of that.
+3. Create a file `index.md` just inside your URL folder. The top area is invisible in the main site except where those values are deliberately used during the build, like `title`.
+4. The required fields `layout` and `published` make it possible to preview the page in its current form. `public` will link it from the main page.
+
+
+This is an example piece's `docs/journal/your-name-Your-Subject/index.md` template for examples:
+```jekyll
+---
+date: 2025-08-23  # optional, the work's attributable date
+rank: 3  # optional, section group for use on mixed pages
+
+title: "Your title"  # optional, site's title is default value
+author: Your Name  # used for contact card
+author_email: your.email@example.com  # used for contact card
+contact_subject: "Email subject line"  # optional, used for author email on this piece
+tags: [wip]  # optional, grouping terms
+
+layout: noting  # "noting", "journal" and "one-message" are viable layouts.
+published: true  # included in final site (works whether or not `public`)
+public: false  # has visibility on our front page (needs `published`)
+index: false  # has visibility on search engines (needs `published`)
+---
+
+Line one begins now. This is a small format demonstration, but you should arrange things however you like.
+
+1. Lists are their own grouped concept
+2. So treat them like a paragraph's lower neighbor
+3. The margin gap following a list is larger than the top.
+
+The pair of matching `---` `---` lines above the markdown will keep any metadata you need. You can make up your own extras, per document. The combined information there is called the page's front-matter. It is visible during static site builds but does nothing unless some page or layout code uses it as a display `{{ page.yourSetting }}` or in a supported loop.
+
+### Major header
+
+#### Minor header
+
+**The first bold range** in a paragraph is transformed to header font. The **rest** remain in the article font.
+
+Normally each blank line signals a paragraph break.
+
+If you are using `noting` or `journal` layouts, the CSS for `#layout` supports a "left" and "right" column. Using the `side` class marks it for staying inline on narrow screens, but escaping to the declared side when there's horizontal space.
+
+<figure class="side left">
+  <img src="./exhibits/KB-auth-personalized_plus_program.png" alt="Screenshot of a knowledge base search lacking relevant results">
+  <figcaption markdown="1">If you want markdown in this caption,
+also use the attribute as shown. Otherwise, no `markdown` attribute
+is required.</figcaption>
+</figure>
+
+You can also use tags like `<aside>` or `<iframe>` with the side classes. If you use HTML, the site will stop expecting markdown format unless you bring it back with a `markdown="1"` attribute.
+
+### Big headings
+
+#### Smaller section headings
+
+Write it down.
+
+```
+
+After committing your own changes to a local feature branch, start a GitHub Pull Request.
