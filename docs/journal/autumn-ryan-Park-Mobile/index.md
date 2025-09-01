@@ -118,7 +118,7 @@ We blame not the cogs, we blame the contract. We suffer digital assaults like ra
 
 Every vast machine drafts Privacy's express limits, with lawyers present (Shall we assume their experience?) acting with fiduciary responsibility to the shareholders; Oh my, where did it all go wrong?
 
-Did the corporations not become “people” a touch more recently than us? Corporate cultural memory makes them wise or something, and expect it to matter more than the People's cultural memory. Your City existed before companies grew legs, let alone before a CEO grew a mouth to do PR with.
+Did the corporations not become “people” a touch more recently than us? Corporate cultural memory makes them wise or something, and the CEOs expect it to matter more than the People's cultural memory. Your City existed before companies grew legs, let alone before a CEO grew a mouth to do PR with.
 
 The taxation of our data is undisclosed, uncontrolled and unmonitored, and so very rapidly managed by AI. It is without our Representation, and for legal reasons, barely without theirs.
 
