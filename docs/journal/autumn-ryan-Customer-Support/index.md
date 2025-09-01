@@ -46,7 +46,7 @@ index: true
 
 **Instagram "support" will never speak to you** yet the app needs your cyclical attention. It Needs You, but only the slice of you that they can use. The software desires content for the great churn it produces, a senseless instrument tuned to the eccentricities of billionaires who treat their employees like their companies treat us. The harmonics of the notes these platforms blare is insufferable while the billionaires claim they hear music.
 
-**We are not sharing the same reality as the giants.** They are not correctable because they are coping with their own size. We must defend ourselves from their bumbling, the theft of their (our) data and every new idea they have to clear us away like ankle-biters won't leave them alone.
+**We are not sharing the same reality as the giants.** They are not correctable because they are coping with their own size. We must defend ourselves from their bumbling, the theft of their (our) data and every new idea they have to clear us away like ankle-biters that won't leave them alone.
 
 **AI can and should empower us where applied** though it will have no obligation to. If you see methods of using LLMs in smarter ways, you should experiment with it.
 
