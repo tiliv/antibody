@@ -49,7 +49,7 @@ The mass divestment of your privacy is a moral harm to all, and the effort is na
 
 Public education will be under attack for the foreseeable future, and knowledge is the only power we can send the children out the door possessing. Either call this off or indoctrinate our children in school early with Green Line theory, so they're capable of placing bets on their own loss of control—once they are legally allowed.
 
-Can even the software you do trust affirmatively be hacked and important data stolen? Are you agreeing to give it away anyway a Privacy Policy or Terms document with a date on it? What first-hand claims do they make when they describe what they do with you and your location by literal Design? Can even the operating system you trust be hacked? Isn't this all standard fare? This financial violence is too much.
+Can even the software that you do trust affirmatively be hacked and important data stolen? Are you agreeing to give data away anyway in a Privacy Policy or Terms document with a date on it? What first-hand claims do they make when they describe what they do with you and your location by literal Design? Can even the operating system you trust be hacked? The VPN? Isn't this all standard fare? This financial violence is too much.
 
 Using Google One services, you can subscribe to be notified of your information appearing in stolen and secret-public datasets on the dark web. Dark web is what we called the parallel web-like networks that operate without reputable public partners. On one hand it is quite libertarian, but on the other it is where we are bought and sold, in addition to what is Designed as legal.
 
