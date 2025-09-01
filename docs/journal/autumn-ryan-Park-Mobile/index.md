@@ -134,7 +134,7 @@ I once untrusted a company operating from Seoul after they modified the privacy 
 
 - [https://www.rezi.ai/about](https://www.rezi.ai/about)
 
-Government moved slow for a reason. Now, there is a legal class of "people" who Privilege themselves to move faster and with immaculate privacy for themselves, and they are all Foreign and Domestic capable and encouraged towards our exploitation for profit. All for a fleet of Green Lines that must, must go up.
+Government moved slow for a reason. Now, there is a legal class of "people" who Privilege themselves to move faster and with immaculate Privacy for themselves, and they are all Foreign and Domestic capable and encouraged towards our exploitation for profit. All for a fleet of Green Lines that must, must go up.
 
 Are we tired? Do they say keep running? Do they deploy to AI to enact this assault while they take a hard-earned sleep?
 
@@ -144,4 +144,4 @@ Money is payoff, it's the fulfillment of their plot against you, not change. I b
 
 Make Privacy our Terms. Tell people what you mean by that. You are electable. You are more Person than any of these companies. Get help writing your Terms. Take away their intangible powers by remembering you hold power first. We have already listened to their interests ad nauseam, which they have been making us "implicitly sign" for the privilege of moving about our own cities.
 
-We have at time read their "terms" and we do not respect them. Their growing season must slow.
+We have at times read their "terms" and we do not respect them. Their growing season must slow.
