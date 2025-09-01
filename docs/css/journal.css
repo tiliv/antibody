@@ -56,7 +56,6 @@ article h4 {
 }
 article > *:not(.side) {
   grid-column: content-start / content-end;
-  /* margin: 0; */
 }
 article p + ul,
 article p + ol {
@@ -72,3 +71,12 @@ article > p::before,
 article > p::after { content:""; }
 article > p::before { grid-column: left / content-start; }
 article > p::after { grid-column: content-end / right; }
+
+article > hr {
+  width: 100%;
+  border-width: .2em 0;
+  border-color: var(--sh) transparent var(--shade);
+  border-style: dashed;
+  mix-blend-mode: screen;
+  filter: drop-shadow(0 .3em 0 var(--accent));
+}
