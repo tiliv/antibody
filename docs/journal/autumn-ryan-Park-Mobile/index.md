@@ -142,4 +142,6 @@ CEOs work hard and for their own Good they say to us sometimes: Take This Millio
 
 Money is payoff, it's the fulfillment of their plot against you, not change. I beg you consider what Free means to our two classes of People and corporate "people" and whether the Founders had opinions on Privacy Policies.
 
-Make Privacy our law. You are electable. You are more Person than any of these companies. Get help writing your Terms. Take away their intangible powers by remembering you hold power first. Do not listen to their interests which they make you sign your name to, for the privilege of using your own city. We do not respect their "terms". Their growing season must slow.
+Make Privacy our Terms. Tell people what you mean by that. You are electable. You are more Person than any of these companies. Get help writing your Terms. Take away their intangible powers by remembering you hold power first. We have already listened to their interests ad nauseam, which they have been making us "implicitly sign" for the privilege of moving about our own cities.
+
+We have at time read their "terms" and we do not respect them. Their growing season must slow.
