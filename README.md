@@ -67,12 +67,13 @@ bundle exec jekyll serve
 
 
 This is an example piece's `docs/journal/your-name-Your-Subject/index.md` template for examples:
-```jekyll
+```yaml
 ---
+# This section uses Yaml format, which is like austere JSON.
 date: 2025-08-23  # optional, the work's attributable date
 rank: 3  # optional, section group for use on mixed pages
 
-title: "Your title"  # optional, site's title is default value
+title: Your title  # optional, site's title is default value
 author: Your Name  # used for contact card
 author_email: your.email@example.com  # used for contact card
 contact_subject: "Email subject line"  # optional, used for author email on this piece
