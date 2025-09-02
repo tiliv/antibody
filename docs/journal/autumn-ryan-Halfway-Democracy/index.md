@@ -256,6 +256,8 @@ Elon Musk was granted a special districting agreement for his corporate campus h
 
 ### Wyoming
 
+#### Cheyenne
+
 At the well-attended fair, I rarely bought new things. The items are expensive, but all of the vendors are of course People running shops with a brand you can choose to come back for. Frequently, these are mobile shops, joining fairs, conventions and rallies. They know how to find audiences for their goods. They have to sow if they want to reap, and they can't do it from their homes.
 
 A just-do-it attitude isn't what you get from meeting these makers. It was much more of a lets-do-it attitude. President Donald Trump was preparing his comeback campaign, and rural America had seen a lot of him for bespoke rallies that no news media were sent to watch. They felt the winds, and knew he was not touchable, not by God, not by Jack Smith.
