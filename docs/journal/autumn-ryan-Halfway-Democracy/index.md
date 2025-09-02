@@ -186,7 +186,7 @@ The residents here, at sled dog races and ice fishing, universally took pride in
 
 When I came back to other places after Alaska, I was asked a few times variations of the question "Were you running from something?" In fiction, Alaska often makes a great place for murderers to congregate. In non-fiction, a similar tame lesson is given that out here you should know what it means to be resourceful.
 
-Bear spray or engine block warmers, Alaska was a character in their lives. The studded tires made horrifying grooves in the lone highway that iced like a deathtrap so often that it was never any wonder why someone new was down in the ditch. People were choosing to live there with some fire in them.
+Bear spray or engine block warmers, Alaska was a character in their lives. The studded tires made horrifying grooves in the lone highway that iced like a deathtrap so often that it was never any wonder why someone new was down in the ditch. People were choosing to live in this state with some fire in them.
 
 Today, the Unitary Executive has made sure via Order that the name McKinley is the mountain's official name again.
 
