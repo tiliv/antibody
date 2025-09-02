@@ -20,3 +20,4 @@ We in the area of Fort Collins are watched by numerous devices. Sometimes they l
 
 - [https://www.flocksafety.com/](https://www.flocksafety.com/)
 - [https://fcreport.org/new-resource-fort-collins-public-surveillance-mapping/](https://fcreport.org/new-resource-fort-collins-public-surveillance-mapping/)
+- [https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
