@@ -244,7 +244,7 @@ Today, Austin's political representation has been smothered and it cannot run it
 
 #### The future of Texas
 
-As AI companies race to build superintelligences, nuclear power is returning to the Executive's discourse, though it was not a campaign issue, and runs quite contrary to most conservative voices I ever knew. Nuclear was strangely green, but today, new modular nuclear reactor designs are barely not at market. Worse for it, the new industry doesn't have a body of experienced construction and operating engineers; the talent hasn't been cemented in resumes yet. New, much better reactors will not see daylight, while the United States turns to the dirtier cousin of nuclear waste.
+As AI companies race to build superintelligences, nuclear power is returning to the Executive's discourse, though it was not a campaign issue, and runs quite contrary to most conservative voices I ever knew. Nuclear was strangely green, but today, new modular nuclear reactor designs are barely not at market. Worse for it, the new industry doesn't have a body of experienced construction and operating engineers; the talent hasn't been cemented in resumes yet. New, much better reactors will not see daylight, while the United States turns to the dirtier cousin nuclear waste.
 
 States want superintelligence built in their area (possibly thinking there are jobs associated, but not exclusively because). But the power grid is sprawling and may deliver the necessary power from neighboring state contracts for nuclear. The public is about to pay for power draw that isn't available yet, legacy nuclear or new.
 
@@ -252,7 +252,7 @@ Texas, should it construct one of each, may be the only state in the Union with 
 
 Even should America lean into armed conflict at the border with Mexico, Texas will gain new military self-sufficiency and experience. It seems that any choice it makes will be blessed by its circumstances.
 
-Elon Musk was granted a special districting agreement for his corporate campus home, uprooted from California. He owns a city in Texas called Starbase, and there are science-fictional works that he paid to be inserted into for historical figures.
+Elon Musk was granted a special districting agreement for his corporate campus home, uprooted from California. He owns a city in Texas called Starbase, and there are science-fictional works that he paid to be inserted into as a historical figure.
 
 ### Wyoming
 
@@ -278,7 +278,7 @@ The fuller MAGA hypothesis is that you can do better when you burn this down a l
 
 No one was saying the things I took to be true, but that cut a lot of ways. I had grown up with church members shunning any sign of political messaging during lesser meetings, and hearing complaints of single-issue voters, the demons in our communities who were sandbagging things unfairly and were easily led along by NPR. Politics were always personal. I've heard enough single-issues to believe it, but not in a partisan alignment. Single issues were all it took to make People look away from everything else wrong with their heroes. Single-issues were phishing everyone, everywhere, but they felt together in it. It was raw unmitigated populism, but it was a connection that energized them fine. They've always understood working together despite differences, though they posit that The Left might not.
 
-Today, our political story includes tech billionaire Elon Musk roaring a self-branded chainsaw and promising irreverence in the destruction of our federal government and its jobs. To uproarious applause during and after, he ripped out the governments People and parts and moved the data across unsecure lines where Strangers listen. When things break, he adds something back in. He uses his tinker-toddler mentality on a government he has never served in and cannot lead. He diverts assets where he shouldn't because CEOs work in mysterious ways, usually with loyalty. He flanked the President with new authority and wore a black eye.
+Today, our political story includes tech billionaire Elon Musk roaring a self-branded chainsaw and promising irreverence in the destruction of our federal government and its jobs. To uproarious applause during and after, he ripped out the government's People and parts and moved the data across unsecure lines where Strangers listen. When things break, he adds something back in. He uses his tinker-toddler mentality on a government he has never served in and cannot lead. He diverts assets where he shouldn't because CEOs work in mysterious ways, usually with loyalty. He flanked the President with new authority and wore a black eye.
 
 ### Colorado
 
@@ -290,19 +290,19 @@ College towns find it easy to keep developments alive, but communities just outs
 
 Finding impactful local software work is difficult in a college town and in a post-COVID world where remote working has not finished using us for outsourcing. New graduates talk about AI and try to figure how to use it like the YouTube personalities who show them strange miracles.
 
-Hiring across state lines makes it hard to report salaries, so even though states like New York and Colorado require a salary disclosure, companies use an unrealistic range to cover the fine details where skill level cutoffs actually sit in that band. Local work in Colorado often looks like defense contractors. From ground control systems to precision engineering, the defense industry is alive.
+Hiring across state lines makes it hard to report salaries, so even though states like New York and Colorado require a salary disclosure, companies use an unrealistic range to cover the fine details of where exactly skill level cutoffs sit in that band. Local work in Colorado often looks like defense contractors. From ground control systems to precision engineering, the defense industry is alive.
 
 The privacy law in Colorado tries to match California's, but it has its own text and title. It is ineffective on any company, anywhere in the world, with fewer than ten-thousand users in the state. A sane threshold instead defines exactly what size a privacy scam can be.
 
 In states before, I had rented from property managers who changed like storm wind. They all ended up with the same renter web software, the same way all my banks over the years had bought each other up until I had just one that mattered. In Colorado, I enjoyed something a little different for a while, but then, like clockwork, a renting agency bought the property within the year and issued new terms to us all.
 
-Business is complicated. People with needs are found by People with services. I have grown tired of noticing the way we run these companies with a frenzy that cannot be sated. The same systems capture everyone, in every state, and the same hustlers arrive to pay national money. The renting agencies also have a Privacy Policy for us to sign.
+Business is complicated. People with needs are found by People with services. I have grown tired of noticing the way we run these companies with a frenzy that cannot be sated. The same systems capture everyone, in every state, and the same hustlers arrive to pay them money they will use nationally and for their CEOs. The renting agencies also have a Privacy Policy for us to sign.
 
 The Privacy: It is never in the room with us. We are lied to by every entity with a thirst for our data.
 
-News media in northern Colorado has decayed to precious little. In Loveland, the only "local" digital outlet is paywalled. In Fort Collins there is easier access. Both are owned by multi-state conglomerates headquartered in Denver.
+News media in northern Colorado has decayed to precious little. In Loveland, the only "local" digital outlet is paywalled. In Fort Collins there is easier access. Both are owned by multi-state conglomerates with a headquarters in Denver.
 
-There are bunker societies in the mountains, state parks, a lot of artificial lakes in a land that people keep calling a desert, a Buc-ees (?!), and more than a few dedicated public media servants building facilities for everyone's use. There is better parking around town than in the overgrown cities.
+There are bunker societies in the mountains, state parks, a lot of artificial lakes in a land that people keep calling a desert, a Buc-ees (?!), an Amazon fulfillment warehouse (the kind that supports drone use), and more than a few dedicated public media servants building facilities for the public's unfettered use. There is better parking around town than in the overgrown cities.
 
 Still, things grow and some People don't like that. Most states I've lived in have shared complaints that city centers skew Blue and take something tangible away from Red centers. Growth is happening everywhere, and I think Texas is the surest sign that Red can do Red things if it wants to. We may have surrendered to our circumstances so regularly that we find it hard to imagine control of our vision again.
 
@@ -318,7 +318,7 @@ The displacement is inspiring for some, who are also ready to give up on the unw
 
 When all locations become unavailable, the displaced will be illegal like a cornered subhuman tribe with no reservation land. They are already promised to institutionalization, shelter housing, possibly hard labor, and only the latter is in supply.
 
-With the mass ethnic hunt beginning across America, the toddler-tinkerers are pulling things away to see what falls, and they will only save the parts they deem important. This may not include what You Hold Dear.
+With the mass ethnic hunt beginning across America, the toddler-tinkerers are pulling things away to see what falls, and they will only intervene to save the parts they deem important. This may not include what You Hold Dear.
 
 Loveland is retracting parts of its plan to support city services for homeless individuals, when housing is not obtainable. A recent visit to Missouri was made by me because housing costs weren't viable for the friends who had moved away.
 
@@ -344,7 +344,7 @@ I do not think a solution is viable if it cannot help these homeless. We have no
 
 1. Distilled LLM can direct accurate, useful resources to locals who ask, without needing the fake personality of conventional chat agents. An appliance should have clear and reasonable methods of use. Circular chatter bots are not a solution.
 2. LLM services should be capable of decoding our individual cities' documentation habits, the resources linked deeply within, and point to answers about questions.
-3. Rather than dumping unanswered queries in a failure state to turn away the user in politeness: Supply city officials with resources that describe actual questions that are going unanswered. Use AI to synthesize value from data that was previously fated to be ignored. These dead-end experiences frustrate users but still ruin nearly every interaction in software. Our world scries behavior from analytics, but we should not and ask them instead.
+3. Rather than dumping unanswered queries in a failure state to turn away the user in politeness: Supply city officials with resources that describe actual questions that are going unanswered. Use AI to synthesize value from data that was previously fated to be ignored. These dead-end experiences frustrate users but still ruin nearly every interaction in software. Our world scries behavior from analytics, but we should not, and we should ask them directly instead.
 4. The homeless population of Loveland cannot monitor what the City Council decides about them as People. Lightweight in-memory LLM agents need to be accessible from scratch on any mobile device with a browser, capable of forwarding queries to more complex retrieval. Privacy can be strongly promised. Restated queries are made into city data.
 5. LLMs waste a great deal of energy tuning tone across repeat answers. It is an infrastructure bus that connects us to value; AI is not a destination.
 
@@ -356,6 +356,6 @@ We can inspire entirely new types of public involvement and city value. Our trad
 
 The loneliness epidemic touches many, and as matchmaking apps look more and more contrived for subscription revenue, it is easy to wonder at where all of our neighbors and near-neighbors are.
 
-We need to thrive as People to have their American Dreams. They like to work. They want to live in their city. They treasure safety and they do not like watchful eyes with no explanation but marketing. Technology has done great things and it has never yet been called back so strongly as it should be now. Business is allowable, where its terms are properly enunciated.
+We need to thrive as People to have our American Dreams. Americans, they like to work. They want to live in their city. They treasure safety and they do not like watchful eyes with no explanation but marketing. Technology has done great things and it has never yet been called back so strongly as it should be now. Business is allowable, where its terms are properly enunciated.
 
 Concrete privacy law must exist
