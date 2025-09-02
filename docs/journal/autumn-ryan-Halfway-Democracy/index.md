@@ -1,15 +1,15 @@
 ---
 date: 2025-09-01
 rank: 4
-title: "NOTING: Halfway Democracy"
+title: "Halfway Democracy"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 
-contact_subject: "NOTING: Halfway Democracy"
-tags: [noting, democracy]
+contact_subject: "Halfway Democracy"
+tags: [democracy]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true
