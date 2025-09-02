@@ -70,7 +70,7 @@ I was religious in my personal faith at the time, so I knew all the principles o
 
 I certainly never picked sides. These were People first. We all read _To Kill a Mockingbird_ and didn't get it, we all pretended that reading _War and Peace_ for book comprehension tests was a game of knowing the right common facts about large enough texts to cheat the system, and we all silently failed to read the political alignments of our teachers.
 
-When I was young in this school district, I participated in speech debates, and I remember feeling embarrassed in our team's defeats. I remember noticing our flaws, our hurry to give canned answers, but it was stimulating to feel debate like that, even if we all knew we were blowing the hot air of inexperience.
+When I was young in this school district, I participated in speech debates, and I remember feeling embarrassed in our team's defeats. I remember noticing our flaws, our hurry to give canned answers (incarceration), but it was stimulating to feel debate like that, even if we all knew we were blowing the hot air of inexperience.
 
 Our school system received financial grants to improve education. That's a funny beat to transition, and it's not related. I don't recall what the grant did anymore, but I remember going to the library for a coveted break from classes to pretend to listen to a presentation by adults. They did good, but some student poisoned my thinking by suggesting that we received it because we're bad. Our Schools Were Bad.
 
