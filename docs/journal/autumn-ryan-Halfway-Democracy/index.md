@@ -244,7 +244,7 @@ Today, the flagrant disregard of what regulation does exist is explained with wa
 
 Today, Austin's political representation has been smothered and it cannot run its own elections. State leadership took complaints seriously about provisional paper ballot supplies and printers not being in sharp working order. Texas has passed legislation to modify its maps and pack their representation at the Unitary Executive's request.
 
-Today, the United States says it is conducting war on Venezuela drug boats, and claims insider cooperation in Mexico that the Mexican President denies exists.
+Today, the United States says it is conducting war on Venezuelan drug boats, and claims insider cooperation in Mexico that the Mexican President denies exists.
 
 #### The future of Texas
 
