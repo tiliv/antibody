@@ -110,7 +110,7 @@ Today, we offer our precise location to a private national-scale company to take
 
 The internet made it possible for well-coordinated large companies to do what no physical franchise could: Be the same everywhere.
 
-In our time, mass communication became about more than a company-wide email or pager alert. Customer support vanished, and the companies argue that the rideshare drivers aren't actually employees. Mass communication is crafted because we are many, working for few. In school, we complained about the teacher-to-student ratios, but at work, we accept obscene ratios in the structure. Companies must exceed expectations to such a degree that sustaining it after a good streak is too hard. Problems get solved and we forget how we did that.
+In our time, mass communication became about more than a company-wide email or pager alert. Customer support vanished, and the companies argue that the rideshare drivers aren't actually employees. Mass communication is crafted because we are many, working for few. In school, we complained about the teacher-to-student ratios, but at work (God forbid—in politics), we accept obscene ratios in the structure. Companies must exceed expectations to such a degree that sustaining it after a good streak is too hard. Problems get solved and we forget how we did that.
 
 I'd done all this in Kentucky, and had never doubted that I would be leaving it.
 
