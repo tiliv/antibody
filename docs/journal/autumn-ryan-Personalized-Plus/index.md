@@ -5,6 +5,7 @@ title: "NOTING: AT&T Personalized Plus"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
+contact_top: true
 contact_subject: "NOTING: AT&T Personalized Plus"
 tags: [noting, at&t, personalized-plus]
 
@@ -14,7 +15,6 @@ published: true
 index: true
 ---
 
-{% include contact/autumn-ryan.html subject=page.contact_subject %}
 
 ### Summary
 

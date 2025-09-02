@@ -3,6 +3,17 @@ layout: root
 comment: The page should supply `title` and `date`
 ---
 
+{%- comment -%} Contact with explicit md treatment from template {%- endcomment -%}
+{%- capture contact_template -%}
+contact/{{ page.author | slugify }}.md
+{%- endcapture -%}
+{%- capture contact_md -%}
+{%- include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email -%}
+{%- endcapture -%}
+{%- capture contact_html -%}
+{{- contact_md | markdownify -}}
+{%- endcapture -%}
+
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
 <div id="by-line">
   <small>
@@ -11,10 +22,11 @@ comment: The page should supply `title` and `date`
 </div>
 <div id="layout">
   <article class="content">
+    {%- if page.contact_top -%}
+      {{ contact_html }}
+    {%- endif -%}
     {{ content }}
     <hr />
-    {% capture contact_template %}contact/{{ page.author | slugify }}.html{% endcapture %}
-    {% capture contact %}{% include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email %}{% endcapture %}
-    {{ contact | markdownify }}
+    {{ contact_html }}
   </article>
 </div>
