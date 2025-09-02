@@ -244,6 +244,8 @@ Today, the flagrant disregard of what regulation does exist is explained with wa
 
 Today, Austin's political representation has been smothered and it cannot run its own elections. State leadership took complaints seriously about provisional paper ballot supplies and printers not being in sharp working order. Texas has passed legislation to modify its maps and pack their representation at the Unitary Executive's request.
 
+Today, the United States says it is conducting war on Venezuela drug boats, and claims insider cooperation in Mexico that the Mexican President denies exists.
+
 #### The future of Texas
 
 As AI companies race to build superintelligences, nuclear power is returning to the Executive's discourse, though it was not a campaign issue, and runs quite contrary to most conservative voices I ever knew. Nuclear was strangely green, but today, new modular nuclear reactor designs are barely not at market. Worse for it, the new industry doesn't have a body of experienced construction and operating engineers; the talent hasn't been cemented in resumes yet. New, much better reactors will not see daylight, while the United States turns to the dirtier cousin nuclear waste.
