@@ -15,6 +15,8 @@ published: true
 index: true
 ---
 
+{% include toc/aside.html %}
+
 
 ### Summary
 

@@ -9,6 +9,22 @@
   flex-grow: 1;
 }
 
+aside.side {
+  font-size: 0.9em;
+  text-align: left;
+}
+aside.side li {
+  margin-left: -1.5em;
+  line-height: 1.2em;
+}
+aside.side a {
+  color: var(--fg2);
+  text-decoration: none;
+}
+aside.side a:hover {
+  text-decoration: underline;
+}
+
 article {
   font-family: ArticleFont, "Times New Roman", times, serif;
   font-size: 1.3rem;

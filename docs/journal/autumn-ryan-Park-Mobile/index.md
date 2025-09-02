@@ -15,6 +15,8 @@ published: true
 index: true
 ---
 
+{% include toc/aside.html %}
+
 We are watched by devices for various purposes, all subject to spontaneous national security concerns from a Unitary Executive. Every company whether or not we touch it is actively profiling and patterning us. They exchange the same variety of data as every other.
 
 ### ParkMobile
