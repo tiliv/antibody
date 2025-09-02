@@ -357,5 +357,3 @@ We can inspire entirely new types of public involvement and city value. Our trad
 The loneliness epidemic touches many, and as matchmaking apps look more and more contrived for subscription revenue, it is easy to wonder at where all of our neighbors and near-neighbors are.
 
 We need to thrive as People to have our American Dreams. Americans, they like to work. They want to live in their city. They treasure safety and they do not like watchful eyes with no explanation but marketing. Technology has done great things and it has never yet been called back so strongly as it should be now. Business is allowable, where its terms are properly enunciated.
-
-Concrete privacy law must exist
