@@ -74,6 +74,7 @@ body {
   justify-content: center;
   flex-grow: 1;
   padding: 2em;
+  margin: auto;
 }
 #main h3, #main aside {
   margin: auto;
