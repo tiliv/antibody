@@ -12,5 +12,5 @@ index: true
 </section>
 
 {% for piece in journal_ranked %}
-{% include piece.html piece=piece %}
+{% include piece.md piece=piece %}
 {% endfor %}
