@@ -12,6 +12,7 @@
 @media (max-width: 1600px) {
 }
 @media (max-width: 950px) {
+  .nav.side { position: initial; }
   #title-stack { padding-bottom: 12em; }
   #title-stack h1 { font-size: 6em; }
   .links img { width: 40px; }

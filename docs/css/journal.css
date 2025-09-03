@@ -8,6 +8,10 @@
   column-gap: 1.5rem;
   flex-grow: 1;
 }
+.nav.side {
+  position: sticky;
+  top: 90px;
+}
 
 aside.side {
   font-size: 0.9em;
