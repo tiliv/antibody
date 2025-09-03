@@ -278,7 +278,7 @@ They weren't good at forming their ideas, but they were showing up.
 
 By contrast, the piece let us see a stale left-wing movement wherein the last effort the rare youth could ask was what to do.
 
-**The right-wing movements have a litany** of things to do. They have solutions that fit their values, though we may need to help them remember the protection given to all. What I cannot abide in these movements is the full awareness that there is no plan, there is no specification for how new order should work. The movements are about tearing things down because it requires that much pre-demolition to even seen the new solutions.
+**The right-wing movements have a litany** of things to do. They have solutions that fit their values, though we may need to help them remember the protection given to all. What I cannot abide in these movements is the full awareness that there is no plan, there is no specification for how new order should work. The movements are about tearing things down because it requires that much pre-demolition to even observe new solutions.
 
 The fuller MAGA hypothesis is that you can do better when you burn this down a little, and they all know it. They have spared no thought for displacement and People.
 
