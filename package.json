@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "stat-pages": "bin/stat-pages.sh 'docs/_data/git/journal' 'docs/journal/*/index.*'",
+    "serve": "cd docs && bundle exec jekyll serve",
+    "build": "cd docs && bundle exec jekyll build --trace"
+  }
+}
