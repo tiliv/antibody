@@ -1,5 +1,6 @@
-:root,
-:root[data-dark="false"] {
+:root {
+  --w-min: 400px;
+  --w-max: 700px;
   --bg1: oklch(0.85 0.0197 311.86);
   --bg2: oklch(92.486% 0.03664 17.677);
   --fg1: oklch(56.9% 0.19394 3.901);
@@ -7,6 +8,7 @@
   --fg-inverse: oklch(0.9039 0 0);
   --sh: oklch(90.097% 0.03692 310.364);
   --stroke: oklch(93.283% 0.02625 58.16);
+  --shade-hard: oklch(0.9 0.004 308.29 / 95%);
   --shade: oklch(0.9 0.004 308.29 / 20%);
   --border: oklch(1 0 0 / 25%);
   --accent: #990049;
@@ -20,6 +22,7 @@
   --fg-inverse: oklch(0.1076 0 0);
   --sh: oklch(20.149% 0.01085 311.883);
   --stroke: oklch(0.2674 0.0049 39.4);
+  --shade-hard: oklch(0.2538 0.004 308.29 / 95%);
   --shade: oklch(0.2538 0.004 308.29 / 25%);
   --border: oklch(0 0 0 / 25%);
   --accent: #990049;
@@ -76,17 +79,23 @@ body {
   padding: 2em;
   margin: auto;
 }
-#main h3, #main aside {
-  margin: auto;
-  line-height: 1.2em;
+#main h3 {
+  font-size: 2.8em;
+  font-weight: normal;
+  margin: 0.5em auto 0;
+  width: 100%;
+  text-align: left;
+  line-height: 0.9em;
 }
 #main aside {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  line-height: 1rem;
-  margin: 0 auto 0.7em;
-  /* width: 100%; */
+  align-items: baseline;
+  justify-items: space-between;
+  line-height: 1em;
+  margin: 0.7em auto;
+  width: 100%;
+  gap: 20px;
 }
 #main aside .tags {
   margin-left: 1em;
@@ -99,10 +108,13 @@ body {
 }
 #scroll-top {
   z-index: 5;
-  position: sticky;
-  top: 30px;
+  position: fixed;
+  width: 100%;
+  top: 0;
   display: flex;
-  height: 0;
+  height: 80px;
+  background-color: var(--shade-hard);
+  border-bottom: 1px solid var(--border);
   flex-direction: row-reverse;
   justify-content: end;
   align-items: center;
@@ -165,16 +177,12 @@ body {
   font-family: ArticleFont, "Times New Roman", times, serif;
   transition: margin-top 0.5s ease-in-out;
 }
-#by-line {
-  color: var(--fg2);
-  text-align: center;
-  text-shadow: 0 2px var(--sh);
-}
 code {
   font-size: 1.2em;
   background-color: var(--accent);
   padding: .2em .4em;
   color: var(--accent-fg);
+  text-shadow: 1px 3px #000000a0;
 }
 
 /* Horizontal link strip */
@@ -229,10 +237,10 @@ code {
 /* Content */
 .content {
   /* width: 40%; */
-  min-width: 400px;
-  max-width: 700px;
+  min-width: var(--w-min);
+  max-width: var(--w-max);
   /* padding: 8px 20px; */
-  margin: 130px auto 20px;
+  margin: 20px auto;
 }
 .content > * {
   color: var(--fg2);
