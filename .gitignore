@@ -1,4 +1,5 @@
 docs/_site
+docs/_data/git
 docs/journal/retain-*
 
 .DS_Store
