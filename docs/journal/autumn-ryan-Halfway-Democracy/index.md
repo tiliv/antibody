@@ -304,7 +304,7 @@ For example, to make Colorado law work for me, I would need to get 9,999 Colorad
 
 In states before, I had rented from property managers who changed like storm wind. They all ended up with the same renter web software, the same way all my banks over the years had bought each other up until I had just one that mattered. In Colorado, I enjoyed something a little different for a while, but then, like clockwork, a renting agency bought the property within the year and issued new terms to us all.
 
-Business is complicated. People with needs are found by People with services. I have grown tired of noticing the way we run these companies with a frenzy that cannot be sated. The same systems capture everyone, in every state, and the same hustlers arrive to pay them money they will use nationally and for their CEOs. The renting agencies also have a Privacy Policy for us to sign.
+Business is complicated. People with needs are found by People with services. I have grown tired of noticing the way we run these companies with a frenzy that cannot be sated. The same systems capture everyone, in every state, and the same hustlers arrive to make us pay them money they will use nationally and for their CEOs. The renting agencies also have a Privacy Policy for us to sign.
 
 The Privacy: It is never in the room with us. We are lied to by every entity with a thirst for our data.
 
