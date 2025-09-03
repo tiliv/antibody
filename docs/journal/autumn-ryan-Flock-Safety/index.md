@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "NOTING: Flock surveillance capabilities"
-tags: [noting, ai]
+tags: [ai]
 
 layout: noting
 public: true

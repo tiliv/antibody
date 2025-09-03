@@ -6,7 +6,7 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 contact_subject: "NOTING: The postmodern copyright"
-tags: [noting, copyright, ai]
+tags: [copyright, ai]
 
 layout: noting
 public: true

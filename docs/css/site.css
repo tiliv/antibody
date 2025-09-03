@@ -73,6 +73,21 @@ body {
   flex-grow: 1;
   padding: 2em;
 }
+#main h3, #main aside {
+  margin: auto;
+  line-height: 1.2em;
+}
+#main aside {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  line-height: 1rem;
+  margin: 0 auto 0.7em;
+  /* width: 100%; */
+}
+#main aside .tags {
+  margin-left: 1em;
+}
 #readme {
   font-size: 1.2em;
   font-family: ArticleFont !important;

@@ -6,7 +6,7 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 contact_subject: "NOTING: Customer Support"
-tags: [noting, customer support]
+tags: [customer support]
 
 layout: noting
 public: true

@@ -25,6 +25,28 @@ aside.side a:hover {
   text-decoration: underline;
 }
 
+.size {
+  font-family: ArticleFont !important;
+}
+
+.tags {
+  margin-top: 0.7em;
+  font-family: monospace;
+  mix-blend-mode: luminosity;
+}
+.tags span {
+  display: inline-block;
+  padding: 0.2em 0.8em;
+  color: var(--fg1);
+  background: var(--bg2);
+  border: 1px solid #00000080;
+  border-left: none;
+  border-right: 0.25em dashed #00000080;
+}
+.tags span:first-child {
+  border-left: 0.25em dashed #00000080;
+}
+
 article {
   font-family: ArticleFont, "Times New Roman", times, serif;
   font-size: 1.3rem;

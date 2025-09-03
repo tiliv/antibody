@@ -16,9 +16,18 @@ contact/{{ page.author | slugify }}.md
 
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
 <div id="by-line">
-  <small>
-    <span>{{ page.date | date: "%B %-d, %Y" }}</span>
-  </small>
+  <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+  <div class="tags">
+    {%- for tag in page.tags -%}
+      <span>{{ tag }}</span>
+    {%- endfor -%}
+  </div>
+  {% assign words = page.content | number_of_words %}
+  {% assign minutes = words | divided_by:200 | ceil %}
+  <div class="size">
+    <strong>{{ words }}w</strong> ;
+    <em>{{ minutes }}m</em>
+  </div>
 </div>
 <div id="layout">
   <article class="content">

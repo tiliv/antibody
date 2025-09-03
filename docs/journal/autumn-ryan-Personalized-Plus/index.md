@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 contact_top: true
 contact_subject: "NOTING: AT&T Personalized Plus"
-tags: [noting, at&t, personalized-plus]
+tags: [at&t, personalized-plus]
 
 layout: noting
 public: true

@@ -6,7 +6,7 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 contact_subject: "NOTING: First State Auto Group"
-tags: [noting, fsag, social-engineering, ai]
+tags: [fsag, social-engineering, ai]
 
 layout: noting
 public: true

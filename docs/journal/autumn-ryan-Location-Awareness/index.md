@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "NOTING: Location and People"
-tags: [noting, location, ]
+tags: [location, ]
 
 layout: noting
 public: true
