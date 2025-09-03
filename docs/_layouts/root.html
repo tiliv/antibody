@@ -3,10 +3,10 @@ author: autumn@discoverywritten.com
 ---
 <html lang="en">
 <head>
-  {% unless page.index %}<meta name="robots" content="noindex, nofollow">{% endunless %}
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-  {% if page.redirect_to %}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">{% endif %}
-  {% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}">{% endif %}
+  {%- unless page.index -%}<meta name="robots" content="noindex, nofollow">{%- endunless -%}
+  {%- if page.description -%}<meta name="description" content="{{ page.description }}">{%- endif -%}
+  {%- if page.redirect_to -%}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">{%- endif -%}
+  {%- if page.canonical -%}<link rel="canonical" href="{{ page.canonical }}">{%- endif -%}
 
   <title>{{ page.title | default: site.title }}</title>
   <meta charset="UTF-8">
