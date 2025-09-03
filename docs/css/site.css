@@ -10,6 +10,7 @@
   --shade: oklch(0.9 0.004 308.29 / 20%);
   --border: oklch(1 0 0 / 25%);
   --accent: #990049;
+  --accent-fg: oklch(0.9054 0.0455 309.91);
 }
 :root[data-dark="true"] {
   --bg1: oklch(0.2916 0.0197 311.86);
@@ -22,6 +23,7 @@
   --shade: oklch(0.2538 0.004 308.29 / 25%);
   --border: oklch(0 0 0 / 25%);
   --accent: #990049;
+  --accent-fg: oklch(0.9054 0.0455 309.91);
 }
 
 @font-face {
@@ -167,6 +169,12 @@ body {
   text-align: center;
   text-shadow: 0 2px var(--sh);
 }
+code {
+  font-size: 1.2em;
+  background-color: var(--accent);
+  padding: .2em .4em;
+  color: var(--accent-fg);
+}
 
 /* Horizontal link strip */
 .links {
@@ -180,15 +188,15 @@ body {
   padding: 3px 0;
   margin-bottom: 2rem;
   border: 0;
-  border-bottom: 2px solid oklch(71.583% 0.04787 313.133);
-  border-top: 2px solid oklch(71.583% 0.04787 313.133 / 25%);
-  background-color: oklch(71.583% 0.04787 313.133 / 65%);
+  /* border-bottom: 2px solid oklch(71.583% 0.04787 313.133); */
+  /* border-top: 2px solid oklch(71.583% 0.04787 313.133 / 25%); */
+  /* background-color: oklch(71.583% 0.04787 313.133 / 65%); */
 }
-:root[data-dark="true"] .links {
+/* :root[data-dark="true"] .links {
   border-bottom: 2px solid oklch(0.3526 0.0414 241.4);
   border-top: 2px solid oklch(0.3526 0.0414 241.4 / 25%);
   background-color: oklch(0.3526 0.0414 241.4 / 83.53%);
-}
+} */
 
 .links > div {
   display: flex;
