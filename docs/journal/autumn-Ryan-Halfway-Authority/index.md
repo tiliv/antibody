@@ -171,7 +171,7 @@ Authoritarianism is a predictable large-network response to needing finer indivi
 
 This large patch of exposed ground on planet Earth "needs" neither philosophy. These are brought by People with motives, as are all things.
 
-Companies are the perfect tinctures of authoritarianism, but then they said a CEO "should" be President, who "should" run the Country like a Business. They meant it in every way possible. Beholden to no one, equipped fine powers over its dominion, immune with anything it calls "official business", the terms can still update nightly when necessary.
+Companies are the perfect tinctures of authoritarianism, but then they said a CEO "should" be President, who "should" run the Country like a Business. They meant it in every way possible. Beholden to no one, equipped with fine powers over its self-guided dominion (Greenland and Canada too?), immune with anything it calls "official business", the terms can still update nightly when necessary.
 
 When we reduce our great Constitution (and the amendments they remembered to add) and system of law into the one amorphous Rule, two rules appear and you can select which to use:
 - Play where it's clear, and
@@ -181,7 +181,9 @@ There are deeper doctrines than those (Carve it.) which spring from mastery of t
 
 For the Authoritarian perpetrators wielding Religion in their off-hand, public ground can contain Bibles, Commandments and Icons. They proudly report their desire to capture truly more public space. They Are Owed This Now, they say. They wouldn't have done this had you simply not existed in public first, of course. Talk about Terms you heard about too late...
 
-Their America First vision is astonishingly inept, but like Tucker Carlson, the churn makes opportunity for all. Forget the particulars. Look at what is creaking as a result of what they do, and make that stronger so that it withstands. Make it better.
+Their powers of prediction are so holy, that them not doing this sooner might be the real problem they see. Now they have so much work to show they were right all along.
+
+Their All-Along America First vision is astonishingly inept in ways, but like Tucker Carlson, the churn makes opportunity for all. Forget the particulars. Look at what is creaking as a result of what they do, and make that stronger so that it withstands. Make it better.
 
 There are no Authority figures coming to help. It is up to you, and when you weather and feel stronger, you'll understand Pride as MAGA does. Them being a step ahead, have acquired their powerful piece, and they have defensively set in for decades in anticipation of these times.
 
