@@ -17,7 +17,9 @@ index: true
 
 {% include toc/aside.html %}
 
-This piece will examine the failures of democracy as deployed in the United States, whichever adjectival equivocation of its description that we use.
+### Not enough
+
+This piece will examine some failures of democracy as deployed in the United States, whichever adjectival equivocation of its description that we use.
 
 **We have committed to methods that have the effect** of ensuring small majorities (for certain definitions of majority) can conjure malice on their ideological opponents, and it did not start in 2016.
 
