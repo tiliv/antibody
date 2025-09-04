@@ -8,11 +8,12 @@
   --fg-inverse: oklch(0.9039 0 0);
   --sh: oklch(90.097% 0.03692 310.364);
   --stroke: oklch(93.283% 0.02625 58.16);
-  --shade-hard: oklch(0.9 0.004 308.29 / 95%);
+  --shade-hard: oklch(93.024% 0.01971 17.219 / 0.95);
   --shade: oklch(0.9 0.004 308.29 / 20%);
   --border: oklch(1 0 0 / 25%);
   --accent: #990049;
   --accent-fg: oklch(0.9054 0.0455 309.91);
+  --accent-sh: #000000a0;
 }
 :root[data-dark="true"] {
   --bg1: oklch(0.2916 0.0197 311.86);
@@ -25,8 +26,6 @@
   --shade-hard: oklch(0.2538 0.004 308.29 / 95%);
   --shade: oklch(0.2538 0.004 308.29 / 25%);
   --border: oklch(0 0 0 / 25%);
-  --accent: #990049;
-  --accent-fg: oklch(0.9054 0.0455 309.91);
 }
 
 @font-face {
@@ -182,7 +181,7 @@ code {
   background-color: var(--accent);
   padding: .2em .4em;
   color: var(--accent-fg);
-  text-shadow: 1px 3px #000000a0;
+  text-shadow: 1px 3px var(--accent-sh);
 }
 
 /* Horizontal link strip */
