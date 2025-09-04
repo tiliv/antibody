@@ -1,15 +1,15 @@
 ---
 date: 2025-08-30
-rank: 3
-title: "NOTING: ParkMobile vehicle surveillance"
+rank: 1
+title: "ParkMobile vehicle surveillance"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 
-contact_subject: "NOTING: ParkMobile vehicle surveillance"
+contact_subject: "ParkMobile vehicle surveillance"
 tags: [ai]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true

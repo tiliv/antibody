@@ -1,15 +1,15 @@
 ---
 date: 2025-08-31
-rank: 3
-title: "NOTING: Location and People"
+rank: 1
+title: "Location and People"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 
-contact_subject: "NOTING: Location and People"
-tags: [location, ]
+contact_subject: "Location and People"
+tags: [location]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true

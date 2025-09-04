@@ -1,14 +1,14 @@
 ---
 date: 2025-08-27
-rank: 4
-title: "NOTING: The Demise of Customer Support"
+rank: 1
+title: "The Demise of Customer Support"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: Customer Support"
+contact_subject: "Customer Support"
 tags: [customer support]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true
