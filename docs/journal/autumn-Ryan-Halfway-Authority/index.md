@@ -116,7 +116,7 @@ Were corporations our actual governments, some of the giantism tribes would seem
 
 The need for Public infrastructure wasn't hard to notice early, but now we have a Unitary Executive risen from a shape-shifting corporate "Person" who wants to buy companies away from the stock market, turning the market into a slave pickup location. The Chiefest Person is looking for anyone desperately devout in their worship of Mammon, to work for his whims. You'll be told you'll be treated well, since your acquiescence (the predictable part) was step one in their aim.
 
-There is a veritable body of Rules lying about us like so many forgotten sharp weapons. Do you have apostate lawyers searching for these like MAGA does? I prefer to treat their study of Lawfare relics as an obsession with mysticism: They will not require finesse when they set to work in earnest.
+There is a veritable body of Rules lying about us like so many forgotten sharp weapons. Do you have apostate lawyers searching for these like MAGA does? I prefer to treat their study of Lawfare relics as an obsession with mysticism: They will not require finesse with it when they set to work in earnest.
 
 Today, the Unitary Executive, Chief of all, is not taking feedback, except through Susie Wiles and whichever friends are over. It's why Lefts boo at openly at any White Nationalist dinner guests. MAGA says this is just talk and that The Mind Virus spreads blame like butter without knowing anything—credibility can't be on Their side. You Were Not In The Room (By Design). Susie Wiles and others are (and sometimes not with Wiles).
 - [://en.wikipedia.org/wiki/Susie_Wiles](https://en.wikipedia.org/wiki/Susie_Wiles)
