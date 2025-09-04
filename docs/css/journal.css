@@ -101,8 +101,13 @@ aside.side {
   font-size: 0.9em;
   text-align: left;
 }
+aside.side ul,
+aside.side ol {
+  padding-left: 0;
+  line-height: 1.2em;
+}
 aside.side li {
-  margin-left: -1.5em;
+  margin-left: 1em;
   line-height: 1.2em;
 }
 aside.side a {
