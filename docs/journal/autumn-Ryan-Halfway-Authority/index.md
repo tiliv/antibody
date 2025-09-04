@@ -1,7 +1,7 @@
 ---
-date: 2025-09-01
 rank: 4
 title: "NOTING: Halfway Authority"
+date: 2025-09-03
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
