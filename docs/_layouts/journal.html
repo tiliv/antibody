@@ -23,7 +23,7 @@ contact/{{ page.author | slugify }}.md
     <em>{{ minutes }}m</em>
   </div>
   <code class="date">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d: %G-W%V" }}</time>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>
   </code>
   {%- comment -%} <span>{{ page.date | date: "%B %-d, %Y" }}</span> {%- endcomment -%}
   <div class="tags">
