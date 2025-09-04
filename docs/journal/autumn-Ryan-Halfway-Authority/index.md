@@ -100,8 +100,91 @@ The Authority you seek isn't here. It's in another castle. The castle is a metap
 
 ### Two rules
 
+#### Susie Wiles
+
+For a long time I saw rules as the smooth, if contoured, floor that kept the game basically playable. Later, the negative-space of the same scene is more impressive: the rules can be climbed on.
+
+While the Unitary Executive decries hooliganism writ large in the populace, corporations hang from our legal rafters, using cruel and think-fast tactics just because we gave them things to do it from.
+
+Somehow businesses became "People" but with swappable brains; Are we confused why businesses like AI so much? These organizations all survive by climbing on the rules.
+
+When there is one rule, it becomes two rules through the prism of observation: Avoid This; Skirt This.
+
+When skirting makes them feel cornered instead of exalted atop an ever growing pile of rules (and a very ugly jungle gym), they get angry. They launder money as "Speech" and make our law say what it must. They default to their own Privacy in all situations, while they benefit from passive surveillance on us to exist as we do. Companies make economies, but please have some limits.
+
+Were corporations our actual governments, some of the giantism tribes would seem mighty ripe for power struggles. Were our Chiefs not so implicitly immune to our feedback (the explicitly voiced troubles of People), we would have hope! But alas, companies are formed specifically to map this authoritarian method to somewhere it is suited, in free enterprise.
+
+The need for Public infrastructure wasn't hard to notice early, but now we have a Unitary Executive risen from a shape-shifting corporate "Person" who wants to buy companies away from the stock market, turning the market into a slave pickup location. The Chiefest Person is looking for anyone desperately devout in their worship of Mammon, to work for his whims. You'll be told you'll be treated well, since your acquiescence (the predictable part) was step one in their aim.
+
+There is a veritable body of Rules lying about us like so many forgotten sharp weapons. Do you have apostate lawyers searching for these like MAGA does? I prefer to treat their study of Lawfare relics as an obsession with mysticism: They will not require finesse when they set to work in earnest.
+
+Today, the Unitary Executive, Chief of all, is not taking feedback, except through Susie Wiles and whichever friends are over. It's why Lefts boo at openly at any White Nationalist dinner guests. MAGA says this is just talk and that The Mind Virus spreads blame like butter without knowing anything—credibility can't be on Their side. You Were Not In The Room (By Design). Susie Wiles and others are (and sometimes not with Wiles).
+- [://en.wikipedia.org/wiki/Susie_Wiles](https://en.wikipedia.org/wiki/Susie_Wiles)
+
+The Office's occupant was installed to not need any feedback.
+
+We hesitate to control companies the way we're too afraid to go into Uvalde. Do we all secretly know what they're armed with and how bad it could go?
+
+Is it up to God who survives a fight? Welcome to America, where In God We Trust since 1956 and for some centuries before.
+
+It's all about God, it is in fact all about your Feelings. The Homeland must ultimately be His, Mormons in Missouri or not.
+
 #### Tucker Carlson
 
+It is first and foremost a shame that Tucker Carlson was the one capable of even pestering Netanyahu for an interview, to counter an Iranian interview, after a Putin interview, after leaving the basically-exonerated and rising Fox News family. Somehow nobody thinks he should be running back to Fox, because he's got something else and everyone sees the dynamic range.
+
+As humans, it doesn't matter how weird or storied we are. History doesn't care where you came from, only what you made happen.
+
+**Are you the kind of person who makes things happen _at all_?** The happening of things is what creates churn, change, and opportunity fresh and flowing. It's not even a Capitalism thing. We endeavor to texture our experience, by discovery or fabrication. Power throughout history is touched by those who made themselves be where it would be, and they put themselves to its work like a field. Value is not what you can resell on Etsy in your sleep, it is knowing that you personally have the wherewithal to try your hand on something you know has value.
+
+Real work creates new value in a stale market, making possible entirely new comparisons for where more value may lie. The entire market gets fresh speculation, not caring if Tucker is right on the particulars. The worship of procedure is on display. It is an infinite art, alive as long as we are.
+
+Tucker Carlson went international and though he started out broadcasting unmitigated Russian propaganda about how Americans should think of Russia, the Iranian interview was proof he had no plan to say anything specific, but was starting something. Netanyahu had already declined requests multiple times.
+
+Some like DeSantis went international but didn't go as far without well-networked conventions near and far to inflate his aura. Some like Rubio now look a little crisped by Trump's energy but adapt quickly to requesting citizen detainment on foreign soils. There are others, like Lindsey Graham who dance when called on. Of the "journalists" especially, how is it that only Carlson is making original content that isn't just another rebroadcasting channel (This week's emergency episode sponsored by whatever.)
+
+I want interviews with the Japanese, the French. I want to see our politicians fail to do more than filler and realize they're not varsity yet. And I want it like a coach wants to see improvement. I do want to see our People succeed on international issues, but I know they're going to flail for a while.
+
+Geopolitically isolated in so many ways, our home is not diversified enough in its thoughts. The worst part of a Biden term was that we prepared nothing for a new answer, and nor did our journalists. They are all reacting, merging with the Authoritarian's aura, the natural shriek made by a forest when real danger is in fact coming. The shriek is the most satisfying sound you could make, because it communicates all the power in one single instant transmission: You believe you're already powerless.
+
+I worry in earnest what Americans should do if foreign powers try to land here to intervene. America is its own Alcatraz, for those the Unitary Executive says are prisoner now. Imprisoned in America, there is no help coming, and we're suddenly funding ICE better than any prison system.
+
+Never was it clearer when Biden's envoys abroad did nothing, and Trump's people did everything, that traditional backgrounds were still flimsy compared to grit. Blinken was wringing his hands and promising dinner soon while he knew it was on fire back there, and Carlson was talking with Iran on the web. Broadcasting Iran was not especially important a thing to do, but there was no way Carlson was going to do propaganda for them as such. He churned things, sue him.
+
+There are numerous ways for Carlson to stay irrelevant to me, but there are moments he seems peerless. It feels more like a statement of such sparse contenders, how little it takes versus the entire corporatized body of trained "journalists".
+
 #### Mind Virus
+
+The Mind Virus is a church of humankind also founded in America like Protestants. Construed however, it has no universal priests. This is often missed on critics who want to challenge one champion by proxy.
+
+Like a church, the Mind Virus expects its fellows to be ready to hear anything. This works well in many places where a different kind of rugged individualism shapes Millennials and others who lost their fear of Strangers along with the lights coming on all across our social media graphs and showing us that few were actually that scary. It was no longer viable for The News to broadcast into America's homes that their neighbors were putting drugs and razor blades in Trick Or Treat bags. We weren't that scary if we just talked.
+
+But just talking didn't do the whole job. Pushing out the range of social borders, the Mind Virus found not everyone believed the same way in the shared doctrine. Indeed, even many religious have no qualms with the microscopic principles of Wokeness. Wokeness in a certain era could be mocked for attacking itself, but mockery is self-soothing behavior and to attack Wokeness you had to attack a wider way of being. Now the Wokeness was hiding in companies who had suspiciously not bent the knee to the Chief.
+
+There must needs be a reason why more knees were not bent to the Chief. It was that pesky Mind Virus holding back even The Good Ones. Not believing that They should be allowed to have the Virus in secret either, Authority was necessary to expunge it and to prescribe what should be done instead. The prescription would not go down so easily were it not for the American flag wrapping it, and the label you should look no further than: Patriotism. You don't get to pick this side, and they openly discuss what they want for their own Domestic Enemies.
+
+All the while, the Faithful already believe in the coming weeping and wailing and gnashing of teeth, foretold by scripture.
+
+The Mind Virus is a predictable large-network response to needing ponds of safety in a hostile-default environment that buzzes warnings when you have its attention for any reason. Soon, the preachers of groups found their individual voices weren't good enough, and simplified language was negotiated on social media with much infighting. You're Bad If You Don't Heart This.
+
+Authoritarianism is a predictable large-network response to needing finer individual control. It deploys efficient systems to do this, applying its genius sustainably. Tony Stark came out of that cave resurrected three days later because He Knows More Than You. It's not just doing more with less. With a stronger mastery of base principles, more can be wrought than by pedestrians. Authoritarian rationalizations include long lists of explicit reasons and needs. The ideology is arriving because it was made possible by that list, and it already knows that you mock things on the list. They already know. That's why it's on the list.
+
+This large patch of exposed ground on planet Earth "needs" neither philosophy. These are brought by People with motives, as are all things.
+
+Companies are the perfect tinctures of authoritarianism, but then they said a CEO "should" be President, who "should" run the Country like a Business. They meant it in every way possible. Beholden to no one, equipped fine powers over its dominion, immune with anything it calls "official business", the terms can still update nightly when necessary.
+
+When we reduce our great Constitution (and the amendments they remembered to add) and system of law into the one amorphous Rule, two rules appear and you can select which to use:
+- Play where it's clear, and
+- Climb on it.
+
+There are deeper doctrines than those (Carve it.) which spring from mastery of these. The Mind Virus and its claimed antidotes are purity tests that identify Which Type You Are, quickly. The Mind Virus's purported function is the fence of safety in spaces. Once in a culture where we had Privacy and could hide from the digital, we now have to clear physical spaces to find unbothered refuge. Conservatives knew all along about safe space, they just don't like it staked on public ground. And because it's so public, they can tell sometimes that coddling is worse than correction and they see too much coddling.
+
+For the Authoritarian perpetrators wielding Religion in their off-hand, public ground can contain Bibles, Commandments and Icons. They proudly report their desire to capture truly more public space. They Are Owed This Now, they say. They wouldn't have done this had you simply not existed in public first, of course. Talk about Terms you heard about too late...
+
+Their America First vision is astonishingly inept, but like Tucker Carlson, the churn makes opportunity for all. Forget the particulars. Look at what is creaking as a result of what they do, and make that stronger so that it withstands. Make it better.
+
+There are no Authority figures coming to help. It is up to you, and when you weather and feel stronger, you'll understand Pride as MAGA does. Them being a step ahead, have acquired their powerful piece, and they have defensively set in for decades in anticipation of these times.
+
+### What is wrong?
 
 #### Regulation
