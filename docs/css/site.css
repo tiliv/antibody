@@ -175,6 +175,7 @@ body {
   text-shadow: 0 2px var(--sh) !important;
   font-family: ArticleFont, "Times New Roman", times, serif;
   transition: margin-top 0.5s ease-in-out;
+  margin-bottom: 5em;
 }
 code {
   font-size: 1.2em;
