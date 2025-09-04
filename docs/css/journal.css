@@ -13,6 +13,7 @@
   display: block;
   height: 1px; /* avoid 0 to stop jitter boundary */
   position: relative;
+  margin-bottom: 20px;
   /* background: red; */
 }
 
@@ -78,7 +79,8 @@ article h3, article h4 {
 h2.is-sticky {
   font-size: 2em !important;
   font-weight: normal;
-  width: 100%;
+  width: auto;
+  max-width: 60%;
 }
 h3.is-sticky, h4.is-sticky {
   font-weight: normal;
