@@ -185,7 +185,9 @@ Their powers of prediction are so holy, that them not doing this sooner might be
 
 Their All-Along America First vision is astonishingly inept in ways, but like Tucker Carlson, the churn makes opportunity for all. Forget the particulars. Look at what is creaking as a result of what they do, and make that stronger so that it withstands. Make it better.
 
-There are no Authority figures coming to help. It is up to you, and when you weather and feel stronger, you'll understand Pride as MAGA does. Them being a step ahead, have acquired their powerful piece, and they have defensively set in for decades in anticipation of these times.
+There are no Authority figures coming to help. It is up to you, and when you weather and feel stronger, you'll understand Pride as MAGA does. They are a step ahead in their Authority, having acquired their powerful piece. They have defensively set in for decades in anticipation of these times.
+
+Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't reached their Woke-like supersaturation. It will get louder.
 
 ### What is wrong?
 
