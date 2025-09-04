@@ -23,14 +23,27 @@
       }).observe(sentinel);
 
       h.addEventListener('click', () => {
+        goSmooth(h);
+      });
+
+      document.querySelectorAll(`a[href="#${h.id}"]`).forEach((a) => {
+        a.addEventListener('click', (e) => {
+          e.preventDefault();
+          goSmooth(h);
+        });
+      });
+
+      function goSmooth(h) {
         if (location.hash !== `#${h.id}`) {
           history.pushState(null, '', `#${h.id}`);
         }
 
         // scroll to, but use the sticky-sentinel we seeded for position
         const r = h.previousElementSibling.getBoundingClientRect();
-        window.scrollBy({ top: r.top - top - 150, left: 0, behavior: 'smooth' });
-      });
+        window.scrollBy({
+          top: r.top - top - 150, left: 0, behavior: 'smooth'
+        });
+      }
     }
   });
 

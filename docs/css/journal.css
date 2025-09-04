@@ -92,9 +92,9 @@ h4.is-sticky {
   margin-left: -50% !important;
   margin-left: 50% !important;
 }
-h3.is-sticky:has(~ h3.is-sticky),
-h4.is-sticky:has(~ h4.is-sticky) {
-  display: none;
+h3:has(~ h3.is-sticky),
+h4:has(~ h4.is-sticky) {
+  position: static;
 }
 
 aside.side {
