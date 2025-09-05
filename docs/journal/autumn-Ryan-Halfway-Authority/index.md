@@ -193,8 +193,136 @@ Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't
 
 #### Housing
 
+Housing never made it to a human right status, and at this point if we tried, we'd define People as the "right" People and discard the ones who were our evidence. Utah's housing-first programs are offensive to some MAGA because that whole "way out" contravenes the important dogma about how badly we need to banish The Unexceptional. Peasant wisdom supplants academia, and the peasants aren't sending their best: Ain't no way givin away houses works. ("Do you know how much those cost?!")
+
+To our cries of `Follow The Money` at one other out of earshot, corporations bought the places of dwelling and also invested in a rent-controlling software run by no one who takes credit. That renter agency whatever firm that bought you up like everywhere? They're here to make a quick buck with the local resources: Humans.
+
+In Loveland, the staff openly sell us out to companies for flyers up on our door-side communication boards. The mailbox wasn't enough dignity. This was VIP positioning. The company was for somewhere in Fort Collins.
+
+Why is my property manager hawking me? Like, why is this even happening? Is my software-fattened rent literally not enough to support the basic business model? Am I not getting something by the principle of exchange, `or Are You Not Done Yet?`
+
+For injury, some People and corporate "people" possess "homes" like trading cards.
+
+The rate of rent increase across this country is unfathomable, and I know it with my own metadata. There are no entry points to better living.
+
+Release the houses. Tax the holy hell out of excessive ownership. We demand better, on it all. In Phoenix I had a woman tear my deposit check in half right in front of me by error, and when I told them months later about it the manager gaslit me about this happening being another location. They have no respect for the cattle. They have no need. They stress about how to bleed us, and we stress about how to pay them.
+
+Any lawyer will tell you to `"Just Move Somewhere Else"` if you don't like your landlord. I will re-indicate that they own all of these properties. Capital creates too much power when it spills through state boundaries. We see this in Citizens United magic, and all kinds of Speech laundering.
+
+PR and parasocial ownership of things have together spoiled the customer service of housing. This rises to our abuse, the same in every way to enterprises which crave our renewable data.
+
+Americans want to see the prices again, not this constant magic by software, more cogs that create distance between responsible engines of our harm.
+
+We cannot build enough homes for the magnitude of this ownership crisis, but we don't have to. They already exist, they are just the new gold.
+
+Their disengorgement will not go by smoothly. Their best move is to sell to us. Now. Corporate personhood cannot also grant them pretend homes.
+
+Get out, fake "people".
+
 #### Enforcement of Law
+
+The meta-game of Law enforcement will be played with data-brokered evidence. National domestic companies, or say the foreign ones like Placer Labs, peddle everything and indulge in their own perfect Privacy while we have none.
+
+We require public projects that have consent-based data, and we need cities willing to care about using it. No middleman taxing our data for the honor of planting their brand flag in our faces.
+
+Cut off the data. Foreign software enterprises should also not be capable of siloing or monetizing that data. Cut it off. Software engineers will hate being regulated for once in their lives but make them provide compliant databases for information categories. That's not just regulation, that's a call to create some markets, by God. Start treating our data as recognizably ours, and personal enough that it not should be copied and sold like a weird fetish. If our DNA evidence were collected so promptly we may well succeed in getting a restraining order on them. Make it so for our personally identifiable sensitive data.
+
+Such a re-reading of Privacy will be painful beyond measure, but it must be so. Make this one of our great projects.
+
+When I watched Star Trek as a kid, and compared with other science-fictional dramas, I saw in a lot of cases that a plot got its drama from an unrealistic lack or failure of the plausible security devices of that future. As writers of these things, or enjoyers, we say it's in service of the story. Not everything has to be so realistic when the rule is fun.
+
+Realistic is this: We are crawling with security countermeasure systems, but they are vulnerable. The nature of security is that it cannot be solved, so measuring success is not about how talented our people are. If there is one area we are doing better at than ever, it's cybersecurity.
+
+Yet it cannot be solved. With AI adding code to the tinder pile built by Vibes, security issues will enter a post-scarcity era. It'll be amateur hour out there. Security is not always about losing control of your account; Sometimes you lose control of the knowledge of what you're facilitating. A most mundane example: If you run a site, and someone managed to sneak their own page on that site and there were no links to it, how long would it take you to notice? Do you look at your traffic reports and memorize all your slugs? What if they only use it _sometimes_? What if they picked you because your bad site can be leveraged as a weapon to deliver the right payloads?
+
+You and I and every lightbulb you bought and plugged in (each of which you assume is still auto-updating firmware, set and forget) are a pool of targets.
+
+"What can they do with a lightbulb?" you might ask. They could tell on you when you're home, or just use you in a junk attack on someone else. The internet protocols and the robo-burps and blips which ferry your data around in pieces are themselves vulnerable in their individual instances. Your lightbulb makes tiny replies, but the force multiplier is visible at just 10,000 Capitalistically-available bulbs talking in unison each and every time a pied piper asks. The results of these infrequent struggles is a magnification traffic jam beam weapon, fire-ready from everywhere in the world to anywhere else. The fully automatic targeting systems with infinite barrel fire come for free. The downside is that the weapon can only shoot at itself.
+
+There are entire systems that run the internet as a whole which depend on bizarrely peaceful behavior. Should IP-space routing come under deliberate attack, Foreign Enemies can isolate crude shapes in the web, or stop some data flow without giving up their own because of the shape of the actual planet.
+
+Cyber warfare takes place on a field you can't see, for reasons you can't know in advance. Like diseases, the tactics must surmount all previous evolution and still leap oceans. The tactics are cunning and plentiful and assisted by several selected conditions. Personal data is your targeting coordinates, whether or not a state actor is handling it. Cyber attacks are well funded, but at the scale of Business, `They Are All Participating` anyway.
+
+Let's see some 90s-flavored Stranger Danger about who out there has your address and what they do with that. You could make multiple seasons of Mythbusters-focused content bent on showing what in fact they do. You could even watch the reruns just because they're on. They'd be Public Service Announcements worth repeating.
+
+When I speak to AT&T's human in-store agents about them not even knowing the programs or partners who get their real-time locations and ethnicities, there is a shared propensity to offer up unscripted that everyone is jumping off of that bridge, and it's normal these days. Just shy of "So don't work with us if we're so bad~", concern is met with an actual `"That's on you."` No, not even if we "won" Personalized Plus would it fix any of this. It's a wake-up moment for me when I see it.
+
+Encryption has fundamentally invalidated the traditional wire-tapping paradigm (though our phone networks are very vulnerable). The opportunity to tap "after the fact" is sometimes still there, but with increasing math puzzles in the way of each piece. The result is that the opportunity cost to solve those is massively (orders of magnitude) not worth it, like putting a ream of cross-shredded paper back together, but only the important parts.
+
+Short of infiltrating encryption itself, the best some government gets is attacking access for impersonating you. Much easier, especially if your face to unlock can be compelled by the Law.
+
+The world moves into "end-to-end" encrypted messaging, but the metadata is leaking everywhere. Facebook's made-up parent Meta owns Whatsapp, which uses your real phone numbers. Why do you think they want that? It's valuable to their "graph" of you for exactly the same reasons AT&T and other carriers want to enrich your ad profile data on you. You are the thing of value.
+
+Some messaging apps do encryptions well, reducing real risks about who can get into your device(s) (which're all cloud-synched now, right? Remember my password ✅). Impersonation is the _only_ vector then.
+
+So encryption is winning?
+
+Companies, from Meta to Apple, possess the required power of "key management". You get to have a property manager, which you never see but makes sure you and your roomies have keys when you need and even for guests—no problems. Each key even has everyone's own ID carved on it and their photo. Nobody's losing their keys, but somehow homes are getting entered into. With the security theater is all still present, can the property manager just make a new key, even one single key, for an unknown? And not even disclose? What are the steps to verify they should have one? How easy is it for the government to acquire one without explanation? Can I Even Revoke The Ones That Matter?
+
+They can simply do wiretapping again, sponsored by corporate compliance-assistance. If AI is ever put on this job of listening, this can be industrialized virtually overnight. We might need Law about what tier of AI can be used for listening activated only by subject matter. (It would be a fascinating paper to read, please do science on this.)
+
+Repeatedly, the words of Congress are absent when the Unitary Executive proclaims another re-reading of Law. It can enact that on us, but is it perhaps a problem that `No Law Is Protecting Us`. The Executive need not walk through walls here: It moved before we built any, because it watched us not do so and then subsequently Capitalized knowing that we would give away all the time it asked for and still not do the only things necessary to our defense.
+
+I am willing to select companies to trust, but how can I or anyone, with No Law?
+
+Companies retain key management responsibilities because it makes our products seamless: That cloud sync you're using when you set up a new device is working because it joined your account by magic. These days, you may only have pointed your iPhone's camera at a colorful dotted ball animation and somehow that was enough. The iOS devices are doing a graceful job of hiding truly secure steps, but those are the hoops you have to jump through.
+
+Meta retains key management but does content scanning. Meta alone accounts for the vast majority of reported CSAM, but that's a gold medal: No one else is trying to detect much but rookie numbers. Meta is legitimately advancing the state of the art, like Tucker Carlson!
+
+Metadata about known illegal images can be compacted and made into a fast checker database. It's a lot, but by running it in the mythical Cloud, where their apps and website live anyway, they can worry about how to get it done on all your messages as efficiently as possible. They don't technically have to look right at it if the proverbial x-ray scanner beeps about its metadata. Unique metadata was noise and was unremarkable and not inspected.
+
+Microsoft and others have participated in experimental CSAM detection in videos, but nothing has yet come to make them post a victory blog about it.
+
+After at-home Photoshops, AI goes on to supply sufficiently offensive images much faster than was previously even reasonable. Chasing all these down is not even viable anymore. The database isn't gonna scale if it chases generative AI images. Do humans also need to do the work of validating AI-made images, or can we make the AIs help do that part please?
+
+We need defenses that scale properly against AI. To me that means locally accountable AI, where it exists at all. Our vendors need vast and new accountability clauses when they `Start Acting In Our Interests`.
+
+Cities and companies can work out friendly terms for contracts, but it is all fundamentally insufficient if they are paying fees instead of fingers for mistreating our data.
+
+Before long, AI will be embodied in your homes. More than lightbulbs and dishwashers will have your consent to operate there, and these companies will either wise up and create real data fences on Private things, or they will absolutely not. These companies don't negotiate with anything but a commercial, no Public scrutiny as long as they got the elusive Consent.
+
+The scope of what companies have is massive, and that doesn't have to be bad. Can we please have `some Protection, Government?`
+
+Government, and Law enforcement are increasingly confused by their duties and instead use us. They are meta-gaming too frequently with one another. Our federal government did not need an autonomous ambition to come into its creation, and it is not expedient to have one now.
+
+Blind except to metadata, and being great at meaningful interventions, is a viable method of surveillance, but the threat of untagged generative AI content means we don't know which metadata anymore. If we elect for the ability to enact blocks on untagged media on our popular platforms, or the powers to block media with specific tags, `a censorship government can be enacted overnight`. The Web Wide Web contracted, and it is social media apps now.
+
+Companies budgeting for the compliance fees should be the punchline of a tired joke, but `if fees had any teeth`, they would take their duty seriously. If we're sleepwalking into surveillance, at least do that job. It really is too much to trust The Government to do even the job it has. Data Brokers need to be shown we're serious, that they will lose fingers if they cross us in this way. Muster the will for this change.
+
+Going into this AI-charged era, having not mastered any of the technologies we possessed, more rough-shod surveillance will be the stopgap. Politics steers companies too easily just now. In a way, it will be nice to know so much alibi information was and is on hand for the innocent who indeed had nothing to fear. In another very pressing way, the Unitary Executive likes arranging data into smear constellations which are easy to solve over social media. This everlasting tantrum is its method.
+
+This Executive was chosen for its ability to inventory all, the purest Authoritarian available, with mileage now but aging for his admirers like wine.
+
+Mass metadata surveillance will be bolstered by tagging AI media. CSAM detection is a proper good work. The media we share is being serial-numbered and followed like research birds, regardless of what it is.
+
+We are being surveilled so thoroughly that for all the Thin Blue Line holds the peace, it also barely retains the Unitary Executive from the other side.
+
+Law enforcement will become less and less about the police employed by your town. If you're wondering who it will be about instead, the Unitary Executive will explain it in so many words.
+
+If AI is coming, bring it local, so that we can run it in full view of our publics like accountable servants. It should not be generally possible that the Police could stalk anyone without judicial assistance, but I will personally settle (for now) for something like the Law, federal or local, needing to ask my city when they need data releases.
 
 #### Representation in a Capitalist society
 
+The mass and real-time summary of resident opinions is nigh. There is no City Council in America that can support the ratio of Authority it is already responsible for.
+
+In normal times, only the "interested" had to go and probably participate if they wanted. Political wind shifts toward real-time changes, top-down Authority and its coordinating orders. A City Council is simply not proportioned enough.
+
+If they want governments run like businesses, why not show everyone what that ought to mean, what difference our decency in democracy makes.
+
+Reject Authoritarian songs. You have learned placation from the companies, and this is identical to that. Your Rationalizations will speak loudly that it has been working "fine" up to now. But has it? Is it not the thesis of color partisans that All Is Not Fine?
+
+We barely know the meaning of a snap election. We still close polling locations strategically, still cancel voter rolls opportunistically, still obstruct basic registration itself, and having a proof of citizenship required will not make any of the rest stop.
+
+Our representation is being actively diminished by the Unitary Executive, and we have the technologies to do the inverse.
+
+Assist your city and its districts by doing better than flooding them: Build them better ways to query your community. Approach its Design to work for everybody. Focus AI on work we find altogether infeasible, and let us possess that AI engine so that it may be audited by those who care for its function and operation. At least a town droid would be pitching in.
+
+Construct real-time opinion polling on hardware that we own. It doesn't turn every meeting into an American Idol voting show, but even bucketing the same questions together and counting them is considered revolutionary at this stage. You barely have to try, as long as you can do it. Go full Tucker Carlson on it, and take some public debate on the chin.
+
+And be ready to take some responsibility and care for Our data. Your data.
+
+Local is our own answer. Let them aggregate us, but not without our hand at the bottom of the Go-Team huddle.
+
 #### Regulation
+
+Companies need to be capable of straightforward responses to questions about what they do with our data. They cannot continue getting away with pawn defenses of clearly orchestrated behaviors. CEOs are not simultaneously so unaware while laden with bonuses. They are mechanical
