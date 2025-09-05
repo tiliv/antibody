@@ -191,6 +191,36 @@ Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't
 
 ### What is wrong?
 
+#### Crime
+
+I have suffered enough deep conservative talk in these decades that spin White Collar Crime as hoaxes with the same derision they used as well for talk of Institutional Racism. Complaining means you got played, so it is always allowed in America to follow up by laughing at them for it.
+
+`"What are you gonna do, call the cops?"`
+
+Their exploitation goes deep. Knowing no bounds with the data of People, agents of these Businesses interact with our political representatives in nimble ways compared to us.
+
+The methods which Businesses use, most of all the giantism corporations, should amount to digital theft. Put entirely aside the talk of AI needing stolen materials to train—these companies are `Training on Your Data`.
+
+Where is Your Copyright? Aren't you the singular source of all this data? Is the predatory language of contracts all that was provided?
+
+How about, if they keep doing it, they pay Peoples' fines, which are sharper than what the Executives have allowed with federal government.
+
+We must deflate the goblins and clowns that run political meta-games, but we also must assert that `there is crime against People`, and we intend to define it. If we must use the language of copyright, let us discuss the consent mechanics of this magic consent they exercise with us.
+
+Any sign of Regulation on an Authority-driven business incenses, that anyone at all could find their own Authority to counter the God-given one to have an Authoritarian enterprise.
+
+Our leaders sometimes pay some lip service for Two-Tiered Justice. The Unitary Executive even claims that is the term for the battle it alone faces, before proliferating the Meme Of It to X and Truth Social, for the acquisition of real-time polling data.
+
+We attack the "quality" of data that AI uses to train, but I assure you, arguments about that and synthetic data are nonsense next to the human race itself generating Our Data. It is first-party and it comes with metadata and if the data "belongs" to Businesses then they are free to make claims with it.
+
+As surely as the People know that AI agents do not fluently represent these Businesses, We know that these Businesses are not fluent in representing us. They think they own our data, the way a farmer owns the milk.
+
+Human beings are a generational, renewable resource. We are on the menu. Change at any point in the future is welcome and possible, but sooner is better.
+
+Make criminals of those who make markets of stalking us. Their informational collusion is improper. In Europe we saw a Right To Be Forgotten—well named in fact. Companies remember us permanently, and it goes on your records. Surveillance will be necessary for the function of some things and so it must be well Designed, but this is grotesque and uncontrolled, not designed at all. They made turf of our data and they are farming in it now.
+
+Give humanity recognition of its data rights. Make their abuse for profit a crime. Make it impossible for the Authoritarian to smear someone with semi-public data by not leaving it around so much. Demote their claims with metadata to purest hearsay.
+
 #### Housing
 
 Housing never made it to a human right status, and at this point if we tried, we'd define People as the "right" People and discard the ones who were our evidence. Utah's housing-first programs are offensive to some MAGA because that whole "way out" contravenes the important dogma about how badly we need to banish The Unexceptional. Peasant wisdom supplants academia, and the peasants aren't sending their best: Ain't no way givin away houses works. ("Do you know how much those cost?!")
