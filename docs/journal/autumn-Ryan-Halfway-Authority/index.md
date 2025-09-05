@@ -193,7 +193,7 @@ Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't
 
 #### Crime
 
-I have suffered enough deep conservative talk in these decades that spin White Collar Crime as hoaxes with the same derision they used as well for talk of Institutional Racism. Complaining means you got played, so it is always allowed in America to follow up by laughing at them for it.
+I have suffered enough deep conservative talk in these decades that spin White Collar Crime as hoaxes with the same derision they later used on Institutional Racism. Complaining means you got played, so it is always allowed in America to follow up by laughing at them for it.
 
 `"What are you gonna do, call the cops?"`
 
