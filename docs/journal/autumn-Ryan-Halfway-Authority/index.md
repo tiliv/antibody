@@ -32,7 +32,7 @@ Churches deflect most trouble by telling us Men are fallible creatures even in t
 
 **Authority is preserved by putting down its questioners.** This, above all. `Anti-s` is a slang mass noun that means those who are disgruntled ex employees, the reasons aux choix.
 
-For those who couldn't know, The Book of Mormon stories teach that sometimes peoples wear the Anti label proudly when the Lord's chosen people were fallen, in full prophetic knowledge which let them be so self-satisfied. A prophet's mirth for "the names of the good guys and bad guys are backwards".
+For those who couldn't know, The Book of Mormon stories teach that sometimes peoples wear an Anti label proudly when the Lord's chosen people were fallen, in full prophetic knowledge which let them be so self-satisfied. A prophet's mirth for "the names of the good guys and bad guys are backwards". They didn't plan it that way, but sometimes that's what Parties do.
 
 Stick to the manual if you don't know what to say, please.
 
