@@ -361,7 +361,7 @@ Divest this, burn two bad ideas at once and fix Universal Basic Income with a st
 
 We are all not all their shareholders, but they are shareholders in our data. It is not right. Citizens should be empowered by a UBI that reflects our economies.
 
-Allow us to send away some money from this fund for tax-beneficial endeavors that replace Congressional funding. Let them call to us for money on ideas, and let those ideas compete and let us have consent for applying our money to them. Congress is not a suitable location to hash out individual consent, so unscope the issue by putting the business of our consent in our hands, while politicians worry about the quality of their on the choices they put on offer.
+Allow us to send away some money from this fund for tax-beneficial endeavors that replace Congressional funding. Let them call to us for money on ideas, and let those ideas compete and let us have consent for applying our money to them. Congress is not a suitable location to hash out individual consent, so unscope the issue by putting the business of our consent in our hands, while politicians worry about the quality of their the choices they put on offer.
 
 #### Regulation
 
