@@ -1,12 +1,12 @@
 ---
 rank: 0
-title: "NOTING: Halfway Authority"
+title: "Halfway Authority"
 date: 2025-09-03
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: Halfway Authority"
-tags: [democracy]
+contact_subject: "Halfway Authority"
+tags: [democracy, governance]
 
 layout: noting
 public: true
