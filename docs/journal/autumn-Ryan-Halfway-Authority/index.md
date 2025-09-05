@@ -191,4 +191,10 @@ Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't
 
 ### What is wrong?
 
+#### Housing
+
+#### Enforcement of Law
+
+#### Representation in a Capitalist society
+
 #### Regulation
