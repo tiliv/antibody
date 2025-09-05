@@ -293,7 +293,7 @@ Companies, from Meta to Apple, possess the required power of "key management". Y
 
 They can simply do wiretapping again, sponsored by corporate compliance-assistance. If AI is ever put on this job of listening, this can be industrialized virtually overnight. We might need Law about what tier of AI can be used for listening activated only by subject matter. (It would be a fascinating paper to read, please do science on this.)
 
-Repeatedly, the words of Congress are absent when the Unitary Executive proclaims another re-reading of Law. It can enact that on us, but is it perhaps a problem that `No Law Is Protecting Us`. The Executive need not walk through walls here: It moved before we built any, because it watched us not do so and then subsequently Capitalized knowing that we would give away all the time it asked for and still not do the only things necessary to our defense.
+Repeatedly, the words of Congress are absent when the Unitary Executive proclaims another re-reading of Law. It can enact that on us, but is it perhaps a problem that `No Law Is Protecting Us`? The Executive need not walk through walls here: It moved before we built any, because it watched us not do so and then subsequently Capitalized knowing that we would give away all the time it asked for and still not do the only things necessary to our defense.
 
 I am willing to select companies to trust, but how can I or anyone, with No Law?
 
@@ -317,7 +317,7 @@ The scope of what companies have is massive, and that doesn't have to be bad. Ca
 
 Government, and Law enforcement are increasingly confused by their duties and instead use us. They are meta-gaming too frequently with one another. Our federal government did not need an autonomous ambition to come into its creation, and it is not expedient to have one now.
 
-Blind except to metadata, and being great at meaningful interventions, is a viable method of surveillance, but the threat of untagged generative AI content means we don't know which metadata anymore. If we elect for the ability to enact blocks on untagged media on our popular platforms, or the powers to block media with specific tags, `a censorship government can be enacted overnight`. The Web Wide Web contracted, and it is social media apps now.
+Blind except to metadata, and being great at meaningful interventions, is a viable method of surveillance, but the threat of untagged generative AI content means we don't know which metadata anymore. If we elect for the ability to enact blocks on untagged media on our popular platforms, or the powers to block media with specific tags, `a censorship government can be enacted overnight`. The World Wide Web contracted, and it is social media apps now.
 
 Companies budgeting for the compliance fees should be the punchline of a tired joke, but `if fees had any teeth`, they would take their duty seriously. If we're sleepwalking into surveillance, at least do that job. It really is too much to trust The Government to do even the job it has. Data Brokers need to be shown we're serious, that they will lose fingers if they cross us in this way. Muster the will for this change.
 
