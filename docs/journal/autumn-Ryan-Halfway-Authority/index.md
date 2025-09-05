@@ -195,7 +195,7 @@ Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't
 
 Housing never made it to a human right status, and at this point if we tried, we'd define People as the "right" People and discard the ones who were our evidence. Utah's housing-first programs are offensive to some MAGA because that whole "way out" contravenes the important dogma about how badly we need to banish The Unexceptional. Peasant wisdom supplants academia, and the peasants aren't sending their best: Ain't no way givin away houses works. ("Do you know how much those cost?!")
 
-To our cries of `Follow The Money` at one other out of earshot, corporations bought the places of dwelling and also invested in a rent-controlling software run by no one who takes credit. That renter agency whatever firm that bought you up like everywhere? They're here to make a quick buck with the local resources: Humans.
+To our cries of `Follow The Money` at one another out of earshot, corporations bought the places of dwelling and also invested in a rent-controlling software run by no one who takes credit. That renter agency whatever firm that bought you up like everywhere? They're here to make a quick buck with the local resources: Humans.
 
 In Loveland, the staff openly sell us out to companies for flyers up on our door-side communication boards. The mailbox wasn't enough dignity. This was VIP positioning. The company was for somewhere in Fort Collins.
 
