@@ -323,7 +323,19 @@ And be ready to take some responsibility and care for Our data. Your data.
 
 Local is our own answer. Let them aggregate us, but not without our hand at the bottom of the Go-Team huddle.
 
+The Unitary Executive flirts with state ownership of companies and desires more.
+
+Divest this, burn two bad ideas at once and fix Universal Basic Income with a stronger plan: Give the People a cut of their stock market. Part ownership. The dividend we seek is the one that reflects their tethered interest in us.
+
+We are all not all their shareholders, but they are shareholders in our data. It is not right. Citizens should be empowered by a UBI that reflects our economies.
+
+Allow us to send away some money from this fund for tax-beneficial endeavors that replace Congressional funding. Let them call to us for money on ideas, and let those ideas compete and let us have consent for applying our money to them. Congress is not a suitable location to hash out individual consent, so unscope the issue by putting the business of our consent in our hands, while politicians worry about the quality of their on the choices they put on offer.
+
 #### Regulation
+
+Politicians are forced to play the wrong meta-games for their legacy survival. In machine code talk, they use an outdated instruction set that can't represent modern ideas without multiple cycles to emulate it.
+
+Politicians have become bad foundries of ideas, and regulating their failure for the People's interest is our chief responsibility in a Democracy obsessing with its Authority.
 
 Leaders in our government claim wisdoms as amazing as The loudest voices have bad reasons. Guilty until proven innocent, this Authoritarian tincture deploys its corporate law with it: Complainers must be `Anti-s`.
 
