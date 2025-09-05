@@ -197,7 +197,7 @@ I have suffered enough deep conservative talk in these decades that spin White C
 
 `"What are you gonna do, call the cops?"`
 
-Their exploitation goes deep. Knowing no bounds with the data of People, agents of these Businesses interact with our political representatives in nimble ways compared to us.
+Their exploitation goes deep. Knowing no bounds with the data of People, agents of these Businesses interact with our political representatives in nimbler ways than us.
 
 The methods which Businesses use, most of all the giantism corporations, should amount to digital theft. Put entirely aside the talk of AI needing stolen materials to train—these companies are `Training on Your Data`.
 
@@ -205,7 +205,9 @@ Where is Your Copyright? Aren't you the singular source of all this data? Is the
 
 How about, if they keep doing it, they pay Peoples' fines, which are sharper than what the Executives have allowed with federal government.
 
-We must deflate the goblins and clowns that run political meta-games, but we also must assert that `there is crime against People`, and we intend to define it. If we must use the language of copyright, let us discuss the consent mechanics of this magic consent they exercise with us.
+We must deflate the goblins and clowns that run political meta-games, but we also must assert that `there is crime against People`, and we intend to define it. If we must use the language of copyright, let us discuss the mechanics of this magic consent they extract without our knowing.
+
+`The theft of your consent is Fraud.`
 
 Any sign of Regulation on an Authority-driven business incenses, that anyone at all could find their own Authority to counter the God-given one to have an Authoritarian enterprise.
 
