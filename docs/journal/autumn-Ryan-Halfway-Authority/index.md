@@ -8,7 +8,7 @@ author_email: autumn@discoverywritten.com
 contact_subject: "Halfway Authority"
 tags: [democracy, governance]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true
