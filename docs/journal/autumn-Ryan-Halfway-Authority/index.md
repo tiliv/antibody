@@ -325,4 +325,38 @@ Local is our own answer. Let them aggregate us, but not without our hand at the 
 
 #### Regulation
 
-{%- comment -%} Companies need to be capable of straightforward responses to questions about what they do with our data. They cannot continue getting away with pawn defenses of clearly orchestrated behaviors. CEOs are not simultaneously so unaware while laden with bonuses. They are mechanical {%- endcomment -%}
+Leaders in our government claim wisdoms as amazing as The loudest voices have bad reasons. Guilty until proven innocent, this Authoritarian tincture deploys its corporate law with it: Complainers must be `Anti-s`.
+
+Big Man Says politics cannot outlast the persona. Just like Our Bad Schools, just like our bad leadership for Lefts, this government is not teaching good governance to those it hires and fires like they're auditioning for an Apprentice. For Trump believers this is the process in action that he preached. This is ministry in action. Having secured a Rationalization, they certainly won't look for any additional Reason.
+
+The most elevated voices in America are those like Peter Thiel, who is shockingly connected to many technologies you know the names of, and he's White Paper Manifesto type, enjoying pitches about autonomous charisma states run by the rich on foreign lands. They want our Land next, and the religions might even lose that scuffle. To not make us mad, they will use African land, or Greenland's land. They will use the tactics of Business and secret Privilege on our domestic partners as surely as they have conquered us. It could not be without this Authoritarian at our head, who is so friendly to business that he hears it in its purest language: He agrees.
+
+It has been unthinkable in general that the United States would have an imperialist spasm and go capture Canada, or Greenland. The idea is too big, like unbuilding a sky scraper to put something else there. The answers our leaders give are as devious as their business methods. Governments can deploy more than one currency to make favor. By poaching with loyalty in other nations, they can infect the course of Law in countries that are supposedly our allies. We can say from experience that they can and will do it, with international currency they derive from us.
+
+They will make us pay for their walls. If you like the idea of living in a tech billionaire's charisma state in a DMZ in Greenland as the glaciers melt and a northern shipping lane boom era occurs and Russia and the United States really do work together again without war, we might have something in common some days.
+
+But we have seen their methods, their means. They subvert. They Do Not Understand Consent.
+
+Consent is a frequently read chapter of the Mind Virus's specification. Not comprehending consent has been a useful quick measure of Which Kind You Are when we don't have time to digest the PR history of every designer persona to "get them" or something. We have deep and undeserved patience for PR speak in this Country, and the illusion could shatter as quickly as the danger of powered GameBoys, iPods and laptops at takeoff.
+
+They paid people to halt their own planes over batteries being on, and claimed without checking that it had to do with the radios. These people understand regulation and even invent it for themselves.
+
+Everyone's a regulator. You are one of your community's regulators, and if you don't believe it, listen to MAGA tell their people. Regulation is not the Meme You Hold Up about it. Regulation is an idea that applies to you and these companies. Dictate locally (because the Constitution does not) what these companies are allowed to do.
+
+We have surrendered our ability to dictate anything, to Congresses that stopped being bipartisan before Trump appeared.
+
+We want change, because we want something back: Our representatives need to have voices in their Congress too. The Unitary Executive already has a Branch, it does not have any prerogative with our representational one. Executives have been free to use personality and cajoling, but not loyalty on an expedient schedule. The haste could not be, were this a well-reasoned public plan instead of a Privileged one. There would be no Enemies for the Unitary Executive to declare.
+
+Our representatives need stricter regulation, not just in using the stock market artifact-invention of Capitalism. Now, we need representatives that will help defend companies in their state from federal takeover. The threat is possible now, and the Unitary Executive gloated that the CEO of Intel came in fearful for his job before this troubled CEO was saved by the grace of the Chief Executive Officer.
+
+The Unitary Executive is doing miracles on its sick, and this unholy revivification will work to raise a financially enslaved brand militia. They will make domestic TRUMP-branded products, they will be forced to supply Expedient Things to loyal partners and then be held out to dry. The era of shell companies will be over. You are his shells now, and he can even make them fight each other when he pulls his financial strings and wants to put on a show. This Executive knows entertainment only. The administration's talking faces claim the shares in Intel are "non-voting" but you would be a fool in social science to think that's an honest appraisal. Honest appraisals are not what this Executive ever did well.
+
+Representatives must swear more powerful oaths. They must take oaths about our data. Companies must sign our Terms. Self-Regulation is necessary, and it must begin with reprogramming the rules that are Not Fine and which have enabled Authority to run too far by half.
+
+We cannot have one wit of good conversation about "Regulation" the Meme until we have a tangible proof that this ground can shift dramatically more than we're complacent to think.
+
+Till this earth, and make markets with Regulation. Conservatives have loathed Regulation that is just inflation, so show them you're more than your label start calling real ideas Regulation. Take their slur from them and show them they judged to easily and are wrong for it.
+
+We'll talk about politicians losing their incomes in another piece. They are paid like celebrity fortune tellers and it has nothing to do with this necessary part:
+
+Regulate. Even machines regulate. It is not a bad word.
