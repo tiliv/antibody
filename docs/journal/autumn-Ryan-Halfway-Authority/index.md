@@ -325,4 +325,4 @@ Local is our own answer. Let them aggregate us, but not without our hand at the 
 
 #### Regulation
 
-Companies need to be capable of straightforward responses to questions about what they do with our data. They cannot continue getting away with pawn defenses of clearly orchestrated behaviors. CEOs are not simultaneously so unaware while laden with bonuses. They are mechanical
+{%- comment -%} Companies need to be capable of straightforward responses to questions about what they do with our data. They cannot continue getting away with pawn defenses of clearly orchestrated behaviors. CEOs are not simultaneously so unaware while laden with bonuses. They are mechanical {%- endcomment -%}
