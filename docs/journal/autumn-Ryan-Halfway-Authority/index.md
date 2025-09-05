@@ -1,5 +1,5 @@
 ---
-rank: 4
+rank: 0
 title: "NOTING: Halfway Authority"
 date: 2025-09-03
 author: Autumn Ryan
