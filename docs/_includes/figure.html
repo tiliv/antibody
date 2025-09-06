@@ -1,0 +1,7 @@
+<figure class="{% if include.side %}side {{ include.side }}{% endif %}">
+  <img
+    src="{{ include.location | default: './exhibits' }}/{{ include.file }}"
+    alt="{{ include.overview }}"
+  >
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
