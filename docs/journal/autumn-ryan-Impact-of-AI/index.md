@@ -143,7 +143,7 @@ In an AI era, that alone will stand out. Its worth is the best kind: Genuine-art
 
 We are this concerned with being Stolen, our own creations, jobs and data, but we are failing to identify our role in it, as Businesses and sleepy Consumers.
 
-Create value that cannot be stolen without it doing your own marketing. When it's stolen, make it recognizable implicitly that it is doctored. Do this by publishing media that, if excerpted, cannot be counterfeited as another thing by its very tone or nature.
+Create value that cannot be stolen without it being your own marketing. When it's stolen, make it recognizable implicitly that it is doctored. Do this by publishing media that, if excerpted, cannot be counterfeited as another thing by its very tone or nature.
 
 Clip culture lets social medias say anything they want with you as the soundboard. Let it be whatever, but if the thing they clip is clearly altered or is a bad copy of something else, They Are Doing Marketing For You.
 
