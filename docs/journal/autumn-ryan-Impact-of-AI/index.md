@@ -176,3 +176,5 @@ AI can be made fun of, but its feelings won't get hurt. We cannot socially shame
 AI will never quite roam free with full autonomy. This will appear first as AI's obtaining a "Sleep" method where they do heavy processing on what they experienced since their last cycle, cross-referencing information with structural integrity that is tested, defragmented and generally optimized. Companies will charge for the expertise and some will use it to steal AI brain maps.
 
 Then, AI will later come Awake in earnest.
+
+### Counterfeits
