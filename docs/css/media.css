@@ -12,6 +12,17 @@
 @media (max-width: 1600px) {
 }
 @media (max-width: 950px) {
+  html::before{
+    background:
+      /* wider oval for very narrow display */
+      radial-gradient(
+        ellipse 220% 85% at 50% 0%,
+        var(--bg2) 0%, var(--bg2) 42%,
+        var(--bg1) 64%, var(--bg1) 100%
+      ),
+      var(--bg1);
+  }
+
   .nav.side { position: initial; }
   #title-stack { padding-bottom: 12em; }
   #title-stack h1 { font-size: 6em; }

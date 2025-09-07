@@ -46,23 +46,31 @@
   font-family: ArticleFont, "Georgia", serif;
 }
 
+html::before {
+  content:"";
+  position:fixed; inset:0; z-index:-1; pointer-events:none;
+
+  background:
+    radial-gradient(
+      ellipse 100% 100% at 50% 0%,
+      var(--bg2) 0%,
+      var(--bg1) 60%, var(--bg1) 100%
+    ),
+    var(--bg1);
+
+  /* keep it out of main paint work */
+  will-change: transform;
+  transform: translateZ(0);
+  contain: paint;
+  image-rendering:auto;
+  backface-visibility:hidden;
+}
+
 body {
   font-family: Verdana;
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: radial-gradient(center, ellipse cover, var(--bg2) 0%, var(--bg1) 50%, var(--bg1) 100%);
-  background: -ms-radial-gradient(center, ellipse cover, var(--bg2) 0%, var(--bg1) 50%, var(--bg1) 100%);
-  background: -o-radial-gradient(center, ellipse cover, var(--bg2) 0%, var(--bg1) 50%, var(--bg1) 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, var(--bg2)), color-stop(50%, var(--bg1)), color-stop(100%, var(--bg1)));
-  background: -moz-radial-gradient(center, ellipse cover, var(--bg2) 0%, var(--bg1) 50%, var(--bg1) 100%);
-  background: -webkit-radial-gradient(center, ellipse cover, var(--bg2) 0%, var(--bg1) 50%, var(--bg1) 100%);
-  filter: 'progid:DXImageTransform.Microsoft.gradient( startColorstr=' var(--bg2) ', endColorstr=' var(--bg1) ',GradientType=1 )';
-  background-position: 50% -80vh;
-  background-size: 150vmax 100vmax;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-color: var(--bg1);
 }
 #bg {
   display: flex;
