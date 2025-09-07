@@ -1,0 +1,36 @@
+article > p[data-paragraph]::before {
+  content: attr(data-paragraph);
+  position:relative;
+  left:-3ch;
+  top:0;
+  opacity:.25; font-variant-numeric: tabular-nums;
+}
+article > p .qbtn {
+  opacity:.4; transition:opacity .15s;
+  padding:.15rem .35rem;
+  border:1px solid var(--border);
+  border-radius:.4rem;
+  color: var(--fg2);
+  cursor:pointer;
+  background: var(--bg2);
+  vertical-align: text-bottom;
+  margin-left: 1ch;
+}
+article > p:hover .qbtn { opacity:1; }
+article > p.is-quoted { outline:2px solid; outline-offset:.25rem; }
+
+.tooltip {
+  position:fixed; inset:auto 1rem 1rem auto;
+  padding:.5rem .65rem;
+  border:1px solid var(--border);
+  border-radius:.5rem;
+  color: var(--fg2);
+  background:var(--bg2);
+  box-shadow:0 4px 24px var(--sh);
+  transform:translateY(8px); opacity:0; pointer-events:none;
+  transition:transform .18s, opacity .18s;
+}
+.tooltip.show { transform:translateY(0); opacity:1; }
+.visually-hidden{
+  position:absolute!important; width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;
+}

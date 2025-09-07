@@ -14,6 +14,9 @@ contact/{{ page.author | slugify }}.md
 {{- contact_md | markdownify -}}
 {%- endcapture -%}
 
+{%- assign blame = page.path | replace: "/", "" | replace: ".md", "" -%}
+<script id="blame" type="application/json">{{ site.data.git.blame[blame] | jsonify }}</script>
+
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
 <div id="by-line">
   {% assign words = page.content | number_of_words %}
@@ -42,3 +45,14 @@ contact/{{ page.author | slugify }}.md
     {{ contact_html }}
   </article>
 </div>
+
+<div
+  id="quote-tip"
+  class="tooltip"
+  role="status"
+  aria-live="polite"></div>
+<div
+  class="visually-hidden"
+  aria-live="polite"
+  aria-atomic="true"
+  id="quote-live"></div>

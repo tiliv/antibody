@@ -1,7 +1,10 @@
 {
   "scripts": {
+    "stat-pieces:all": "git ls-files 'docs/journal/**/index.md' | bin/stat-pieces.sh",
+    "stat-pieces": "git diff --name-only --diff-filter=AMR origin/main...HEAD -- 'docs/journal/**/index.md' | bin/stat-pieces.sh",
     "stat-pages": "bin/stat-pages.sh 'docs/_data/git/journal' 'docs/journal/*/index.*'",
     "serve": "cd docs && bundle exec jekyll serve",
-    "build": "cd docs && bundle exec jekyll build --trace"
+    "build": "cd docs && bundle exec jekyll build --trace",
+    "prebuild": "npm run stat-pieces:all"
   }
 }
