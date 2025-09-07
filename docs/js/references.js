@@ -20,8 +20,13 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.className = 'qbtn';
     btn.title = 'Copy quote link';
     btn.textContent = '¶';
+    btn.dataset.paragraph = idx;
     btn.addEventListener('click', () => copyQuoteLink(p, idx, commit));
     p.appendChild(btn);
+    p.addEventListener('click', (e) => {
+      p.classList.remove('is-quoted');
+      e.stopPropagation(); // prevent article-level handlers
+    });
   });
 
   // 3) Apply quoting UI via URL fragment or ?quote=
