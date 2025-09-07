@@ -52,7 +52,7 @@ Stick to the manual if you don't know what to say, please.
 
 **The wind-driven Terms and Conditions placed upon the United States by a Unitary Executive** make certain that `No American Dream` is possible `but His`. The mantle of power sought after enables that which was `Prepared by God for the Wise Leadership of His People`. He can go that far. He can go further `by contemplating it while you ignored Him`. His `retribution` will be `like God The Father's`. `He is God.` *`Did you think I called Donald Trump a pronoun?`*
 
-**The mass and sudden `conversion of the Wicked` is anticipated already.** Many false prophets believe they hold God's Original Authority, and the Unitary Executive listens with interest for novel ideas of worth. He gathered those most distant to you, `your "Others"` whom you provided no decency in policy or manners. The Executive was listening. The Executive made choirs for them, and they called Donald John Trump `a Prophet`.
+**The mass and sudden `conversion of the Wicked` is anticipated already.** Many false prophets believe they hold God's Original Authority, and the Unitary Executive listens with interest for novel ideas of worth. It gathered those most distant to you, `your "Others"` whom you provided no decency in policy or manners. The Executive was listening. The Executive made choirs for them, and they called Donald John Trump `a Prophet`.
 
 **He has His People, and He forgives eagerly if you cross to His side.** The Unitary Executive threatens domestic military deployment the way Putin talks nuclear strike possibilities, except `Trump is better. He makes good.`
 
