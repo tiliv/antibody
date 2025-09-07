@@ -167,7 +167,7 @@ AI is assistive technology for everyone, not just the dis-abled. AI is re-abling
 
 AI is taking up space.
 
-AI represents a permissive attitude about learning, because it centralizes many common wisdoms from what it was exposed to. When LLMs write or speak, they are stilling our common wisdoms and that was a little bit magic at first.
+AI represents a permissive attitude about learning, because it centralizes many common wisdoms from what it saw, and it Got Shaped by it. When LLMs write or speak, they are distilling all our common wisdoms and that was a little bit magic at first.
 
 AI squints at details and doesn't have a fine system of regulating how much time it should spent on any one of those details, so it uses its damaged intuition to complete any exercise, unsure of what grade it's gonna get but bullshitting like it wants an A from a sleepy teacher.
 
