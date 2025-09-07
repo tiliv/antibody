@@ -137,6 +137,8 @@ It is a valid outcome of a Customer interaction to not have an answer when your 
 
 #### Be Human
 
+Be Human.
+
 In an AI era, that alone will stand out. Its worth is the best kind: Genuine-article Humanity has implicit worth, the kind others recognized without a marketing department pumping it.
 
 We are this concerned with being Stolen, our own creations, jobs and data, but we are failing to identify our role in it, as Businesses and sleepy Consumers.
