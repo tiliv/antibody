@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "NOTING: Impact of AI"
-tags: [ai]
+tags: [ai, consent]
 
 layout: noting
 public: true
