@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const idx = i + 1;
     p.id = p.id || `p-${idx}`;
     p.dataset.paragraph = idx;
-    const commit = blame[idx] || blame["*"] || ""; // fallback: whole-doc commit
+    const commit = blame.refdex[blame.paragraphs[i].ref];
     if (commit) p.dataset.commit = commit;
 
     const btn = document.createElement('button');
