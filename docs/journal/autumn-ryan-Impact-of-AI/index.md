@@ -57,7 +57,11 @@ AI need not even harbor novel malice to cut us off; the AI might actually be sup
 
 Businesses, though they are failing at first-gen LLM deployments, are taking the steps to continue to improve, because they know AI can be effigies of us, made to make simple legally-binding decisions of us at first, just the Yes or No marketing questions.
 
-You know which one they're training it to pick, and the data they'll use is the entire backlog of purchase histories you made before LLMs existed.
+You know which one they're training it to pick, and the data they'll use is the entire backlog of purchase histories you made before LLMs existed, and the whole video catalog your Network knows you watched, before or after. They can now scry the past, like an untapped precious metal or oil they had to wait to use. Until Now.
+
+The Business counterargument to "synthetic data" is the durable troves they have amassed the entire time. The Data Comes From Us. We are their data, and they know it is real and its flaws still don't matter. They surely got rid of some excess, but what rounding error is that really?
+
+If you have ever de-escalated your preferences for a service you use, it's not working. Other companies spy what you do anyway and they build vast profiles that belong to them all, trading what they want. The Stock Is Us. There isn't even a synthetic data argument to be made that rises to the ankles of their giant impersonation attack on humanity with plenty real data.
 
 The armament of data is already here. Do not listen to people who tell you synthetic data is enough of a meme to halt what is coming. They will digitize documents for AI that are still in cabinets, and it will be their most impressive expensive invention, the culmination of their entire corporate worth, the validation of their disciplines. AI will be nearly more important to them than We are, though they will be mirrors of us.
 
