@@ -1,0 +1,41 @@
+
+<main id="v">
+  <h1>Historical View</h1>
+  <pre id="raw" hidden></pre>
+  <article id="md" hidden></article>
+  <p id="raw-links"></p>
+</main>
+<script>
+(async function(){
+  const q = new URL(location.href).searchParams;
+  const ref = q.get('ref'), path = q.get('path');
+  const owner = "{{ site.github.owner_name }}", repo="{{ site.github.repository_name }}";
+  if (!ref || !path){
+    document.getElementById('v').insertAdjacentHTML('beforeend',`
+      <p>
+      ref (\`${ref}\`) + path (\`${path}\`) must be available for a historical lookup.
+      </p>`);
+    return;
+  }
+  const rawURL = `https://raw.githubusercontent.com/${owner}/${repo}/${ref}/${path}`;
+  try{
+    const res = await fetch(rawURL, {mode:'cors'});
+    if (!res.ok) throw new Error(res.status);
+    const text = await res.text();
+
+    // naive: show raw with styles; optional: drop in a tiny MD parser if you want
+    const pre = document.getElementById('raw');
+    pre.textContent = text; pre.hidden = false;
+
+    const links = document.getElementById('raw-links');
+    const treeURL = `https://github.com/${owner}/${repo}/blob/${ref}/${path}`;
+    links.innerHTML = `<a href="${treeURL}">View on GitHub</a> · <a href="${rawURL}">Raw</a>`;
+  } catch(e){
+    console.info('Couldn't load historical content (${e})', e)
+  }
+})();
+</script>
+<style>
+#v{ max-width:70ch; margin:6rem auto; padding:0 1rem; }
+#raw{ white-space:pre-wrap; word-wrap:break-word; background:#fff; border:1px solid #eee; padding:1rem; border-radius:.5rem; }
+</style>
