@@ -83,7 +83,7 @@ Sufficient omniscience in AI is pretty neat. I'd run one at home. I wouldn't run
 
 Our data sits in warehouses with signs posted everywhere that it is Not Their Fault if things go missing or stolen. But they form gangs to copy our items and tell others about them.
 
-If our data were physical goods, this would be an implicit Privacy-hostile environment. Without discussing Law, People who want Privacy should be capable of making choices to effect it. The outcry for data Privacy is missing while the Businesses loudly shush us and say it's normal. Every predator must depend on your belief that what is going on should not be stopped.
+If our data were physical goods, this would be an implicit Privacy-hostile environment. Without discussing Law, People who want Privacy should be capable of making choices to effect it. The outcry for data Privacy is missing while the Businesses loudly shush us and say it's normal. Every predator must depend on your belief that what is going on should not be stopped. (If it would be so much worse in some way to do the alternative, let us see this Worse Plan and I shall defeat it for you so you stop talking about it. Talk about Better Plans and let us contend with them.)
 
 The pattern of social media owning transferrable rights to "your" content is the same as Businesses farming your data. It is a primary purpose of many enterprises. We just presume you can pay for something by letting others slipstream more of the great ad firehose onto every page—multiple pages if you can make it a slideshow picture book.
 
