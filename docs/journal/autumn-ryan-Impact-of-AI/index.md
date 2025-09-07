@@ -91,7 +91,7 @@ The frequency of contact with your data, even when they already have it all, is 
 
 Customers are hostages.
 
-Data rumor mills have always existed, and aren't illegal in their minimalist form of "just" networking. But the terms at issue about our the sustained opt-in attack against the Public. They aren't just doing it in a vacuum, they are claiming that we are authorizing it, and each one invents a heuristic about what authorization looks like.
+Data rumor mills have always existed, and aren't illegal in their minimalist form of "just" networking. But the terms at issue are about the sustained opt-in attack against the Public. They aren't just doing it in a vacuum, they are claiming that we are authorizing it, and each one invents a heuristic about what authorization looks like.
 
 Business itself is in an era that allows the presumption of a Yes answer without consultation. Our prior affiliation with a Brand we strive to ignore is transporting that data to anyone with fraudulent Consent reporting.
 
