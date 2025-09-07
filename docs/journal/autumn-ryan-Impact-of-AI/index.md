@@ -25,7 +25,7 @@ A little staggering, the way AI can do creative wonders that defy any sufficient
 
 Not to be passed over, we really rushed AI to its markets. Vendors buy LLM API capabilities, but they also make their own. Making APIs or metaphors of them is the essential job of any programmer. Large companies with programmers are making AI look at their own data.
 
-This isn't training yet (they can't hire enough LLM talent everywhere at once) but certainly facilitates its next application. They true Targeted Advertising is coming.
+This isn't training yet (they can't hire enough LLM talent everywhere at once) but certainly facilitates its next application. The true Targeted Advertising is coming.
 
 AIs will indeed get to know you individually, they will indeed become many, because there will be farms of You, shelves of models of You, accepting things on your behalf, things you """are likely to have consented to using conventional technology""".
 
