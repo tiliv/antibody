@@ -1,5 +1,5 @@
 ---
-date: 2025-08-27
+date: 2025-09-06
 rank: 1
 title: "NOTING: Impact of AI"
 author: Autumn Ryan
