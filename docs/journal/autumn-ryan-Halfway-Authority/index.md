@@ -315,7 +315,7 @@ Before long, AI will be embodied in your homes. More than lightbulbs and dishwas
 
 The scope of what companies have is massive, and that doesn't have to be bad. Can we please have `some Protection, Government?`
 
-Government, and Law enforcement are increasingly confused by their duties and instead use us. They are meta-gaming too frequently with one another. Our federal government did not need an autonomous ambition to come into its creation, and it is not expedient to have one now.
+Government and Law enforcement are increasingly confused by their duties and instead use us. They are meta-gaming too frequently with one another. Our federal government did not need an autonomous ambition to come into its creation, and it is not expedient to have one now.
 
 Blind except to metadata, and being great at meaningful interventions, is a viable method of surveillance, but the threat of untagged generative AI content means we don't know which metadata anymore. If we elect for the ability to enact blocks on untagged media on our popular platforms, or the powers to block media with specific tags, `a censorship government can be enacted overnight`. The World Wide Web contracted, and it is social media apps now.
 
