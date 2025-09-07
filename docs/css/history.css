@@ -1,0 +1,40 @@
+.week-column{
+  display: grid;
+  grid-auto-rows: var(--week-box,48px);
+  width: clamp(52px, 6cqw, 80px); /* slim, tall */
+  border-radius: 1rem;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+/* each week: tint by year; subtle grid lines via background */
+.week{
+  background:
+    linear-gradient(transparent 95%, color-mix(in lch, black 12%, transparent) 0),
+    hsl(var(--hue, 220) 60% 92%);
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+.week:nth-child(odd){
+  background:
+    linear-gradient(transparent 95%, color-mix(in lch, black 12%, transparent) 0),
+    hsl(var(--hue, 220) 60% 96%);
+}
+
+/* rotated, readable labels */
+.wlabel{
+  font: 600 12px/1 system-ui, sans-serif;
+  writing-mode: vertical-rl; /* modern, crisp */
+  transform: rotate(180deg); /* keep numbers upright orientation */
+  opacity: .9;
+  letter-spacing: .02em;
+  user-select: none;
+}
+
+/* media tweak: at narrow widths, make the boxes taller for legibility */
+@media (max-width: 950px){
+  .week-column{ --week-box: 64px; }
+  .wlabel{ font-size: 13px; }
+}

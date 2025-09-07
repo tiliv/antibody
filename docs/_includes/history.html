@@ -1,0 +1,31 @@
+{%- comment -%}
+Params:
+  start: date string (first week boundary — e.g., page.first_commit)
+  end:   date string (last date to include, inclusive)
+  box_px: height of each week box (default 48)
+{%- endcomment -%}
+{%- assign week_seconds = 604800 -%}
+{%- assign start_s = include.start | date: "%s" | plus: 0 -%}
+{%- assign end_s   = include.end   | date: "%s" | plus: 0 -%}
+{%- if end_s < start_s -%}{% assign tmp = start_s %}{% assign start_s = end_s %}{% assign end_s = tmp %}{%- endif -%}
+{%- assign span_s = end_s | minus: start_s -%}
+{%- assign weeks = span_s | divided_by: week_seconds | plus: 1 -%}
+{%- assign box_px = include.box_px | default: 48 -%}
+
+<div class="week-column" style="--week-box: {{ box_px }}px;">
+  {%- for i in (0..weeks) -%}
+    {%- assign t = start_s | plus: i | times: week_seconds -%}
+    {%- assign dt = t | date: "%Y-%m-%d" -%}
+    {%- assign iso_week = t | date: "%V" -%}
+    {%- assign iso_year = t | date: "%G" -%}
+    {%- comment -%}
+      Map ISO year → hue deterministically.
+      Example: base 200°, add (iso_year % 12)*20°
+    {%- endcomment -%}
+    {%- assign year_mod = iso_year | modulo: 12 -%}
+    {%- assign hue = 200 | plus: year_mod | times: 20 -%}
+    <div class="week" style="--hue: {{ hue }};">
+      <span class="wlabel" aria-label="ISO week {{ iso_week }} of {{ iso_year }}">{{ iso_week }}</span>
+    </div>
+  {%- endfor -%}
+</div>
