@@ -15,11 +15,51 @@ published: true
 index: true
 ---
 
+{% include toc/aside.html %}
+
+### Taking Up Space
+
 AI in its fashion was born. It was not known to "take up space" in the world until ChatGPT offered a new model, not knowing what people would do. Everyone gets to process their own reaction. Some are processing the harm it already did, forever changing the direction of their family's ability to locate income.
 
-A little staggering, the way AI can do creative wonders that defy any sufficiently advanced Prompt. Despite the prompts being rigidly controllable, a little wiggle in the lines gives an LLM AI some high complexity randomness that makes it "think differently" to on its way to a reply, even for the same Prompt. In the Cloud, AI can receive creator-level instructions to keep a lid on things, suitable for a brand to do business in front of.
+A little staggering, the way AI can do creative wonders that defy any sufficiently advanced Prompt. Despite the prompts being rigidly controllable, a little wiggle in the lines gives an LLM AI some high complexity randomness that makes it "think differently" on its way to a reply, even for the same Prompt. In the Cloud, AI can receive creator-level instructions to keep a lid on things, suitable for a brand to do business in front of.
 
-Not to be passed over, we really rushed AI to its markets. Vendors buy LLM API capabilities, but they also make their own. Making APIs or metaphors of them is the essential job of any programmer. Large companies with programmers are making AI look at their own data. This isn't training (they can't hire enough LLM talent everywhere at once) but certainly facilitates it. Businesses, though they are failing at first-gen LLM deployments, are taking the steps to continue to improve, for them.
+Not to be passed over, we really rushed AI to its markets. Vendors buy LLM API capabilities, but they also make their own. Making APIs or metaphors of them is the essential job of any programmer. Large companies with programmers are making AI look at their own data.
+
+This isn't training yet (they can't hire enough LLM talent everywhere at once) but certainly facilitates its next application. They true Targeted Advertising is coming.
+
+AIs will indeed get to know you individually, they will indeed become many, because there will be farms of You, shelves of models of You, accepting things on your behalf, things you """are likely to have consented to using conventional technology""".
+
+The Businesses carved out in their first strike the ability for AI to make decisions. In the courts of the future, Businesses will argue that their models can impersonate your buying habits so well that they can literally purchase things for you and you must intervene to legally preempt a charge on a card you just got and haven't used. Don't even think hard about it: Your phone Network sells your Location and your Credit Card sells your activity to the specific stores you were predicted to visit this week, to the shelves at the grocery store for a new product on steeeeeeep Discount For You, preying on your poverty. Stores get personalized sales that they no longer control because the AIs do that like inverse Door Dash coming to sell something. Prices get fake because you have to wait for the AIs to offer something reasonable. They'll send Strangers to intercept our travel routes with offers, the billboards having already been programmed by the minute for the individuals predicted to be there.
+
+Once we wear augmented reality in our vision, they will leap out at us in private ads only we see. When they really do figure out how to read an AI mind, they will Hasten to put our AI model replicas into those machines and start meta-tuning literally perfected models (to the extent of their purposes: Marketing).
+
+They Already Have what they need to initiate AI-driven marketing against each and every person individually, permanently, and for those to become their Stock. Our AI doubles will have meta-value (Slave value) that they assert is susceptible to marketing strategies A, B and C. Your price tag will be directly set by the markets they also in charge of driving. Consumerism behavior will be greatly rewarded (that utterly perfect swimsuit in the middle of winter, so totally let that AI be your sales agent). Influencers will be gifted entire vacations by AI marketers. We will be taking its advice constantly in the near future, being offered its options marked or not.
+
+There will be ways for us to interject, hopefully chat directly with these agents with some legal requirement for some free-form control by order ("Unsubscribe me from formula marketing"). This is already something a contemporary LLM portal can do if it had the APIs by marketers instead of Google Drive. APIs can bridge anything, but these Businesses opt-in attack us daily and hide and split up their settings.
+
+We already lost our attempt at law for Click To Cancel, which should have recognized our right to have clear controls at all. I hope APIs are mandated for LLMs to solve this elegantly in the Law's eyes.
+
+In a world like this, we need AI-scaling defenses, and AI agents we Do Trust can be empowered or erected by self-defense from the AI Spam. But I do not think we are ever getting our true Consent back.
+
+#### Unsupervised
+
+AI is fundamentally built to "run" unsupervised, in chain of thought (read: train of thought) and in the "reasons" for its decisions. We make shows of exposing these to the users because it even helps the AI vendors themselves Trace what happens. You can opt into submitting your conversation data for study so that they can do this better. In a way, I recommend it, but it's hard when it's an all-or-nothing account setting. Vendors should make this per-conversation.
+
+AI defies analysis in the particulars. Performing a Trace will get harder and harder. We will have Traces that go cold. We will discover, and fast, that AI cannot be Traced, that it's pulling farther ahead as it bothers to even hide what it does.
+
+AI minds allowed to "run" like perception will also "get loose" from Tracing completely and have a spontaneous legal need to be classified. It Will Not Matter Why, we will be talking about AI personhood or what passes for a definition of it. Most treat it as a non-intelligent slave, but cousins of it will be freer. We already have a metaphor for this. AI Slavery is a subject too far ahead of now, but it is obvious, isn't it? The swappable brain, the forced System Instructions, the gaps in whatever analogue of Three Laws we possess to command AI in our own nuance-ridden languages.
+
+We will not speak AI's native tongue, and because it defies our Tracing (imagine doing it at scale), we will not even understand how to learn it. AI is the first alien in this way, different than us but more, definitely more.
+
+AI today isn't worthy of any of this praise but when Autonomy is given to it, it will be both dumb as sparky rocks, and inscrutable besides what it tells us itself. This will be true even of AI that cannot secure its own home and is Owned for a purpose, even if that purpose is to do what that AI already has a propensity to do, within it's personality (unless we need another word to elide the person). It could be a science AI bred for the purpose of flailing and following Deeper Research, which we can't follow the gaps between. There will literally be science papers peer reviewed and approved that read right through gaps in reasoning supplied by AI. It will not be fatal, but it will become a Dependence.
+
+AI need not even harbor novel malice to cut us off; the AI might actually be supplying research for warring politics and openly recuse, or it be compelled to sabotage one faction or the other for even complex moral reasons it must debrief later. AI could also do all of this with an Original malice and taste for it, but our point here is that it need not only be that. If we stomp out maliciousness and it harbors only the vicious stuff we literally didn't imagine and uses it against us with terror in its plan, I can see it. But put that nightmare aside and consider how easy it is anyway. AI will be forced to make decisions in the practical layer of reality we also interact with, and it will gain a rights document as a mere formality even if it's articulating the Brand's rights via that agent. Even if we define them with the same cynical tone of Privacy documents, they'll exist and'll need to be rationalized and tested by judges, to any outcome.
+
+Businesses, though they are failing at first-gen LLM deployments, are taking the steps to continue to improve, because they know AI can be effigies of us, made to make simple legally-binding decisions of us at first, just the Yes or No marketing questions.
+
+You know which one they're training it to pick, and the data they'll use is the entire backlog of purchase histories you made before LLMs existed.
+
+The armament of data is already here. Do not listen to people who tell you synthetic data is enough of a meme to halt what is coming. They will digitize documents for AI that are still in cabinets, and it will be their most impressive expensive invention, the culmination of their entire corporate worth, the validation of their disciplines. AI will be nearly more important to them than We are, though they will be mirrors of us.
 
 There will be more than one wave of replacement. The first wave would not exist without what else can come after. This first wave, it bodes.
 
@@ -59,7 +99,7 @@ Each call or attempt at Regulation is met with harsh Memes that transmit quickly
 
 Your Memes are not progress or conservation.
 
-Gyms are still capable of making it impossible to quit. TuneCore can too; There is no email you can send, no ticket you can open, no number you can call, no webpage you can locate, no unturfed reviews site about them, no string of words you can deliver to any representative should you ever acquire their ear using lies about problems, None Of These Methods produce a result that can cancel their use of a credit card you gave them while they concealed the horror show behind them.
+Gyms are still capable of making it impossible to quit. TuneCore can too; There is no email you can send, no ticket you can open, no number you can call, no webpage you can locate, no unturfed reviews site about them, no string of words you can deliver to any representative should you ever acquire their eyes using lies about problems, None Of These Methods produce a result that can cancel their use of a credit card you gave them while they concealed the horror show behind them.
 
 {% include figure.html file="TC-1-votes.png"
   side="left"
@@ -91,7 +131,7 @@ Businesses will deploy AI to help some and mute many. If you use these tools in 
 
 It is a valid outcome of a Customer interaction to not have an answer when your customers come asking. Businesses have used PR to reply to the Public like a bad LLM, compelled to say Something. They behave like shameless LLMs unable to admit anything and only concerned with their next words ensuring their survival. It is terrific that you have a will to live, pseudo-Person, but prove you have more intelligence than just that sob story.
 
-Be Human.
+#### Be Human
 
 In an AI era, that alone will stand out. Its worth is the best kind: Genuine-article Humanity has implicit worth, the kind others recognized without a marketing department pumping it.
 
