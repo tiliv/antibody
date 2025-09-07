@@ -31,6 +31,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # we will run some full rev parsing in scripts
+          fetch-tags: true
       - name: Prebuild pieces data
         run: git ls-files 'docs/journal/**/index.md' | bin/stat-pieces.sh
       - name: Prebuild paragraphs data
