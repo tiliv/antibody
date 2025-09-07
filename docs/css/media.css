@@ -17,7 +17,7 @@
       /* wider oval for very narrow display */
       radial-gradient(
         ellipse 220% 85% at 50% 0%,
-        var(--bg2) 0%, var(--bg2) 42%,
+        var(--bg2) 0%,
         var(--bg1) 64%, var(--bg1) 100%
       ),
       var(--bg1);
