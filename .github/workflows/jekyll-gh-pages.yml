@@ -34,7 +34,7 @@ jobs:
       - name: Prebuild pieces data
         run: git ls-files 'docs/journal/**/index.md' | bin/stat-pieces.sh
       - name: Prebuild paragraphs data
-        run: git ls-files 'docs/journal/**/index.md' | while IFS= read -r f; do bin/stat-paragraphs.sh \"$f\"; done
+        run: git ls-files 'docs/journal/**/index.md' | while IFS= read -r f; do bin/stat-paragraphs.sh "$f"; done
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
