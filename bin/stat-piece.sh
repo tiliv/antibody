@@ -38,10 +38,9 @@ join -1 1 -2 1 <(LC_ALL=C sort -n "$pmap") <(LC_ALL=C sort -n "$bmap") \
 | awk '!seen[$2]++ { printf "%d %s\n", $2, $3 }' \
 | LC_ALL=C sort -n -k1,1 \
 | awk -v head="$head_sha" '
-    BEGIN{ open=0 }
     { a[++n]=$1; b[n]=$2 }
     END{
-      if (!n) { printf("{\"*\":\"%s\"}\n", head); next }
+      if (!n) { printf("{\"*\":\"%s\"}\n", head); exit }
       printf("{");
       for (i=1;i<=n;i++){
         if (i>1) printf(",");
