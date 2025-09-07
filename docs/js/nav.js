@@ -40,7 +40,7 @@ const NAV = {
           ));
         }, {
           // Keep top-margin off of exact value, to avoid frequent toggling
-          root: null, rootMargin: `-${top + 10}px 0px 0px 0px`, threshold: 0,
+          root: null, rootMargin: `-${top + 100}px 0px 0px 0px`, threshold: 0,
         }).observe(sentinel);
       }
 
