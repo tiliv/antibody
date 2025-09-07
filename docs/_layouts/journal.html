@@ -29,7 +29,6 @@ contact/{{ page.author | slugify }}.md
   <code class="date">
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>
   </code>
-  {%- comment -%} <span>{{ page.date | date: "%B %-d, %Y" }}</span> {%- endcomment -%}
   <div class="tags">
     {%- for tag in page.tags -%}
       <span>{{ tag }}</span>
