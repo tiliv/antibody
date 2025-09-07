@@ -85,7 +85,7 @@ Our data sits in warehouses with signs posted everywhere that it is Not Their Fa
 
 If our data were physical goods, this would be an implicit Privacy-hostile environment. Without discussing Law, People who want Privacy should be capable of making choices to effect it. The outcry for data Privacy is missing while the Businesses loudly shush us and say it's normal. Every predator must depend on your belief that what is going on should not be stopped. (If it would be so much worse in some way to do the alternative, let us see this Worse Plan and I shall defeat it for you so you stop talking about it. Talk about Better Plans and let us contend with them.)
 
-The pattern of social media owning transferrable rights to "your" content is the same as Businesses farming your data. It is a primary purpose of many enterprises to just market anything. We just presume you can pay for deploying a new site by letting others slipstream More Ads from the great ad firehose onto every page, even multiple pages if you can make it a slideshow picture book.
+The pattern of social media owning transferrable rights to "your" content is the same as Businesses farming your data. It is a primary purpose of many enterprises to just market anything. We just presume you can pay for deploying a new site by letting others slipstream More Ads from the great ad firehose onto every page, even multiple pages if you can make The News a slideshow picture book.
 
 The frequency of contact with your data, even when they already have it all, is the digital good in question. You are a return Customer in all things. They simply captured the layers you have the least choice in interacting with.
 
