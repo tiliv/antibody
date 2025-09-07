@@ -75,7 +75,7 @@ Self-driving taxi vehicles have been a slow regulatory thicket and remained in t
 
 LLM vendors just post a sign that it can be wrong. Works great for that free Safe Harbor use.
 
-There are more than text boxes for chatbots. They talk to you already through Application Programming Interfaces, the APIs, which are the digital mass cannons that sled and route data in and out, supervised indirectly via logs and similar signals. Having API access means everything from enabling an infrequent tool like a payment service, to industrializing your software processes and willing to pay in bulk. There's no law that APIs have to even support the same features as the website. The API is just another product, for a different kind of Customer.
+There are more than text boxes for chatbots. They talk to you already through Application Programming Interfaces, the APIs, which are the digital mass cannons that sled and route data in and out, supervised indirectly via logs and similar signals. Having API access means everything from enabling an infrequent tool like a payment service, to industrializing your software processes and paying for bulk. There's no law that APIs have to even support the same features as the website. The API is just another product, for a different kind of Customer.
 
 Chatbots acquiring the use of APIs was basically our first move. That's what let Midjourney barricade its users behind Discord until a web platform was ready. APIs sometimes start free to promote their use, like Discord bots and GitHub. API costs are flexible by use with recognizable pay-as-you-go pricing and overages. As a consumer you'll just see the blinking cursor and know it can talk to so many services, and people are trading money to make it possible.
 
