@@ -28,7 +28,7 @@ index: true
 
 **It is up to public organizations and their department heads to find willpower** for these projects. We are devoted to this idea and its staffing with locals young and old. Stories are not rare of marginalized groups seeing Themselves in media and becoming more inspired. We need not require it, but its active promotion inspires. We need to see each other in endeavors of public good to understand that skilled and aspiring locals can stay and participate.
 
-**An opinion outpost which invites discussion without undue tension** can prove an example in a stark landscape of options for locals to use, to practice their powers of communication with each other. We can scarcely imagine it, so gone is local media.
+**An opinion outpost which invites discussion without undue tension** can prove an example in a stark landscape of options for locals to use, to practice their powers of communication with each other. They can scarcely imagine it, so gone is local media.
 
 **The Search Era made local searches for information redundant** but with our actual local supports now missing, we are plunged into a relative fog in our own cities (save for what national services and apps show us, with implicit profiteering motives in sponsored results for national brands).
 
