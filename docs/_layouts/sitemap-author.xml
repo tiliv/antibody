@@ -9,8 +9,6 @@ layout: null
 {%- for p in author_pages -%}
 {%- if p.index -%}
   <url>
-    <author-slug>{{ a | slugify }}</author-slug>
-    <author>{{ a }}</author>
     <loc>{{ p.url | absolute_url }}</loc>
     <lastmod>{{ (p.last_modified_at | default: p.date | default: site.time) | date_to_xmlschema }}</lastmod>
     <changefreq>{{ p.changefreq | default: "weekly" }}</changefreq>

@@ -8,7 +8,6 @@ note: This must render as valid xml via the layout.
 <table>
   <tr>
     <th>URL</th>
-    <th>Author</th>
     <th>Last Modified</th>
     <th>Change Frequency</th>
     <th>Priority</th>
@@ -16,7 +15,6 @@ note: This must render as valid xml via the layout.
   <xsl:for-each select="//s:url">
     <tr>
       <td><a href="{s:loc}"><xsl:value-of select="s:loc"/></a></td>
-      <td><a href="/journal/sitemap-{s:author-slug}.xml"><xsl:value-of select="s:author"/></a></td>
       <td><xsl:value-of select="s:lastmod"/></td>
       <td><xsl:value-of select="s:changefreq"/></td>
       <td><xsl:value-of select="s:priority"/></td>
