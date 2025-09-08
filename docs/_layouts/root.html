@@ -4,29 +4,29 @@ author: autumn@discoverywritten.com
 <html lang="en">
 <head>
   {%- if page.index -%}
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="index, follow" />
   {%- else -%}
-    <meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="noindex, nofollow" />
   {%- endif -%}
-  {%- if page.description -%}<meta name="description" content="{{ page.description }}">{%- endif -%}
-  {%- if page.redirect_to -%}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">{%- endif -%}
+  {%- if page.description -%}<meta name="description" content="{{ page.description }}" />{%- endif -%}
+  {%- if page.redirect_to -%}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}" />{%- endif -%}
   {%- if page.canonical -%}<link rel="canonical" href="{{ page.canonical }}">{%- endif -%}
 
   <title>{{ page.title | default: site.title }}</title>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <link rel="icon" type="image/png" href="/img/favicon.128.png" sizes="128x128">
   <link rel="icon" type="image/png" href="/img/favicon.64.png" sizes="64x64">
-  <link rel="apple-touch-icon" sizes="64x64" href="/img/favicon.64.png">
-  <link rel="apple-touch-icon" sizes="128x128" href="/img/favicon.128.png">
-  <link rel="apple-touch-icon" sizes="300x300" href="/img/favicon.300.png">
-  <link rel="stylesheet" href="/css/site.css">
-  <link rel="stylesheet" href="/css/journal.css">
-  <link rel="stylesheet" href="/css/references.css">
-  <link rel="stylesheet" href="/css/figures.css">
-  <link rel="stylesheet" href="/css/dialog.css">
-  <link rel="stylesheet" href="/css/media.css">
+  <link rel="apple-touch-icon" sizes="64x64" href="/img/favicon.64.png" />
+  <link rel="apple-touch-icon" sizes="128x128" href="/img/favicon.128.png" />
+  <link rel="apple-touch-icon" sizes="300x300" href="/img/favicon.300.png" />
+  <link rel="stylesheet" href="/css/site.css" />
+  <link rel="stylesheet" href="/css/journal.css" />
+  <link rel="stylesheet" href="/css/references.css" />
+  <link rel="stylesheet" href="/css/figures.css" />
+  <link rel="stylesheet" href="/css/dialog.css" />
+  <link rel="stylesheet" href="/css/media.css" />
   <script src="/js/preferences.js"></script>
   <script src="/js/references.js"></script>
   <script src="/js/nav.js"></script>
@@ -50,7 +50,7 @@ author: autumn@discoverywritten.com
       aria-controls="preferences"
     ></button>
     <form data-scope="{{ page.preferences }}" id="preferences" role="region" aria-labelledby="preferences-toggle">
-      <label for="prefer-dark"><input id="prefer-dark" type="checkbox" name="dark" onchange="use.dark(this.checked)">Darken</label>
+      <label for="prefer-dark"><input id="prefer-dark" type="checkbox" name="dark" onchange="use.dark(this.checked)" />Darken</label>
     </form>
   </div>
   <div id="title-stack" role="banner" aria-label="Project title">
