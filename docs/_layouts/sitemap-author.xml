@@ -1,0 +1,21 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/urlset.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign a = page.author -%}
+{%- assign author_pages = site.pages | where: "author", a | where_exp:"p","p.index != false" -%}
+{%- for p in author_pages -%}
+{%- if p.index -%}
+  <url>
+    <author-slug>{{ a | slugify }}</author-slug>
+    <author>{{ a }}</author>
+    <loc>{{ p.url | absolute_url }}</loc>
+    <lastmod>{{ (p.last_modified_at | default: p.date | default: site.time) | date_to_xmlschema }}</lastmod>
+    <changefreq>{{ p.changefreq | default: "weekly" }}</changefreq>
+    <priority>{{ p.priority | default: 0.5 }}</priority>
+  </url>
+{%- endif -%}
+{%- endfor -%}
+</urlset>

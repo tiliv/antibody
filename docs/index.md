@@ -1,6 +1,7 @@
 ---
 layout: one-message
 index: true
+priority: 1.0  # minor: sitemap scan priority
 ---
 
 {% assign journal_public = site.pages | where_exp: "doc", "doc.public == true" %}

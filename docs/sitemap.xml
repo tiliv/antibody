@@ -1,0 +1,20 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemapset.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ site.url }}/sitemap_root.xml</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </sitemap>
+{%- assign authors = site.pages | where_exp:"p","p.index != false" | map: "author" | uniq -%}
+{%- for author in authors -%}
+{%- if author -%}
+  <sitemap>
+    <loc>{{ site.url }}/journal/sitemap-{{ author | slugify }}.xml</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </sitemap>
+{%- endif -%}
+{%- endfor -%}
+</sitemapindex>
