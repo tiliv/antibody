@@ -1,5 +1,5 @@
 ---
-date: 2025-08-27
+date: 2025-09-06
 rank: 4
 title: "NOTING: Colorado Space Force"
 author: Autumn Ryan
