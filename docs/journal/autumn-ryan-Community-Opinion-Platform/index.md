@@ -18,7 +18,7 @@ index: true
 
 **I come from Kentucky. In 2000, they saw they were hemorrhaging talent to other states.** Do not allow your public services to go derelict and gone. You will need to recover these eventually, and every moment makes it harder to undo. This is birth-rate science for ideas. You must understand that it is now unavoidable that Northern Colorado will bleed its journalism and commentary skills to other more useful venues.
 
-**To preserve the City Councils and their specific format for commentary** we promote the formation of public-run opinion services for Fort Collins, with local identity and local hands. No small impetus is the loss of Letters to the Editor, which were vestigial when run by outlets elsewhere.
+**To preserve the City Councils and their specific format for commentary** we promote the formation of public-run opinion services for Fort Collins, with local identity and local hands. No small impetus is the loss of Letters to the Editor, which were vestigial when run for us by outlets elsewhere.
 
 **The decline and removal of these offerings is explainable** though we find ourselves in need of pieces and symbols to reference and share on web links. This world requires more than can fit in City Council timed comments. It is not sufficient to attempt telepathy for three minutes (two and fifty-nine and fifty-nine seconds; two and fifty-nine and...) before their Very Long meeting has to take place.
 
