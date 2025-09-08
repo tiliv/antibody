@@ -16,7 +16,7 @@ index: true
 
 **With the retreat of local community outlets,** home- and away-grown to service NoCo by a sort of legacy charity, we find it difficult to keep our City Councils informed of our opinions. The speaking times are pressurized by issues that far exceed the bandwidth available now. We don't wish to flood that specific channel and even experience not talking at all despite signing up (too late). Even so, the speaking slots are distinctly not conversations, and must be rehearsed what for the volume of content that does in fact need to be transmitted.
 
-**I come from Kentucky. In 2000, they saw they were hemorrhaging talent going to other states.** Do not allow your public services to go derelict and gone. You will need to recover these eventually, and every moment makes it harder to undo. This is birth-rate science for ideas. You must understand that it is now unavoidable that Northern Colorado will bleed its journalism and commentary skills to other more useful venues.
+**I come from Kentucky. In 2000, they saw they were hemorrhaging talent to other states.** Do not allow your public services to go derelict and gone. You will need to recover these eventually, and every moment makes it harder to undo. This is birth-rate science for ideas. You must understand that it is now unavoidable that Northern Colorado will bleed its journalism and commentary skills to other more useful venues.
 
 **To preserve the City Councils and their specific format for commentary** we promote the formation of public-run opinion services for Fort Collins, with local identity and local hands. No small impetus is the loss of Letters to the Editor, which were vestigial when run by outlets elsewhere.
 
