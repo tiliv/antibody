@@ -68,15 +68,14 @@ html::before {
 
 body {
   font-family: Verdana;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-}
-#bg {
   display: flex;
   flex-direction: column;
+  width: 100%;
   min-height: 100%;
   height: max-content;
+  padding: 0;
+  margin: 0;
+  color: var(--fg2);
 }
 #main {
   display: flex;
@@ -175,7 +174,6 @@ body {
 }
 #license {
   white-space: initial;
-  color: var(--fg2);
 }
 #replication {
   z-index: 4;
@@ -183,12 +181,55 @@ body {
   width: 100%;
   text-align: center;
   font-weight: bold;
-  color: var(--fg2);
   text-shadow: 0 2px var(--sh) !important;
   font-family: ArticleFont, "Times New Roman", times, serif;
   transition: margin-top 0.5s ease-in-out;
   margin-bottom: 5em;
 }
+#robots {
+  margin: auto;
+  margin-block: inherit;
+}
+.truthy-pill {
+  position: absolute;
+  width: 60px;
+  height: 4px;
+  border-radius: 4px;
+  background: linear-gradient(to right,
+    var(--shade-hard) 50%, var(--shade-hard) 50%);
+  border: 1px solid var(--fg-inverse);
+  /* overflow: hidden; */
+  margin: 1em 0 0;
+  font-size: 1em;
+  /* font-family: ArticleFont; */
+  color: var(--fg1);
+  font-weight: lighter;
+  text-align: center;
+  vertical-align: super;
+  justify-self: anchor-center;
+}
+.truthy-pill::before {
+  position: absolute;
+  justify-self: anchor-center;
+  margin-top: 0.7em;
+}
+
+.truthy-pill[data-public="true"] {
+  background: linear-gradient(to right,
+    var(--shade-hard) 50%, green 50%);
+}
+.truthy-pill[data-public="true"]::before {
+  content: "Listed"
+}
+
+.truthy-pill[data-public="false"] {
+  background: linear-gradient(to right,
+    red 50%, var(--shade-hard) 50%);
+}
+.truthy-pill[data-public="false"]::before {
+  content: "Unlisted"
+}
+
 code {
   font-size: 1.2em;
   background-color: var(--accent);
@@ -254,10 +295,8 @@ code {
   /* padding: 8px 20px; */
   margin: 20px auto;
 }
-.content > * {
-  color: var(--fg2);
+.content {
   line-height: 1.8em;
-  /* margin-bottom: 2em; */
 }
 .content pre {
   color: var(--fg1);

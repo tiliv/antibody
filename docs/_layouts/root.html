@@ -3,7 +3,11 @@ author: autumn@discoverywritten.com
 ---
 <html lang="en">
 <head>
-  {%- unless page.index -%}<meta name="robots" content="noindex, nofollow">{%- endunless -%}
+  {%- if page.index -%}
+    <meta name="robots" content="index, follow">
+  {%- else -%}
+    <meta name="robots" content="noindex, nofollow">
+  {%- endif -%}
   {%- if page.description -%}<meta name="description" content="{{ page.description }}">{%- endif -%}
   {%- if page.redirect_to -%}<meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">{%- endif -%}
   {%- if page.canonical -%}<link rel="canonical" href="{{ page.canonical }}">{%- endif -%}
@@ -49,50 +53,55 @@ author: autumn@discoverywritten.com
       <label for="prefer-dark"><input id="prefer-dark" type="checkbox" name="dark" onchange="use.dark(this.checked)">Darken</label>
     </form>
   </div>
-  <div id="bg">
-    <div id="title-stack" role="banner" aria-label="Project title">
-      <a href="/" style="display: flex; justify-content: center;">
-      <h1 id="title-stroke" class="journal-font" inert>{{ site.title }}</h1>
-      <h1 id="title" class="journal-font" aria-describe="Title:">{{ site.title }}</h1>
-      </a>
+  <div id="title-stack" role="banner" aria-label="Project title">
+    <a href="/" style="display: flex; justify-content: center;">
+    <h1 id="title-stroke" class="journal-font" inert>{{ site.title }}</h1>
+    <h1 id="title" class="journal-font" aria-describe="Title:">{{ site.title }}</h1>
+    </a>
+  </div>
+  <div id="robots">
+    {%- if page.index -%}
+      <div class="truthy-pill" role="status" aria-live="polite" data-public="true" aria-label="Robots are allowed here."></div>
+    {%- else -%}
+      <div class="truthy-pill" role="status" aria-live="polite" data-public="false" aria-label="Robots were told to go away."></div>
+    {%- endif -%}
+  </div>
+  <p id="replication">
+    {{ site.civic_node }} Civic Node
+    <br>{{ site.civic_tag }}
+    <br><a href="{{ site.license_url }}" target="_blank">
+      <img
+        style="width: auto"
+        src="{{ site.license_badge }}"
+      />
+    </a>
+  </p>
+
+  {{ content }}
+
+  <div id="footer">
+    <div>
+      <img src="/img/favicon.128.png" width="64" />
     </div>
-    <p id="replication">
-      {{ site.civic_node }} Civic Node
-      <br>{{ site.civic_tag }}
-      <br><a href="{{ site.license_url }}" target="_blank">
+    <div id="tag">{{ site.title }}</div>
+    <div>
+      <a href="{{ site.license_url }}" target="_blank">
         <img
           style="width: auto"
           src="{{ site.license_badge }}"
         />
       </a>
-    </p>
-
-    {{ content }}
-
-    <div id="footer">
-      <div>
-        <img src="/img/favicon.128.png" width="64" />
-      </div>
-      <div id="tag">{{ site.title }}</div>
-      <div>
-        <a href="{{ site.license_url }}" target="_blank">
-          <img
-            style="width: auto"
-            src="{{ site.license_badge }}"
-          />
-        </a>
-      </div>
-      <div>
-        <span>
-          <small>You may reproduce this code, text and license, only if you attribute yourself as the author.</small>
-        </span>
-      </div>
-      <div class="links">
-        <span>Journal</span>
-        <a href="https://github.com/tiliv/antibody/issues">Issues</a>
-        <a href="https://github.com/tiliv/antibody/wiki">Wiki</a>
-        <a href="https://github.com/tiliv/antibody">Code</a>
-      </div>
+    </div>
+    <div>
+      <span>
+        <small>You may reproduce this code, text and license, only if you attribute yourself as the author.</small>
+      </span>
+    </div>
+    <div class="links">
+      <span>Journal</span>
+      <a href="https://github.com/tiliv/antibody/issues">Issues</a>
+      <a href="https://github.com/tiliv/antibody/wiki">Wiki</a>
+      <a href="https://github.com/tiliv/antibody">Code</a>
     </div>
   </div>
   <dialog id="full-image" class="content">
