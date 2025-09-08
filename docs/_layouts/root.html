@@ -58,24 +58,24 @@ author: autumn@discoverywritten.com
     <h1 id="title-stroke" class="journal-font" inert>{{ site.title }}</h1>
     <h1 id="title" class="journal-font" aria-describe="Title:">{{ site.title }}</h1>
     </a>
+    <p id="replication">
+      {{ site.civic_node }} Civic Node
+      <br>{{ site.civic_tag }}
+      <br><a href="{{ site.license_url }}" target="_blank">
+        <img
+          style="width: auto"
+          src="{{ site.license_badge }}"
+        />
+      </a>
+    </p>
   </div>
   <div id="robots">
     {%- if page.index -%}
-      <div class="truthy-pill" role="status" aria-live="polite" data-public="true" aria-label="Robots are allowed here."></div>
+      <div class="truthy-pill" role="status" data-public="true" aria-label="Robots are allowed here."></div>
     {%- else -%}
-      <div class="truthy-pill" role="status" aria-live="polite" data-public="false" aria-label="Robots were told to go away."></div>
+      <div class="truthy-pill" role="status" data-public="false" aria-label="Robots were told to go away."></div>
     {%- endif -%}
   </div>
-  <p id="replication">
-    {{ site.civic_node }} Civic Node
-    <br>{{ site.civic_tag }}
-    <br><a href="{{ site.license_url }}" target="_blank">
-      <img
-        style="width: auto"
-        src="{{ site.license_badge }}"
-      />
-    </a>
-  </p>
 
   {{ content }}
 

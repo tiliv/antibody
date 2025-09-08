@@ -82,7 +82,6 @@ body {
   flex-direction: column;
   justify-content: center;
   flex-grow: 1;
-  padding: 2em;
   margin: auto;
 }
 #main h3 {
@@ -154,8 +153,6 @@ body {
   transition: padding-bottom 0.5s ease-in-out;
   white-space: nowrap;
   background-color: var(--shade);
-}
-#title-stack {
   border-bottom: 1px solid var(--border);
 }
 #title, #title-stroke {
@@ -176,32 +173,26 @@ body {
   white-space: initial;
 }
 #replication {
-  z-index: 4;
   text-transform: uppercase;
-  width: 100%;
   text-align: center;
   font-weight: bold;
   text-shadow: 0 2px var(--sh) !important;
   font-family: ArticleFont, "Times New Roman", times, serif;
   transition: margin-top 0.5s ease-in-out;
-  margin-bottom: 5em;
+  margin-bottom: 1em;
 }
 #robots {
   margin: auto;
-  margin-block: inherit;
 }
 .truthy-pill {
-  position: absolute;
   width: 60px;
   height: 4px;
   border-radius: 4px;
   background: linear-gradient(to right,
     var(--shade-hard) 50%, var(--shade-hard) 50%);
   border: 1px solid var(--fg-inverse);
-  /* overflow: hidden; */
-  margin: 1em 0 0;
+  margin: 1em 0 1.8em;
   font-size: 1em;
-  /* font-family: ArticleFont; */
   color: var(--fg1);
   font-weight: lighter;
   text-align: center;
