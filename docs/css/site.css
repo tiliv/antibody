@@ -3,7 +3,8 @@
   --w-max: 700px;
   --bg1: oklch(0.85 0.0197 311.86);
   --bg2: oklch(92.486% 0.03664 17.677);
-  --fg1: oklch(56.9% 0.19394 3.901);
+  --io: oklch(0.569 0.19394 3.901);
+  --fg1: oklch(23.426% 0.00374 106.801);
   --fg2: oklch(0.1076 0 0);
   --fg-inverse: oklch(0.9039 0 0);
   --sh: oklch(90.097% 0.03692 310.364);
@@ -18,8 +19,9 @@
 :root[data-dark="true"] {
   --bg1: oklch(0.2916 0.0197 311.86);
   --bg2: #27364f;
+  --io: oklch(89.295% 0.05956 2.541);
   --fg1: oklch(0.9037 0 0);
-  --fg2: oklch(0.9054 0.0455 309.91);
+  --fg2: oklch(90.851% 0.03973 310.167);
   --fg-inverse: oklch(0.1076 0 0);
   --sh: oklch(20.149% 0.01085 311.883);
   --stroke: oklch(0.2674 0.0049 39.4);
@@ -193,7 +195,7 @@ body {
   border: 1px solid var(--fg-inverse);
   margin: 1em 0 1.8em;
   font-size: 1em;
-  color: var(--fg1);
+  color: var(--io);
   font-weight: lighter;
   text-align: center;
   vertical-align: super;
@@ -290,7 +292,7 @@ code {
   line-height: 1.8em;
 }
 .content pre {
-  color: var(--fg1);
+  color: var(--io);
   white-space: pre-wrap;
 }
 

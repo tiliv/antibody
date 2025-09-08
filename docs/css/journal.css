@@ -138,7 +138,7 @@ aside.side a:hover {
 .tags span {
   display: inline-block;
   padding: 0.2em 0.8em;
-  color: var(--fg1);
+  color: var(--io);
   background: var(--bg2);
   border: 1px solid #00000080;
   border-left: none;
@@ -154,7 +154,7 @@ article {
   text-align: justify;
 }
 a {
-  color: var(--fg1);
+  color: var(--io);
   text-decoration: underline;
 }
 a img {
@@ -186,6 +186,7 @@ article p + ol {
 article > p > strong:first-child {
   font-weight: normal;
   font-family: JournalFont, "Georgia", serif;
+  color: var(--fg1);
   font-size: 1.8em;
   text-shadow: 1px 3px var(--sh);
 }
