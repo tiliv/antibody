@@ -24,7 +24,6 @@ preferences:
   dark: false
 
 defaults:
-  - scope:
-      path: ""
+  - scope: {path: ""}
     values:
       preferences: journal
