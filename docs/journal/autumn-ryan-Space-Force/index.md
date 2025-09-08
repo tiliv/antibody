@@ -18,7 +18,7 @@ index: false
 - prior decisions were reportedly about costs not gaining anything at other sites
 - the unitary executive has made Alabama the home now, substituting reason for heritage
 - no doubt this administration has vision for what to do with it
-- it is not just that there is new value measured, it is that plans from the unitary executive are not appraisable by any metric but his own pre-decision
+- it is not just that there is new value measured, it is that plans from the unitary executive are not appraisable by any metric but the existing pre-decision
 - though this executive has the Authority, written or awarded since, it is a continued sign of what has been observed already:
 - democratic debate and independent reasoning are assets, but these are continuously replaced with company scrip with this executive's face on it
 - processes are being captured already, beyond threatening to
