@@ -20,7 +20,7 @@ const NAV = {
     if (!!document.querySelector('#main')) {
       return;
     }
-    const headers = document.querySelectorAll('h1, h2, h3, h4');
+    const headers = document.querySelectorAll('h2, h3, h4');
 
     for (const h of headers) {
       const top = parseInt(getComputedStyle(h).top, 0) || 0;
