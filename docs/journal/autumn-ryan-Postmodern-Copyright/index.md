@@ -25,7 +25,7 @@ We will look at ongoing AI-related lawsuits and the failures of all sides to arg
 - Giantism in brands makes them watering holes they are accustomed to controlling absolutely.
 - Digital economics has centralized the access of certain goods and ideas at their vendors;
 - This, after a long pre-digital era of requiring their dissemination for conversion to sale.
-- Copyright has tracked so closely with access that these two things have been confused for the same.
+- Copyright has tracked so closely with point-of-access that these two things have been confused for the same.
 - Postmodern copyright theories imply no such thing as possession without prior authorization.
 - In the real world, this does not pass scrutiny.
 - AI challenges our reading of copyright because it is a generalized industrial engine.
