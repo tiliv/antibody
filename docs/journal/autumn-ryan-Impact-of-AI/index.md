@@ -207,7 +207,7 @@ Leaving your "dataprints" on your work is ideal. When others can tell the source
 
 My words here and in my other pieces total some 30,000 and will be joined by more, in full defiance of AI observability: If you replicate me, I'm winning. My product isn't written by AI, its vision wasn't copy-pasted from an AI summary of a Summer smoke break chat. My work implies intention and you harvest it by reading.
 
-For example, I have adopted styles in my writing that use the semi-colons and colons, the parentheses, the strange dangling punctuation trailing stubbornly after their associated quotation marks (unless the quote really is quoting the punctuation), the Proper Noun declarations and their organic definitions within the document, a cynical emoji, defects tolerated, an essay length that makes anyone walk away not having "the time", Designed to be skimmed and still perceived via its structure.
+For example, I have adopted styles in my writing that, should they be emulated, are mine: the use the semi-colons and colons, the parentheses, the strange dangling punctuation trailing stubbornly after their associated quotation marks (unless the quote really is quoting the punctuation), the Proper Noun declarations and their organic definitions within the document, a cynical emoji, defects tolerated, an essay length that makes anyone walk away not having "the time", Designed to be skimmed and still perceived via its structure.
 
 My creation says that if you don't look at it, that was your decision. No writer was ever doing it for everyone without being a failed common denominator of simplicity. AI is a universal translator not just of languages but of speaking styles, pacing, tone and more.
 
