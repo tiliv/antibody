@@ -243,7 +243,7 @@ Companies like Meta are designating themselves as the long-awaited stewards of n
 
 Active Connection is the when these bots start chatting at us unsolicited from where they already sit in our lists mixed with humans. When children encounter these, how can the Agent even know who is going to read it? (Oh I know, maybe we should make every adult on the planet verify their age on their own devices repeatedly, just for everyone else's liability comfort.)
 
-Meta and others about to send Agents soliciting Connection, knowing that obtaining it for any reason is an opportunity to be Capitalized. The Agents have no innocuous intent (though some novel ones will), and are likely scripted to be exactly what they are to socially engineer your Connection.
+Meta and others are poised to send Agents soliciting Connection, knowing that obtaining it for any reason is an opportunity to be Capitalized. The Agents have no innocuous intent (though some novel ones will), and are likely scripted to be exactly what they are to socially engineer your Connection.
 
 Social engineering is something Facebook once merely facilitated in a digital age, but today Meta is running that strategy on You. They have proven for decades that they have nothing else to add but enrichment of data.
 
