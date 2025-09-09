@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "NOTING: Flock surveillance"
-tags: [ai]
+tags: [vehicle, location, data warehousing]
 
 layout: noting
 public: true

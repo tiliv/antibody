@@ -6,7 +6,7 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 contact_subject: "Halfway Authority"
-tags: [democracy, governance]
+tags: [democracy, governance, policy]
 
 layout: journal
 public: true

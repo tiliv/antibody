@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "Halfway Democracy"
-tags: [democracy, governance]
+tags: [democracy, governance, polling]
 
 layout: journal
 public: true

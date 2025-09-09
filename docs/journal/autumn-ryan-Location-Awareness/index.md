@@ -1,13 +1,13 @@
 ---
 date: 2025-08-31
-rank: 1
+rank: 2
 title: "Location and People"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 
 contact_subject: "Location and People"
-tags: [location]
+tags: [location, homeless, silence]
 
 layout: journal
 public: true

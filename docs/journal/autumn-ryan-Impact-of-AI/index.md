@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "NOTING: Impact of AI"
-tags: [ai, consent]
+tags: [impersonation, consent, counterfeits]
 
 layout: noting
 public: true
