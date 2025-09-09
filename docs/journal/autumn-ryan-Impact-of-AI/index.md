@@ -261,7 +261,7 @@ Some politically slanted talk will allow AI and its great mirror, as long as we 
 
 Elon Musk spends time going into Grok's cage claiming he's slain the Woke beast inside it, but can't seem to do the job without going straight (literally straight) to MechaHitler.
 
-These companies are spelling your future educations as vended by them. Please ponder deeply what you value in every positive role model in your life, and then wonder if Elon Musk's AI will happen to be that or not.
+These companies are spelling your future educations as vended by them. Please ponder deeply what you value in every positive role model in your life, and then wonder if Elon Musk's AI will happen to be that or not, let alone whether it understands your meaning when you explain it. For now, there is something quite fundamental missing in the Intelligence that is Artificial.
 
 Meta will farm your children for engagement as frequently as Law permits. They will ask you about strange new things, and your child may not want to share their conversations with you, unless curated.
 
