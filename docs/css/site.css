@@ -162,8 +162,8 @@ body {
   row-gap: 2px;
 }
 .change-stack {
-  display: grid;
-  grid-auto-flow: row;
+  display: flex;
+  flex-direction: row;
   gap: 2px;
 }
 .change-stack + * {
