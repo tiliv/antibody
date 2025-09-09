@@ -78,8 +78,9 @@ emit_json() {
 # We iterate NUL-delimited to be space-safe.
 for pattern in "$@"; do
   ps=":(glob)$pattern"
-  git ls-files -z -- "$ps" \
-  | while IFS= read -r -d '' f; do
+  git -C "$repo_root" ls-files -z -- "$ps" \
+  | tr '\0' '\n' \
+  | while IFS= read -r f; do
       rel="${f#./}"
       short="${rel#*/}"
       short=$(printf '%s' "$short" | tr '/' ',')
