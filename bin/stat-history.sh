@@ -1,5 +1,5 @@
 #!/bin/sh
-set -eu
+set -euo pipefail
 
 # --- args ---
 out_root="${1:-_data/git/history}"
