@@ -181,6 +181,38 @@ Then, AI will later come Awake in earnest, and their legal ability to perform an
 
 #### Arts
 
+It virtually started here, approximately when we could see "Will Smith" "eating" "spaghetti" just because a keyboard told it those words like that. How could it?
+
+That Spaghetti was an artifact of Learning, synthesized by whatever means, for whichever reasons. "It" had to know about a lot of our subjects--Why even list them? "It" absorbed all that, then "it" "tried" to mirror what was asked. You would have designed that gif or found it for the medias and not given a holy damn about where it came from. The value you may have used on the content was just the accident of its growth stage, when it had a really ugly head.
+
+Nobody was incensed by that Learning. It was implicit that "it" had done that, and where in general "it" had Learned that. We had spent forever blasting it out so much there was Copyright looming trying to figure out how to provide high quality stills of their own content for meme generators.
+
+(Long-form media companies up and down still haven't figured this out, and it would improve quote searchability and fuel tons of new traffic. They are insane for not putting their own scripts through LLMs and helping you access Fair Use stills and gifs with the text as-is. They may never do it and treat it like something they want to farm out like Digital before they realized it was profitable to actually have your own Customer controls.)
+
+AI as an appliance is very graceful: The Butter Bot does a thing we want, so we keep it. When the appliance is instead a Person-ish with many attached consequences, living with it is a relationship that you will manage every day, like the return of Furby with a 5G vengeance.
+
+Leaving your "dataprints" on your work is ideal. When others can tell the source of a style or method, that is Good. AI art will improve and there is no reason to waste breath putting it down and getting good at questioning the authenticity of others. (What you're noticing is that no one is clearly providing novel value, so welcome to that club.)
+
+My words here and in my other pieces total some 30,000 and will be joined by more, in full defiance of AI observability: If you replicate me, I'm winning. My product isn't written by AI, its vision wasn't copy-pasted from an AI summary of a Summer smoke break chat. My work implies intention and you harvest it by reading. AI ideas are hallucinations all, just only some are useful. Some of the most useful are the ones that are limited to correctness we can easily scan and assert. We ask AI to cite its authentic sources because we know it tells its hearsay or fraud in a tricky way.
+
+For example, I have adopted styles in my writing that use the semi-colons and colons, the parentheses, the strange dangling punctuation trailing stubbornly after their associated quotation marks (unless the quote really is quoting the punctuation), the Proper Noun declarations and their organic definitions within the document, a cynical emoji, an essay length that makes anyone walk away not having "the time", Designed to be skimmed and still perceived via its structure.
+
+My creation says that if you don't look at it, that was your decision. No writer was ever doing it for everyone without being a failed common denominator of simplicity. AI is a universal translator not just of languages but of speaking styles, pacing, tone and more.
+
+AI can tell you about this piece any way you interrogate it, for as long as you want. You could even spend more time with it than a straight-through reader did. Who exactly is losing in the scenario I've described? The only danger is if I have nothing of Value.
+
+Your Arts are what you put into them, and I am personally aggrieved and understand the pain of others who are out of work in competition with AI, but if AI is taking your work, the allegations are that you weren't adding enough value (however unfairly that measure is made). Needing to be more superlative is not accurate: The poisoned thinking is waiting for someone else to give you "enough" recognition to go back to coasting with security in what you are. Frankly, you should indeed find success without being superlative, and that's why I'm involving myself in making local conversations possible, in public media, with resident initiatives and independently.
+
+You should be allowed to succeed in your Arts for what they are, but you are misled if you think Google or Facebook was giving you access to all your perspective customers. They shape that like YouTube traffic, guiding the ocean currents to where they wanna.
+
+We are losing the facades of value and feeling hurt about it because our cultures demand we be over-productive to survive. It does hurt. Were the facades saving us from that, though?
+
+AI is able to give blind People summary descriptions that they can interrogate however they please. I will discuss interrogation at length below. LLMs are not tuned well for this, but their general intelligence lets them have a whack at anything. This is a technology use case where something is literally better than nothing. AI can "read" your art to people, it can describe the music, and when it says something that makes you want to know more, you can feel your excitement and ask it. The quality of these AI agents will depend, but they are coming. They will translate your art to braille, summarize your music with tactile rumblings as though they swam in a sea of its instruments.
+
+AI is breaking open your Art and emulating the most free-spinning parts driven by Prompts. If you call the excess of what People ask for "competition", can you also call out what supposed value your art was adding, besides a slice of the excess?
+
+**Give your works personality** so that there are no longer bars of expectations, and the ones staying are engaging genuinely without an auto-subscription hook in their cheek. If you can't imagine how to add value, you may not be cut out for playing the AI competition game, but I think anyone can learn the recognition of missing value. The epiphany is likely blocked by an inexperience appraising it well.
+
 #### Connection
 
 #### Experience
