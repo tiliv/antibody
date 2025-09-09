@@ -1,11 +1,11 @@
 ---
 date: 2025-09-01
 rank: 4
-title: "NOTING: The postmodern copyright"
+title: "NOTING: Postmodern copyright"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: The postmodern copyright"
+contact_subject: "NOTING: Postmodern copyright"
 tags: [learning, access, distribution]
 
 layout: noting
