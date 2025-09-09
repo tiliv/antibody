@@ -223,7 +223,7 @@ AI is able to give blind People summary descriptions that they can interrogate h
 
 AI is breaking open your Art and emulating the most free-spinning parts driven by Prompts. If you call the excess of what People ask for "competition", can you also call out what supposed value your art was adding, besides a slice of the excess?
 
-**Give your works personality** so that there are no longer bars of expectations, and the ones staying are engaging genuinely without an auto-subscription hook in their cheek. If you can't imagine how to add value, you may not be cut out for playing the AI competition game, but I think anyone can learn the recognition of missing value. The epiphany is likely blocked by an inexperience appraising it well.
+**Give your works personality** so that there are no longer bars of expectations, and the ones staying are engaging genuinely without an auto-subscription hook in their cheek. If you can't imagine how to add value, you may not be cut out for playing the AI competition game, but I think anyone can learn the recognition of missing value. The epiphany is likely blocked by an inexperience with appraising it well.
 
 #### Connection
 
