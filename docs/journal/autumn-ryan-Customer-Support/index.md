@@ -6,7 +6,7 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 contact_subject: "Customer Support"
-tags: [customer support]
+tags: [choices, consent, customers]
 
 layout: journal
 public: true
