@@ -5,12 +5,15 @@ layout: null
 <?xml-stylesheet type="text/xsl" href="/urlset.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- assign a = page.author -%}
-{%- assign author_pages = site.pages | where: "author", a | where_exp:"p","p.index != false" -%}
+{%- assign author_pages = site.pages
+  | where: "author", a
+  | where_exp:"p","p.index != false" -%}
 {%- for p in author_pages -%}
 {%- if p.index -%}
+{%- assign lastmod = p.last_modified_at | default: p.date | default: site.time -%}
   <url>
     <loc>{{ p.url | absolute_url }}</loc>
-    <lastmod>{{ (p.last_modified_at | default: p.date | default: site.time) | date_to_xmlschema }}</lastmod>
+    <lastmod>{{ lastmod | date_to_xmlschema }}</lastmod>
     <changefreq>{{ p.changefreq | default: "weekly" }}</changefreq>
     <priority>{{ p.priority | default: 0.5 }}</priority>
   </url>
