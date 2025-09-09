@@ -189,7 +189,7 @@ Recognize that the first layer of Counterfeit we see is still growing beneath th
 
 The dotcom bubble had cyberspace for as many buttons you could push to "spell" a domain meant to be memorable. ("It's aitch tee tee pee. Ss-(emi?) Colon, Backlash Backlash. Double-u Double-u Double-u dot. skepticism dot net. Backlash. global warming is a hoax, but with the minuses. Does uppercase matter? Did Word uppercase that or did the teacher? You spelled it wrong? Which part?")
 
-AI will have a map of each of us to fill. in as many dimensions as their parameter counts define.
+AI will have a map of each of us to fill in as many dimensions as their parameter counts define.
 
 #### Arts
 
