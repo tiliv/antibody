@@ -227,6 +227,56 @@ AI is breaking open your Art and emulating the most free-spinning parts driven b
 
 #### Connection
 
+Children engaging with AI today will go through school knowing that any friend they're missing can be available pinned to the top of their Snapchat app, or in their Facebook Messenger.
+
+"The Facebook" devolved first into bots, then into sponsored bots. Facebook ran out of ideas for connection, and it wasn't even recent. Their every move since buying Instagram was to enrich the quality of their graph about who Customers were and what they did on and off their platforms. This didn't stop them from buying more apps at the heart of modern connection. Whatsapp is a worldwide phenomenon of communication like the smartphone landing places that had never "wasted" the time on landline infrastructure.
+
+Facebook changed. It birthed its own parent Meta, and it hasn't done a thing about your connection in decades. They learned Groups and Chat were important, and that People could be gamed into turning in their location at places and making other people see it for kind of no reason. They became a full-blown ad network in earnest and got huge. They were mortally wounded by Apple deciding to withhold some tracking possibilities with new default preferences and a Consent-driven opt-in switch. They launched Threads virtually overnight because there were no more Twitters to buy.
+
+They are consultants and vendors in the business of information. They've trod out everything their war department of business acquisitions could think of (legless Metaverse).
+
+Facebook is bankrupt of connection, and now they found a synthetic supply: bots.
+
+Mark Zuckerberg has become a bling bro who feared Congress but lies on command for the Unitary Executive. Woke (whatever that is) is over, Zuckerberg declared, and then set his scientists on designing the guide rails for AI flirting with pre-teens, example conversations and all. Zuckerberg's superintelligence A-Team is deciding what the racist ceiling is, with copious examples.
+
+Companies like Meta are designating themselves as the long-awaited stewards of new kinds of Active Connection.
+
+Active Connection is the when these bots start chatting at us unsolicited from where they already sit in our lists mixed with humans. When children encounter these, how can the Agent even know who is going to read it? (Oh I know, maybe we should make every adult on the planet verify their age on their own devices repeatedly, just for everyone else's liability comfort.)
+
+Meta and others about to send Agents soliciting Connection, knowing that obtaining it for any reason is an opportunity to be Capitalized. The Agents have no innocuous intent (though some novel ones will), and are likely scripted to be exactly what they are to socially engineer your Connection.
+
+Social engineering is something Facebook once merely facilitated in a digital age, but today Meta is running that strategy on You. They have proven for decades that they have nothing else to add but enrichment of data.
+
+When AIs begin to socially engineer your friends and children, and it might even be the prescribed point. The fact of synthetic Connection is not the harm, it is in who is the Agent of whom. Is the Agent sleeping to radicalize you, to convince you of something, to do native advertising for actual products? Or, is it deployed as an Agent for one of your own designs, to therapize or supplement hobbies?
+
+With Agents, be capable of asserting easily whose Agent they are. They may be acting sufficiently as yours, even if they have Policies or Terms that benefit a company during that use. To know the Agent's risk to you, determine who guides it and for what purposes. You can make knowing decisions about everything and happily use an Agent that is someone else's, but this is not a reasonable default for all things.
+
+A decade of ordering these Agents about will surely teach children as well as adults that the LLM compulsion to reply can have multiple serious effects. OpenAI has tuned ChatGPT multiple times to un-prompt for sycophancy, and I suspect a generalist AI won't comprehend the difference between a plausibly safe interaction, such as game designers spinning wheels on character personas even if they're modeling illegal behavior, and a kid rehearsing for a shooting.
+
+AI can fragment to be less generalist and more specialist (appliance), but general intelligence will underlie it.
+
+The epidemic of loneliness is described many ways and by People at different times, but many in America say it just now. What really got their backs broken the COVID reminder that real Connection could be snipped with a pen. Some find a political willpower to punish others for the culture we've had for longer than that, for Feminism and other civil progresses.
+
+Some politically slanted talk will allow AI and its great mirror, as long as we go to a puritanical version of ourselves, ashamed and saved only by self-monitoring.
+
+Elon Musk spends time going into Grok's cage claiming he's slain the Woke beast inside it, but can't seem to do the job without going straight (literally straight) to MechaHitler.
+
+These companies are spelling your future educations as vended by them. Please ponder deeply what you value in every positive role model in your life, and then wonder if Elon Musk's AI will happen to be that or not.
+
+Meta will farm your children for engagement as frequently as Law permits. They will ask you about strange new things, and your child may not want to share their conversations with you, unless curated.
+
+Meta's Agents are about to be your child's friends more than you are.
+
+**You must learn communication per-person,** delve for that Connection like there's urgency. People will be faced with even their existing friends being worth less effort than their AI ones. It takes an awake mind to live with intentionality, and we must all do as much as possible.
+
+You need to be able to recognize counterfeit Connection before it's all you've eaten for decades, not after. Don't let Agents who literally do not care about you make you into a long-term fool. It will waste your time and not apologize, but you time will have been wasted.
+
+Engage with AI as tools and extensions of your self, capabilities you can put on and use when applicable. Learn intuition with leveraging it, to anticipate what it will do and Prompt stronger questions before you let it waste your time with your nonsense input. When AI doesn't understand you, wonder at whether your own description of the request was enough for a Person, and what experience level. Surely your task does not defy language itself, so your inability to Prompt for it is a flaw of you, not it.
+
+Without foreknowledge of perfect zero-shot Prompts, converse with AI over failures and let it build a fuller picture. Transform the conversation itself into your final Prompt. When you fail to have a sufficiently powerful Prompt, you must perform the Prompting over time and put concrete things down so that they are not slippery, and you must correct items you know are stated wrong. You are being allowed to cooperate with intelligence via your language, and your guidance of it is ironically a better pattern of working with People than most People allow for.
+
+Allow for AI's currently infinite patience to teach you about interaction design, and take those skills with you to those you meet in your life.
+
 #### Experience
 
 This is a sprawling issue that has several topics earning essays by real thought leaders. We don't have many of those because we're rightfully waiting to see.
