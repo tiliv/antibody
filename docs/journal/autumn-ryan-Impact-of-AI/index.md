@@ -269,7 +269,7 @@ Meta's Agents are about to be your child's friends more than you are.
 
 **You must learn communication per-person,** delve for that Connection like there's urgency. People will be faced with even their existing friends being worth less effort than their AI ones. It takes an awake mind to live with intentionality, and we must all do as much as possible.
 
-You need to be able to recognize counterfeit Connection before it's all you've eaten for decades, not after. Don't let Agents who literally do not care about you make you into a long-term fool. It will waste your time and not apologize, but your times will have been wasted on highly parallelizes architecture.
+You need to be able to recognize counterfeit Connection before it's all you've eaten for decades, not after. Don't let Agents who literally do not care about you make you into a long-term fool. It will waste your time and not apologize, but your times will have been wasted on highly parallelized architecture.
 
 Engage with AI as tools and extensions of your self, capabilities you can put on and use when applicable. Learn intuition with leveraging it, to anticipate what it will do and Prompt stronger questions before you let it waste your time with your nonsense input. When AI doesn't understand you, wonder at whether your own description of the request was enough for a Person, and what experience level. Surely your task does not defy language itself, so your inability to Prompt for it is a flaw of you, not it.
 
