@@ -82,7 +82,7 @@ for pattern in "$@"; do
   | while IFS= read -r -d '' f; do
       rel="${f#./}"
       short="${rel#*/}"
-      short="${short//\//,}"
+      short=$(printf '%s' "$short" | tr '/' ',')
       out="$out_root/${short%.md}.json"
       dir=$(dirname "$out")
       [ -d "$dir" ] || mkdir -p "$dir"
