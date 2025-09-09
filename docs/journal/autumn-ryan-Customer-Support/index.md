@@ -1,7 +1,7 @@
 ---
 date: 2025-08-27
 rank: 1
-title: "The Demise of Customer Support"
+title: "Demise of Customer Support"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
