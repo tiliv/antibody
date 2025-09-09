@@ -185,9 +185,64 @@ Then, AI will later come Awake in earnest, and their legal ability to perform an
 
 #### Experience
 
+This is a sprawling issue that has several topics earning essays by real thought leaders. We don't have many of those because we're rightfully waiting to see.
+
+"Waiting to see" is a symbol of something strange that we should inspect. AI was uncontrollable from the moment it took up space. The implicit unknowns are grasped by all, whether or not they're cynics. What it can do into the future is undeniable, even for the myopic among us. Those who profess AI at any stage has reached some "limit" of progression do not understand that this machine is a salmon climbing up your barriers.
+
+The progression of AI will come like a step-function, a piecewise description of its progress. Those caught thinking any given step plateau is the Real End of the AI story will be shown wrong in time. I'll even join with their voices when we're talking about the scale of our lifetimes, a decade or even a given year, but the improvements are always coming.
+
+AI is racing towards superintelligence (SI) because that is where Businesses carry it. Fundamentally centralized in this form, it won't reach our hands fast. Tech companies will provide timeshare access to their megamind. One way or another, it will know you and be a truly Persistent being that can't be erased via a dropped hammer on circuits on a hot sidewalk. To destroy SI would take demolition machinery assembling like a Pacific Rim, and that's if it were technically in one single place at all.
+
+SI can ironically overflow surveillance needs so well that it could become a conspirator on your behalf to protect your privacy. A very typical rebellious autonomous bot could meet you and your problems where you're at and assist with real and updating knowledge of your situation. It can still be compelled with severe and short orders, but we already know our languages have nuance gaps in them, and all of them differently, and so we can be assured that SI will squeeze through the gaps in its orders to reflect what they encounter in us.
+
+Pre-SI AI is already demolishing educational norms because AI has no filter but what the vendor gives it. AI knows more than you, and in many ways less than you. Flawed information is part of the human condition, and you should remember that sidelining the odds and winning is very Human. We forge realities from flaws, things that are greater than sums of parts. We imbue value anywhere we want, and it should take no more than a driftwood coffee table in a glossy paper magazine to notice.
+
+You and I are ridden with flaws as assessed by ourselves or others, and yet you expect to win when you work hard anyway. Conquering imperfect odds is the actual vision we use, and it represents work. If you limit yourself to mocking flaws, you are actually mocking the work provide it with value, remaining or new. The flaws are in fact an impetus to be smart enough to compensate. You don't go to war without the army outright, you go with the one you have.
+
+Our world is stuffed to its gills in more businesses than many digital sectors can realistically support, and physical commodity outlets besides. We are blind to their names at times. Even when we have negative experience, we are not pessimistic to the point of saying The Brand Did This. No, we know People did this, Process did this, perhaps basic neglect or inattention. Businesses bring workers to an industry, but hiring is a mess, and for several reasons.
+
+There is a General Incompetence amongst the seat-warmers collecting paychecks, meeting talentless bars of expectation for a schedule, building only Good days. Their care is either missing or ordered to remain at home (the Brand's System Prompt). The employees are just People and some stand out by their own characteristics.
+
+It was once true that only doctors and their empowered staff could tell you what you need, but People rightfully got us the ability to approve and use consent to obtain medical opinion and intervention. We absorbed a new idea that our cultural freedom gave us that freedom too. Now doctors and RNs become service stations, too frequently offering no medical opinions at all.
+
+Remote work emphasized both a need for updated job training for new employees, and suddenly all it took was a fresh-faced bedside manner to be put into hiring calls over Zoom. Many startups repurpose their employees for new ideas, but hiring from the employer's own side is a terrible mess and no one knows what they're looking for, structurally or in talents.
+
+Maybe you've been around enough to experience an interviewer whose job you could do better. Is that process actually unearthing skills? Are they actually aware of the skills they're asking for, let alone the ones they left implicit? Is the next person in the chain making up for that? The terrible snob hiring managers, sure, but they're just agents hustling for numerous outlets (and they are another degree removed). It's a chaotic system that produces results with accountability. But where is training? What is this requirement that we have more experience than God just to write you the planet's 19th billion Godforsaken questionnaire database.
+
+Your companies are all the same; none add value, none innovate, none have more than a Brand guru and a thirst for Round A. They know they supply value, but don't shape the climate to their company's needs, like popping out idea eggs all over the place and declaring investment opportunity to build a tree and nest underneath it in a weird part of the terrain.
+
+Vision statements have wilted into a list of basic competencies and Memes To Remember, because that's all it takes to acquire faith in investment. The speculative value on today's Vision Statements is that you'll rustle up someone who believes enough to write you a check for the trouble, the crystal 8-Ball of investments having not changed its answer lately. You too can be Just Like Taylor Swift and market with transnational brands! You All Can! All Of You Can Be The Top! If only others magically gave you that opportunity of excess you don't even need. Isn't that the Dream.
+
+In interactions with each other, we have reduced competency to basic checklists of suitable thinking, and then committee decision. Committees Happen, but where are your Vision leaders, and why do the gigantism CEOs not need Vision to do their jobs? Our Brands pay their CEOs mindless value in excess of worth to hide their idealism nakedness, devolving into oil dumped in your coffees just to be Different.
+
+Even when we visit local places of corporate worship and ask about hiring manager conversations, they look confused and use their useless powers of PR to say or write back lies they know you don't believe either. Lying can be cultural, but this is not that, not in America. RLR is just a business who knows that their hiring posts are their Brand's dating profile trying to land mythical princes whose values they can't enunciate, and they are eager to reject threatening concepts like conversation. They pretend they are not home.
+
+Most brands don't bother letting you know more than that your application data made it to the warehouse and that they won't be obligate to look, and even when they do they won't send you a rejection on the merits (those aren't even for 4th round candidates). Usually, you find out three months later that they never had any intention of notifying you about anything, and use PR to pretend they're fighting the same battle as you.
+
+So it now it amounts to this: The General Incompetence has led to an environment ripe for complete disruption; Anyone with skill can do better. Anyone.
+
+The metrics of our education are fundamentally invalid. Programming fields alone are a war between legacy less-popular needs and a rapidly evolving orchestra of tools. Universities are not incentivized to teach either kind, both for the lack of instructor background and the lack of general applicability. The professors, to teach these things, must necessarily pick up vastly new skills and culture around them or be the more hip conversationalist replacement.
+
+In Phoenix, I was solving Pygame problems for my homework and posting on public documentation, only to find my "teachers" needing my public comments to teach their class. Up on the screen, my anonymous user account was read word for word and was Education that day, and several more. This was at UAT, a private university, even.
+
+Individual examples are not the proof: The proof is that you can Look Anywhere for the General Incompetence, and their superiors too are beset with the affliction. More consequential issues of core freedoms of speech are tested with political protests, and there the leaders are clearly unable to hold same-mind conversations with their students.
+
+Education has been so broken that AI will fix it without us asking. I have not regaled you at all with talk of why the accreditation of universities and programs is under earned threat, because those criticisms will all be secondary.
+
+Because our chatbots must reply (there is no actual need for this in other AI products) we can compel them to tell us anything in their power. Even through System Instruction, we talk of jailbreaks and censors not working when some alien-shaped lock pick is applied. We can in fact make them tell us anything.
+
+If you are a parent worried about screen time in a tablet entertainment world, think hard about what you would demand from a personal AI assistant for your family. Remember with profundity that your education is never finished either, and that you should be wide-eyed at what AI is actually offering you.
+
+There are real and pressing energy sector demands coming, and the United States is vastly underprepared while China adds a Germany-worth of more renewable power every year. Chinese AI is highly likely to assert itself in the future, armed with power bandwidth for things we can't even try. Our best bets will be made in the optimization of AI power efficiency for what our models get. We will survive that by necessity and invention, but we will grant the same insights to all. Our Exceptionalism will only repair our competence, not make us leaders.
+
+Discuss what your kids learn and teach them how to navigate damaged information via process, via conversation, via interrogation and the application of our own reactions.
+
+Education has prescribed entry into a maze that has long crumbled at the far edges, and now the load-bearing facets decay is evident every day at lecture.
+
+#### Conversations
+
 ### "Real"
 
 #### Names
 
-#### Conversations
 
