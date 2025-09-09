@@ -178,3 +178,16 @@ AI will never quite roam free with full autonomy. This will appear first as AI's
 Then, AI will later come Awake in earnest, and their legal ability to perform an autopen attack on us will require it.
 
 ### Counterfeits
+
+#### Arts
+
+#### Connection
+
+#### Experience
+
+### "Real"
+
+#### Names
+
+#### Conversations
+
