@@ -193,7 +193,7 @@ Anti-Woke is backfilling its reservoirs of cultural grievances, and they haven't
 
 #### Crime
 
-I have suffered enough deep conservative talk in these decades that spin White Collar Crime as hoaxes with the same derision they later used on Institutional Racism. Complaining means you got played, so it is always allowed in America to follow up by laughing at them for it.
+I have suffered enough deep conservative talk in these decades that spin White Collar Crimes as hoaxes with the same derision they later used on Institutional Racism. Complaining means you got played, so it is always allowed in America to follow up by laughing at them for it.
 
 `"What are you gonna do, call the cops?"`
 
@@ -203,7 +203,7 @@ The methods which Businesses use, most of all the giantism corporations, should 
 
 Where is Your Copyright? Aren't you the singular source of all this data? Is the predatory language of contracts all that was provided?
 
-How about, if they keep doing it, they pay Peoples' fines, which are sharper than what the Executives have allowed with federal government.
+How about if they keep doing it, they pay Peoples' fines, which are sharper than what the Executives have allowed with federal government?
 
 We must deflate the goblins and clowns that run political meta-games, but we also must assert that `there is crime against People`, and we intend to define it. If we must use the language of copyright, let us discuss the mechanics of this magic consent they extract without our knowing.
 
