@@ -47,7 +47,7 @@ print(json.dumps({
   "meta": {
     "path": path,
     "repo": repo_root.rsplit("/",1)[-1],
-    "generated_at": datetime.datetime.utcnow().isoformat(timespec="seconds")+"Z",
+    "generated_at": datetime.datetime.now(datetime.UTC).isoformat(timespec="seconds")+"Z",
     "total_bytes_changes": sum(v["bytes_changes"] for v in weeks.values()),
     "total_bytes_touches": sum(v["bytes_touches"] for v in weeks.values()),
     "unique_weeks": len(hist),
