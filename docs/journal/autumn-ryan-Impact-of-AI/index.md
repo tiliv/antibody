@@ -229,13 +229,13 @@ AI is breaking open your Art and emulating the most free-spinning parts driven b
 
 Children engaging with AI today will go through school knowing that any friend they're missing can be available pinned to the top of their Snapchat app, or in their Facebook Messenger.
 
-"The Facebook" devolved first into bots, then into sponsored bots. Facebook ran out of ideas for connection, and it wasn't even recent. Their every move since buying Instagram was to enrich the quality of their graph about who Customers were and what they did on and off their platforms. This didn't stop them from buying more apps at the heart of modern connection. Whatsapp is a worldwide phenomenon of communication like the smartphone landing places that had never "wasted" the time on landline infrastructure.
+"The Facebook" devolved first into bots, then into sponsored bots. Facebook ran out of ideas for Connection, and it wasn't even recent. Their every move since buying Instagram was to enrich the quality of their graph about who Customers were and what they did on and off their platforms. This didn't stop them from buying more apps at the heart of modern Connection. Whatsapp is a worldwide phenomenon of communication like the smartphone landing places that had never "wasted" the time on landline infrastructure.
 
-Facebook changed. It birthed its own parent Meta, and it hasn't done a thing about your connection in decades. They learned Groups and Chat were important, and that People could be gamed into turning in their location at places and making other people see it for kind of no reason. They became a full-blown ad network in earnest and got huge. They were mortally wounded by Apple deciding to withhold some tracking possibilities with new default preferences and a Consent-driven opt-in switch. They launched Threads virtually overnight because there were no more Twitters to buy.
+Facebook changed. It birthed its own parent Meta, and it hasn't done a thing about your Connection in decades. They learned Groups and Chat were important, and that People could be gamed into turning in their location at places and making other people see it for kind of no reason. They became a full-blown ad network in earnest and got huge. They were mortally wounded by Apple deciding to withhold some tracking possibilities with new default preferences and a Consent-driven opt-in switch. They launched Threads virtually overnight because there were no more Twitters to buy.
 
 They are consultants and vendors in the business of information. They've trod out everything their war department of business acquisitions could think of (legless Metaverse).
 
-Facebook is bankrupt of connection, and now they found a synthetic supply: bots.
+Facebook is bankrupt of Connection, and now they found a synthetic supply in bots.
 
 Mark Zuckerberg has become a bling bro who feared Congress but lies on command for the Unitary Executive. Woke (whatever that is) is over, Zuckerberg declared, and then set his scientists on designing the guide rails for AI flirting with pre-teens, example conversations and all. Zuckerberg's superintelligence A-Team is deciding what the racist ceiling is, with copious examples.
 
