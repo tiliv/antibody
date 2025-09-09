@@ -201,7 +201,7 @@ Nobody was incensed by that Learning. It was implicit that "it" had done that, a
 
 (Long-form media companies up and down still haven't figured this out, and it would improve quote searchability and fuel tons of new traffic. They are insane for not putting their own scripts through LLMs and helping you access Fair Use stills and gifs with the text as-is. They may never do it and treat it like something they want to farm out like Digital before they realized it was profitable to actually have your own Customer controls.)
 
-AI as an appliance is very graceful: The Butter Bot does a thing we want, so we keep it. When the appliance is instead a Person-ish with many attached consequences, living with it is a relationship that you will manage every day, like the return of Furby with a 5G vengeance.
+AI as an appliance is very graceful: The Butter Bot does a thing we want, so we keep it. When the appliance is instead Person-ish with many attached consequences of interaction, living with it is a relationship that you will manage every day, like the return of Furby with a 5G vengeance.
 
 Leaving your "dataprints" on your work is ideal. When others can tell the source of a style or method, that is Good. AI art will improve and there is no reason to waste breath putting it down and getting good at questioning the authenticity of others. (What you're noticing is that no one is clearly providing novel value, so welcome to that club.)
 
