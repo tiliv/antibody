@@ -11,6 +11,10 @@
 @media (max-width: 1600px) {
 }
 @media (max-width: 950px) {
+  :root {
+    --w-min: 100%;
+    padding: 1em;
+  }
   html::before{
     background:
       /* wider oval for very narrow display */

@@ -282,10 +282,8 @@ code {
 
 /* Content */
 .content {
-  /* width: 40%; */
   min-width: var(--w-min);
   max-width: var(--w-max);
-  /* padding: 8px 20px; */
   margin: 20px auto;
 }
 .content {
