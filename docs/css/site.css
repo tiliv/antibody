@@ -161,23 +161,6 @@ body {
   column-gap: .75rem;
   row-gap: 2px;
 }
-.change-stack {
-  display: flex;
-  flex-direction: row;
-  gap: 2px;
-}
-.change-stack + * {
-  align-self: anchor-center;
-}
-.change-stack code {
-  inline-size: max-content;  /* effective height */
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-  /* font: 600 12px/1 system-ui; */
-  padding: 0.4em;
-  text-align: center;
-  user-select: text;
-}
 #scroll-top {
   z-index: 5;
   position: fixed;
