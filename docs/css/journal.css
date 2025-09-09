@@ -133,19 +133,19 @@ aside.side a:hover {
 }
 .tags {
   font-family: monospace;
-  mix-blend-mode: luminosity;
 }
 .tags span {
-  display: inline-block;
-  padding: 0.2em 0.8em;
+  margin: 0 0.2em;
   color: var(--io);
-  background: var(--bg2);
-  border: 1px solid #00000080;
-  border-left: none;
-  border-right: 0.25em dashed #00000080;
 }
-.tags span:first-child {
-  border-left: 0.25em dashed #00000080;
+.tags span::before {
+  content: "+";
+  padding: 0 1em;
+}
+.tags span:first-child::before {
+  /* border-left: 0.25em dashed #00000080; */
+  content: "";
+  padding: 0;
 }
 
 article {
