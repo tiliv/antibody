@@ -117,6 +117,34 @@ body {
   margin: 0 auto;
   text-align: justify;
 }
+#authors {
+  display: flex;
+  flex-direction: row;
+  /* gap: 1em; */
+  justify-content: center;
+  place-items: top;
+  margin-top: 1em;
+}
+#authors h2 {
+  font-family: ArticleFont, "Times New Roman", times, serif;
+  font-size: 2em;
+}
+.contacts {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.piece-list {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+}
+.piece-list > [data-kind] {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: min-content;
+}
 #scroll-top {
   z-index: 5;
   position: fixed;
