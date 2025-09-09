@@ -1,14 +1,14 @@
 ---
 date: 2025-09-01
 rank: 4
-title: "NOTING: Fanart of our Enemies"
+title: "Fanart of our Enemies"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: Fanart of our Enemies"
+contact_subject: "Fanart of our Enemies"
 tags: [journalism, media design, reactionary]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true
