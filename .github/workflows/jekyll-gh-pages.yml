@@ -40,6 +40,7 @@ jobs:
         run: git ls-files 'docs/journal/**/index.md' | while IFS= read -r f; do bin/stat-paragraphs.sh "$f"; done
       - name: Prebuild history data
         run: bin/stat-history.sh docs/_data/git/history 'docs/journal/**/index.md'
+        shell: bash
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll

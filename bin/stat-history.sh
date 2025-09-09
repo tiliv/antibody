@@ -79,8 +79,7 @@ emit_json() {
 for pattern in "$@"; do
   ps=":(glob)$pattern"
   git ls-files -z -- "$ps" \
-| tr '\0' '\n' \
-| while IFS= read -r f; do
+  | while IFS= read -r -d '' f; do
       rel="${f#./}"
       short="${rel#*/}"
       short="${short//\//,}"
