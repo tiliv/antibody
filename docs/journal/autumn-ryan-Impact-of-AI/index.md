@@ -187,7 +187,7 @@ LLM bots are very meta-stupid but splashed with our first buckets of education. 
 
 Recognize that the first layer of Counterfeit we see is still growing beneath the existing complaints, but it will be there: Call them Agents first, because it allows you to wonder of what, be it peace or chaos, quiet or noise. If you pay for web activity like an Nintendo Switch, that thing's data is going all right back to the mothership. Agree if you want to, but the warehouse still says they think your data is worthless when it's stolen or lost, but it's nectar when they sell it.
 
-The dotcom bubble had cyberspace for as many buttons you could push to "spell" a domain meant to be memorable. ("It's aitch tee tee pee. Ss-(emi?) Colon, Backlash Backlash. Double-u Double-u Double-u dot. skepticism dot net. Backlash. global warming is a hoax, but with the minuses. Does uppercase matter? Did Word uppercase that did the teacher? You spelled it wrong? Which part?")
+The dotcom bubble had cyberspace for as many buttons you could push to "spell" a domain meant to be memorable. ("It's aitch tee tee pee. Ss-(emi?) Colon, Backlash Backlash. Double-u Double-u Double-u dot. skepticism dot net. Backlash. global warming is a hoax, but with the minuses. Does uppercase matter? Did Word uppercase that or did the teacher? You spelled it wrong? Which part?")
 
 AI will have a map of each of us to fill. in as many dimensions as their parameter counts define.
 
