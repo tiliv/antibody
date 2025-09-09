@@ -127,6 +127,8 @@ body {
   margin: 1em 0;
 }
 #authors h2 {
+  cursor: auto;
+  width: fit-content;
   font-family: ArticleFont, "Times New Roman", times, serif;
   font-size: 2em;
 }
