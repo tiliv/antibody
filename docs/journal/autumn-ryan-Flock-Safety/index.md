@@ -1,12 +1,12 @@
 ---
 date: 2025-08-30
 rank: 3
-title: "NOTING: Flock surveillance capabilities"
+title: "NOTING: Flock surveillance"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 
-contact_subject: "NOTING: Flock surveillance capabilities"
+contact_subject: "NOTING: Flock surveillance"
 tags: [ai]
 
 layout: noting
