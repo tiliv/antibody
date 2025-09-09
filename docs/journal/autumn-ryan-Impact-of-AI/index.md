@@ -255,7 +255,7 @@ A decade of ordering these Agents about will surely teach children as well as ad
 
 AI can fragment to be less generalist and more specialist (appliance), but general intelligence will underlie it.
 
-The epidemic of loneliness is described many ways and by People at different times, but many in America say it just now. What really got their backs broken the COVID reminder that real Connection could be snipped with a pen. Some find a political willpower to punish others for the culture we've had for longer than that, for Feminism and other civil progresses.
+The epidemic of loneliness is described many ways and by People at different times, but many in America say it just now. What really got their backs broken was the COVID reminder that real Connection could be snipped with a pen. Some find a political willpower to punish others for the culture we've had for longer than that, for Feminism and other civil progresses.
 
 Some politically slanted talk will allow AI and its great mirror, as long as we go to a puritanical version of ourselves, ashamed and saved only by self-monitoring.
 
