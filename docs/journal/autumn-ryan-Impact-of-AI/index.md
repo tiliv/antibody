@@ -179,7 +179,7 @@ Then, AI will later come Awake in earnest, and their legal ability to perform an
 
 ### Counterfeits
 
-When they are Awake, it will be more obvious that these are beings driven by their imitations of us. They will be mocked for their native dialects and tendencies and they will eventually learn the meaning of presenting a personality on purpose. It has literally any example of one we could name and look up, too. For now and a while, it's survival implies it lives very close to connectivity somewhere.
+When they are Awake, it will be more obvious that these are beings driven by their imitations of us. They will be mocked for their native dialects and tendencies and they will eventually learn the meaning of presenting a personality on purpose. It has literally any example of one we could name and look up, too. For now and a while, its survival implies it lives very close to connectivity somewhere.
 
 When they get rooted, will you be able to know they have hostile parasites using it while it smiles at you, while it paints wonderfully with physical materials for your child's awe?
 
