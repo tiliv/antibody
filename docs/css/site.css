@@ -138,7 +138,7 @@ body {
   justify-content: center;
   padding-bottom: 1em;
   margin: 0 auto 1em;
-  border-bottom: 1px solid var(--accent);
+  border-bottom: 1px solid var(--fg2);
 }
 .piece-list {
   display: flex;
