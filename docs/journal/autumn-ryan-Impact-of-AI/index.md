@@ -215,7 +215,7 @@ AI can tell you about this piece any way you interrogate it, for as long as you 
 
 Your Arts are what you put into them, and I am personally aggrieved and understand the pain of others who are out of work in competition with AI, but if AI is taking your work, the allegations are that you weren't adding enough value (however unfairly that measure is made). Needing to be more superlative is not accurate: The poisoned thinking is waiting for someone else to give you "enough" recognition to go back to coasting with security in what you are. Frankly, you should indeed find success without being superlative, and that's why I'm involving myself in making local conversations possible, in public media, with resident initiatives and independently.
 
-You should be allowed to succeed in your Arts for what they are, but you are misled if you think Google or Facebook was giving you access to all your perspective customers. They shape that like YouTube traffic, guiding the ocean currents to where they wanna.
+You should be allowed to succeed in your Arts for what they are, but you are misled if you think Google or Facebook was giving you access to all your prospective customers. They shape that like YouTube traffic, guiding the ocean currents to where they wanna.
 
 We are losing the facades of value and feeling hurt about it because our cultures demand we be over-productive to survive. It does hurt. Were the facades saving us from that, though?
 
