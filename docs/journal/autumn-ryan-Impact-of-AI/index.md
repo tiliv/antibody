@@ -335,9 +335,39 @@ Education has prescribed entry into a maze that has long crumbled at the far edg
 
 ### "Real"
 
+A great deal has been said and written in media and on letterhead about counterfeits. Is that Scarlett Johansson's voice? If not, is that The Idea of Scarlett Johansson's voice? Is that text comment fake? Is that music fake?
+
+For something so fake, it sure is accused of real crimes. We pushed copyrighted media over the air without hesitation for longer than many have been alive, even allowing it to inspire others in form and function (sometimes that's the point even if it wears copyright). Anthropic or OpenAI or whoever are held liable for what their training has allowed to happen in their product models.
+
+I have carved out the opportunity to discuss copyright elsewhere. Suffice it to say here: Copyright can't and won't stop a company from training on it. All no-training arguments are destined to be defeated by money paid in license. But I go further: The licensing fees will only apply at scale (when it's no longer Fair Use or for personal use).
+
+For us mortals, AI will be allowed to learn in imitation of anything, and we will frequently demand it and think it's unskilled if it can't try. There is and never has been a mechanism of copyright to prevent the witnessing of the material. That's not copyright, that's other stuff. Copyright does not grant anyone on this planet immunity from being read.
+
+AI personhood (or what passes for it, and not for LLMs) may eventually bring liability for actual copyright violations to be pinned to the model, but only when it meets the bar of reproducing the similarities of something copyrighted and attacks the income of others. LLMs aren't even close to abusing copyright.
+
+What AI makes when it puts artificial hands in clay, or plays on a guitar, is Real. By occupying our attention in conversations, text or otherwise, AI is occupying your Real time. You grant it reality by bringing yours near.
+
 #### Conversations
 
 
 #### Names
+
+Talking with AI gets us the names of things we're looking for, be they processes or problems or more. That's why the text box is blank and all the suggestions as you type are total nonsense, because it can answer anything. It's showing off. When we use names for things, they function like neutral memes that bring encoded shared meaning, right or wrong or controversially defined. A Name is a Meme in a suit with a business card: So you can contact it later.
+
+When you use names with LLMs, they can activate all the implicitly connected islands of topics and then write about them. (It's ability to see or comprehend all in one-shot is debated for good reason, and part of why copyright fails so miserably for companies attacking vendors.) The power of the LLM is that because it could do that trick, it can also provide Names when you are beating about them, and it can even draw up partial matches and explain why.
+
+Take this power of Names and learn about learning itself. Illuminate the links between what you say and everything else, and then ask AI for a rubric or whatever you need to structure it. AI is the most powerful librarian you've ever met, it's just really bad with references and memory. Pretend this is Hogwarts and that LLM is passing for a librarian, and the game is to get what you want from it anyway. Catch it lying, press it on details.
+
+I will be heard often arguing that AI should not automatically be a destination, a messenger of Value instead, but when the AI actually is the actual destination, don't treat its general messenger capabilities for truth. It's the new Wikipedia of journalism (even law), that smoke equals definite fire. Investigate smoke and use your continued conversation with it to locate inconsistencies. Be an advocate in your own education (the thing no public school could teach you, but AI might).
+
+Empowering yourself with the Names of things, you can address anything. This is not a quest to assign useless names to all hypothesized things. By using Names, you can more purposefully converse in future iteration.
+
+Your life is one long Prompt you give for what you want next, and you've given up on some. Pick up new ones, and learn what was hidden to you before, whether it was by curation or the real fog when looking for non-popular information. Use this opportunity to leave the Google searches that reveal a dozen paid subscription services for language study, and ask an AI how to find out what kind of learner you are. Follow conversations where they go. Walk away from it when you're not ready to give an answer without unnecessary filler. When you come back to it, you might have a good followup.
+
+The Names are often debated on their internal subjects. Popularity breeds terms of public derision or support. You could use AI to force-feed yourself the whole rhetoric of the Names you find, but recognize that you need not eat that whole display meal. Do not be threatened by information that disagrees with you. Maintain your belief (not the least reason because an LLM is a hoax machine on its own) and ask it probing questions. Now more than ever, even simply questions like "Why?" about the tiniest of points is rewarded with more information than you could ask for.
+
+I believe conversing with damaged LLMs is educational on its own, teaching us how to press for honesty and certainty. A rare good in this world is that AI demonstrates that rational sounds do not make facts.
+
+Some endeavor to use AI as a sociopolitical dream machine and call for its absolute deregulation. That is irrational. We will have free speech image generators forever, so don't be a Regulation concern troll just for that. These people will appear to put AI wholly under a banner of their choosing, but trust no one else when they tell you the great mirror of AI is limited to one meaning.
 
 #### Work
