@@ -1,0 +1,5 @@
+<div class="size">
+  {%- assign words = include.piece.content | number_of_words -%}
+  <strong>{{ words }} w</strong> ;
+  <em>{{ words | divided_by:200 | ceil }} m</em>
+</div>

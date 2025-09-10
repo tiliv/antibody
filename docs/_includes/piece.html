@@ -22,17 +22,8 @@
       <a href="{{ include.piece.url }}">{{ include.piece.title }}</a>
     </h3>
     <aside>
-      {% assign words = include.piece.content | number_of_words %}
-      {% assign minutes = words | divided_by:200 | ceil %}
-      <div class="size">
-        <strong>{{ words }}w</strong> ;
-        <em>{{ minutes }}m</em>
-      </div>
-      <div class="tags">
-        {%- for tag in include.piece.tags -%}
-          <span>{{ tag }}</span>
-        {%- endfor -%}
-      </div>
+      {% include duration.html piece=include.piece %}
+      {% include tags.html piece=include.piece %}
     </aside>
   </div>
 </div>

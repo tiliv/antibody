@@ -20,20 +20,11 @@ contact/{{ page.author | slugify }}.md
 
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
 <div id="by-line">
-  {% assign words = page.content | number_of_words %}
-  {% assign minutes = words | divided_by:200 | ceil %}
-  <div class="size">
-    <strong>{{ words }}w</strong> ;
-    <em>{{ minutes }}m</em>
-  </div>
+  {% include duration.html piece=page %}
   <code class="date">
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>
   </code>
-  <div class="tags">
-    {%- for tag in page.tags -%}
-      <span>{{ tag }}</span>
-    {%- endfor -%}
-  </div>
+  {% include tags.html piece=page %}
 </div>
 <div id="layout">
   <article class="content">

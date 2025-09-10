@@ -45,13 +45,13 @@ priority: 1.0  # minor: sitemap scan priority
       <div data-kind="journal" markdown="1">
         {%- assign ranked = journal | sort: "date" | sort: "rank" -%}
         {%- for piece in ranked -%}
-          {%- include piece.md piece=piece -%}
+          {%- include piece.html piece=piece -%}
         {%- endfor -%}
       </div>
       <div data-kind="noting" markdown="1">
         {%- assign ranked = noting | sort: "date" | sort: "rank" -%}
         {%- for piece in ranked -%}
-          {%- include piece.md piece=piece -%}
+          {%- include piece.html piece=piece -%}
         {%- endfor -%}
       </div>
 
