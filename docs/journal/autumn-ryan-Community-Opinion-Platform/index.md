@@ -32,7 +32,7 @@ index: true
 
 **The Search Era made local searches for information redundant** but with our actual local supports now missing, we are plunged into a relative fog in our own cities (save for what national services and apps show us, with implicit profiteering motives in sponsored results for national brands).
 
-**Our access to our local People is dangerously filtered by apps and services.** Companies control the way discourse is made visible. This is their feed curation in action. We must not allow those many national organizations to divide us by algorithm and fated for mass viewership goals.
+**Our access to our local People is dangerously filtered by apps and services.** Companies control the way discourse is made visible. This is their feed curation in action. We must not allow those many national organizations to divide us by algorithm, fated for mass viewership goals.
 
 **Opinion platforms with established reputation will grow in time** and become diverse in their methods of inviting locals to know and care about anything. Future journalists may find a taste for what they find, and tenured residents have a place to show their wisdom and let us learn from our age barriers.
 
