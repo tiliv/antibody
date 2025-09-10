@@ -153,7 +153,7 @@ You must be capable of surviving and operating in a world of damaged information
 
 In the ideal: Be unstealable. Make theft against you your honor. If your content is not recognizable as yours, then maybe you weren't doing anything of value you added anyway.
 
-AI will start rumors about anything it sees. Let it start rumors about you, and be less concerned with policing data quality. We live in a startlingly broken information society already. We can't agree about much more fundamental facts than what AI says about you.
+AI will start rumors about anything it sees. Let it start rumors about you, and be less concerned with policing data quality. We live in a startlingly broken information society already. We can't agree about much more fundamental facts than what AI says about you. Control your own first-party claims with metadata, and make them available when people seek authority about you. That the rumor-facts will be wrong is barely noteworthy.
 
 AI is a mirror, so hold up what you are and leave the interpretation of it to 1) the characteristics of your material, and 2) the People who see it.
 
