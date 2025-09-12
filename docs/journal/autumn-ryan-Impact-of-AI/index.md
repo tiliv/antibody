@@ -27,7 +27,7 @@ Not to be passed over, we really rushed AI to its markets. Vendors buy LLM API c
 
 This isn't training yet (they can't hire enough LLM talent everywhere at once) but certainly facilitates its next application. The true Targeted Advertising is coming.
 
-AIs will indeed get to know you individually, they will indeed become many, because there will be farms of You, shelves of models of You, accepting things on your behalf, things you """are likely to have consented to using conventional technology""".
+AIs will indeed get to know you individually, they will indeed become many, because there will be farms of You, shelves of models of You, accepting things on your behalf, things you “““are likely to have consented to using conventional technology”””.
 
 The Businesses carved out in their first strike the ability for AI to make decisions. In the courts of the future, Businesses will argue that their models can impersonate your buying habits so well that they can literally purchase things for you and you must intervene to legally preempt a charge on a card you just got and haven't used. Don't even think hard about it: Your phone Network sells your Location and your Credit Card sells your activity to the specific stores you were predicted to visit this week, to the shelves at the grocery store for a new product on steeeeeeep Discount For You, preying on your poverty. Stores get personalized sales that they no longer control because the AIs do that like inverse Door Dash coming to sell something. Prices get fake because you have to wait for the AIs to offer something reasonable. They'll send Strangers to intercept our travel routes with offers, the billboards having already been programmed by the minute for the individuals predicted to be there.
 
@@ -363,7 +363,7 @@ There is a possibility we believe what is put in our eyes too much, but perhaps 
 
 In a few decades, we'd ironed that out to just mostly Skype going robo as you were banished a lot from the UDP plane for one turn for inscrutable reasons. Call it network shaping hazards or protocol inefficiencies, sometimes the computers just bloinked at us, and we always take it as noise, smeared Something Else, between the Real Data it rides with.
 
-Now their bloinking is in text and audio and video. (ChatGPT Voice Mode has been weird to me.) It's between the lines, what the LLM leaves out (or is ordered to like that """sputnik moment""" DeepSeek R1). Their guile is not just in the missing stuff, but in the absolute need to arrive at an ending that rationalized before the parts tried. It'll say anything to turn in that paper, because that's what papers do, they turn in.
+Now their bloinking is in text and audio and video. (ChatGPT Voice Mode has been weird to me.) It's between the lines, what the LLM leaves out (or is ordered to like that “““sputnik moment””” DeepSeek R1). Their guile is not just in the missing stuff, but in the absolute need to arrive at an ending that rationalized before the parts tried. It'll say anything to turn in that paper, because that's what papers do, they turn in.
 
 We will forever be able to tell language-capable model AIs what we want in our own best vocabulary (which are sometimes imprecise compared to code, but both come from careful attention). We can teach it what is wrong. There is the small matter of it remembering the next time it teleports in front of us like a Good Place Janet. The memory gap will not be so dire soon. (Whose Cloud Memory Privacy Policy will you sign?)
 
@@ -408,3 +408,19 @@ I believe conversing with damaged LLMs is educational on its own, teaching us ho
 Some endeavor to use AI as a sociopolitical dream machine and call for its absolute deregulation. That is irrational. We will have free speech image generators forever, so don't be a Regulation concern troll just for that. These people will appear to put AI wholly under a banner of their choosing, but trust no one else when they tell you the great mirror of AI is limited to one meaning.
 
 #### Work
+
+Work will be a most difficult adjustment, because for all we shake things up we do like knowable jobs. It's a little bit turmoil, whether you're replaced, looking anew or enduring the current stumbling tools. AI will absolutely be cheaper than some human effort in the long term, and I have spoken above about how optimization will simply make the technology valuable, let alone Capitalized.
+
+Agents as workers, owned or loaned, will afford managers an extremely unique opportunity to examine their ability to organize and give clear instructions.
+
+Managers will be valuable who hone their command of language as a method of guiding output. This is a portable skill, and one reason why having the opportunity to practice it is crucial to removing the bar to expectations.
+
+Workplaces sometimes shape their managers, but a manager's job is rather foremost to shape their teams into doing hard or interlocking tasks. Their expertise rather depends on that success rate, from a capitalist view.
+
+Remote work really emphasized this for many, where humans could no longer use standard presence in the room, and employees were mixed about a camera on call in their home and looked for blurs and backgrounds, or just didn't turn it on that day. Sometimes people behind those empty tiles are prone to tune out in ways they physically couldn't in a room together.
+
+Managers have a challenging task and look for employees they can work with, whatever their skills. In some places, tastes have gotten quite particular! It has concerned me generally for a time that the hiring pipeline cannot describe its needs very well, but expects mystical adherence to the ethos.
+
+Companies fail at pitching us about themselves because it's all compulsive non-statement and signalling. Though they know what they want, that document may not be useful depiction of it. The reasons workers get let go for can be many, but a good number derive from a lack of skill with motivational management. Keeping the resources you have, hiring from within, these are not novel ideas but company culture can fully prohibit it, if the Authority says so.
+
+"Real" work is not exclusive to some marketplace.
