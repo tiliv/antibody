@@ -22,6 +22,7 @@ index: false
   - Mastercard global sponsor with + Valorant (Riot Games, fully owned by Tencent in China)
   - Visa + Team Liquid (Brazil)
   - (LOUD has the bank, local discourse might have just slanted toward the gambling sponsors.)
+- Helldivers; the magical thinking of satire
 - modern idols
 - modern issues
 - department of war
