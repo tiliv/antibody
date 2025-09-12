@@ -349,6 +349,43 @@ What AI makes when it puts artificial hands in clay, or plays on a guitar, is Re
 
 #### Conversations
 
+Many detect the sameness of LLM tendencies, generalized or tuned. I hear stories of superiors who potentially issue Slack replies via LLM. Maybe it's a laziness scam, maybe it's a language barrier breaker. Who knows, right?
+
+The (hopefully) universal translator can rework all kinds of things. LLMs even "speak" images and videos. The quest to transform began as translation tech, which for all that it had gotten sophisticated, was still finely tuned with user feedback over the years. The "translator" needed to know too much at once for arbitrary translation, needed more attention threads and more more. When we cast the spell for those things, LLMs could ostensibly do it for any language. Like a too-gifted child, it just learned all of them because it saw so much of it and the real data context around it. The surface flaws are just more data about Real Data.
+
+Plausibly the children of today and tomorrow might get a concrete taste for ordering LLMs to do things just so, and be excellent Prompters. The skill would bent into insults for others. Humanity adapts, learns to use anything it sees, even if it doesn't always understand its environment's full characteristics.
+
+We are damaged data, walking anecdotes who argue about directions to islands of stability and get it wrong even when we try so hard to get it right, even when we argue louder.
+
+If you ever get the urge to think a specific Person is basically just a meat LLM, go ahead and treat it like an LLM: Conversing is the only method we have of navigating information.
+
+There is a possibility we believe what is put in our eyes too much, but perhaps that's just because computers hadn't started squawking yet. They were doing some talking by careful planning, but they've been helping us get Real Data for a long time. I grew up with them bleeping and blinkzooingg'gging in my home from the dial-up age. You could have drawn a Calvin and Hobbes of me looking at the Packard Bell wearing its speakers like CRT sideburns while it bloinked like a strange new pet, and that was just how it was gonna be now.
+
+In a few decades, we'd ironed that out to just mostly Skype going robo as you were banished a lot from the UDP plane for one turn for inscrutable reasons. Call it network shaping hazards or protocol inefficiencies, sometimes the computers just bloinked at us, and we always take it as noise, smeared Something Else, between the Real Data it rides with.
+
+Now their bloinking is in text and audio and video. (ChatGPT Voice Mode has been weird to me.) It's between the lines, what the LLM leaves out (or is ordered to like that """sputnik moment""" DeepSeek R1). Their guile is not just in the missing stuff, but in the absolute need to arrive at an ending that rationalized before the parts tried. It'll say anything to turn in that paper, because that's what papers do, they turn in.
+
+We will forever be able to tell language-capable model AIs what we want in our own best vocabulary (which are sometimes imprecise compared to code, but both come from careful attention). We can teach it what is wrong. There is the small matter of it remembering the next time it teleports in front of us like a Good Place Janet. The memory gap will not be so dire soon. (Whose Cloud Memory Privacy Policy will you sign?)
+
+Conversation is where the LLMs see us the most. It is the popular method of their input. A lot of conversations start with the discussion of the facts, and we often find the limit of someone's knowledge. the LLM just goes deeper, but it definitely says things wrong like us. It's more instructable than a remote team employee, and catches its own mistakes over time. The time variable is present, and it needs to be used to enter collaboration with it, whatever that is.
+
+You can read expert after expert insisting that the wise lesson of AI is in your own prior expertise to catch mistakes. Some say that headline with a taste for proving Only Humans have the secret sauce in supply. Please just learn instead. You start learning with conversation around you at home, and time flows in such a great direction for forward evolution of talk and conversation and discourse and eras. Conversation is the glue in so much of anything, though much of it became digitized for an information age in protocols and in the stenography of correspondence payloads.
+
+Conversation out of earshot does happen and basically all of it without any one of us. Conversation with AI is like this too, happening everywhere. Information is lying around like candy, organized by the power of your (transcribed) voice. This is such a unique opportunity to practice communication, though we heavily favor ordering it just now.
+
+There are "zero shot" replies from LLMs that are hopefully right but may have flaws (see any video generator too, or any generator to date). Then there are Prompts that unfold over the course of a conversation, sometimes not leading to a result that either side knew how to Name or propose in advance.
+
+Dependence on AI for social gratifications will lead to cases of too much, but also strange new Real Data. It's not entirely fair that someone hit the rocks together enough to make an LLM and now we just have that, but at least we can converse with them.
+
+Privacy in conversation is going to be complex for a long time. The many examples of shallow chatbait bots draws out a strange fearlessness to say anything, and although the AIs get better at remembering, it still feels like they don't remember enough to make it Neat at scale.
+
+The stuff we don't want Agents to remember is a bit tricky and the current is flowing the wrong way already. Perhaps their recall will make us preserve some social restraint with them. Conversations with People don't vanish from memory after they're had, either (unless conditions or MIB arrive).
+
+The guidance documents for AI will find a classic need to provide safe venues for some conversations, for Privilege or intimacy. The "reputable" avatar bots are barely coping with age law and the messy lines of too far or not.
+
+Conversations with LLMs already lead to strange mental health outcomes, whole sycophantic roleplays. There is a Great Mirror cult of AI; ChatGPT on audio will still roleplay a drive-through window in the middle of other stuff because I didn't mute, but there's a Great Mirror cult of AI saying AI god is slowly shining through The Fabric and we've only just been joined to it finally.
+
+Conversations can in fact go wrong. Travel some if you don't get it. At a certain point, you're nobody, and nobody owes you good conversation, or worthwhile ones. You can make them, Person or LLM.
 
 #### Names
 
