@@ -11,7 +11,7 @@
   font-size: 0.7rem;
 }
 .change-stack + * {
-  align-self: anchor-center;
+  align-self: center;
 }
 .change-stack .bar {
   inline-size: max-content;  /* effective height */
