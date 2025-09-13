@@ -54,7 +54,7 @@
   }
 
   #layout { container: layout / inline-size; grid-template-columns: none; }
-  @container layout (max-width: 1100px) {
+  @container layout (min-width: 550px) and (max-width: 1100px) {
     article.content{
       grid-template-columns: 1fr 1fr;
       gap: 0 1.25rem; /* avoid vertical gaps because empty cells must be small */
@@ -73,6 +73,7 @@
 @media (max-width: 550px) {
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
+  p, figcaption { margin: 1rem; }
   .qbtn { font-size: 0.7em }
   h2.is-sticky { font-size: 1.8em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1em !important; }
