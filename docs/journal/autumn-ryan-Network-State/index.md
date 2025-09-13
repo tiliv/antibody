@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 
 contact_subject: "NOTING: The Network State movement"
-tags: [impersonation, consent, counterfeits]
+tags: [governance, billionaire, charisma states]
 
 layout: noting
 public: true
