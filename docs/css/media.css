@@ -8,13 +8,8 @@
   margin-top: 10em;
 }
 
-@media (max-width: 1600px) {
-  h3 {
-    font-size: 2.3em;
-  }
-}
-@media (max-width: 950px) {
-  :root {
+@media (max-width: 1100px) {
+    :root {
     --w-min: 100%;
   }
   html::before{
@@ -31,9 +26,9 @@
   .nav.side { position: initial; }
   #title-stack h1 { font-size: 6em; }
   .links img { width: 40px; }
-  article { font-size: 1em !important; }
+  article { font-size: 1.1em !important; }
   h2 { font-size: 3em !important; }
-  h3 { font-size: 2.3em !important; }
+  h3 { font-size: 2.3em !important; }/* 1.8 */
   h3.is-sticky, h4.is-sticky { font-size: 1.7em !important; }
   /* #replication { margin-top: -3.5em; } */
   .side.left,
@@ -46,16 +41,33 @@
     max-height: 40vh;
     margin: 0 auto;
   }
-  #layout {
+  /* #layout {
     grid-template-columns:
       [left] 5vw
       [content-start] 90vw
       [content-end] 0
       [right];
     column-gap: 0;
-  }
+  } */
   .piece-list {
     flex-direction: column;
+  }
+
+  #layout { container: layout / inline-size; grid-template-columns: none; }
+  @container layout (max-width: 1100px) {
+    article.content{
+      grid-template-columns: 1fr 1fr;
+      gap: 0 1.25rem; /* avoid vertical gaps because empty cells must be small */
+      align-items:start;
+    }
+    article.content > .nav { width: max-content; margin: auto; }
+    article.content > *:not(h3,h4,h5,h6) { margin: 1em; }
+    article.content > * { grid-column: 1 / -1; margin: unset 25%; } /* stretch */
+    article.content > .side:has(+ *) { grid-column: 2; }  /* push right */
+    article.content > .side + * { grid-column: 1; margin-top: 0; } /* push left */
+    article.content > .side + .side { grid-column: 2; } /* join */
+    article.content > .side + .side + * { grid-column: 1 / -1; } /* reset stretch */
+    article.content > .side.nav { grid-column: 1 / -1; }
   }
 }
 @media (max-width: 550px) {
