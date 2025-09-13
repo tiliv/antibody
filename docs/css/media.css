@@ -9,6 +9,9 @@
 }
 
 @media (max-width: 1600px) {
+  h3 {
+    font-size: 2.3em;
+  }
 }
 @media (max-width: 950px) {
   :root {
@@ -29,8 +32,9 @@
   #title-stack h1 { font-size: 6em; }
   .links img { width: 40px; }
   article { font-size: 1em; }
-  h2 { font-size: 3em; }
-  h3 { font-size: 2.3em; }
+  h2 { font-size: 3em !important; }
+  h3 { font-size: 2.3em !important; }
+  h3.is-sticky, h4.is-sticky { font-size: 1.7em !important; }
   /* #replication { margin-top: -3.5em; } */
   .side.left,
   .side.right {
@@ -44,10 +48,11 @@
   }
   #layout {
     grid-template-columns:
-      [left] 1fr
-      [content-start] minmax(200px, min(700px, 60vw))
-      [content-end] 1fr
+      [left] 5vw
+      [content-start] 90vw
+      [content-end] 0
       [right];
+    column-gap: 0;
   }
   .piece-list {
     flex-direction: column;
@@ -55,15 +60,13 @@
 }
 @media (max-width: 550px) {
   .links img { width: 28px; }
-  article { font-size: 0.9em; }
-  h2 { font-size: 2.4em; }
-  h3 { font-size: 2em; }
+  article { font-size: 0.9em !important; }
+  h2.is-sticky { font-size: 1.8em !important; }
+  h3.is-sticky, h4.is-sticky { font-size: 1em !important; }
 }
 @media (max-width: 350px) {
-  #title-stack h1 { font-size: 4em; }
+  #title-stack h1 { font-size: 4em !important; }
   .links img { width: 18px; }
-  h2 { font-size: 2em; }
-  h3 { font-size: 1.8em; }
-  article { font-size: 0.8em; }
+  article { font-size: 0.8em !important; }
   article ol, article ul { padding-left: 0.5em; }
 }

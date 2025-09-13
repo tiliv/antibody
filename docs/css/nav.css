@@ -1,0 +1,51 @@
+.nav.side {
+  position: sticky;
+  top: 90px;
+}
+h1, h2, article h3, article h4, article h5, article h6 {
+  margin: auto;
+  position: sticky;
+  cursor: pointer;
+  transition:
+    height 0.5s ease,
+    width 0.2s ease,
+    font-size 0.2s ease,
+    margin 0.3s ease,
+    padding 0.1s ease,
+    font-weight 0.8s ease,
+    line-height 0.2s ease,
+    margin-left 0.8s linear,
+    margin-right 0.8s linear;
+}
+
+.is-sticky {
+  width: 50%;
+  padding: 0;
+  margin: 0 auto;
+  /* margin-left: 0%;
+  margin-right: 0%; */
+  z-index: 5;
+  height: 40px;
+  place-content: center;
+  border-bottom: 1px solid var(--shade);
+}
+h2.is-sticky {
+  font-size: 2em;
+  font-weight: normal;
+  width: max-content;
+}
+h3.is-sticky, h4.is-sticky {
+  font-size: 1em;
+  font-weight: normal;
+}
+h3.is-sticky {
+  margin-right: 50% !important;
+}
+h4.is-sticky {
+  margin-left: -50% !important;
+  margin-left: 50% !important;
+}
+h3:has(~ h3.is-sticky),
+h4:has(~ h4.is-sticky) {
+  position: static;
+}

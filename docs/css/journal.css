@@ -17,24 +17,6 @@
   /* background: red; */
 }
 
-.nav.side {
-  position: sticky;
-  top: 90px;
-}
-h1, h2, article h3, article h4, article h5, article h6 {
-  margin: auto;
-  position: sticky;
-  cursor: pointer;
-  transition:
-    width 0.2s ease,
-    font-size 0.5s ease,
-    margin 0.3s ease,
-    padding 0.1s ease,
-    font-weight 0.8s ease,
-    line-height 0.2s ease,
-    margin-left 0.2s linear,
-    margin-right 0.2s linear;
-}
 h1 {
   font-size: 3em;
   font-weight: normal;
@@ -47,56 +29,27 @@ h2 {
   hyphens: auto;
   text-align: center;
   margin: 0 auto;
-}
-article h3, article h4 {
-  word-wrap: break-word;
-  hyphens: auto;
-  text-align: center;
-  margin: 0.5em auto;
-}
-article h3 { font-size: 3.4em }
-article h4 { font-size: 1.5em }
-h2 {
+
   font-size: 7em;
   text-shadow: 0 .06em var(--sh);
   position: sticky;
   top: 0px;
 }
 article h3, article h4 {
+  word-wrap: break-word;
+  place-content: center;
+  hyphens: auto;
+  text-align: center;
+  margin: 0.5em auto;
+  height: 1em;
+  line-height: 1em;
+  min-height: 40px;
+}
+article h3 { font-size: 3.4em }
+article h4 { font-size: 1.5em }
+article h3, article h4 {
   text-shadow: 0 .06em var(--sh);
   top: 40px;
-}
-.is-sticky {
-  width: 50%;
-  padding: 0;
-  margin: 0 auto;
-  z-index: 5;
-  height: 40px;
-  place-content: center;
-  border-bottom: 1px solid var(--shade);
-  line-height: 0.9em;
-}
-h2.is-sticky {
-  font-size: 2em !important;
-  font-weight: normal;
-  width: auto;
-  max-width: 60%;
-}
-h3.is-sticky, h4.is-sticky {
-  font-weight: normal;
-}
-h3.is-sticky {
-  font-size: 1.1em !important;
-  margin-right: 50% !important;
-}
-h4.is-sticky {
-  font-size: 1em !important;
-  margin-left: -50% !important;
-  margin-left: 50% !important;
-}
-h3:has(~ h3.is-sticky),
-h4:has(~ h4.is-sticky) {
-  position: static;
 }
 
 aside.side {
@@ -132,6 +85,9 @@ aside.side a:hover {
   font-family: ArticleFont !important;
 }
 .tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   font-family: monospace;
 }
 .tags span {
