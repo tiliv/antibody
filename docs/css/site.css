@@ -171,7 +171,6 @@ body {
   background-color: var(--shade-hard);
   border-bottom: 1px solid var(--border);
   flex-direction: row-reverse;
-  justify-content: end;
   align-items: center;
 }
 #preferences-toggle {
