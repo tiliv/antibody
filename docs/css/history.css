@@ -30,5 +30,6 @@
   text-orientation: mixed;
   text-align: center;
   user-select: text;
-  white-space:nowrap;
+  white-space: nowrap;
+  width: 1.1em;
 }
