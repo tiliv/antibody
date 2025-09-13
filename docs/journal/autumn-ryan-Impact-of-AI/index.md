@@ -423,4 +423,26 @@ Managers have a challenging task and look for employees they can work with, what
 
 Companies fail at pitching us about themselves because it's all compulsive non-statement and signalling. Though they know what they want, that document may not be useful depiction of it. The reasons workers get let go for can be many, but a good number derive from a lack of skill with motivational management. Keeping the resources you have, hiring from within, these are not novel ideas but company culture can fully prohibit it, if the Authority says so.
 
-"Real" work is not exclusive to some marketplace.
+"Real" work is not exclusive to some marketplace. One big trouble is how we supply work for public good. Shrewd use of incentives has been the way of our domestic capitalism, but some factions freely argue that incentives for renewables are an anti-American effort.
+
+Much work will be described to you as Not Real. You will see People claim bandwagon titles like Prompt Engineer, just because they are interested. But you know what, if you're that person in a thousand who knows you're serious business, don't you stop.
+
+I used to attend Surrey International Writers' Conference (styled "SiWC") and found much value. Jack's song did everything we needed at the close of an event full of the realities of becoming professional writers. Many were novelists, and everyone knew self publishing was an option, and we were still full to the gills with people pitching at a room full of representatives we had to reserve long in advance of knowing what we'd be saying to them. You had to pick when you registered your ticket, so ticket day was more like researching the remaining options for agents or editors to see.
+
+In some sessions, you get to hear people say one in however-many-of-you are statistically getting published. Publishers and agencies have a team and they develop you and your peers like a portfolio they want to have shine, but it's not like everyone can just have a perfect agent, or the perfect deal with an editor. (You might want to try being an agent or editor for the things you like. If you are good at it, you might find a lot of business if you stay reasonable with your rates.)
+
+Writers were out there doing their thing, some wondering how to "break through", which secret sauce they were forgetting to add, some proclaiming how easy it was once it "clicked".
+
+The "clicking" may represent committing work to the right aspects of a story or format, that can't be messed up by editing or structural changes. Everyone at the conference is doing Real Work of varying kinds (the networking if nothing), but some were doing Realer Work by getting paid for literally anything.
+
+Similarly I think the Click is belief in self, knowing that we are not all at our potential at all times, and it navigate anyway. It takes something, to chart a course and really go there. Finish your projects. Pick better project goals. Succeed more often. Talk about it after it's done, not before. Don't totally squander education as recreation. It's a good time to watch Nile Blue, but also, you could do that. "That" isn't YouTube, it's Work.
+
+If you have an opportunity to discuss someone's work you respect, why not learn about what they see in it, when they feel accomplishment. Look for questions that grant you many answers at once, without knowing perfected questions first. Knowing how to get started is the symbolic start of conversational work.
+
+With work, it would be Statistically Unlikely to do increasingly perfect work. Allow for mistakes to exist, and divert blame energy into resolution energy. Skip over the disagreement and think about what you'd say next, and maybe just skip to the next. Expect imperfection, and learn to work with that anyway. Skipping blame lets you skip wasting time on distraction.
+
+Your work has value without a price tag. Actual Value is assigned by the beholder, so maybe find completely new people to meet and check the limits of your imagination. Talk to others first, and figure out what they Value. You might even hear something that sounds more interesting than what you thought of. It might even shape you into the type to Click and do it.
+
+None of our creations are ultimate, so don't only seek perfectionism to act. Act across time and avoid full-blown Analysis Paralysis in order to take responsibility for your own productivity or muse or whatever.
+
+When many writers in Surrey heard You Won't Make It, others were fully free to hear Just Walk Around That.
