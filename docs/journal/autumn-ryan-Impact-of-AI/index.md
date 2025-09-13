@@ -1,15 +1,15 @@
 ---
 date: 2025-09-06
-rank: 1
-title: "NOTING: Impact of AI"
+rank: 0
+title: "Impact of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 
-contact_subject: "NOTING: Impact of AI"
+contact_subject: "Impact of AI"
 tags: [impersonation, consent, counterfeits]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true
