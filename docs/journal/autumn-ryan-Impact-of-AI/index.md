@@ -99,7 +99,7 @@ Our "consent" is being lifted from us constantly, like an autopen that Businesse
 
 We attack not the real and recognizable efforts to acquire consent and the navigation of changing Terms, uses and business classification types. No, quite specifically we are unhappy with identifiable cause. Regulating a Business reigns in harsh and unwanted outliers to fit a whole that is otherwise doing just fine. In audio engineering, you might compress for identical reasons. The observed self-important Peaks do not have permission to steer the rest of this mix into its imagined alternative song. It must be shaped, although it may be inspiring.
 
-Each call or attempt at Regulation is met with harsh Memes that transmit quickly on social medias. Sometimes good points are made, but not in earshot of Power. Power hears about it over breakfast through an administrative assistant, and will file in the news under what kind of PR they get for free, without trying or asking.
+Each call or attempt at Regulation is met with harsh Memes that transmit quickly on social medias. Sometimes good points are made, but not in earshot of Power. Power hears about it over breakfast through an administrative assistant, and will file the news under what kind of PR they get for free, without trying or asking.
 
 Your Memes are not progress or conservation.
 
