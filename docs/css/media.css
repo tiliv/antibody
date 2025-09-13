@@ -31,7 +31,7 @@
   .nav.side { position: initial; }
   #title-stack h1 { font-size: 6em; }
   .links img { width: 40px; }
-  article { font-size: 1em; }
+  article { font-size: 1em !important; }
   h2 { font-size: 3em !important; }
   h3 { font-size: 2.3em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1.7em !important; }
@@ -61,6 +61,7 @@
 @media (max-width: 550px) {
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
+  .qbtn { font-size: 0.7em }
   h2.is-sticky { font-size: 1.8em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1em !important; }
 }
