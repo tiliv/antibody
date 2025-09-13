@@ -435,7 +435,7 @@ Writers were out there doing their thing, some wondering how to "break through",
 
 The "clicking" may represent committing work to the right aspects of a story or format, that can't be messed up by editing or structural changes. Everyone at the conference is doing Real Work of varying kinds (the networking if nothing), but some were doing Realer Work by getting paid for literally anything.
 
-Similarly I think the Click is belief in self, knowing that we are not all at our potential at all times, and it navigate anyway. It takes something, to chart a course and really go there. Finish your projects. Pick better project goals. Succeed more often. Talk about it after it's done, not before. Don't totally squander education as recreation. It's a good time to watch Nile Blue, but also, you could do that. "That" isn't YouTube, it's Work.
+Similarly I think the Click is belief in self, knowing that we are not all at our potential at all times, and navigating it anyway. It takes something, to chart a course and really go there. Finish your projects. Pick better project goals. Succeed more often. Talk about it after it's done, not before. Don't totally squander education as recreation. It's a good time to watch Nile Blue, but also, you could do that. "That" isn't YouTube, it's Work.
 
 If you have an opportunity to discuss someone's work you respect, why not learn about what they see in it, when they feel accomplishment. Look for questions that grant you many answers at once, without knowing perfected questions first. Knowing how to get started is the symbolic start of conversational work.
 
