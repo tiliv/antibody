@@ -61,10 +61,10 @@
       align-items:start;
     }
     article.content > .nav { width: max-content; margin: auto; }
-    article.content > *:not(h3,h4,h5,h6) { margin: 1em; }
-    article.content > * { grid-column: 1 / -1; margin: unset 25%; } /* stretch */
-    article.content > .side:has(+ *) { grid-column: 2; }  /* push right */
-    article.content > .side + * { grid-column: 1; margin-top: 0; } /* push left */
+    article.content > *:not(h3,h4,h5,h6,hr) { margin: 1em; }
+    article.content > * { grid-column: 1 / -1; } /* stretch */
+    article.content > .side:has(+ *) { grid-column: 2; margin: 0 1em 0 0; }  /* push right */
+    article.content > .side + * { grid-column: 1; margin-top: 0; } /* bring left */
     article.content > .side + .side { grid-column: 2; } /* join */
     article.content > .side + .side + * { grid-column: 1 / -1; } /* reset stretch */
     article.content > .side.nav { grid-column: 1 / -1; }

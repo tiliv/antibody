@@ -11,7 +11,7 @@ figure {
 }
 figure img {
   display: block;
-  max-width: 100%;
+  width: inherit;
   height: auto;
   transition: transform .25s ease, transform-origin;
 }
