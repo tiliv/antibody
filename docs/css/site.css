@@ -241,13 +241,12 @@ body {
   font-size: 1em;
   color: var(--io);
   font-weight: lighter;
-  text-align: center;
-  vertical-align: super;
-  justify-self: anchor-center;
+  display: grid;
+  position: relative;
+  place-items: center;
 }
 .truthy-pill::before {
-  position: absolute;
-  justify-self: anchor-center;
+  grid-area: 1 / 1;
   margin-top: 0.7em;
 }
 
