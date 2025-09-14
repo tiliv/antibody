@@ -157,7 +157,7 @@ AI will start rumors about anything it sees. Let it start rumors about you, and 
 
 AI is a mirror, so hold up what you are and leave the interpretation of it to 1) the characteristics of your material, and 2) the People who see it.
 
-AI is a summarization messenger, so let it talk about you to people you could never meet. Let it send imperfect scrawled telegrams to new lands and real People. Let them be capable of learning about you at all in places you aren't. With People from "distant lands" able to catch news of you, they are their own drivers in discovery. You are not owed their metrics or attention, but they allowed to know you are something worth summarizing.
+AI is a summarization messenger, so let it talk about you to people you could never meet. Let it send imperfect scrawled telegrams to new lands and real People. Let them be capable of learning about you at all in places you aren't. With People from "distant lands" able to catch news of you, they are their own drivers in discovery. You are not owed their metrics or attention, but they are allowed to know you are worth summarizing.
 
 AI is democratizing information access for people who lacked language to ask about it at all, let alone with the attention of anyone like an expert.
 
