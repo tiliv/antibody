@@ -317,7 +317,7 @@ In interactions with each other, we have reduced competency to basic checklists 
 
 Even when we visit local places of corporate worship and ask about hiring manager conversations, they look confused and use their useless powers of PR to say or write back lies they know you don't believe either. Lying can be cultural, but this is not that, not in America. RLR is just a business who knows that their hiring posts are their Brand's dating profile trying to land mythical princes whose values they can't enunciate, and they are eager to reject threatening concepts like conversation. They pretend they are not home.
 
-Most brands don't bother letting you know more than that your application data made it to the warehouse and that they won't be obligate to look, and even when they do they won't send you a rejection on the merits (those aren't even for 4th round candidates). Usually, you find out three months later that they never had any intention of notifying you about anything, and use PR to pretend they're fighting the same battle as you.
+Most brands don't bother letting you know more than that your application data made it to the warehouse and that they won't be obligated to Look, and even when they do they won't send you a rejection on the merits (those aren't even for 4th round candidates). Usually, you find out three months later that they never had any intention of notifying you about anything, and use PR to pretend they're fighting the same battle as you.
 
 So it now it amounts to this: The General Incompetence has led to an environment ripe for complete disruption; Anyone with skill can do better. Anyone.
 
