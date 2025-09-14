@@ -197,11 +197,15 @@ AI will have a map of each of us to fill in as many dimensions as their paramete
 
 It virtually started here, approximately when we could see "Will Smith" "eating" "spaghetti" just because a keyboard told it those words like that. How could it?
 
-That Spaghetti was an artifact of Learning, synthesized by whatever means, for whichever reasons. "It" had to know about a lot of our subjects--Why even list them? "It" absorbed all that, then "it" "tried" to mirror what was asked. You would have designed that gif or found it for the medias and not given a holy damn about where it came from. The value you may have used on the content was just the accident of its growth stage, when it had a really ugly head.
+That Spaghetti was an artifact of Learning, synthesized by whatever means, for whichever reasons. "It" had to know about a lot of our subjects--Why even list them? "It" absorbed all that, then "it" "tried" to mirror what was asked. You would have designed that gif or found it for the medias and not given a holy damn about where it came from. The value you may have used for measuring the content normally, here was a random number accident of intention. It was something made of "its" growth stage, when "it" had a really ugly head but would get cute soon.
 
-Nobody was incensed by that Learning. It was implicit that "it" had done that, and where in general "it" had Learned that. We had spent forever blasting it out so much there was Copyright looming trying to figure out how to provide high quality stills of their own content for meme generators.
+Nobody was incensed by that Learning. It was implicit that "it" had done that, and where in general "it" had Learned that. That "it" is not generally intelligent prevents some from dropping the quotes. But let's do that now. It's here, and it only gets more efficient and available to a converting audience still gaining these basic skills.
 
-(Long-form media companies up and down still haven't figured this out, and it would improve quote searchability and fuel tons of new traffic. They are insane for not putting their own scripts through LLMs and helping you access Fair Use stills and gifs with the text as-is. They may never do it and treat it like something they want to farm out like Digital before they realized it was profitable to actually have your own Customer controls.)
+No one mocks me learning weird typing machines at school in my childhood, even though they're obsolete. Ideas are being planted today that will not stop growing from now on. This toothpaste is thoroughly out of the tube. Open source LLMs will never stop seeing what you put into public, even if there are Terms to its use.
+
+We had spent forever blasting it out so much there was Copyright looming trying to figure out how to provide high quality stills of their own content for meme generators.
+
+(Long-form media companies up and down still haven't figured out, and it would improve quote searchability and fuel tons of new traffic. They are insane for not putting their own scripts through LLMs and helping you access Fair Use stills and gifs with the text as-is. They may never do it and treat it like something they want to farm out like Digital before they realized it was profitable to actually have your own Customer controls.)
 
 AI as an appliance is very graceful: The Butter Bot does a thing we want, so we keep it. When the appliance is instead Person-ish with many attached consequences of interaction, living with it is a relationship that you will manage every day, like the return of Furby with a 5G vengeance.
 
