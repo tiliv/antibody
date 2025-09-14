@@ -343,7 +343,7 @@ Education has prescribed entry into a maze that has long crumbled at the far edg
 
 A great deal has been said and written in media and on letterhead about counterfeits. Is that Scarlett Johansson's voice? If not, is that The Idea of Scarlett Johansson's voice? Is that text comment fake? Is that music fake?
 
-For something so fake, it sure is accused of real crimes. We pushed copyrighted media over the air without hesitation for longer than many have been alive, even allowing it to inspire others in form and function (sometimes that's the point even if it wears copyright). Anthropic or OpenAI or whoever are held liable for what their training has allowed to happen in their product models.
+For something so fake, it sure is accused of real crimes. We pushed copyrighted media over the air without hesitation for longer than many have been alive, even allowing it to inspire others in form and function. Sometimes that's the point even if it wears copyright. Anthropic or OpenAI or whoever are held liable for what their training has allowed to happen in their product models.
 
 I have carved out the opportunity to discuss copyright elsewhere. Suffice it to say here: Copyright can't and won't stop a company from training on it. All no-training arguments are destined to be defeated by money paid in license. But I go further: The licensing fees will only apply at scale (when it's no longer Fair Use or for personal use).
 
