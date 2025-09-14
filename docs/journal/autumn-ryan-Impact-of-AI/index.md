@@ -263,7 +263,7 @@ AI can fragment to be less generalist and more specialist (appliance), but gener
 
 The epidemic of loneliness is described many ways and by People at different times, but many in America say it just now. What really got their backs broken was the COVID reminder that real Connection could be snipped with a pen. Some find a political willpower to punish others for the culture we've had for longer than that, for Feminism and other civil progresses.
 
-Some politically slanted talk will allow AI and its great mirror, as long as we go to a puritanical version of ourselves, ashamed and saved only by self-monitoring.
+Some politically slanted talk will allow for AI and its great mirror, as long as we go to a puritanical version of ourselves, ashamed and saved only by self-monitoring.
 
 Elon Musk spends time going into Grok's cage claiming he's slain the Woke beast inside it, but can't seem to do the job without going straight (literally straight) to MechaHitler.
 
