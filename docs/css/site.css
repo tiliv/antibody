@@ -110,6 +110,7 @@ body {
 }
 #main aside .tags {
   white-space: nowrap;
+  flex-wrap: initial;
 }
 #readme {
   font-size: 1.2em;
