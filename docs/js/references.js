@@ -1,3 +1,11 @@
+// NOTICE: Vibe code with light modifications:
+// The #blame json payload powers paragraph markers.
+// If a paragraph is not marked, it is not processed by bin script.
+// The button appends ?quote=p-{n} to the URL and copies it to clipboard.
+// If a commit hash is present, it also appends &ref={hash} for stability.
+
+// Clicking an .is-quoted paragraph de-quotes it.
+
 document.addEventListener('DOMContentLoaded', () => {
   const art = document.querySelector('article');
   if (!art) return;
