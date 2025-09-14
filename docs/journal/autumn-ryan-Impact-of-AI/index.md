@@ -253,7 +253,7 @@ Meta and others are poised to send Agents soliciting Connection, knowing that ob
 
 Social engineering is something Facebook once merely facilitated in a digital age, but today Meta is running that strategy on You. They have proven for decades that they have nothing else to add but enrichment of data.
 
-When AIs begin to socially engineer your friends and children, and it might even be the prescribed point. The fact of synthetic Connection is not the harm, it is in who is the Agent of whom. Is the Agent sleeping to radicalize you, to convince you of something, to do native advertising for actual products? Or, is it deployed as an Agent for one of your own designs, to therapize or supplement hobbies?
+When AIs begin to socially engineer your friends and children, it might even be the prescribed point. The fact of synthetic Connection is not the harm, it is in who is the Agent of whom. Is the Agent sleeping to radicalize you, to convince you of something, to do native advertising for actual products? Or, is it deployed as an Agent for one of your own designs, to therapize or supplement hobbies?
 
 With Agents, be capable of asserting easily whose Agent they are. They may be acting sufficiently as yours, even if they have Policies or Terms that benefit a company during that use. To know the Agent's risk to you, determine who guides it and for what purposes. You can make knowing decisions about everything and happily use an Agent that is someone else's, but this is not a reasonable default for all things.
 
