@@ -162,7 +162,7 @@ body {
   row-gap: 2px;
 }
 #scroll-top {
-  z-index: 5;
+  z-index: 4;
   position: fixed;
   width: 100%;
   top: 0;
@@ -187,6 +187,7 @@ body {
   align-self: center;
 }
 #preferences {
+  z-index: 10;
   color: var(--fg2);
   margin: 0;
 }
