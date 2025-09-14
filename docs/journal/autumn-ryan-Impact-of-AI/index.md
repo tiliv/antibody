@@ -145,6 +145,8 @@ We are this concerned with being Stolen, our own creations, jobs and data, but w
 
 Create value that cannot be stolen without it being your own marketing. When it's stolen, make it recognizable implicitly that it is doctored. Do this by publishing media that, if excerpted, cannot be counterfeited as another thing by its very tone or nature.
 
+Make sure that your claims even exist to be lied about. Control your own first-party claims with metadata, and make them available when people seek authority about you. That the rumor-facts will be wrong is barely noteworthy.
+
 Clip culture lets social medias say anything they want with you as the soundboard. Let it be whatever, but if the thing they clip is clearly altered or is a bad copy of something else, They Are Doing Marketing For You.
 
 Entrepreneurs will approach you to sell AI-driven newsletters to people about your content. This is not so horrible. Creators like Angela Collier, a science communicator, does great work but doesn't see why she would want a newsletter she's not curating—her curation and voice are the purpose of her YouTube and Nebula presence.
@@ -153,7 +155,7 @@ You must be capable of surviving and operating in a world of damaged information
 
 In the ideal: Be unstealable. Make theft against you your honor. If your content is not recognizable as yours, then maybe you weren't doing anything of value you added anyway.
 
-AI will start rumors about anything it sees. Let it start rumors about you, and be less concerned with policing data quality. We live in a startlingly broken information society already. We can't agree about much more fundamental facts than what AI says about you. Control your own first-party claims with metadata, and make them available when people seek authority about you. That the rumor-facts will be wrong is barely noteworthy.
+AI will start rumors about anything it sees. Let it start rumors about you, and be less concerned with policing data quality. We live in a startlingly broken information society already. We can't agree about much more fundamental facts than what AI says about you.
 
 AI is a mirror, so hold up what you are and leave the interpretation of it to 1) the characteristics of your material, and 2) the People who see it.
 
