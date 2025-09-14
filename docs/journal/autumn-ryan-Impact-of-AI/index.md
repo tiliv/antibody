@@ -337,7 +337,7 @@ There are real and pressing energy sector demands coming, and the United States 
 
 Discuss what your kids learn and teach them how to navigate damaged information via process, via conversation, via interrogation and the application of our own reactions.
 
-Education has prescribed entry into a maze that has long crumbled at the far edges, and now the load-bearing facets decay is evident every day at lecture.
+Education has prescribed entry into a maze that has long crumbled at the far edges, and now the load-bearing facets decay, evident every day at lecture.
 
 ### "Real"
 
