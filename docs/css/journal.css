@@ -43,15 +43,25 @@ article h3, article h4 {
   hyphens: auto;
   text-align: center;
   margin: 0.5em auto;
-  height: 1em;
+  /* height: 1em; */
   line-height: 1em;
-  min-height: 40px;
+  min-height: 1em;
 }
 article h3 { font-size: 3.4em }
 article h4 { font-size: 1.5em }
 article h3, article h4 {
   text-shadow: 0 .06em var(--sh);
   top: 40px;
+}
+article blockquote {
+  margin: 1em 1em 0;
+  color: var(--fg1);
+  border-left: 20px solid var(--accent);
+
+}
+article blockquote code {
+  box-shadow: .35em .35em 0 black;
+  margin-right: .4em;
 }
 
 aside.side {

@@ -26,3 +26,4 @@ index: false
 - modern idols
 - modern issues
 - department of war
+- Kushner's Electronic Arts
