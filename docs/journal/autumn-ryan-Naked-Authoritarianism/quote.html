@@ -1,0 +1,14 @@
+{% for info in include.info %}
+
+### {{ info.author }} {{ info.who }}:
+
+[{{ info.title }}]({{ info.url }}){: rel="noreferrer noopener" target="_blank"}
+{{ info.when }}{% if info.misc %},{% endif %} {% for kv in info.misc %} <em>{{ kv[1] }} {{ kv[0] }}</em>{% endfor %}
+
+#### {{ info.quote }}
+
+{% for block in info.extended %}
+> {{ block }}
+{% endfor -%}
+
+{% endfor %}

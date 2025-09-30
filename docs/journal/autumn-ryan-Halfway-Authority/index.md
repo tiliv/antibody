@@ -1,5 +1,5 @@
 ---
-rank: 0
+rank: 1
 title: "Halfway Authority"
 date: 2025-09-03
 author: Autumn Ryan

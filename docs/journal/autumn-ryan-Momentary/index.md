@@ -1,6 +1,6 @@
 ---
 date: 2025-09-29
-rank: 1
+rank: -1
 title: "Momentary"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -11,7 +11,7 @@ tags: [climate, action, data]
 layout: journal
 public: true
 published: true
-index: false
+index: true
 ---
 
 I recently attended my regional Climate Meetup for the year (the event had the year in its name) and found a surprisingly well-staffed event at the park. I go to these things expecting to have to do the networking myself, but climate nerds are all there for the same reason: Their own reason.
