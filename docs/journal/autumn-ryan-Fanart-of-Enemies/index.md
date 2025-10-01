@@ -20,7 +20,7 @@ index: true
 
 **We taught ourselves Virality and realized** it was the fine balance between recognizable and new-fashioned; Old faith meets new doctrine and the response shall be democratized, at least among those who are present to see or hear. We learned that Circlejerking was the word for the perpetual ricochets of doctrine in a closed room without attracting new adherents. No matter the local spectacle (sometimes it is great), information seems useful only when it is jumping into new minds.
 
-**The nature of information aligns with replicating nature.** Circlejerking can be skilled, and Virality can be unskilled. The format does not imply value, the content does. An up-front prescription for an ideological destination, the meme begins by setting its tone.
+**The nature of information aligns with replication.** Circlejerking can be skilled, and Virality can be unskilled. The format does not imply value, the content does. An up-front prescription for an ideological destination, the meme begins by setting its tone.
 
 **News media believes it is their job to preface everything they say** with a compulsory meme or visual design experiment. They'll show you flash and contrast, bold colored drop shadows on a desaturated cutout of an impromptu photo of a smile. Feel This Way: Colorful and Bold, Willing To Wonder How To Smile Like This. Or maybe a slick professional defacement to express graffiti and nouveau rage.
 
