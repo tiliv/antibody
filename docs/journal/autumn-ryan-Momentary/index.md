@@ -46,7 +46,7 @@ I am deeply sympathetic on the plight of climate change, but I am persistently u
 
 Sadly, at the climate meetup, I saw little going on. I'd heard them encourage us to encourage others with their ideas, because we had none. A few were legitimate ideas, but get run over by We Should Protest More, or Nuclear Is Far Fetched.
 
-We were all under this spell. I departed as a gentlemen stood over the seated group and told them their ideas were all too disagreeable, but that his was very agreeable.
+We were all under this spell. I departed as a gentleman stood over the seated group and told them their ideas were all too disagreeable, but that his was very agreeable.
 
 **"Who could disagree with that?" he said after giving it,** and I let that be my cue to walk away from the group with my silence.
 
