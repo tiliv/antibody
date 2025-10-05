@@ -86,7 +86,7 @@ Podcasting has become such a loud form of media while we are trapped with oursel
 
 Marketing, marketing, marketing. Sponsored by. Subscribe to. After this. Visit that. Try those. Our Content Isn't Valuable But Your Pledged Attention Is.
 
-A citizen doesn't do journalism at the point of sponsorship. A citizen did it for an Pandora's Box of reasons. A "Professional" wouldn't bother unless they got paid.
+A citizen doesn't do journalism at the point of sponsorship. A citizen did it for a Pandora's Box of reasons. A "Professional" wouldn't bother unless they got paid.
 
 We need Professionals for a lot, but not the gatekeeping.
 
