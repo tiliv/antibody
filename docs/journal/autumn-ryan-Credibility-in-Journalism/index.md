@@ -58,7 +58,7 @@ We didn't get to ask enough questions, but the content in the room was useful to
 
 These Professionals didn't say a word about their content, because they don't even care. They have no idea if their content is good, and they are endlessly fretting while publishing (conducting public polling) for an eyeball tally.
 
-At some point we need to sort the kinds of journalist roped into this whole weird argument, but at the Denver Press Club on a Tuesday, it meant political news media. In that light, the Professionals thought their content was just obviously good, because it gets the eyeballs that sustained them to today.
+At some point we need to sort the kinds of journalist roped into this whole weird argument, but at the Denver Press Club on a Tuesday, it meant news media. In that light, the Professionals thought their content was just obviously good, because it gets the eyeballs that sustained them to today.
 
 I'll concede early that success is worth something, but how crude to assume they are doing well. Have they not captured the gates? Are they not now explaining to a room of Citizen Journalists why others must use their gate or fail to be valuable?
 
