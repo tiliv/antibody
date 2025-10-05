@@ -144,7 +144,7 @@ It amazed me a little that at a panel about Citizen Journalism, we didn't talk a
 
 These Professionals wouldn't have anything to say on these things, I decided. They would be prone to giving answers like Attend Our Workshop.
 
-The Professionals did not learn this in school, they acquired this behavior after. I suspect this the expiring academism on display, angsty that it has to explain its tautological worth, not having practiced much before.
+The Professionals did not learn this in school, they acquired this behavior after. I suspect this is the expiring academism on display, angsty that it has to explain its tautological worth, not having practiced.
 
 I had questions they don't put on FAQs, because I'm not a pull-string muppet.
 
