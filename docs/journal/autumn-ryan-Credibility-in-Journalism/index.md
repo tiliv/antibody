@@ -18,7 +18,7 @@ index: true
 
 At the Denver Press Club, three professionally employed journalists and Jacob Richards of The Revolutionist, with the moderator, ostensibly discussed Citizen Journalism.
 
-The impetus was clear from the original invitations made, that DoBetterDenver was causing a specific discussion about Citizen Journalism, one style of it, specifically branded and anonymous.
+The impetus was clear from the original invitations made, that DoBetterDNVR was causing a specific discussion about Citizen Journalism, one style of it, specifically branded and anonymous.
 
 Having just sat down with the guests upstairs, fresh off of socializing before, I knew I could handle the local tea for a while, if it was a gateway to discussion of more.
 
