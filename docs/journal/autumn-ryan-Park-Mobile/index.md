@@ -1,6 +1,6 @@
 ---
 date: 2025-08-30
-rank: 2
+rank: 20
 title: "ParkMobile surveillance"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

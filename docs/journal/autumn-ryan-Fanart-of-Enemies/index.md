@@ -1,6 +1,6 @@
 ---
 date: 2025-09-01
-rank: 4
+rank: 40
 title: "Fanart of our Enemies"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

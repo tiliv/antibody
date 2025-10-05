@@ -1,6 +1,6 @@
 ---
 date: 2025-08-23
-rank: 2
+rank: 0
 title: "NOTING: AT&T Personalized Plus"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
