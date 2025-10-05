@@ -30,7 +30,7 @@ They were defending themselves instead. That was all I needed to know.
 
 ### Ethics
 
-The panel took pains to locate the floor on "journalism" and mostly agreed that a person just holding up a phone sometimes isn't something you should be proud of. I didn't especially think this alone was the threat journalism faced, but I recognized some truth in what was said about such things being more easily treated as data in need curation. The citizens aren't the journalists, they're just crowdsourcing the news' job from the goodness of their hearts!
+The panel took pains to locate the floor on "journalism" and mostly agreed that a person just holding up a phone sometimes isn't something you should be proud of. I didn't especially think this alone was the threat journalism faced, but I recognized some truth in what was said about such things being more easily treated as data needing curation. The citizens aren't the journalists, they're just crowdsourcing the news' job from the goodness of their hearts!
 
 There was some fuss about the metaphysical credential that professional journalists think they possess via the robes of the academy, as if the education that led to this shoddy state of things was supposedly still coveted.
 
