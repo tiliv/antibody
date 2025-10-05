@@ -34,7 +34,7 @@ index: false
 
 I will not be ranking these candidates for you, but you must.
 
-#### What Do You Need?
+### What Do You Need?
 
 On November 20 2024, I scrawled my notes on a weekday night for the only public project concept that wouldn't leave my mind. Its name was only "What Do You Need?" because it seemed so few actually heard such needs.
 
