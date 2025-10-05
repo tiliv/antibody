@@ -50,7 +50,7 @@ The recurring insistence that the system itself had to be taken down, and then f
 
 The fact that this speaker used that position to propagandize us about The Real Truth made me nearly laugh. Instead my reaction was to leave. I didn't miss much. I hear the panel crash landed soon after.
 
-That this Professional could say journalism had to be torn down for his reason, astonished me. What truer sign could I need that this panel was not about Citizen Journalism, that it was coopting that word because it was threatening and it made them confront their weakness?
+That this Professional could say earlier that journalism had to be torn down for his reason, had now astonished me. What truer sign could I need that this panel was not about Citizen Journalism? They were coopting the words because they were threatened that they meant something. They explaining their weaknesses in front of us.
 
 I listen raptly, because this covering of weakness is telling.
 
