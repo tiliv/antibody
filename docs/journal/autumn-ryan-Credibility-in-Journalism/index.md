@@ -136,7 +136,7 @@ It sure sounds like you have a lot of drama, Professionals. Are you saying this 
 
 I wish I could have come up with the most dismissive thing to say about all of what they said and push multiple questions at them.
 
-In the end, my question about Reliability wasn't taken, but I discussed it wth some after the event broke.
+In the end, my question about Reliability wasn't taken, but I discussed it with some after the event broke.
 
 Q&A format is difficult with multiple panelists unless a moderator can force a question to a great single panelist. The matter of stellar moderation is too important. Future events made with my involvement will use novel feedback methods and open-ended silent polling.
 
