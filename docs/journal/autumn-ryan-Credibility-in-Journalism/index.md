@@ -100,7 +100,7 @@ I wonder what the Professionals would do if they had to work for anything again 
 
 I wonder what the Professionals will say when they start providing their context with LLMs, and still fret over how citizens can't do what they do.
 
-Are these the brokers of value, who are doom to fail at their task anyway? Is the quality of our news supposed to scale with your hiring expansions? There's so much content out there, can't you convert it into income just by hiring? How many are you hiring? How many are you firing? How many departments are you selling to a billionaire so that you can just forget about your failed model and keep bringing bread home?
+Are these the brokers of value, who are doomed to fail at their encyclopedian task anyway? Is the quality of our news supposed to scale with your hiring expansions? There's so much content out there, can't you convert it into income just by hiring? How many are you hiring? How many are you firing? How many departments are you selling to a billionaire so that you can just forget about your failed model and keep bringing bread home?
 
 In citizen journalism, the content is all there is. In news media, individual fistfuls of content are unremarkable from any other, part of a mass noun.
 
