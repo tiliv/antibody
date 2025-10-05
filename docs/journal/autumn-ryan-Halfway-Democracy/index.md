@@ -182,7 +182,7 @@ Wasilla was something a little different than Anchorage's direct analog of moder
 
 I met people, some who had abandoned Colorado and scoffed at Alaskan winter. They were transplants, but happily away from certain noisier things and a little bit more gun. Many were born and raised.
 
-The residents here, at sled dog races and ice fishing, universally took pride in Mount Denali, even its name. On a clear day you could see it. Obama had given it back a name that the residents had long recognized anyway. It was Denali, and locally they knew that this was a debate that was being settled. The issue with the prior unwanted name was that it had been for a President who did little more than fail to be on Rushmore.
+The residents here, at sled dog races and ice fishing, universally took pride in Mount Denali, even its name. On a clear day you could see it. Obama had given it back a name, replacing one that the residents had long recognized anyway. It was finally Denali again, and locally they knew that this was a debate that was being settled. The issue with the prior unwanted name was that it had been for a President who did little more than fail to be on Rushmore.
 
 When I came back to other places after Alaska, I was asked a few times variations of the question "Were you running from something?" In fiction, Alaska often makes a great place for murderers to congregate. In non-fiction, a similar tame lesson is given that out here you should know what it means to be resourceful.
 
