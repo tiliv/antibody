@@ -5,8 +5,6 @@ title: "ParkMobile surveillance"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-
-contact_subject: "ParkMobile surveillance"
 tags: [location, data taxation, local]
 
 layout: journal

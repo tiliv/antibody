@@ -5,7 +5,6 @@ title: "NOTING: Colorado Space Force"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: Colorado Space Force"
 tags: [space force, alabama]
 
 layout: noting

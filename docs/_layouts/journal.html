@@ -8,7 +8,12 @@ comment: The page should supply `title` and `date`
 contact/{{ page.author | slugify }}.md
 {%- endcapture -%}
 {%- capture contact_md -%}
-{%- include {{ contact_template }} subject=page.contact_subject mailto=page.contact_email -%}
+{%- capture contact_subject -%}
+{{- page.contact_subject | default: page.title -}}
+{%- endcapture -%}
+{%- include {{ contact_template }}
+  subject=contact_subject
+  mailto=page.contact_email -%}
 {%- endcapture -%}
 {%- capture contact_html -%}
 {{- contact_md | markdownify -}}

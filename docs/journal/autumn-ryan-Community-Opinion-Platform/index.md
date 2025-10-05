@@ -5,7 +5,6 @@ title: "FC Community Opinion Platform"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "FC Community Opinion Platform"
 tags: [local, discourse, FCCOPI]
 
 layout: journal

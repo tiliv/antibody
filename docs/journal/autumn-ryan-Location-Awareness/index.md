@@ -5,8 +5,6 @@ title: "Location and People"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-
-contact_subject: "Location and People"
 tags: [location, homeless, silence]
 
 layout: journal

@@ -5,7 +5,6 @@ title: "NOTING: Postmodern copyright"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: Postmodern copyright"
 tags: [learning, access, distribution]
 
 layout: noting

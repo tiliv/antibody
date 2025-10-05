@@ -5,8 +5,6 @@ title: "NOTING: Flock surveillance"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-
-contact_subject: "NOTING: Flock surveillance"
 tags: [vehicle, location, data warehousing]
 
 layout: noting

@@ -5,7 +5,6 @@ title: "NOTING: Value of Video Games"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "NOTING: Value of Video Games"
 tags: [esports, fantasy, strategy]
 
 layout: noting

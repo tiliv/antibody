@@ -5,8 +5,6 @@ title: "NOTING: Naked Authoritarianism"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-
-contact_subject: "NOTING: Naked Authoritarianism"
 tags: [donald john trump, ice, goading]
 
 layout: noting

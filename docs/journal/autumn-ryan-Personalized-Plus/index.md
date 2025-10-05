@@ -6,7 +6,6 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 contact_top: true
-contact_subject: "NOTING: AT&T Personalized Plus"
 tags: [precise location, ethnicity, resale]
 
 layout: noting

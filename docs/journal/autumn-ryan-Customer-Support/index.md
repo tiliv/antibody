@@ -5,7 +5,6 @@ title: "Demise of Customer Support"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "Customer Support"
 tags: [choices, consent, customers]
 
 layout: journal

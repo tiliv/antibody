@@ -1,11 +1,10 @@
 ---
 date: 2025-09-29
-rank: -1
+rank: 0
 title: "Momentary"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "Momentary"
 tags: [climate, action, data]
 
 layout: journal

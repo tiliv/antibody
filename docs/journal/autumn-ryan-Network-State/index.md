@@ -5,8 +5,6 @@ title: "NOTING: The Network State movement"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-
-contact_subject: "NOTING: The Network State movement"
 tags: [governance, billionaire, charisma states]
 
 layout: noting

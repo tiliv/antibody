@@ -5,7 +5,6 @@ title: "Fanart of our Enemies"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-contact_subject: "Fanart of our Enemies"
 tags: [journalism, media design, reactionary]
 
 layout: journal

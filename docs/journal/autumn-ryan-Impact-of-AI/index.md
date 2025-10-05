@@ -5,8 +5,6 @@ title: "Impact of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
-
-contact_subject: "Impact of AI"
 tags: [impersonation, consent, counterfeits]
 
 layout: journal
