@@ -42,7 +42,7 @@ I see people with bills they can't pay before there is any eviction notice, so o
 
 Our entrepreneurs meet on a Wednesday at 9am, while others can't. There are more events going on in the community for business owners and by non-profits than anyone knows. (Just ask the candidates! They have the same need.)
 
-Help organizations shove paperwork in someone's hands, replete with every niche question they might ever want to know about their concept, only for the first meeting to be with someone who hasn't read that unholy stack of paper. Maybe the meeting is a rejection, and everyone's time was wasted.
+There are help organizations shove paperwork in someone's hands, replete with every niche question they might ever want to know about their concept, only for the first meeting to be with someone who hasn't read that unholy stack of paper. Maybe the meeting is a rejection, and everyone's time was wasted.
 
 To seek help is costly on time, and to be lost in a game of qualification is insulting to them. They resent this declaration that they are not right for help. It is monstrously alienating and strengthens any underground culture that critiques the worth of these systems. The systems and agents do not ask for meaningful feedback, and certainly can't implement unsolicited feedback.
 
