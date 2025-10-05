@@ -56,7 +56,7 @@ Fort Collins candidates aren't taking party money, so more than ever they need t
 
 Vote fearlessly for your honest firsts. You could rank several underdogs above your safe pick and face no loss of control.
 
-Let your intent be seen, even if you can't win it all. They can more measure it now.
+Let your intent be seen, even if you can't win it all. They can measure it now.
 
 Help your candidates know you see them through general noise of all else. They really do need you.
 
