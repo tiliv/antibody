@@ -118,7 +118,7 @@ We weren't going to solve Bias there in that room in those chairs, but some hid 
 
 Bias, like framing, provides expectations and rules for what's coming, which doesn't sound so offensive. If bias or framing works invisibly, we start to have problems.
 
-Bias is an ingredient, and may even be crucial. The Little Mermaid puts its first rationalization for mermaids in the title, not chapter 1. The bias need not take over to be present.
+Bias is an ingredient, and may even be crucial. The Little Mermaid puts its first rationalization for mermaids in the title, not chapter 1. The bias need not explain itself and take over, to be present.
 
 I sensed from the panel an unhealthy relationship with bias.
 
