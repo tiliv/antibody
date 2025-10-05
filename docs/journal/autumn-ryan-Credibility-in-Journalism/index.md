@@ -168,7 +168,7 @@ I had questions they don't put on FAQs, because I'm not a pull-string muppet.
 - Have you ever considered recurring transparency reports about the edits your writers make to your industrial-scale publication?
 - What's the one time you recall being nervous about putting your name on something?
 - How do you know when to challenge your peers?
-- Is there someone at your job who can tell you don't have a job anymore if you publish something?
+- Is there someone at your job who can tell you don't have one anymore if you publish something?
 - Do you believe your "reliability" is a suitable proxy for trust in all scenarios?
 - How do you detect topics that are deeper than you know?
 - What is the value of contextual completionism in practice, at the scale of the modern web?
