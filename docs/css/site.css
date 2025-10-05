@@ -231,6 +231,9 @@ body {
 #robots {
   margin: auto;
 }
+#re {
+  margin: 1em auto;
+}
 .truthy-pill {
   width: 60px;
   height: 4px;

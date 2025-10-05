@@ -31,6 +31,11 @@ contact/{{ page.author | slugify }}.md
   </code>
   {% include tags.html piece=page %}
 </div>
+{% if page.re %}
+<div id="re">
+  <a href="{{ page.re }}" rel="noopener">{{ page.re }}</a>
+</div>
+{% endif %}
 <div id="layout">
   <article class="content">
     {%- if page.contact_top -%}
