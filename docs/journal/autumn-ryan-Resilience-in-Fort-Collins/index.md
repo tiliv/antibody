@@ -135,15 +135,35 @@ May We Have Our Time Back?
 
 #### Water
 
+- fees and districts
+- A Desert
+- the Colorado River
+- agriculture
 
 #### Free movement
 
+- transit: optimistic and willpower to go further
+- parking fees
+- busses: free ridership but with some hard where/when limits
+- transportation shapes our behaviors, by HOV, bike lane, bus or taxi
+- rail to Denver
+- Denver, NoCo, the rest
+- Yarrow Collective
+- gentrification of home
+- bilingual
 
 #### Housing
 
 
 #### Local businesses
 
+- uneven prices in goods, must sometimes take on offensive pricing without their control.
+- unpredictability
+- local economic development
+- training programs
+- diversity
+- the franchise problem
+- local employment
 
 #### $11M
 
