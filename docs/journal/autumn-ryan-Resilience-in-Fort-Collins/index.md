@@ -62,6 +62,25 @@ Help your candidates know you see them through general noise of all else. They r
 
 #### Centering
 
+In conversation, they all know there is an observable effect on the centering.
+
+Not a mere average of Real Positions, this centering is helping these party-less individuals identify priorities that have voters they can count.
+
+These candidates remember their party affiliations, but I pay for the media I consume and haven't seen an ad in years. It doesn't make me centered, but I certainly got to calibrate with them directly.
+
+They have to conjure their own money, and so the game does become a bit about who can summon donations with their bespoke grit and prior credentials. Despite this, the content of their speech is on display.
+
+I know well that Shirley Peel observes what I do, that whether or not memes, videos, ads or news stand by what passes for their sources, the grand act of washing data through many sources makes it too easy for outlets to say by the weight of context that they need not even cite their hearsay anymore, because it is consensus.
+
+You reader, and you candidate, will be benefitted from real experience with this phenomenon of laundered facts: It is hearsay that has lost its citations when you encounter it in the wild, having gotten away with it by trust, apathy or nepotism.
+
+To my wondering with Shirley whether there was candidate willpower for the same overall format into future elections, Shirley could imagine opportunity to refine it for the free speech core at any politician's platform. City Council is full of the women she knows and works with personally and professionally, but they don't represent her better than she represents herself. She's looking for ways to gather local voices.
+
+If you instead want "centered" the way r/moderatepolitics is centering tone to discuss big things, Adam Hirschhorn can serve you. He may not want to meet just anybody, but he might plausibly explain why that lets him protect you from rogue Authority.
+
+Despite a functioning society, it is a sign of times that some of us sense the earnest truth of Adam Hirschhorn's promise on that point, and could rank him well for some times. It's hard to know when to break the glass for The Emergency, but I know a few who would be happier to put any ranked vote on Hirschhorn than they usually are in a closed party system with rogue independents.
+
+What I think will be truly centering in Fort Collins is the data from the ranked results. Not just a binding upon them, I hope the format affords our city's candidates fresh new access to their public, a more centered reflection of support that they can look forward to cultivating.
 
 #### Civility
 
