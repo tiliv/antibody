@@ -65,6 +65,31 @@ Help your candidates know you see them through general noise of all else. They r
 
 #### Civility
 
+There is little to address on the point of division and civility. Scotty V presses on the format to highlight its lost authenticity. Our candidates want discussions, whether or not they are using the 90 seconds to say it or another thing.
+
+Social medias have showed us how hard it is to say anything at all in a whole enough form not to draw argument. With civility, we say call off the argument and focus on your positive motion. Seated with the mics though, like for surveys, they only get to answer the questions as brought to them at last.
+
+The forum was a good tour, but clipped in its way. What I like about real life is that People can't yet use ChatGPT to speak for them.
+
+Very sensibly, they all invite direct discussion, but it is a measure of something real when I get to see what animates them with time limits involved.
+
+There is a lot of discussion of listening to solve problems.
+
+In my time attending political action groups in the state of Colorado, I find them engorged on national discussions. They want to help locally, but we're the ones sitting down thinking of how to do that, and we have no idea. We should barely be responsible, but it feels like you're burning oil because you're the only ones tonight.
+
+Those of us working on issue selection were doing our best but I watched basically nobody else mark "truth in media" as an issue that affected them personally, and I call that a lie. That Is A Lie. Our media is syndicated and damaged and branded when it arrives to us, even (especially) on social media.
+
+I fear there isn't enough for our leaders to hear in elections. The people can't say it unless they can skillfully conjure tricks in social media, where content is encouraged to be shorter and shorter.
+
+I promote civility, though like Scotty V I must wonder loudly sometimes at what we are expected to say with our brutally short time slots.
+
+Do A Trick, observers will demand, and I don't blame Scotty V or hypothetical others for saying No to the premise and selecting their own.
+
+What does it look like to resort to other civil means?
+
+What can we say yet, except to notice that our time has by and large been taken from us People?
+
+May We Have Our Time Back?
 
 #### Water
 
