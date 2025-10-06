@@ -28,6 +28,12 @@ The Coloradoan did great work assembling a profile of each candidate, and univer
 
 I will not be ranking these candidates for you, but you must this season!
 
+{% include figure.html file="contact_shumwayformayor.png"
+  side="right"
+  overview="Small screenshot of a DOM inspector revealing content implied to be hard to see by normal means."
+  caption="Because Jeffrey Shumway's contact information is damaged in public, I'm going to note it here until I find a non-derelict source."
+%}
+
 - [Shirley Peel]({{ page.links.shirley }})
 - [Tricia Canonico]({{ page.links.tricia }})
 - [Adam Eggleston]({{ page.links.adam_e }})
