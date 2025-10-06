@@ -7,6 +7,14 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [ranked choice, non-partisan, mayor]
+links:
+  shirley: https://shirleyforfoco.com/
+  tricia: http://www.triciaforfoco.com/
+  adam_e: https://www.adamegglestonformayor.com/
+  emily: https://www.emilyforfc.com/
+  scott: https://scottyv.com/
+  adam_h: https://bsky.app/profile/electadammayor.bsky.social
+  jeffrey:
 
 layout: noting
 public: true
@@ -15,6 +23,18 @@ index: false
 ---
 
 {% include toc/aside.html %}
+
+The Coloradoan did great work assembling a profile of each candidate, and universally, the candidates appreciate your attention to their websites.
+
+I will not be ranking these candidates for you, but you must this season!
+
+- [Shirley Peel]({{ page.links.shirley }})
+- [Tricia Canonico]({{ page.links.tricia }})
+- [Adam Eggleston]({{ page.links.adam_e }})
+- [Emily Francis]({{ page.links.emily }})
+- [ScottyV]({{ page.links.scott }})
+- [Adam Hirschhorn]({{ page.links.adam_h }})
+- [Jeffrey Shumway]({{ page.links.jeffrey }})
 
 ### A reason to stay
 
@@ -27,12 +47,9 @@ index: false
 - economic development
 - discovery in the age of user-hostile markets
 - sustainability
-
 - elections, ranked choice, non-partisan
 - mayoral forum by the League of Women Voters
 - a missing candidate
-
-I will not be ranking these candidates for you, but you must.
 
 ### What Do You Need?
 
@@ -84,7 +101,7 @@ What I think will be truly centering in Fort Collins is the data from the ranked
 
 #### Civility
 
-There is little to address on the point of division and civility. Scotty V presses on the format to highlight its lost authenticity. Our candidates want discussions, whether or not they are using the 90 seconds to say it or another thing.
+There is little to address on the point of division and civility. ScottyV presses on the format to highlight its lost authenticity. Our candidates want discussions, whether or not they are using the 90 seconds to say it or another thing.
 
 Social medias have showed us how hard it is to say anything at all in a whole enough form not to draw argument. With civility, we say call off the argument and focus on your positive motion. Seated with the mics though, like for surveys, they only get to answer the questions as brought to them at last.
 
@@ -100,9 +117,9 @@ Those of us working on issue selection were doing our best but I watched basical
 
 I fear there isn't enough for our leaders to hear in elections. The people can't say it unless they can skillfully conjure tricks in social media, where content is encouraged to be shorter and shorter.
 
-I promote civility, though like Scotty V I must wonder loudly sometimes at what we are expected to say with our brutally short time slots.
+I promote civility, though like ScottyV I must wonder loudly sometimes at what we are expected to say with our brutally short time slots.
 
-Do A Trick, observers will demand, and I don't blame Scotty V or hypothetical others for saying No to the premise and selecting their own.
+Do A Trick, observers will demand, and I don't blame ScottyV or hypothetical others for saying No to the premise and selecting their own.
 
 What does it look like to resort to other civil means?
 
