@@ -37,8 +37,29 @@ thegatewaypundit:
     - |
       “`I say when they spit, you hit.` Do whatever you want. `You do
       whatever the hell you want`,” Trump told reporters.
+trendingpoliticsnews:
+- url: https://trendingpoliticsnews.com/must-see-ice-wheels-portland-protester-away-on-a-cart-mstef/
+  title: |
+    MUST-SEE: ICE Wheels Portland Protestor Away On A Cart
+  when: October 6, 2025
+  author: Mark Steffen
+  who: [political entertainment writer]
+  quote: |
+    "breathing life into Trump’s claim"
+  extended:
+    - |
+      “Portland is `burning to the ground`,” he wrote on Truth Social.
+    - |
+      “It’s insurrectionists all over the place, `it’s antifa`. You’ve seen it.”
+    - |
+      `A spitting protestor` was `cuffed and` ~~wheeled away on a cart~~ (read: `TAKEN TO ANOTHER LOCATION`)
+    - |
+      `The short clip was` ~~posted to~~ (read: `PUBLICLY POLLED ON`) `ICE’s account on X`
+
 ---
 
 {% include toc/aside.html %}
 
 {% include_relative quote.html info=page.thegatewaypundit %}
+
+{% include_relative quote.html info=page.trendingpoliticsnews %}

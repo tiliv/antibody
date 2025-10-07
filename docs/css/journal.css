@@ -57,7 +57,9 @@ article blockquote {
   margin: 1em 1em 0;
   color: var(--fg1);
   border-left: 20px solid var(--accent);
-
+}
+article blockquote del {
+  text-decoration-color: var(--accent);
 }
 article blockquote code {
   box-shadow: .35em .35em 0 black;
