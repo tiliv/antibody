@@ -46,6 +46,8 @@ Before an election, these were People already busy using their skills to think a
 
 ### A reason to stay
 
+(profiles)
+
 - the retreat of local journalism
 - the confusion of partisan leaderships with split attention
 - the paralysis of political action groups, as shared national issues take the oxygen
