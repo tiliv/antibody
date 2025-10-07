@@ -191,7 +191,7 @@ I had questions they don't put on FAQs, because I'm not a pull-string muppet.
 - When was the last time you conducted an interview?
 - Do you ever ask for feedback after your discussions or interviews?
 - What proportion of your public email from readers do you reply to?
-- What is the biggest hurdle to finding using feedback in what readers say?
+- What is the biggest hurdle to finding useful feedback in what readers say?
 - Describe your familiarity with any encryption tools.
 - Tell me about the last time you facilitated feedback that needed to be heard, and wouldn't have been without your involvement.
 - What question do you have but can't ask the right people?
