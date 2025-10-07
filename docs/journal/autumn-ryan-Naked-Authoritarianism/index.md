@@ -40,7 +40,7 @@ thegatewaypundit:
 trendingpoliticsnews:
 - url: https://trendingpoliticsnews.com/must-see-ice-wheels-portland-protester-away-on-a-cart-mstef/
   title: |
-    MUST-SEE: ICE Wheels Portland Protestor Away On A Cart
+    `MUST-SEE:` ICE Wheels Portland Protestor Away On A Cart
   when: October 6, 2025
   author: Mark Steffen
   who: [political entertainment writer]
@@ -54,7 +54,7 @@ trendingpoliticsnews:
     - |
       `A spitting protestor` was `cuffed and` ~~wheeled away on a cart~~ (read: `TAKEN TO ANOTHER LOCATION`)
     - |
-      `The short clip was` ~~posted to~~ (read: `PUBLICLY POLLED ON`) `ICE’s account on X`
+      `The short clip was` ~~posted to~~ (read: `PUBLICLY POLLED ON`) `ICE’s account` on X
 
 ---
 
