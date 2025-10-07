@@ -22,7 +22,7 @@ index: false
 {% include iframe.html file="Special Economic Zonesdigitalrev.pdf"
   side="right"
   overview="Detailed press paper about Special Economic Zones."
-  caption='This document details how autonomous charisma states can successfully take land from a sovereign entity and run the government with cyrptocurrency shares.'
+  caption='Together, these documents detail how autonomous charisma states can successfully take land from a sovereign entity and run the government with cyrptocurrency shares.'
 %}
 
 - Pronomos Capital
