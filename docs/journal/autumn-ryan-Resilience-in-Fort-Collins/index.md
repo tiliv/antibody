@@ -26,7 +26,9 @@ index: false
 
 The Coloradoan did great work assembling a profile of each candidate, and universally, the candidates appreciate your attention to their websites.
 
-I will not be ranking these candidates for you, but you must this season!
+I will not be ranking these candidates for you, but you get to!
+
+Before an election, these were People already busy using their skills to think about the community. After an election, these people won't cease to exist! You can work with them and generate support for what they do.
 
 {% include figure.html file="contact_shumwayformayor.png"
   side="right"
