@@ -61,7 +61,7 @@ ParkMobile's claim is that they can Improve their Services with our data, by dev
 
 This information fails observability tests.
 
-— [https://parkmobile.io/privacy-policy/](https://parkmobile.io/privacy-policy/)
+— [https://parkmobile.io/privacy-policy/](https://parkmobile.io/privacy-policy/){: rel="nofollow noopener"}
 
 Are you ready to reelect "ParkMobile&trade; by Arrive" as your national vehicle registry, or do you personally have better ideas?
 
@@ -73,7 +73,7 @@ Parking maps of Fort Collins unfortunately don't reveal which company runs the m
 
 <aside class="side right">
   <iframe src="./exhibits/22-24140-parking-map-updates-april-2022.pdf" width="100%" height="400px" frameBorder="0" title="FC Parking "></iframe>
-  <figcaption markdown="1">This map is doing a good job, minus the absence of a ParkMobile logo. — [https://www.fcgov.com/parking/files/22-24140-parking-map-updates-april-2022.pdf?1742597633](https://www.fcgov.com/parking/files/22-24140-parking-map-updates-april-2022.pdf?1742597633)
+  <figcaption markdown="1">This map is doing a good job, minus the absence of a ParkMobile logo. — [https://www.fcgov.com/parking/files/22-24140-parking-map-updates-april-2022.pdf?1742597633](https://www.fcgov.com/parking/files/22-24140-parking-map-updates-april-2022.pdf?1742597633){: rel="nofollow noopener"}
   </figcaption>
 </aside>
 
@@ -82,7 +82,7 @@ A curious user must take a second call to action to inspect the surface lots pag
 <figure class="side left">
   <img src="./exhibits/FC-Parking-August-31.png" alt="Screenshot of the Google-accessible Parking Services page">
   <figcaption markdown="1">The Parking Services page is doing a good job, minus the absence of a ParkMobile logo.
-    — [https://www.fcgov.com/parking/onstreet](https://www.fcgov.com/parking/onstreet)
+    — [https://www.fcgov.com/parking/onstreet](https://www.fcgov.com/parking/onstreet){: rel="nofollow noopener"}
   </figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ You may be surprised to know that it requires a certain number of users in your 
 
 I once untrusted a company operating from Seoul after they modified the privacy status of data. A May 2015 “weekend project” that grew lawyers in a foreign country doesn't have to obey CO law anyway.
 
-- [https://www.rezi.ai/about](https://www.rezi.ai/about)
+- [https://www.rezi.ai/about](https://www.rezi.ai/about){: rel="nofollow noopener"}
 
 Government moved slow for a reason. Now, there is a legal class of "people" who Privilege themselves to move faster and with immaculate Privacy for themselves, and they are all Foreign and Domestic capable and encouraged towards our exploitation for profit. All for a fleet of Green Lines that must, must go up.
 

@@ -38,5 +38,5 @@ index: false
 %}
 
 - There are more documents than this, but the movement is not invisible:
-- [://thenetworkstate.com](//thenetworkstate.com)
-- [://www.oliverwyman.com](//www.oliverwyman.com)
+- [://thenetworkstate.com](//thenetworkstate.com){: rel="nofollow noopener"}
+- [://www.oliverwyman.com](//www.oliverwyman.com){: rel="nofollow noopener"}

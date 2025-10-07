@@ -19,7 +19,7 @@ In circles by our county, we did introductions and learned what brought us to th
 
 There are a lot of good efforts out there, and not all efforts look the same. Some crave a culture of dance and ritual that can occupy space in us to think about the entire system and how to care for it. Some mock it as ineffective.
 
-I learned about [Nature's Calendar](https://www.naturescalendar.org/), electric homes strategy [Go Electric Colorado](https://goelectriccolorado.org/), because they know they can't stop the fracking (Texas alone, amirite). There were many with connections to [Citizens' Climate Lobby Colorado](https://coloradoccl.org/). Some had dour opinions of nuclear energy and had to be right, right there in Centennial Park on a Sunday, to settle the issue for good in their mind.
+I learned about [Nature's Calendar](https://www.naturescalendar.org/){: rel="nofollow noopener"}, electric homes strategy [Go Electric Colorado](https://goelectriccolorado.org/){: rel="nofollow noopener"}, because they know they can't stop the fracking (Texas alone, amirite). There were many with connections to [Citizens' Climate Lobby Colorado](https://coloradoccl.org/){: rel="nofollow noopener"}. Some had dour opinions of nuclear energy and had to be right, right there in Centennial Park on a Sunday, to settle the issue for good in their mind.
 
 I knew I could only stay for the first couple of hours, and I still had the opening welcome talks on my mind as I listened and took my notes.
 

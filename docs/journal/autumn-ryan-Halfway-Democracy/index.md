@@ -300,7 +300,7 @@ Hiring across state lines makes it hard to report salaries, so even though state
 
 The privacy law in Colorado tries to match California's, but it has its own text and title. It is ineffective on any company, anywhere in the world, with fewer than ten-thousand users in the state. A sane threshold instead defines exactly what size a privacy scam can be, plus bonus time for detection of undisclosed figures.
 
-For example, to make Colorado law work for me, I would need to get 9,999 Coloradans to finish the page at link: [https://app.rezi.ai/signup](https://app.rezi.ai/signup). Then I would have to follow up my prior report to the Colorado Attorney General with a new one after I speculate there "might" be 10k accounts. The legal efforts an individual has to undertake for protection are lopsided and user-hostile.
+For example, to make Colorado law work for me, I would need to get 9,999 Coloradans to finish the page at link: [https://app.rezi.ai/signup](https://app.rezi.ai/signup){: rel="nofollow noopener"}. Then I would have to follow up my prior report to the Colorado Attorney General with a new one after I speculate there "might" be 10k accounts. The legal efforts an individual has to undertake for protection are lopsided and user-hostile.
 
 In states before, I had rented from property managers who changed like storm wind. They all ended up with the same renter web software, the same way all my banks over the years had bought each other up until I had just one that mattered. In Colorado, I enjoyed something a little different for a while, but then, like clockwork, a renting agency bought the property within the year and issued new terms to us all.
 
