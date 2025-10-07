@@ -24,3 +24,19 @@ index: false
 - Arctic shipping lanes
 - minerals
 - frontiers
+
+{% include iframe.html file="tns.pdf"
+  side="left"
+  overview="Official PDF for the movement."
+  caption='This document is greatly detailed and you should use AI or any means to understand what is inside this file directly, not just what AI synthesizes from the "trusted" sources.'
+%}
+
+{% include iframe.html file="Special Economic Zonesdigitalrev.pdf"
+  side="right"
+  overview="Detailed press paper about Special Economic Zones."
+  caption='This document details how autonomous charisma states can successfully take land from a sovereign entity and run the government with cyrptocurrency shares.'
+%}
+
+- There are more documents than this, but the movement is not invisible:
+- [://thenetworkstate.com](//thenetworkstate.com)
+- [://www.oliverwyman.com](//www.oliverwyman.com)
