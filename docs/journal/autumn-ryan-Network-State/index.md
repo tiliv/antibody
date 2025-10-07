@@ -13,18 +13,6 @@ published: true
 index: false
 ---
 
-- Pronomos Capital
-- Balaji Srinivasan, Patri Friedman, Peter Thiel
-- Starbase, TX
-- Freedom Cities
-- The Network State
-- charismatic crypto market thrones
-- a direct democracy hypothesis
-- Greenland
-- Arctic shipping lanes
-- minerals
-- frontiers
-
 {% include iframe.html file="tns.pdf"
   side="left"
   overview="Official PDF for the movement."
@@ -37,6 +25,19 @@ index: false
   caption='This document details how autonomous charisma states can successfully take land from a sovereign entity and run the government with cyrptocurrency shares.'
 %}
 
-- There are more documents than this, but the movement is not invisible:
+- Pronomos Capital
+- Balaji Srinivasan, Patri Friedman, Peter Thiel
+- Starbase, TX
+- Freedom Cities
+- The Network State
+- charismatic crypto market thrones
+- a direct democracy hypothesis
+- Greenland
+- Arctic shipping lanes
+- minerals
+- frontiers
+
+There are more documents than this, but the movement is not invisible:
+
 - [://thenetworkstate.com](//thenetworkstate.com){: rel="nofollow noopener"}
 - [://www.oliverwyman.com](//www.oliverwyman.com){: rel="nofollow noopener"}
