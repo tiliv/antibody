@@ -27,6 +27,7 @@ index: false
 
 - Pronomos Capital
 - Balaji Srinivasan, Patri Friedman, Peter Thiel
+- Palantir
 - Starbase, TX
 - Freedom Cities
 - The Network State
