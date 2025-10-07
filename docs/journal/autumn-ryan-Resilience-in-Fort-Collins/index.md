@@ -28,7 +28,7 @@ The Coloradoan did great work assembling a profile of each candidate, and univer
 
 I will not be ranking these candidates for you, but you get to!
 
-Before an election, these were People already busy using their skills to think about the community. After an election, these people won't cease to exist! You can work with them and generate support for what they do.
+Before an election, these were People already busy using their skills to think about the community. After an election, these People won't cease to exist! You can work with them and generate support for what they do.
 
 {% include figure.html file="contact_shumwayformayor.png"
   side="right"
@@ -125,7 +125,7 @@ In my time attending political action groups in the state of Colorado, I find th
 
 Those of us working on issue selection were doing our best but I watched basically nobody else mark "truth in media" as an issue that affected them personally, and I call that a lie. That Is A Lie. Our media is syndicated and damaged and branded when it arrives to us, even (especially) on social media.
 
-I fear there isn't enough for our leaders to hear in elections. The people can't say it unless they can skillfully conjure tricks in social media, where content is encouraged to be shorter and shorter.
+I fear there isn't enough for our leaders to hear in elections. People can't say it unless they can skillfully conjure tricks in social media, where content is encouraged to be shorter and shorter.
 
 I promote civility, though like ScottyV I must wonder loudly sometimes at what we are expected to say with our brutally short time slots.
 
