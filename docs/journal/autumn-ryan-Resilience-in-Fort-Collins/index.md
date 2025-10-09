@@ -192,7 +192,16 @@ Culturally, we need to unplug from some of these platforms to remember what infr
 
 We are This Close and still not talking to each other, still unable to see each other.
 
-Find Us. Tell us what you need. Stop People on the street and ask them what they call neat in their life.
+Find Us. Tell us what you need. Stop People on the street and ask them what they call neat in their life. Help them talk about it if they want.
+
+Talk about what you see, what you need, and what you can do. You can copy the entire ANTIBODY website right this second if you click a single link:
+
+- [Copy the ANTIBODY template to your own GitHub account for free](https://github.com/new?template_name=antibody&template_owner=tiliv)
+- or [this entire literal website's code and content.zip](https://github.com/tiliv/antibody/archive/refs/heads/main.zip)
+
+Just add or remove things from the `docs/journal` folder and follow the patterns you see. If you're struggling, put new instructions in `AGENTS.md` and tell an agent what you're hoping to do. Even if AI agents get things wrong during some steps, they will heal the damage over time.
+
+No one can stop you. What are you gonna do with that?
 
 #### Centering
 
