@@ -182,7 +182,7 @@ Meetup recently harmed the local 1 Million Cups chapter by raising the cost to r
 
 Maybe Meetup should label events with the organizer's last bill amount and cycle. I think that would be an uncommonly unbiased transparency detail for users to see when they use the platform, don't you?
 
-I met Shirley Peel first, with a running candidate for City Council. They found us despite no more Meetup listing. I want you to think to yourself after you this: How would you know about this event?
+I met Shirley Peel first, with a running candidate for City Council. They found us despite no more Meetup listing. I want you to wonder: How would you learn about this event?
 
 She did this unspecified task, and came into Visit Fort Collins for the entrepreneur event. She was with a City Council candidate and expressed elation that they had learned about the group.
 
