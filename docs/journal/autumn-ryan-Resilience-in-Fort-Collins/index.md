@@ -107,7 +107,7 @@ In my work so far with FCCOPI, I'd met local community leaders at libraries and 
 
 *[FCCOPI]: Fort Collins Community Opinion Platform Incubator
 
-When I first met Pete Waack, CEO of Rocky Mountain Student Media and its ventures, it was with the local retreat of journalism in mind that some of the citizen committee were there asking for insights on approaching new local media for a targeted purpose. The committee had a clear goal statement, but not a lot of specific asks yet. We were researching.
+When I first met Pete Waack, CEO of Rocky Mountain Student Media and its ventures, it was with the local retreat of journalism in mind that some of the citizen committee were there asking for insights on approaching new local media for a targeted purpose. The committee had a clear goal statement, but not a lot of specific asks yet; We were researching.
 
 I had already asked another former city official on the committee for his personal view into local races he thought counted as interesting. He told me Tricia and Shirley were both campaigns who were worth looking at. I may have implied that I was looking for work with someone, and I was, but in a ranked choice election it was a good chance to write about a lot. If candidates like anything about what I do, they have a line. If I like the opportunity, it'll include liking the initiative.
 
