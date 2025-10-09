@@ -24,8 +24,6 @@ index: false
 
 {% include toc/aside.html %}
 
-The Coloradoan did great work assembling a profile of each candidate, and universally, the candidates appreciate your attention to their websites.
-
 I will not be ranking these candidates for you, but you get to!
 
 Before an election, these were People already busy using their skills to think about the community. After an election, these People won't cease to exist! You can work with them and generate support for what they do.
@@ -42,13 +40,15 @@ This necessarily can't be an exhaustive list, but I hope you look into some of t
   caption="Because Jeffrey Shumway's contact information is damaged in public, I'm going to note it here until I find a non-derelict source."
 %}
 
-- [Shirley Peel]({{ page.links.shirley }}){: target="_blank" rel="nofollow noopener"}
+I will present them in "ballot order", which wasn't decided by me, but it's better than nothing. May you form mnemonic bonds to this order based on your adventure down this piece.
+
 - [Tricia Canonico]({{ page.links.tricia }}){: target="_blank" rel="nofollow noopener"}
 - [Adam Eggleston]({{ page.links.adam_e }}){: target="_blank" rel="nofollow noopener"}
-- [Adam Hirschhorn]({{ page.links.adam_h }}){: target="_blank" rel="nofollow noopener"}
 - [Emily Francis]({{ page.links.emily }}){: target="_blank" rel="nofollow noopener"}
-- [ScottyV]({{ page.links.scott }}){: target="_blank" rel="nofollow noopener"}
+- [Adam Hirschhorn]({{ page.links.adam_h }}){: target="_blank" rel="nofollow noopener"}
+- [Shirley Peel]({{ page.links.shirley }}){: target="_blank" rel="nofollow noopener"}
 - [Jeffrey Shumway]({{ page.links.jeffrey }}){: target="_blank" rel="nofollow noopener"}
+- [ScottyV]({{ page.links.scott }}){: target="_blank" rel="nofollow noopener"}
 
 #### Coloradoan
 
@@ -79,6 +79,8 @@ Marjorie (Jorie) Kramer of LWV hosted a question forum in Fort Collins City Hall
 - [Shirley Peel](https://www.fcpublicmedia.org/lcsnapshotnews/episode/34534c45/shirley-peel-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
 - [Scott VanTatenhove](https://www.fcpublicmedia.org/lcsnapshotnews/episode/258c241e/scott-vantatenhove-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
 
+This is Hirschhorn's dominant appearance for subjects.
+
 #### YIMBY Fort Collins
 
 *[YIMBY]: Yes In My Back Yard
@@ -92,6 +94,13 @@ As someone unfamiliar with the deeper particulars, the popularity of this seems 
 - [://www.youtube.com/watch?v=wwXFrNDotFI](https://www.youtube.com/watch?v=wwXFrNDotFI){: target="_blank" rel="nofollow noopener"}
 - [://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/](https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/){: target="_blank" rel="nofollow noopener"}
 
+#### LWV Mayoral Candidate Forum
+
+*[LWV]: League of Women Voters
+
+This forum took place in City Hall and featured the candidates answering questions that were gathered and prepared for the host, Jorie Kramer, at the event. There were strict time limits, and the questions were a useful tour, but difficult to dig deeply on.
+
+- [://youtu.be/Wj4nHGeOrco?si=RX7JGcqmFAfnI-N_](https://youtu.be/Wj4nHGeOrco?si=RX7JGcqmFAfnI-N_)
 
 #### Fort Collins Report
 
@@ -169,7 +178,7 @@ Let your intent be seen, even if you can't win it all. They can measure it now.
 
 Help your candidates know you see them through general noise of all else. They really do need you.
 
-Meetup recently harmed the local 1 Million Cups chapter by raising the cost to run organizing on the platform. The group there closed and attendees come less often, because they mistake Meetup for the True listing of what's going on.
+Meetup recently harmed the local 1 Million Cups chapter by raising the cost to run organizing on the platform. Their listing closed and attendees come less often, because they mistake Meetup for the True listing of what's going on.
 
 Maybe Meetup should label events with the organizer's last bill amount and cycle. I think that would be an uncommonly unbiased transparency detail for users to see when they use the platform, don't you?
 
