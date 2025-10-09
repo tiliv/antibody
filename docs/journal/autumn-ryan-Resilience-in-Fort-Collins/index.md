@@ -127,8 +127,6 @@ On November 20 2024, I scrawled my notes on a weekday night for the only public 
 
 I see people with bills they can't pay before there is any eviction notice, so orgs can't help. I see people with eating disorders unable to get the care they need because their BMI is a fraction of a point too low. I see beloved businesses close because it's just too expensive. I hear people struggle to get transportation when they need it without extravagant prior arrangements.
 
-Our entrepreneurs meet on a Wednesday at 9am, while others can't. There are more events going on in the community for business owners and by non-profits than anyone knows. (Just ask the candidates! They have the same need.)
-
 There are help organizations which push paperwork in someone's hands, replete with every niche question they might ever want to know about their concept, only for the first meeting to be with someone who hasn't read that unholy stack of paper. Maybe the meeting is a rejection, and everyone's time was wasted.
 
 To seek help is costly on time, and to be lost in a game of qualification is insulting to them. They resent this declaration that they are not right for help. It is monstrously alienating and strengthens any underground culture that critiques the worth of these systems. The systems and agents do not ask for meaningful feedback, and certainly can't implement unsolicited feedback.
@@ -146,6 +144,22 @@ Vote fearlessly for your honest firsts. You could rank several underdogs above y
 Let your intent be seen, even if you can't win it all. They can measure it now.
 
 Help your candidates know you see them through general noise of all else. They really do need you.
+
+Meetup recently harmed the local 1 Million Cups chapter by raising the cost to run organizing on the platform. The group there closed and attendees come less often, because they mistake Meetup for the True listing of what's going on.
+
+Maybe Meetup should label events with the organizer's last bill amount and cycle. I think that would be an uncommonly unbiased transparency detail for users to see when they use the platform, don't you?
+
+I met Shirley Peel first, with a running candidate for City Council. They found us despite no more Meetup listing. I want you to think to yourself after you this: How would you know about this event?
+
+She did this unspecified task, and came into Visit Fort Collins for the entrepreneur event. She was with a City Council candidate and expressed elation that they had learned about the group.
+
+Connecting with our own local business owners is so hard. Discovering our own locals and what they do is impossible in the practicals; Until Meetup makes it clear which of their players are bankrolled, I don't see how a Person is supposed to know more about what isn't listed.
+
+Culturally, we need to unplug from some of these platforms to remember what infrastructure we lack. We need each other. That's you together up there in Fort Collins, and Loveland is spooning you; Sorry.
+
+We are This Close and still not talking to each other, still unable to see each other.
+
+Find Us. Tell us what you need. Stop People on the street and ask them what they call neat in their life.
 
 #### Centering
 
