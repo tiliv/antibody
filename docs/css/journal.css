@@ -79,7 +79,7 @@ aside.side li {
   margin-left: 1em;
   line-height: 1.2em;
 }
-aside.side a {
+aside.side li a {
   color: var(--fg2);
   text-decoration: none;
 }
