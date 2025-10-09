@@ -272,17 +272,17 @@ The world over: Mercenaries contested control of water shared by India and Pakis
 
 Northern Colorado's water is a series of connected paths. In 2025, Loveland's semi-local digital paper remarked about the low canals: "Low water levels in Lake Loveland keep boats out, kill hundreds of fish" and found quotes from Greeley:
 
-> [https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish](https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish){: target="_blank" rel="nofollow noopener"}
+[Claire Lavezzorio, Reporter Denver7](https://www.denver7.com/claire-lavezzorio){: target="_blank" rel="nofollow noopener"}
 
-> ¶ 7: To understand the reasons behind the declining water levels, Denver7 spoke with Leah Hubbard, deputy director of water resources for the City of Greeley. She said Greeley owns more than 50% of the water in Lake Loveland.
+[https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish](https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish){: target="_blank" rel="nofollow noopener"}
 
-> ¶ 8: Hubbard explained that this year, the rapid snowmelt from the mountains and a lack of additional snow in April contributed to the reservoir's insufficient fill. These levels are expected to fall even further in the coming weeks.
+> **¶ 7**: To understand the reasons behind the declining water levels, Denver7 spoke with Leah Hubbard, deputy director of water resources for the City of Greeley. She said Greeley owns more than 50% of the water in Lake Loveland.
 
-> ¶ 11: "Over time, there has been recreational purposes on that lake, but before — long before the houses in the community surrounded it — it was there for the irrigated crops out towards Greeley," said Hubbard.
+> **¶ 8**: Hubbard explained that this year, the rapid snowmelt from the mountains and a lack of additional snow in April contributed to the reservoir's insufficient fill. These levels are expected to fall even further in the coming weeks.
 
-> ¶ 10: Hubbard noted that the lake is managed by the Greeley Loveland Irrigation Company (GLIC), which uses it primarily for irrigation purposes, meaning it is designed to be drained.
+> **¶ 11**: "Over time, there has been recreational purposes on that lake, but before — long before the houses in the community surrounded it — it was there for the irrigated crops out towards Greeley," said Hubbard.
 
-> <footer>[Claire Lavezzorio, Reporter Denver7](https://www.denver7.com/claire-lavezzorio){: target="_blank" rel="nofollow noopener"}</footer>
+> **¶ 10**: Hubbard noted that the lake is managed by the Greeley Loveland Irrigation Company (GLIC), which uses it primarily for irrigation purposes, meaning it is designed to be drained.
 
 - fees and districts
 - A Desert

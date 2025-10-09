@@ -54,9 +54,13 @@ article h3, article h4 {
   top: 40px;
 }
 article blockquote {
-  margin: 1em 1em 0;
+  margin: 1em 1em 0 0;
   color: var(--fg1);
+  padding-left: .5em;
   border-left: 20px solid var(--accent);
+}
+article blockquote strong:first-child {
+  font-family: Arial;
 }
 article blockquote del {
   text-decoration-color: var(--accent);
@@ -129,6 +133,9 @@ a {
 }
 a img {
   margin: 5px;
+}
+li a {
+  word-break: break-word;
 }
 
 article.content {

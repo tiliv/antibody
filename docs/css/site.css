@@ -233,6 +233,7 @@ body {
 }
 #re {
   margin: 1em auto;
+  word-break: break-word;
 }
 .truthy-pill {
   width: 60px;
