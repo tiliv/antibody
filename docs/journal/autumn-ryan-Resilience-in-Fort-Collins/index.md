@@ -273,6 +273,23 @@ Low costs enable possibility for those don't have it. The more we can decouple m
 
 #### Housing
 
+The stats are pretty brutal. It's not affordable. Key demographics are fleeing. It seems we all know we need a change, but those close to governance know the money has to come from somewhere. Short active development, land use code is a key subject.
+
+Mixed zoning and land use is under review because of what inspires the 15-minute city concept. Development for business includes figuring out what to do with derelict projects that are weird just because we've never reused those before in our society.
+
+I'm not here to tell you to make Fort Collins Just Like Austin, but in Austin I ate a fine steak and seafood meal in an old laundromat. It is sexy and fun. We are like cats if you just give us boxes to jump into. We like em weird.
+
+Weird can be the active ingredient. Adam Hirschhorn has thoughts about closed systems, vertical building, and removing restrictions on smaller dwellings on owned property. For a pedestrian or a student they may not matter (yet), but I will highlight just that the way the law defines land use is important to everyone.
+
+There is a demographic hole in Fort Collins that is will not heal quickly, and this gaping thing might be ignorable if the city is content to drive away everyone away like a right a passage at some age.
+
+YIMBY Fort Collins held a forum with the active candidates, and got to look at housing questions. I think Scott VanTatenhove had the closest pulse on what to do in practice for target goals with legislation. He seemed to me to peer through the stats at the People and motion and opposition. YIMBY wrote about housing after their forum.
+
+*[YIMBY]: Yes In My Back Yard
+
+Scott wants a compromise, but he's real about it and he does care. He's plugged into the state legislation that has gone on this year. He is an earnest observer and seems to see the human structure of affecting change, because he's done it.
+
+I am tempted to make Housing my shortest piece of this write-up, but because if the issue animates you at all, there are probably People looking at it. You can get involved now, not when you sit back and wait for your vote to go off.
 
 #### Local businesses
 
