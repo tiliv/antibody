@@ -73,7 +73,7 @@ There are help organizations which push paperwork in someone's hands, replete wi
 
 To seek help is costly on time, and to be lost in a game of qualification is insulting to them. They resent this declaration that they are not right for help. It is monstrously alienating and strengthens any underground culture that critiques the worth of these systems. The systems and agents do not ask for meaningful feedback, and certainly can't implement unsolicited feedback.
 
-I needed leaders who knew the heartbeat of their city and where it needed some of that listening I heard about at the forum. I needed voices that could foil for the front-runners and make them accountable to their stances.
+I needed to promote leaders who knew the heartbeat of their city and where it needed some of that listening I heard about at the forum. I needed voices that could foil for the front-runners and make them accountable to their stances.
 
 In Fort Collins, a ranked choice election gives you the power to say more with your vote, to pack more metadata. Your vote is more sophisticated now.
 
