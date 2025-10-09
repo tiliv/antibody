@@ -30,36 +30,96 @@ I will not be ranking these candidates for you, but you get to!
 
 Before an election, these were People already busy using their skills to think about the community. After an election, these People won't cease to exist! You can work with them and generate support for what they do.
 
+### By the outlets
+
+This necessarily can't be an exhaustive list, but I hope you look into some of these links.
+
+#### Coloradoan
+
 {% include figure.html file="contact_shumwayformayor.png"
   side="right"
   overview="Small screenshot of a DOM inspector revealing content implied to be hard to see by normal means."
   caption="Because Jeffrey Shumway's contact information is damaged in public, I'm going to note it here until I find a non-derelict source."
 %}
 
-- [Shirley Peel]({{ page.links.shirley }})
-- [Tricia Canonico]({{ page.links.tricia }})
-- [Adam Eggleston]({{ page.links.adam_e }})
-- [Emily Francis]({{ page.links.emily }})
-- [ScottyV]({{ page.links.scott }})
-- [Adam Hirschhorn]({{ page.links.adam_h }})
-- [Jeffrey Shumway]({{ page.links.jeffrey }})
+- [Shirley Peel]({{ page.links.shirley }}){: rel="nofollow noopener"}
+- [Tricia Canonico]({{ page.links.tricia }}){: rel="nofollow noopener"}
+- [Adam Eggleston]({{ page.links.adam_e }}){: rel="nofollow noopener"}
+- [Adam Hirschhorn]({{ page.links.adam_h }}){: rel="nofollow noopener"}
+- [Emily Francis]({{ page.links.emily }}){: rel="nofollow noopener"}
+- [ScottyV]({{ page.links.scott }}){: rel="nofollow noopener"}
+- [Jeffrey Shumway]({{ page.links.jeffrey }}){: rel="nofollow noopener"}
+
+#### Snapshot News
+
+Marjorie (Jorie) Kramer of LWV hosted a question forum in Fort Collins City Hall, but also interviewed the candidates individually for Snapshot News:
+
+*[LWV]: Larimer County's League of Women Voters
+
+- [Tricia Canonico](https://www.fcpublicmedia.org/lcsnapshotnews/episode/30ea6d33/tricia-canonico-on-snapshot-news){: rel="nofollow noopener"}
+- [Adam Eggleston](https://www.fcpublicmedia.org/lcsnapshotnews/episode/434f11ae/adam-eggleston-on-snapshot-news){: rel="nofollow noopener"}
+- [Emily Francis](https://www.fcpublicmedia.org/lcsnapshotnews/episode/21207451/emily-francis-on-snapshot-news){: rel="nofollow noopener"}
+- [Adam Hirschhorn](https://www.fcpublicmedia.org/lcsnapshotnews/episode/1c4708e7/adam-hirschhorn-on-snapshot-news){: rel="nofollow noopener"}
+- [Shirley Peel](https://www.fcpublicmedia.org/lcsnapshotnews/episode/34534c45/shirley-peel-on-snapshot-news){: rel="nofollow noopener"}
+- [Scott VanTatenhove](https://www.fcpublicmedia.org/lcsnapshotnews/episode/258c241e/scott-vantatenhove-on-snapshot-news){: rel="nofollow noopener"}
+
+#### YIMBY Fort Collins
+
+*[YIMBY]: Yes In My Back Yard
+
+- [://www.youtube.com/watch?v=wwXFrNDotFI](https://www.youtube.com/watch?v=wwXFrNDotFI){: rel="nofollow noopener"}
+- [://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/](https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/){: rel="nofollow noopener"}
+
+
+#### Fort Collins Report
+
+- [://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/](https://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/){: rel="nofollow noopener"}
+
+#### ANTIBODY
+
+It was not easy to decide who to write about in Loveland or Fort Collins, as both are having their elections for council seats and more.
+
+In my work so far with FCCOPI, I'd met local community leaders at libraries and universities running extensive student-led services.
+
+*[FCCOPI]: Fort Collins Community Opinion Platform Incubator
+
+When I first met Pete Waack, CEO of Rocky Mountain Student Media and its ventures, it was with the local retreat of journalism in mind that some of the citizen committee were there asking for insights on approaching new local media for a targeted purpose. The committee had a clear goal statement, but not a lot of specific asks yet. We were researching.
+
+I had already asked another former city official on the committee for his personal view into local races he thought counted as interesting. He told me Tricia and Shirley were both campaigns who were worth looking at. I may have implied that I was looking for work with someone, and I was, but in a ranked choice election it was a good chance to write first. If they like anything about it, they can find me.
+
+As a resident of Loveland, I attend my own City Councils and hear them cite Fort Collins in discussion. I've had much more beer in Fort Collins than my town. In NoCo, you find yourself in Timnath for the Beerwerks. We go to Longmont, and west just over our mountains. We are connected, surely.
+
+When I discovered this year that AT&T was using phone upgrades to opt-in attack the public resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
+
+- [://www.att.com/legal/terms.personalizedPlus.html](https://www.att.com/legal/terms.personalizedPlus.html){: rel="nofollow noopener"}
+- [://antibody/journal/autumn-ryan-Personalized-Plus/](https://antibody.discoverywritten.com/journal/autumn-ryan-Personalized-Plus/)
+- [://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service](https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service){: rel="nofollow noopener"}
+
+I had to stop and wonder at if Fort Collins was buying my realtime location, every time I made it to Visit Fort Collins for a 1 Million Cups meeting of entrepreneurs doing pitches to each other, or when I participated in a citizen committee.
+
+- [://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co](https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co){: rel="nofollow noopener"}
+
+Was the city getting my data even though I'm not a resident? Am I close enough that they just get me most of the time anyway? Who else "just gets me", actually? Who else can buy my location?
+
+I found myself convinced that I deserved to pay attention to Fort Collins, because at minimum, I can assume Fort Collins is already paying attention to me.
 
 ### A reason to stay
 
-(profiles)
+Generations are being raised in their first ever glimpse at national political climate, and it has been openly violent. These are national issues, but do not mistake that for a reason to dismiss them: The Tesla dealership in my town was in national news. I'm not online too much, the DOJ yelled into cameras about standing a security force on my way to anywhere here.
 
-- the retreat of local journalism
-- the confusion of partisan leaderships with split attention
-- the paralysis of political action groups, as shared national issues take the oxygen
-- a non-partisan, ranked choice election in Fort Collins
-- what people are doing for themselves
-- 1 Million Cups
-- economic development
-- discovery in the age of user-hostile markets
-- sustainability
-- elections, ranked choice, non-partisan
-- mayoral forum by the League of Women Voters
-- a missing candidate
+The non-partisan election is a source of gladness for me. That conflict is Gordion and we need to share a local mindset first.
+
+I have not seen a single local political ad. I don't lead a life that puts ads in front of me. I pay for my media, and I am busy in my community, and yours, Fort Collins.
+
+Sadly, as I asked people face to face in preparation for this piece if they knew any of the candidate names, none do. I haven't asked Everybody, but I'm asking the ones I know don't vote. (Where would they find the motive?)
+
+The politicians, for all they reach spending levels they're satisfied with, are not reaching people.
+
+My own lack of media exposure to these candidates is not the anomaly. This is endemic in our public.
+
+2026 will become storied with my planning for how I can progress the metric of how many people know your names, candidates. That is how low the bar is. Hold my Fort Collins-bought beer.
+
+I can't vote for what happens next in Fort Collins, so why don't you handle it?
 
 ### What Do You Need?
 
