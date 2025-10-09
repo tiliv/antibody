@@ -42,13 +42,13 @@ This necessarily can't be an exhaustive list, but I hope you look into some of t
   caption="Because Jeffrey Shumway's contact information is damaged in public, I'm going to note it here until I find a non-derelict source."
 %}
 
-- [Shirley Peel]({{ page.links.shirley }}){: rel="nofollow noopener"}
-- [Tricia Canonico]({{ page.links.tricia }}){: rel="nofollow noopener"}
-- [Adam Eggleston]({{ page.links.adam_e }}){: rel="nofollow noopener"}
-- [Adam Hirschhorn]({{ page.links.adam_h }}){: rel="nofollow noopener"}
-- [Emily Francis]({{ page.links.emily }}){: rel="nofollow noopener"}
-- [ScottyV]({{ page.links.scott }}){: rel="nofollow noopener"}
-- [Jeffrey Shumway]({{ page.links.jeffrey }}){: rel="nofollow noopener"}
+- [Shirley Peel]({{ page.links.shirley }}){: target="_blank" rel="nofollow noopener"}
+- [Tricia Canonico]({{ page.links.tricia }}){: target="_blank" rel="nofollow noopener"}
+- [Adam Eggleston]({{ page.links.adam_e }}){: target="_blank" rel="nofollow noopener"}
+- [Adam Hirschhorn]({{ page.links.adam_h }}){: target="_blank" rel="nofollow noopener"}
+- [Emily Francis]({{ page.links.emily }}){: target="_blank" rel="nofollow noopener"}
+- [ScottyV]({{ page.links.scott }}){: target="_blank" rel="nofollow noopener"}
+- [Jeffrey Shumway]({{ page.links.jeffrey }}){: target="_blank" rel="nofollow noopener"}
 
 #### Coloradoan
 
@@ -58,13 +58,13 @@ This piece's topic link is repeated here and in the table of contents.
 
 Individual profiles of each candidate are available as well:
 
-- [Tricia Canonico](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-tricia-canonico-mayor/85990711007/){: rel="nofollow noopener"}
-- [Adam Eggleston](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-eggleston-mayor/85991062007/){: rel="nofollow noopener"}
-- [Emily Francis](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-emily-francis-mayor/85991437007/){: rel="nofollow noopener"}
-- [Adam Hirschhorn](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-hirschhorn-mayor/85992417007/){: rel="nofollow noopener"}
-- [Shirley Peel](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-shirley-peel-mayor/85991552007/){: rel="nofollow noopener"}
-- [Jeffrey Shumway](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-jeffrey-shumway-mayor/85991914007/){: rel="nofollow noopener"}
-- [ScottyV](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-scott-scottyv-vantatenhove-mayor/85991984007/){: rel="nofollow noopener"}
+- [Tricia Canonico](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-tricia-canonico-mayor/85990711007/){: target="_blank" rel="nofollow noopener"}
+- [Adam Eggleston](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-eggleston-mayor/85991062007/){: target="_blank" rel="nofollow noopener"}
+- [Emily Francis](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-emily-francis-mayor/85991437007/){: target="_blank" rel="nofollow noopener"}
+- [Adam Hirschhorn](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-hirschhorn-mayor/85992417007/){: target="_blank" rel="nofollow noopener"}
+- [Shirley Peel](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-shirley-peel-mayor/85991552007/){: target="_blank" rel="nofollow noopener"}
+- [Jeffrey Shumway](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-jeffrey-shumway-mayor/85991914007/){: target="_blank" rel="nofollow noopener"}
+- [ScottyV](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-scott-scottyv-vantatenhove-mayor/85991984007/){: target="_blank" rel="nofollow noopener"}
 
 #### Snapshot News
 
@@ -72,12 +72,12 @@ Marjorie (Jorie) Kramer of LWV hosted a question forum in Fort Collins City Hall
 
 *[LWV]: Larimer County's League of Women Voters
 
-- [Tricia Canonico](https://www.fcpublicmedia.org/lcsnapshotnews/episode/30ea6d33/tricia-canonico-on-snapshot-news){: rel="nofollow noopener"}
-- [Adam Eggleston](https://www.fcpublicmedia.org/lcsnapshotnews/episode/434f11ae/adam-eggleston-on-snapshot-news){: rel="nofollow noopener"}
-- [Emily Francis](https://www.fcpublicmedia.org/lcsnapshotnews/episode/21207451/emily-francis-on-snapshot-news){: rel="nofollow noopener"}
-- [Adam Hirschhorn](https://www.fcpublicmedia.org/lcsnapshotnews/episode/1c4708e7/adam-hirschhorn-on-snapshot-news){: rel="nofollow noopener"}
-- [Shirley Peel](https://www.fcpublicmedia.org/lcsnapshotnews/episode/34534c45/shirley-peel-on-snapshot-news){: rel="nofollow noopener"}
-- [Scott VanTatenhove](https://www.fcpublicmedia.org/lcsnapshotnews/episode/258c241e/scott-vantatenhove-on-snapshot-news){: rel="nofollow noopener"}
+- [Tricia Canonico](https://www.fcpublicmedia.org/lcsnapshotnews/episode/30ea6d33/tricia-canonico-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
+- [Adam Eggleston](https://www.fcpublicmedia.org/lcsnapshotnews/episode/434f11ae/adam-eggleston-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
+- [Emily Francis](https://www.fcpublicmedia.org/lcsnapshotnews/episode/21207451/emily-francis-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
+- [Adam Hirschhorn](https://www.fcpublicmedia.org/lcsnapshotnews/episode/1c4708e7/adam-hirschhorn-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
+- [Shirley Peel](https://www.fcpublicmedia.org/lcsnapshotnews/episode/34534c45/shirley-peel-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
+- [Scott VanTatenhove](https://www.fcpublicmedia.org/lcsnapshotnews/episode/258c241e/scott-vantatenhove-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
 
 #### YIMBY Fort Collins
 
@@ -89,15 +89,15 @@ As someone unfamiliar with the deeper particulars, the popularity of this seems 
 
 *[YIMBY]: Yes In My Back Yard
 
-- [://www.youtube.com/watch?v=wwXFrNDotFI](https://www.youtube.com/watch?v=wwXFrNDotFI){: rel="nofollow noopener"}
-- [://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/](https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/){: rel="nofollow noopener"}
+- [://www.youtube.com/watch?v=wwXFrNDotFI](https://www.youtube.com/watch?v=wwXFrNDotFI){: target="_blank" rel="nofollow noopener"}
+- [://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/](https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/){: target="_blank" rel="nofollow noopener"}
 
 
 #### Fort Collins Report
 
 Chris Crenshaw runs FC Report and is looking for board and content contributions. He's also seeking to serve small journalism projects to give them a platform in this community lacking outlets for writers to use.
 
-- [://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/](https://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/){: rel="nofollow noopener"}
+- [://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/](https://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/){: target="_blank" rel="nofollow noopener"}
 
 #### ANTIBODY
 
@@ -115,13 +115,13 @@ As a resident of Loveland, I attend my own City Councils and hear them cite Fort
 
 When I discovered this year that AT&T was using phone upgrades to opt-in attack the public to resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then I found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
 
-- [://www.att.com/legal/terms.personalizedPlus.html](https://www.att.com/legal/terms.personalizedPlus.html){: rel="nofollow noopener"}
+- [://www.att.com/legal/terms.personalizedPlus.html](https://www.att.com/legal/terms.personalizedPlus.html){: target="_blank" rel="nofollow noopener"}
 - [://antibody/journal/autumn-ryan-Personalized-Plus/](https://antibody.discoverywritten.com/journal/autumn-ryan-Personalized-Plus/)
-- [://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service](https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service){: rel="nofollow noopener"}
+- [://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service](https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service){: target="_blank" rel="nofollow noopener"}
 
 I had to stop and wonder at if Fort Collins was buying my realtime location, every time I made it to Visit Fort Collins for a 1 Million Cups meeting of entrepreneurs doing pitches to each other, or when I participated in a citizen committee.
 
-- [://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co](https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co){: rel="nofollow noopener"}
+- [://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co](https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co){: target="_blank" rel="nofollow noopener"}
 
 Was the city getting my data even though I'm not a resident? Am I close enough that they just get me most of the time anyway? Who else "just gets me", actually? Who else can buy my location?
 
@@ -249,12 +249,12 @@ The world over: Mercenaries contested control of water shared by India and Pakis
 
 Northern Colorado's water is a series of connected paths. In 2025, Loveland's semi-local digital paper remarked about the low canals: "Low water levels in Lake Loveland keep boats out, kill hundreds of fish" and found quotes from Greeley:
 
-> [https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish](https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish){: rel="nofollow noopener"}
+> [https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish](https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish){: target="_blank" rel="nofollow noopener"}
 > ¶ 7: To understand the reasons behind the declining water levels, Denver7 spoke with Leah Hubbard, deputy director of water resources for the City of Greeley. She said Greeley owns more than 50% of the water in Lake Loveland.
 > ¶ 8: Hubbard explained that this year, the rapid snowmelt from the mountains and a lack of additional snow in April contributed to the reservoir's insufficient fill. These levels are expected to fall even further in the coming weeks.
 > ¶ 11: "Over time, there has been recreational purposes on that lake, but before — long before the houses in the community surrounded it — it was there for the irrigated crops out towards Greeley," said Hubbard.
 > ¶ 10: Hubbard noted that the lake is managed by the Greeley Loveland Irrigation Company (GLIC), which uses it primarily for irrigation purposes, meaning it is designed to be drained.
-> <footer>[Claire Lavezzorio, Reporter Denver7](https://www.denver7.com/claire-lavezzorio){: rel="nofollow noopener"}</footer>
+> <footer>[Claire Lavezzorio, Reporter Denver7](https://www.denver7.com/claire-lavezzorio){: target="_blank" rel="nofollow noopener"}</footer>
 
 - fees and districts
 - A Desert
