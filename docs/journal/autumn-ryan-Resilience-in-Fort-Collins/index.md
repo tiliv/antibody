@@ -215,6 +215,23 @@ May We Have Our Time Back?
 
 #### Water
 
+At risk of over-representing Shirley Peel, talk of water sounds different from her than the other candidates at the public forum. Sharing water districts is a possibility that is starting to count its pros more than its cons, but this would represent a change around here, and so the evidence required to make that switch might need to be sizeable.
+
+I haven't been able to tell yet if Sizeable would describe emergency or credibility. The home team should build their own valid working model without sharing districts, so that their case can be made with more metadata. We're still working on getting their names known at all, but we'll add water discussion to the list.
+
+For one paragraph, I will containerize my concern about Water:
+
+The world over: Mercenaries contested control of water shared by India and Pakistan. Government threaten water agreements. War replaces wheat, embedded in the ground. Our farmers are failing financially this year specifically and need a bailout. Agriculture is falling derelict and climate is changing much. The federal government of the United States has Bureau of Land Management territories and costly ways to develop them. The Unitary Executive spectates Netanyahu's failings and offers to take Gaza away for development dreams. It solicits Greenland with hostile embedded measures, and frequently seeks Canada's land by absorption specifically. The Unitary Executive's interest in land is also domestic. It ordered our streets to be the military's practice grounds, where they are masked, heavily armed and paired with bluejeans terrorists with zipties. If the Unitary Executive wants land, and cannot get it elsewhere, it can empty a city by waiving its hand and taking away our water source. We will flee without a bullet.
+
+Northern Colorado's water is a series of connected paths. In 2025, Loveland's semi-local digital paper remarked about the low canals: "Low water levels in Lake Loveland keep boats out, kill hundreds of fish" and found quotes from Greeley:
+
+> [https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish](https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish){: rel="nofollow noopener"}
+> ¶ 7: To understand the reasons behind the declining water levels, Denver7 spoke with Leah Hubbard, deputy director of water resources for the City of Greeley. She said Greeley owns more than 50% of the water in Lake Loveland.
+> ¶ 8: Hubbard explained that this year, the rapid snowmelt from the mountains and a lack of additional snow in April contributed to the reservoir's insufficient fill. These levels are expected to fall even further in the coming weeks.
+> ¶ 11: "Over time, there has been recreational purposes on that lake, but before — long before the houses in the community surrounded it — it was there for the irrigated crops out towards Greeley," said Hubbard.
+> ¶ 10: Hubbard noted that the lake is managed by the Greeley Loveland Irrigation Company (GLIC), which uses it primarily for irrigation purposes, meaning it is designed to be drained.
+> <footer>[Claire Lavezzorio, Reporter Denver7](https://www.denver7.com/claire-lavezzorio){: rel="nofollow noopener"}</footer>
+
 - fees and districts
 - A Desert
 - the Colorado River
