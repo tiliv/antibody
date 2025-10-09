@@ -34,7 +34,7 @@ Before an election, these were People already busy using their skills to think a
 
 This necessarily can't be an exhaustive list, but I hope you look into some of these links.
 
-#### Coloradoan
+#### Their sites
 
 {% include figure.html file="contact_shumwayformayor.png"
   side="right"
@@ -49,6 +49,22 @@ This necessarily can't be an exhaustive list, but I hope you look into some of t
 - [Emily Francis]({{ page.links.emily }}){: rel="nofollow noopener"}
 - [ScottyV]({{ page.links.scott }}){: rel="nofollow noopener"}
 - [Jeffrey Shumway]({{ page.links.jeffrey }}){: rel="nofollow noopener"}
+
+#### Coloradoan
+
+This piece's topic link is repeated here and in the table of contents.
+
+- [{{ page.re | replace: "https","" }}]({{ page.re }})
+
+Individual profiles of each candidate are available as well:
+
+- [Tricia Canonico](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-tricia-canonico-mayor/85990711007/){: rel="nofollow noopener"}
+- [Adam Eggleston](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-eggleston-mayor/85991062007/){: rel="nofollow noopener"}
+- [Emily Francis](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-emily-francis-mayor/85991437007/){: rel="nofollow noopener"}
+- [Adam Hirschhorn](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-hirschhorn-mayor/85992417007/){: rel="nofollow noopener"}
+- [Shirley Peel](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-shirley-peel-mayor/85991552007/){: rel="nofollow noopener"}
+- [Jeffrey Shumway](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-jeffrey-shumway-mayor/85991914007/){: rel="nofollow noopener"}
+- [ScottyV](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-scott-scottyv-vantatenhove-mayor/85991984007/){: rel="nofollow noopener"}
 
 #### Snapshot News
 
@@ -67,11 +83,19 @@ Marjorie (Jorie) Kramer of LWV hosted a question forum in Fort Collins City Hall
 
 *[YIMBY]: Yes In My Back Yard
 
+This is a group that likes initiatives which address the housing situation. The movement seems bigger than its YouTube channel subscribers will reveal, another example of how social medias don't actually model real life.
+
+As someone unfamiliar with the deeper particulars, the popularity of this seems directly driven by the overt, gaping wound in us from software-enforced rent inflation, and real house costs besides. (If we're ever brash with an entire inheritance right there at the end of our lives, we might own grass before we die.)
+
+*[YIMBY]: Yes In My Back Yard
+
 - [://www.youtube.com/watch?v=wwXFrNDotFI](https://www.youtube.com/watch?v=wwXFrNDotFI){: rel="nofollow noopener"}
 - [://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/](https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/){: rel="nofollow noopener"}
 
 
 #### Fort Collins Report
+
+Chris Crenshaw runs FC Report and is looking for board and content contributions. He's also seeking to serve small journalism projects to give them a platform in this community lacking outlets for writers to use.
 
 - [://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/](https://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/){: rel="nofollow noopener"}
 
@@ -85,9 +109,9 @@ In my work so far with FCCOPI, I'd met local community leaders at libraries and 
 
 When I first met Pete Waack, CEO of Rocky Mountain Student Media and its ventures, it was with the local retreat of journalism in mind that some of the citizen committee were there asking for insights on approaching new local media for a targeted purpose. The committee had a clear goal statement, but not a lot of specific asks yet. We were researching.
 
-I had already asked another former city official on the committee for his personal view into local races he thought counted as interesting. He told me Tricia and Shirley were both campaigns who were worth looking at. I may have implied that I was looking for work with someone, and I was, but in a ranked choice election it was a good chance to write first. If they like anything about it, they can find me.
+I had already asked another former city official on the committee for his personal view into local races he thought counted as interesting. He told me Tricia and Shirley were both campaigns who were worth looking at. I may have implied that I was looking for work with someone, and I was, but in a ranked choice election it was a good chance to write about a lot. If candidates like anything about what I do, they have a line. If I like the opportunity, it'll include liking the initiative.
 
-As a resident of Loveland, I attend my own City Councils and hear them cite Fort Collins in discussion. I've had much more beer in Fort Collins than my town. In NoCo, you find yourself in Timnath for the Beerwerks. We go to Longmont, and west just over our mountains. We are connected, surely.
+As a resident of Loveland, I attend my own City Councils and hear them cite Fort Collins in discussion. I've had much more beer in Fort Collins than my town, so it made sense to me why we had this mixing. In NoCo, you find yourself in Timnath for the Beerwerks. We go to Longmont, and west just over our mountains. We are connected, surely.
 
 When I discovered this year that AT&T was using phone upgrades to opt-in attack the public resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
 
