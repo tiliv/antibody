@@ -123,7 +123,7 @@ I had to stop and wonder at if Fort Collins was buying my realtime location, eve
 
 - [://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co](https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co){: target="_blank" rel="nofollow noopener"}
 
-Was the city getting my data even though I'm not a resident? Am I close enough that they just get me most of the time anyway? Who else "just gets me", actually? Who else can buy my location?
+Was the city getting my data even though I'm not a resident? Am I close enough that they just get me most of the time anyway? Who else "just gets me", actually? Who else can buy my location at will?
 
 I found myself convinced that I deserved to pay attention to Fort Collins, because at minimum, I can assume Fort Collins is already paying attention to me.
 
