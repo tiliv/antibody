@@ -239,15 +239,37 @@ Northern Colorado's water is a series of connected paths. In 2025, Loveland's se
 
 #### Free movement
 
-- transit: optimistic and willpower to go further
-- parking fees
-- busses: free ridership but with some hard where/when limits
-- transportation shapes our behaviors, by HOV, bike lane, bus or taxi
-- rail to Denver
-- Denver, NoCo, the rest
-- Yarrow Collective
-- gentrification of home
-- bilingual
+Tricia Canonico is doing a lot to cooperate for rail in Fort Collins. She believes the rail site choice in Fort Collins is the right one and is working with our Governor's office to validate and move forward. She can speak well about it and go to bat.
+
+Our key demographics in sustainability are vanishing, but transit could make it tolerable to commute to Denver from Northern Colorado, maybe even if you don't own a car.
+
+I have wanted to rid myself of a vehicle before, and I have wanted to live in one before. What I want is free movement. The environment or methods make it possible. I don't like living in big cities, but it is enlightening to see what density really means for what you can do with 10 minutes on foot. A 15-minute city means you could have warm food inside you by then, without any prior technology or mechanical requirements. Try walking for 15 minutes outside of college town and see how far that gets literally anybody in a mass housing installation.
+
+Housing and free movement are difficultly linked to roads, which are nicely laid out with a grid at large scales, and then rammed full of things you would literally never walk to, like other People's houses, unless you were there to levy the annual Treat tax.
+
+For a long time in other states, only parks fill the need for walkable places, and the subdivisions that got them early enough are considered family spots. Apartments in other states sometimes build charming but ridiculous terraces that don't fit, to give people somewhere the hell to be that is not in their four walls.
+
+If you need to figure out what to do as a public servant, help us walk places. Help us spirit ourselves to places that only the power of civilization can do. Let us ride trains places. The busses are working, let's keep those running to the right places at the right times on sane schedules.
+
+Loveland and Fort Collins share a regional airport which opened its new terminal in 2025. I went thinking it would be a small thing, but it was very well attended, and I don't think it was just the option for a free glass of wine.
+
+Parking fees in Fort Collins have been an issue for some, and the City is promising to take feedback.
+
+- [://antibody/journal/autumn-ryan-Park-Mobile](https://antibody.discoverywritten.com/journal/autumn-ryan-Park-Mobile)
+
+We are really into travel. Fort Collins has been trying to keep the fee taxation very low, but we know which way fees like to go.
+
+Rising rates for transit is a warning dial that is easier to treat before it's a decade's old deficit of value. Don't wait like Minimum Wage, when it's so far out of date that it's tempting to treat it like forgotten law more than something to be modernized.
+
+Pay doesn't keep up properly, and so we can't keep up with anything. Small transit costs are a wonderful reset on the "fuel cost" of movement. The system isn't even a hassle. I've had Words for bus systems elsewhere, but Fort Collins really is thinking for itself and being active in the design of its transit.
+
+The Yarrow Collective is a local group in town that does alternate discussion therapy to give people more ways to escape addiction and feel good about their autonomy. Spanish-speaking families are raising kids who have to learn about what their heritage means to them, and some are finding out that they feel less hispanic.
+
+Their families have been here all along too, and now their home looks segregated by developments. They require cars to cut through town, or a little less car and a little more nearby park. Their community has shrunk, less mixed in. They act out the 15-minute city dream, in what's left of their space.
+
+If we need to redefine diversity for our politics, let us do it with descriptions of receptive interest. We're distinct but can communicate with waving hands, so how much does sex, race, or drugs matter really?
+
+Low costs enable possibility for those don't have it. The more we can decouple money from movement, the better off our society in isolation will be.
 
 #### Housing
 
