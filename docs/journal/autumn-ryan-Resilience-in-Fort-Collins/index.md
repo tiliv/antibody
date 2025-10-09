@@ -113,7 +113,7 @@ I had already asked another former city official on the committee for his person
 
 As a resident of Loveland, I attend my own City Councils and hear them cite Fort Collins in discussion. I've had much more beer in Fort Collins than my town, so it made sense to me why we had this mixing. In NoCo, you find yourself in Timnath for the Beerwerks. We go to Longmont, and west just over our mountains. We are connected, surely.
 
-When I discovered this year that AT&T was using phone upgrades to opt-in attack the public resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
+When I discovered this year that AT&T was using phone upgrades to opt-in attack the public to resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
 
 - [://www.att.com/legal/terms.personalizedPlus.html](https://www.att.com/legal/terms.personalizedPlus.html){: rel="nofollow noopener"}
 - [://antibody/journal/autumn-ryan-Personalized-Plus/](https://antibody.discoverywritten.com/journal/autumn-ryan-Personalized-Plus/)
