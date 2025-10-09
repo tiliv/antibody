@@ -201,6 +201,10 @@ Talk about what you see, what you need, and what you can do. You can copy the en
 
 Just add or remove things from the `docs/journal` folder and follow the patterns you see. If you're struggling, put new instructions in `AGENTS.md` and tell an agent what you're hoping to do. Even if AI agents get things wrong during some steps, they will heal the damage over time.
 
+If you prefer to write pieces on ANTIBODY itself, start a pull request from your copy and let's talk at The Neighbor.
+
+- [https://github.com/tiliv/antibody/pulls](https://github.com/tiliv/antibody/pulls)
+
 No one can stop you. What are you gonna do with that?
 
 #### Centering
