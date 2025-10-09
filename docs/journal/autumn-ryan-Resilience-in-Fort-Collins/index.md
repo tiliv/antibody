@@ -204,6 +204,7 @@ Just add or remove things from the `docs/journal` folder and follow the patterns
 If you prefer to write pieces on ANTIBODY itself, start a pull request from your copy and let's talk at The Neighbor.
 
 - [https://github.com/tiliv/antibody/pulls](https://github.com/tiliv/antibody/pulls)
+- [ANTIBODY activity history transparency reports](https://github.com/tiliv/antibody/pulse)
 
 No one can stop you. What are you gonna do with that?
 
