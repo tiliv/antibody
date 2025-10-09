@@ -163,6 +163,8 @@ Find Us. Tell us what you need. Stop People on the street and ask them what they
 
 #### Centering
 
+Each candidate discussion I got to hold was in our local spot The Neighbor. There's space and music if you come at the right time. They close down early sometimes and I think the employees like how things are working.
+
 In conversation, they all know there is an observable effect on the centering.
 
 Not a mere average of Real Positions, this centering is helping these party-less individuals identify priorities that have voters they can count.
