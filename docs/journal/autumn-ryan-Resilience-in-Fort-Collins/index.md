@@ -66,6 +66,16 @@ Individual profiles of each candidate are available as well:
 - [Jeffrey Shumway](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-jeffrey-shumway-mayor/85991914007/){: target="_blank" rel="nofollow noopener"}
 - [ScottyV](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-scott-scottyv-vantatenhove-mayor/85991984007/){: target="_blank" rel="nofollow noopener"}
 
+#### CRES Mayoral Candidate Forum
+
+*[CRES]: Colorado Renewable Energy Society
+
+The renewable energy forum was a great early look at candidates. Unfortunately it took place on the same day as political violence. Colorado experienced a school shooting on the very same day as The Other Violence. Whether or not you like it mentioned, most people in that room had the day's events ringing in their ears.
+
+Locally we're allowed to keep pursuing renewables, though the federal lines of funding might go away. Local effort is understood to be the tangible ask.
+
+- [://youtube.com/watch?v=9xa8F-GqpTc](https://www.youtube.com/watch?v=9xa8F-GqpTc)
+
 #### Snapshot News
 
 Marjorie (Jorie) Kramer of LWV hosted a question forum in Fort Collins City Hall, but also interviewed the candidates individually for Snapshot News:
@@ -291,7 +301,7 @@ Northern Colorado's water is a series of connected paths. In 2025, Loveland's se
 
 #### Free movement
 
-Tricia Canonico is doing a lot to cooperate for rail in Fort Collins. She believes the rail site choice in Fort Collins is the right one and is working with our Governor's office to validate and move forward. She can speak well about it and go to bat.
+Tricia Canonico is doing a lot to cooperate for rail in Fort Collins by 2029. This is an air quality topic because of cars. She believes the rail site choice in Fort Collins is the right one and is working with our Governor's office to validate and move forward. She can speak well about it and go to bat.
 
 Our key demographics in sustainability are vanishing, but transit could make it tolerable to commute to Denver from Northern Colorado, maybe even if you don't own a car.
 
