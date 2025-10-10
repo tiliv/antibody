@@ -1,11 +1,10 @@
-#!/bin/sh
+#!/usr/bin/env sh
+# NOTICE: Vibe code: make a json structure about the full file history.
+# This data supports making multiple activity ranges visible to the built site.
+
 set -eu
 
-# --- args ---
-out_root="${1:-_data/git/history}"
-shift || true
-[ "$#" -gt 0 ] || { echo "usage: $0 [out_root] <pattern...>" >&2; exit 2; }
-
+out_root="_data/git/history"
 repo_root="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
 mkdir -p "$out_root"
 
@@ -63,9 +62,9 @@ emit_json() {
   path="$1"
   wd_regex=${WORD_DIFF_REGEX:-'\w+|[^\s\w]'}
   diff_alg=${DIFF_ALG:-histogram}
-  sentinel=$'\036'  # ASCII RS
+  sentinel=$'\036'
 
-    git -C "$repo_root" \
+  git -C "$repo_root" \
     -c diff.wordRegex="$wd_regex" \
     -c diff.algorithm="$diff_alg" \
     log --follow -M --no-merges \
@@ -74,20 +73,13 @@ emit_json() {
   | python3 -c "$read_only_py" "$path" "$repo_root" "$sentinel"
 }
 
-# Use Git pathspecs with glob magic so ** works regardless of the shell npm uses.
-# We iterate NUL-delimited to be space-safe.
-for pattern in "$@"; do
-  ps=":(glob)$pattern"
-  git -C "$repo_root" ls-files -z -- "$ps" \
-  | tr '\0' '\n' \
-  | while IFS= read -r f; do
-      rel="${f#./}"
-      short="${rel#*/}"
-      short=$(printf '%s' "$short" | tr '/' ',')
-      out="$out_root/${short%.md}.json"
-      dir=$(dirname "$out")
-      [ -d "$dir" ] || mkdir -p "$dir"
-      emit_json "$rel" >"$out"
-      echo "wrote $out"
-    done
+while IFS= read -r f; do
+  [ -n "$f" ] || continue
+  rel="${f#./}"
+  short="${rel#*/}"
+  short=$(printf '%s' "$short" | tr '/' ',')
+  out="$out_root/${short%.md}.json"
+  mkdir -p "$(dirname "$out")"
+  emit_json "$rel" >"$out"
+  echo "wrote $out"
 done

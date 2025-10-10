@@ -1,8 +1,4 @@
-# This default workflow has been modified:
-# 1) The root for the site is set to ./docs instead of the repository root.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Jekyll with GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -18,8 +14,6 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -34,11 +28,11 @@ jobs:
         with:
           fetch-depth: 0  # we will run some full rev parsing in scripts
           fetch-tags: true
-      - name: Prebuild pieces data
-        run: git ls-files 'docs/journal/**/index.md' | bin/stat-pieces.sh
-      - name: Prebuild paragraphs data
-        run: git ls-files 'docs/journal/**/index.md' | while IFS= read -r f; do bin/stat-paragraphs.sh "$f"; done
-      - name: Prebuild history data
+      - name: Build paragraphs blame
+        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh "bin/stat-piece.sh"
+      - name: Build paragraphs history
+        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh "bin/stat-paragraphs.sh"
+      - name: Build pieces activity history
         run: bin/stat-history.sh docs/_data/git/history 'docs/journal/**/index.md'
         shell: bash
       - name: Setup Pages

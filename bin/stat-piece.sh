@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# NOTICE: Vibe code: Blame linkable blocks
+# NOTICE: Vibe code: Get the latest commit ref for each paragraph, 1-indexed.
+# These go to docs/_data/git/blame/
 
-# set -euo pipefail  # Turn this off if you need to see what's going on
+set -euo pipefail
 
 PIECE_PATH=$1
 f="${PIECE_PATH#*/}"  # Remove built-in docroot for an internal reference
