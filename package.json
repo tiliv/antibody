@@ -2,12 +2,12 @@
   "scripts": {
     "stat-pieces:all": "git ls-files 'docs/journal/**/index.md' | bin/stat-pieces.sh",
     "stat-pieces": "git diff --name-only --diff-filter=AMR origin/main...HEAD -- 'docs/journal/**/index.md' | bin/stat-pieces.sh",
-    "stat-pages": "bin/stat-pages.sh 'docs/_data/git/journal' 'docs/journal/*/index.*'",
     "stat-paragraphs:all": "git ls-files 'docs/journal/**/index.md' | while IFS= read -r f; do bin/stat-paragraphs.sh \"$f\"; done",
     "stat-paragraphs": "bin/stat-paragraphs.sh",
     "stat-history": "bin/stat-history.sh docs/_data/git/history 'docs/journal/**/index.*'",
+
     "serve": "cd docs && bundle exec jekyll serve",
     "build": "cd docs && bundle exec jekyll build --trace",
-    "prebuild": "npm run stat-pieces:all && npm run stat-paragraphs:all"
+    "prebuild": "npm run stat-pieces && npm run stat-paragraphs && npm run stat-history"
   }
 }
