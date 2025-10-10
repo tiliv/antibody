@@ -244,7 +244,7 @@ What I think will be truly centering in Fort Collins is the data from the ranked
 
 #### Civility
 
-There is little to address on the point of division and civility. ScottyV presses on the format to highlight its lost authenticity. Our candidates want discussions, whether or not they are using the 90 seconds to say it or another thing.
+There is little to address on the point of division. At the last forum, ScottyV presses on the extremely shortened format to highlight its lost authenticity. Our candidates want discussions, whether or not they are using the 90 seconds to say it or another thing.
 
 Social medias have showed us how hard it is to say anything at all in a whole enough form not to draw argument. With civility, we say call off the argument and focus on your positive motion. Seated with the mics though, like for surveys, they only get to answer the questions as brought to them at last.
 
