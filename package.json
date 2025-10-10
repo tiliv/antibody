@@ -1,9 +1,7 @@
 {
   "scripts": {
     "stat-pieces:all": "git ls-files 'docs/journal/**/index.md' | bin/stat-pieces.sh",
-    "stat-pieces": "git diff --name-only --diff-filter=AMR origin/main...HEAD -- 'docs/journal/**/index.md' | bin/stat-pieces.sh",
     "stat-paragraphs:all": "git ls-files 'docs/journal/**/index.md' | while IFS= read -r f; do bin/stat-paragraphs.sh \"$f\"; done",
-    "stat-paragraphs": "bin/stat-paragraphs.sh",
     "stat-history": "bin/stat-history.sh docs/_data/git/history 'docs/journal/**/index.*'",
 
     "serve": "cd docs && bundle exec jekyll serve",
