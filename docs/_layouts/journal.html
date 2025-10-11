@@ -1,6 +1,9 @@
 ---
 layout: root
 comment: The page should supply `title` and `date`
+
+data:
+  git: [blame, paragraphs, history]
 ---
 
 {%- comment -%} Contact with explicit md treatment from template {%- endcomment -%}
@@ -19,9 +22,11 @@ contact/{{ page.author | slugify }}.md
 {{- contact_md | markdownify -}}
 {%- endcapture -%}
 
-{%- assign blame_path = page.path | replace: "/", "" | replace: ".md", "" -%}
-{%- assign blame = site.data.git.blame[blame_path] -%}
-<script id="blame" type="application/json">{{ blame | jsonify }}</script>
+{%- assign data_key = page.path | replace: "/", "" | replace: ".md", "" -%}
+{%- for kind in layout.data.git -%}
+{%- assign data = site.data.git[kind][data_key] %}
+<script id="{{ kind }}" type="application/json">{{ data | jsonify }}</script>
+{% endfor %}
 
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
 <div id="by-line">
