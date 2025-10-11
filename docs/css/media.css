@@ -70,13 +70,16 @@
     article.content > .side.nav { grid-column: 1 / -1; }
   }
 }
-@media (max-width: 550px) {
+@media (max-width: 560px) {
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
   p, figcaption { margin: 1rem; }
   .qbtn { font-size: 0.7em }
   h2.is-sticky { font-size: 1.8em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1em !important; }
+  #authors { font-size: 0.7em; }
+  #authors h3 a { font-size: 0.7em; }
+  #main aside { flex-direction: column; }
 }
 @media (max-width: 350px) {
   #title-stack h1 { font-size: 4em !important; }

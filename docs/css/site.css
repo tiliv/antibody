@@ -103,7 +103,6 @@ body {
   display: flex;
   flex-direction: row;
   align-items: baseline;
-  justify-items: space-between;
   line-height: 1em;
   margin: 0 auto;
   width: 100%;
@@ -121,9 +120,7 @@ body {
 #authors {
   display: flex;
   flex-direction: row;
-  /* gap: 1em; */
   justify-content: center;
-  place-items: top;
   margin: 1em 0;
 }
 #authors h2 {
