@@ -1,3 +1,4 @@
+* linguist-language=Liquid
 docs/journal/**/*.md -linguist-detectable  # remove the prose silo
 docs/** linguist-documentation=false -linguist-vendored  # expose as code
 *.md linguist-language=Liquid
