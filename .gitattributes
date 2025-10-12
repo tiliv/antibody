@@ -1,6 +1,4 @@
-docs/journal/*.md linguist-detectable
-*.md linguist-detectable
-*.html linguist-detectable
-*.xml linguist-detectable
-*.xsl linguist-detectable
-*.yml linguist-detectable
+docs/** linguist-documentation=false -linguist-vendored
+docs/*.md linguist-language=HTML
+docs/journal/*.md linguist-language=Markdown
+AGENTS.md linguist-documentation
