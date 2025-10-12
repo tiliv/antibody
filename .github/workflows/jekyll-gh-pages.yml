@@ -29,11 +29,11 @@ jobs:
           fetch-depth: 0  # we will run some full rev parsing in scripts
           fetch-tags: true
       - name: Build paragraphs blame
-        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh "bin/stat-piece.sh"
+        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-piece.sh'
       - name: Build paragraphs history
-        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh "bin/stat-paragraphs.sh"
+        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-paragraphs.sh'
       - name: Build pieces activity history
-        run: bin/stat-history.sh docs/_data/git/history 'docs/journal/**/index.md'
+        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-history.sh'
         shell: bash
       - name: Setup Pages
         uses: actions/configure-pages@v5
