@@ -4,7 +4,7 @@
 
 set -eu
 
-out_root="_data/git/history"
+out_root="docs/_data/git/history"
 repo_root="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
 mkdir -p "$out_root"
 
