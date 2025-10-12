@@ -83,6 +83,15 @@ article blockquote p::before {
 article blockquote strong:first-child {
   font-family: Arial;
 }
+article blockquote u {
+  --u-float: .3em;
+  text-decoration-style: double;
+  vertical-align: var(--u-float);
+  text-underline-offset: var(--u-float);
+  line-height: calc(1em - var(--u-float));
+  font-weight: bold;
+}
+article blockquote u,
 article blockquote del {
   text-decoration-color: var(--accent);
 }
