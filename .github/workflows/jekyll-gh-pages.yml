@@ -31,7 +31,7 @@ jobs:
       - name: Build paragraphs blame
         run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-piece.sh'
       - name: Build paragraphs history
-        run: git ls-files 'docs/journal/**/index.md' | bin/stat-paragraphs.sh
+        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-paragraphs.sh'
       - name: Build pieces activity history
         run: git ls-files 'docs/journal/**/index.md' | bin/stat-history.sh
         shell: bash
