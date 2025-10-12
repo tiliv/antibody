@@ -1,6 +1,6 @@
-* linguist-language=Liquid
 docs/journal/**/*.md -linguist-detectable  # remove the prose silo
 docs/** linguist-documentation=false -linguist-vendored  # expose as code
+*.css linguist-vendored
 *.md linguist-language=Liquid
 *.html linguist-language=Liquid
 AGENTS.md linguist-documentation  # not covered in default linguist settings
