@@ -1,5 +1,5 @@
-docs/** linguist-documentation=false -linguist-vendored
-docs/*.md linguist-language=HTML
-docs/_includes/**/*.md linguist-language=HTML
-docs/journal/**/*.md -linguist-detectable
-AGENTS.md linguist-documentation
+docs/journal/**/*.md -linguist-detectable  # remove the prose silo
+docs/** linguist-documentation=false -linguist-vendored  # expose as code
+*.md linguist-language=Liquid
+*.html linguist-language=Liquid
+AGENTS.md linguist-documentation  # not covered in default linguist settings
