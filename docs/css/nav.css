@@ -6,14 +6,15 @@
   border-radius: 2px;
   padding: 0 1em;
   mix-blend-mode: luminosity;
+  max-width: 40ch;
 }
-h1, h2, article h3, article h4, article h5, article h6 {
+h2, article h3, article h4, article h5, article h6 {
   margin: auto;
   position: sticky;
   cursor: pointer;
   transition:
     height 0.5s ease,
-    /* width 0.2s ease, */
+    width 0.2s ease,
     font-size 0.2s ease,
     margin 0.3s ease,
     padding 0.1s ease,
@@ -32,6 +33,7 @@ h1, h2, article h3, article h4, article h5, article h6 {
   margin-right: 0%; */
   z-index: 5;
   height: 40px;
+  line-height: 20px;
   place-content: center;
   border-bottom: 1px solid var(--shade);
 }

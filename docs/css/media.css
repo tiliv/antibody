@@ -1,17 +1,16 @@
-#title-stack {
-  padding-top: 12em;
+#title-stack a {
+  display: flex;
+  justify-content: center;
+  font-size: 10em;
+  height: 1em;
+  margin: auto;
+  margin-top: 1em;
 }
 #title-stack h1 {
-  font-size: 10em;
-}
-#replication {
-  margin-top: 10em;
+  font-size: 1em;
 }
 
 @media (max-width: 1200px) {
-  #scroll-top, #replication {
-    overflow-x: hidden;
-  }
   :root {
     --w-min: 100%;
   }
@@ -27,14 +26,13 @@
   }
 
   .nav.side { position: initial; }
-  #title-stack h1 { font-size: 6em; }
+  /* #title-stack h1 { font-size: 6em; } */
   .links img { width: 40px; }
   article { font-size: 1.1em !important; }
   h2 { font-size: 3em !important; }
   h3 { font-size: 2.3em !important; }
   h2.is-sticky { font-size: 2em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1.3em !important; }
-  /* #replication { margin-top: -3.5em; } */
   .side.left,
   .side.right {
     grid-column: content-start / content-end;
@@ -89,7 +87,7 @@
   #main aside { flex-direction: column; }
 }
 @media (max-width: 350px) {
-  #title-stack h1 { font-size: 4em !important; }
+  /* #title-stack h1 { font-size: 4em !important; } */
   h2.is-sticky { font-size: 1em !important; }
   figure img { width: inherit; }
   .links img { width: 18px; }

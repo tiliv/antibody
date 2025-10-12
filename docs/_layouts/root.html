@@ -56,21 +56,23 @@ author: autumn@discoverywritten.com
     </form>
   </div>
   <div id="title-stack" role="banner" aria-label="Project title">
-    <a href="/" style="display: flex; justify-content: center;">
+    <a href="/">
     <h1 id="title-stroke" class="journal-font" inert>{{ site.title }}</h1>
     <h1 id="title" class="journal-font" aria-describe="Title:">{{ site.title }}</h1>
     </a>
-    <p id="replication">
-      {{ site.civic_node }} Civic Node
-      <br>{{ site.civic_tag }}
-      <br><a href="{{ site.license_url }}" target="_blank">
-        <img
-          style="width: auto"
-          src="{{ site.license_badge }}"
-        />
-      </a>
-    </p>
   </div>
+  <p id="replication" data-abbr="{{ site.civic_abbr }}: {{ site.title }}">
+    <span>
+    {{ site.civic_node }} Civic Node
+    <br>{{ site.civic_tag }}
+    <br><a href="{{ site.license_url }}" target="_blank">
+      <img
+        style="width: auto"
+        src="{{ site.license_badge }}"
+      />
+    </a>
+    </span>
+  </p>
   <div id="robots">
     {%- if page.index -%}
       <div class="truthy-pill" role="status" data-public="true" aria-label="Robots are allowed here."></div>

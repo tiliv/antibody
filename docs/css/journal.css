@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns:
   [left] 1fr
-  [content-start] minmax(300px, min(700px, 40vw))
+  [content-start] minmax(300px, min(72ch, 700px))
   [content-end] 1fr
   [right];
   column-gap: 1.5rem;
@@ -12,10 +12,8 @@
 
 .sticky-sentinel {
   display: block;
-  height: 1px; /* avoid 0 to stop jitter boundary */
+  height: 0px; /* avoid 0 to stop jitter boundary */
   position: relative;
-  margin-bottom: 20px;
-  /* background: red; */
 }
 
 h1 {
@@ -42,7 +40,7 @@ article h3, article h4 {
   hyphens: auto;
   text-align: center;
   margin: 0.5em auto;
-  line-height: 1em;
+  line-height: 1.1em;
   min-height: 40px;
 }
 article h3 { font-size: 2em }

@@ -1,6 +1,6 @@
 const NAV = {
+  sticky: '#replication, h2, h3, h4',
   count: 'p,li,blockquote',
-  words: /[\p{L}\p{N}’'-]+/gu,
   seek: (h) => {
     if (location.hash !== `#${h.id}`) {
       history.pushState(null, '', `#${h.id}`);
@@ -20,7 +20,7 @@ const NAV = {
     if (!!document.querySelector('#main')) {
       return;
     }
-    const headers = document.querySelectorAll('h2, h3, h4');
+    const headers = document.querySelectorAll(NAV.sticky);
 
     for (const h of headers) {
       const top = parseInt(getComputedStyle(h).top, 0) || 0;

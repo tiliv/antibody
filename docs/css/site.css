@@ -160,14 +160,10 @@ body {
   row-gap: 2px;
 }
 #scroll-top {
-  z-index: 4;
   position: fixed;
-  width: 100%;
-  top: 0;
+  top: 0; right: 0;
   display: flex;
   height: 80px;
-  background-color: var(--shade-hard);
-  border-bottom: 1px solid var(--border);
   flex-direction: row-reverse;
   align-items: center;
 }
@@ -194,10 +190,9 @@ body {
 #title-stack {
   position: relative;
   z-index: 1;
-  transition: padding-bottom 0.5s ease-in-out;
+  width: 100% !important;
   white-space: nowrap;
   background-color: var(--shade);
-  border-bottom: 1px solid var(--border);
 }
 #title, #title-stroke {
   z-index: 5;
@@ -217,13 +212,32 @@ body {
   white-space: initial;
 }
 #replication {
+  position: sticky;
   text-transform: uppercase;
   text-align: center;
   font-weight: bold;
   text-shadow: 0 2px var(--sh) !important;
   font-family: ArticleFont, "Times New Roman", times, serif;
-  transition: margin-top 0.5s ease-in-out;
-  margin-bottom: 1em;
+  margin: 0;
+  height: 80px;
+  border-bottom: 1px solid var(--border);
+  background-color: var(--shade);
+  transition: background-color 0.5s ease, box-shadow 0.5s ease, color 0.5s ease;
+  width: 100% !important; /* is-sticky will think 50% */
+  color: inherit;
+  box-shadow: 0 -2em 3em transparent;
+}
+#replication.is-sticky {
+  top: 0;
+  background-color: var(--shade-hard);
+  box-shadow: 0 -2em 3em var(--shade-hard);
+}
+#replication.is-sticky > * {
+  display: none;
+}
+#replication.is-sticky::before {
+  content: attr(data-abbr);
+  color: var(--io);
 }
 #robots {
   margin: auto;
