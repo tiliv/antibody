@@ -2,7 +2,6 @@
   margin: 0;
   align-self: start;
   grid-row: auto / span 5;
-  width: min(24ch, 100%);
 }
 .side.left { grid-column: left / content-start; justify-self: end; }
 .side.right { grid-column: content-end / right; justify-self: start; }
@@ -11,7 +10,7 @@ figure {
 }
 figure img {
   display: block;
-  width: inherit;
+  max-width: 100%;
   height: auto;
   transition: transform .25s ease, transform-origin;
 }
@@ -19,4 +18,5 @@ figcaption {
   color: var(--fg2);
   font-size: 0.8em;
   text-align: initial;
+  padding: 0 0.5em;
 }

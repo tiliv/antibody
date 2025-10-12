@@ -9,7 +9,10 @@
 }
 
 @media (max-width: 1200px) {
-    :root {
+  #scroll-top, #replication {
+    overflow-x: hidden;
+  }
+  :root {
     --w-min: 100%;
   }
   html::before{
@@ -53,18 +56,21 @@
     flex-direction: column;
   }
 
-  #layout { container: layout / inline-size; grid-template-columns: none; }
-  @container layout (min-width: 550px) and (max-width: 1100px) {
+  article.content > *:not(h3,h4,h5,h6,hr) { margin-left: 1em; margin-right: 1em; }
+
+    #layout { container: layout / inline-size; grid-template-columns: none; }
+  @container layout (min-width: 560px) and (max-width: 1200px) {
     article.content{
       grid-template-columns: 1fr 1fr;
       gap: 0 1.25rem; /* avoid vertical gaps because empty cells must be small */
       align-items:start;
     }
     article.content > .nav { width: max-content; margin: auto; }
-    article.content > *:not(h3,h4,h5,h6,hr) { margin: 1em; }
     article.content > * { grid-column: 1 / -1; } /* stretch */
     article.content > .side:has(+ *) { grid-column: 2; margin: 0 1em 0 0; }  /* push right */
     article.content > .side + * { grid-column: 1; margin-top: 0; } /* bring left */
+    article.content > .side + * + ul { grid-column: 1; margin-top: 0; } /* bring left */
+    article.content > .side + * + ol { grid-column: 1; margin-top: 0; } /* bring left */
     article.content > .side + .side { grid-column: 2; } /* join */
     article.content > .side + .side + * { grid-column: 1 / -1; } /* reset stretch */
     article.content > .side.nav { grid-column: 1 / -1; }
@@ -73,7 +79,6 @@
 @media (max-width: 560px) {
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
-  p, figcaption { margin: 1rem; }
   .qbtn { font-size: 0.7em }
   h2.is-sticky { font-size: 1.8em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1em !important; }
@@ -83,6 +88,7 @@
 }
 @media (max-width: 350px) {
   #title-stack h1 { font-size: 4em !important; }
+  figure img { width: inherit; }
   .links img { width: 18px; }
   article { font-size: 0.8em !important; }
   article ol, article ul { padding-left: 0.5em; }

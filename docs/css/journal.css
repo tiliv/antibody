@@ -7,7 +7,6 @@
   [right];
   column-gap: 1.5rem;
   grid-auto-flow: row;
-  /* align-self: start; */
   row-gap: 0;
 }
 
@@ -43,9 +42,8 @@ article h3, article h4 {
   hyphens: auto;
   text-align: center;
   margin: 0.5em auto;
-  /* height: 1em; */
   line-height: 1em;
-  min-height: 1em;
+  min-height: 40px;
 }
 article h3 { font-size: 3.4em }
 article h4 { font-size: 1.5em }

@@ -1,6 +1,11 @@
 .nav.side {
   position: sticky;
   top: 90px;
+  background: var(--shade);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  padding: 0 1em;
+  mix-blend-mode: luminosity;
 }
 h1, h2, article h3, article h4, article h5, article h6 {
   margin: auto;
