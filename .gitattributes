@@ -1,0 +1,6 @@
+docs/journal/*.md linguist-detectable
+*.md linguist-detectable
+*.html linguist-detectable
+*.xml linguist-detectable
+*.xsl linguist-detectable
+*.yml linguist-detectable
