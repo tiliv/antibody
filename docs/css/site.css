@@ -160,6 +160,7 @@ body {
   row-gap: 2px;
 }
 #scroll-top {
+  z-index: 20;
   position: fixed;
   top: 0; right: 0;
   display: flex;
