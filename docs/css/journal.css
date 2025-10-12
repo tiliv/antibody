@@ -54,10 +54,33 @@ article h3, article h4 {
   top: 40px;
 }
 article blockquote {
-  margin: 1em 1em 0 0;
   color: var(--fg1);
-  padding-left: .5em;
-  border-left: 20px solid var(--accent);
+  padding: 0 0 0 10px;
+  margin: .5em 0 0;
+  border-left: 10px solid var(--accent);
+  position: relative;
+}
+article blockquote::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-left: 10px solid var(--accent);
+  mix-blend-mode: saturation;
+  pointer-events: none;
+  z-index: -1;
+}
+article blockquote p {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+article blockquote p::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: var(--shade);
+  z-index: -1;
+  mix-blend-mode: luminosity;
 }
 article blockquote strong:first-child {
   font-family: Arial;
@@ -69,7 +92,6 @@ article blockquote code {
   box-shadow: .35em .35em 0 black;
   margin-right: .4em;
 }
-
 aside.side {
   font-size: 0.9em;
   text-align: left;
