@@ -1,4 +1,4 @@
 docs/** linguist-documentation=false -linguist-vendored
 docs/*.md linguist-language=HTML
-docs/journal/**/*.md linguist-language=Markdown
+docs/journal/**/*.md linguist-detectable linguist-language=Markdown
 AGENTS.md linguist-documentation
