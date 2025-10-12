@@ -2,7 +2,7 @@
   "scripts": {
     "stat-pieces": "git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-piece.sh'",
     "stat-paragraphs": "git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-paragraphs.sh'",
-    "stat-history": "git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-history.sh'",
+    "stat-history": "git ls-files 'docs/journal/**/index.md' | bin/stat-history.sh",
 
     "serve": "cd docs && bundle exec jekyll serve",
     "build": "cd docs && bundle exec jekyll build --trace",
