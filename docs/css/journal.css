@@ -45,7 +45,7 @@ article h3, article h4 {
   line-height: 1em;
   min-height: 40px;
 }
-article h3 { font-size: 3.4em }
+article h3 { font-size: 2em }
 article h4 { font-size: 1.5em }
 article h3, article h4 {
   text-shadow: 0 .06em var(--sh);

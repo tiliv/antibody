@@ -31,8 +31,9 @@
   .links img { width: 40px; }
   article { font-size: 1.1em !important; }
   h2 { font-size: 3em !important; }
-  h3 { font-size: 2.3em !important; }/* 1.8 */
-  h3.is-sticky, h4.is-sticky { font-size: 1.7em !important; }
+  h3 { font-size: 2.3em !important; }
+  h2.is-sticky { font-size: 2em !important; }
+  h3.is-sticky, h4.is-sticky { font-size: 1.3em !important; }
   /* #replication { margin-top: -3.5em; } */
   .side.left,
   .side.right {
@@ -80,7 +81,8 @@
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
   .qbtn { font-size: 0.7em }
-  h2.is-sticky { font-size: 1.8em !important; }
+  h2 { font-size: 2em !important; }
+  h2.is-sticky { font-size: 1.2em !important; }
   h3.is-sticky, h4.is-sticky { font-size: 1em !important; }
   #authors { font-size: 0.7em; }
   #authors h3 a { font-size: 0.7em; }
@@ -88,6 +90,7 @@
 }
 @media (max-width: 350px) {
   #title-stack h1 { font-size: 4em !important; }
+  h2.is-sticky { font-size: 1em !important; }
   figure img { width: inherit; }
   .links img { width: 18px; }
   article { font-size: 0.8em !important; }

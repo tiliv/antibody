@@ -13,12 +13,15 @@ h1, h2, article h3, article h4, article h5, article h6 {
   cursor: pointer;
   transition:
     height 0.5s ease,
-    width 0.2s ease,
+    /* width 0.2s ease, */
     font-size 0.2s ease,
     margin 0.3s ease,
     padding 0.1s ease,
     font-weight 0.8s ease,
     line-height 0.2s ease;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 100%;
 }
 
 .is-sticky {
