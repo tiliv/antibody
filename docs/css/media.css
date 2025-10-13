@@ -44,21 +44,13 @@
     max-height: 40vh;
     margin: 0 auto;
   }
-  /* #layout {
-    grid-template-columns:
-      [left] 5vw
-      [content-start] 90vw
-      [content-end] 0
-      [right];
-    column-gap: 0;
-  } */
   .piece-list {
     flex-direction: column;
   }
 
   article.content > *:not(h3,h4,h5,h6,hr) { margin-left: 1em; margin-right: 1em; }
 
-    #layout { container: layout / inline-size; grid-template-columns: none; }
+  #layout { container: layout / inline-size; grid-template-columns: none; }
   @container layout (max-width: 1200px) {
     article.content{
       grid-template-columns: 1fr 1fr;
