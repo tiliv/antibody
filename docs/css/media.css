@@ -77,6 +77,7 @@
   }
 }
 @media (max-width: 560px) {
+  article.content * { grid-column: 1 / -1 !important; }
   #title-stack a { font-size: 4em !important; }
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
