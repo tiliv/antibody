@@ -13,7 +13,7 @@
     <div>
       {{ include.headline }}
       <cite><a href="{{ include.url }}" target="_blank" rel="nofollow noopener">
-        {{- include.url -}}
+        {{- include.url | replace: "https:",":" -}}
       </a></cite>
     </div>
   </h5>

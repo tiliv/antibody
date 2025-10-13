@@ -43,6 +43,14 @@ article h3, article h4 {
   line-height: 1.1em;
   min-height: 40px;
 }
+article > h5, article > h6 {
+  word-wrap: break-word;
+  place-content: center;
+  hyphens: auto;
+  text-align: center;
+  margin: 0.5em auto;
+  line-height: 1.1em;
+}
 article h3 { font-size: 2em }
 article h4 { font-size: 1.5em }
 article h3, article h4 {
@@ -52,7 +60,9 @@ article h3, article h4 {
 article blockquote {
   color: var(--fg1);
   padding: 0 0 0 10px;
-  margin: .5em 0 0;
+  margin: 0 0 .5em 0;
+  font-size: 0.8em;
+  line-height: 1.95em;
   border-left: 10px solid var(--accent);
   position: relative;
 }
@@ -225,7 +235,6 @@ article header h5 {
   gap: 0.2em;
   font-weight: bold;
   flex-direction: row;
-  /* background-color: var(--shade); */
   align-items: center;
   line-height: 1em;
 }
