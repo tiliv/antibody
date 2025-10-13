@@ -29,18 +29,19 @@ contact/{{ page.author | slugify }}.md
 {% endfor %}
 
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
-<div id="by-line">
-  {% include duration.html piece=page %}
-  <code class="date">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>
-  </code>
-  {% include tags.html piece=page %}
-</div>
 {% if page.re %}
 <div id="re">
   <a href="{{ page.re }}" rel="noopener">{{ page.re }}</a>
 </div>
 {% endif %}
+<div id="by-line">
+  {% include tags.html piece=page %}
+  {% include duration.html piece=page %}
+  <code class="date">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>
+  </code>
+  {% include change-stack.html piece=page %}
+</div>
 <div id="layout">
   <article class="content">
     {%- if page.contact_top -%}
