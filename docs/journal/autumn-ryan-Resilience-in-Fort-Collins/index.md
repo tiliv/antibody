@@ -280,11 +280,14 @@ For one paragraph, I will containerize my concern about Water:
 
 The world over: Mercenaries contested control of water shared by India and Pakistan. Government threaten water agreements. War replaces wheat, embedded in the ground. Our farmers are failing financially this year specifically and need a bailout. Agriculture is falling derelict and climate is changing much. The federal government of the United States has Bureau of Land Management territories and costly ways to develop them. The Unitary Executive spectates Netanyahu's failings and offers to take Gaza away for development dreams. It solicits Greenland with hostile embedded measures, and frequently seeks Canada's land by absorption specifically. The Unitary Executive's interest in land is also domestic. It ordered our streets to be the military's practice grounds, where they are masked, heavily armed and paired with bluejeans terrorists with zipties. If the Unitary Executive wants land, and cannot get it elsewhere, it can empty a city by waiving its hand and taking away our water source. We will flee without a bullet.
 
-Northern Colorado's water is a series of connected paths. In 2025, Loveland's semi-local digital paper remarked about the low canals: "Low water levels in Lake Loveland keep boats out, kill hundreds of fish" and found quotes from Greeley:
+Northern Colorado's water is a series of connected paths. In 2025, Loveland's semi-local digital paper remarked about the low canals and found quotes from Greeley:
 
-[Claire Lavezzorio, Reporter Denver7](https://www.denver7.com/claire-lavezzorio){: target="_blank" rel="nofollow noopener"}
-
-[https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish](https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish){: target="_blank" rel="nofollow noopener"}
+{% include cite.html
+  credit="Claire Lavezzorio, Reporter Denver7"
+  more="https://www.denver7.com/claire-lavezzorio"
+  url="https://www.denver7.com/news/front-range/loveland/low-water-levels-in-lake-loveland-keep-boats-out-kill-hundreds-of-fish"
+  headline="Low water levels in Lake Loveland keep boats out, kill hundreds of fish"
+%}
 
 > **¶ 7**: To understand the reasons behind the declining water levels, Denver7 spoke with Leah Hubbard, deputy director of water resources for the City of Greeley. She said <u>Greeley owns more than 50% of the water in Lake Loveland</u>.
 
