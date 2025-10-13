@@ -59,7 +59,7 @@
   article.content > *:not(h3,h4,h5,h6,hr) { margin-left: 1em; margin-right: 1em; }
 
     #layout { container: layout / inline-size; grid-template-columns: none; }
-  @container layout (min-width: 560px) and (max-width: 1200px) {
+  @container layout (max-width: 1200px) {
     article.content{
       grid-template-columns: 1fr 1fr;
       gap: 0 1.25rem; /* avoid vertical gaps because empty cells must be small */
@@ -77,6 +77,7 @@
   }
 }
 @media (max-width: 560px) {
+  #title-stack a { font-size: 4em !important; }
   .links img { width: 28px; }
   article { font-size: 0.9em !important; }
   .qbtn { font-size: 0.7em }
@@ -88,7 +89,6 @@
   #main aside { flex-direction: column; }
 }
 @media (max-width: 350px) {
-  /* #title-stack h1 { font-size: 4em !important; } */
   h2.is-sticky { font-size: 1em !important; }
   figure img { width: inherit; }
   .links img { width: 18px; }

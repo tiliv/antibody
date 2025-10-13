@@ -48,6 +48,14 @@
   font-family: ArticleFont, "Georgia", serif;
 }
 
+#title-stack, #replication, a {
+  transition:
+    color 0.5s ease,
+    background-color 0.5s ease,
+    box-shadow 0.5s ease
+    ;
+}
+
 html::before {
   content:"";
   position:fixed; inset:0; z-index:-1; pointer-events:none;
@@ -223,7 +231,6 @@ body {
   height: 80px;
   border-bottom: 1px solid var(--border);
   background-color: var(--shade);
-  transition: background-color 0.5s ease, box-shadow 0.5s ease, color 0.5s ease;
   width: 100% !important; /* is-sticky will think 50% */
   color: inherit;
   box-shadow: 0 -2em 3em transparent;
