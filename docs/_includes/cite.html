@@ -1,0 +1,20 @@
+<header>
+  <div>
+    {%- if include.more -%}
+      <a href="{{ include.more }}" target="_blank" rel="nofollow noopener">
+        {{- include.credit -}}
+      </a>
+    {%- else -%}
+      {{- include.credit -}}
+    {%- endif -%}
+  </div>
+  <h5>
+    <code>“</code>
+    <div>
+      {{ include.headline }}
+      <cite><a href="{{ include.url }}" target="_blank" rel="nofollow noopener">
+        {{- include.url -}}
+      </a></cite>
+    </div>
+  </h5>
+</header>

@@ -65,11 +65,13 @@ article blockquote::before {
   pointer-events: none;
   z-index: -1;
 }
+article header h5,
 article blockquote p {
   margin: 0;
   padding: 0;
   position: relative;
 }
+article h5::before,
 article blockquote p::before {
   content: "";
   position: absolute;
@@ -206,4 +208,33 @@ article > hr {
   border-style: dashed;
   mix-blend-mode: screen;
   filter: drop-shadow(0 .3em 0 var(--accent));
+}
+
+article header * {
+  margin: 0;
+}
+article header cite {
+  display: block;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+  white-space: pre;
+  font-size: 0.7em;
+}
+article header h5 {
+  display: flex;
+  gap: 0.2em;
+  font-weight: bold;
+  flex-direction: row;
+  /* background-color: var(--shade); */
+  align-items: center;
+  line-height: 1em;
+}
+article header h5 code {
+  font-size: 3em;
+  line-height: 1em;
+  padding: 0 .1em;
+  font-family: ArticleFont;
+}
+article header h5 div {
+  overflow-x: hidden;
 }
