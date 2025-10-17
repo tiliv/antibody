@@ -30,18 +30,11 @@ index: true
 %}
 
 > <u>Minna Song</u> is the co-founder and <u>CEO of EliseAI</u>,
-a company using advanced natural language processing
-
-> to automate communication
-
-> across the multifamily industry—
-and beyond
+a company using advanced natural language processing to automate communication across the multifamily industry—and beyond
 
 > Originally launched as 'Meet Elise'
 the company powers <u>AI leasing agents</u> for over 350 customers
 including <u>70% of the 50 largest rental housing operators in the U.S.</u>
-
-> rental housing operators in the U.S.
 
 > but Song’s vision goes <u>far</u> beyond leasing
 
@@ -53,8 +46,10 @@ that have historically been completed by team members on-site,
 <u>moving</u> them <u>off-site to centralized offices</u>, whether here, Or <u>Offshore</u>
 
 > What are our thinking (sic) about <u>the hierarchy of needs</u>, right?
-How can we maximize our impact in this world?
-It's food, water, and shelter. And so <u>we picked shelter</u>.
+
+> How can we maximize our impact in this world?
+
+> It's food, water, and shelter. And so <u>we picked shelter</u>.
 
 > **Brad Hargreaves:** Is `the AI pounding on the door saying, 'You gotta pay?'`
 
