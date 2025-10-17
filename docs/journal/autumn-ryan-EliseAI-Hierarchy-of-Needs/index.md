@@ -51,7 +51,7 @@ that have historically been completed by team members on-site,
 
 > It's food, water, and shelter. And so <u>we picked shelter</u>.
 
-> **Brad Hargreaves:** `Is the AI pounding on the door saying, "You gotta pay?"
+> **Brad Hargreaves:** `Is the AI pounding on the door saying, "You gotta pay?"`
 
 > **Minna Song:** `It is`, which is a great task.
 
