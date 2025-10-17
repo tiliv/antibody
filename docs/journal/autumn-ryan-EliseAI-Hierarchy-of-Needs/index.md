@@ -30,13 +30,13 @@ index: true
 %}
 
 > <u>Minna Song</u> is the co-founder and <u>CEO of EliseAI</u>,
-a company using advanced natural language processing to automate communication across the multifamily industry—and beyond
+a company using advanced natural language processing to automate communication across the multifamily industry—and beyond.
 
 > Originally launched as "Meet Elise"
 the company powers <u>AI leasing agents</u> for over 350 customers
 including <u>70% of the 50 largest rental housing operators in the U.S.</u>
 
-> but Song’s vision goes <u>far</u> beyond leasing
+> but Song’s vision goes <u>far</u> beyond leasing.
 
 > `she thinks real estate is` finally waking up
 to first-principles `product design`.
