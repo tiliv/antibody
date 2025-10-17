@@ -21,36 +21,45 @@ index: true
     height=228
     style="border-radius:12px;"
 %}
-"Minna Song is the co-founder and CEO of EliseAI,
-a company using advanced natural language processing"
 
-"to automate communication"
+{% include cite.html
+  credit="Brad Hargreaves—founder and editor-in-chief, Kamrin Klauschie"
+  more="https://www.linkedin.com/in/minna-song/"
+  url=page.re
+  headline="Elise AI's Minna Song on Building the Artificial Intelligence OS for Housing—and Why Leasing Is Just the Start"
+%}
 
-"across the multifamily industry—
-and beyond"
+> <u>Minna Song</u> is the co-founder and <u>CEO of EliseAI</u>,
+a company using advanced natural language processing
 
-"Originally launched as 'Meet Elise'
-the company powers AI leasing agents for over 350 customers
-including 70% of the 50 largest rental housing operators in the U.S."
+> to automate communication
 
-"rental housing operators in the U.S."
+> across the multifamily industry—
+and beyond
 
-"but Song’s vision goes far beyond leasing"
+> Originally launched as 'Meet Elise'
+the company powers <u>AI leasing agents</u> for over 350 customers
+including <u>70% of the 50 largest rental housing operators in the U.S.</u>
 
-"she thinks real estate is finally waking up
-to first-principles product design"
+> rental housing operators in the U.S.
 
-"That is, more multifamily operators are taking tasks
+> but Song’s vision goes <u>far</u> beyond leasing
+
+> `she thinks real estate is` finally waking up
+to first-principles `product design`
+
+> That is, more <u>multifamily operators</u> are taking tasks
 that have historically been completed by team members on-site,
-moving them off-site to centralized offices, whether here, Or Offshore"
+<u>moving</u> them <u>off-site to centralized offices</u>, whether here, Or <u>Offshore</u>
 
-“What are our thinking (sic) about the hierarchy of needs, right?”
-"How can we maximize our impact in this world?"
-“It's food, water, and shelter. And so we picked shelter.”
+> What are our thinking (sic) about <u>the hierarchy of needs</u>, right?
+How can we maximize our impact in this world?
+It's food, water, and shelter. And so <u>we picked shelter</u>.
 
-"Brad Hargreaves: Is the AI pounding on the door saying, 'You gotta pay?'"
-"Minna Song: It is, which is a great task."
+> **Brad Hargreaves:** Is `the AI pounding on the door saying, 'You gotta pay?'`
 
-"I think AI and centralization go hand in hand"
+> **Minna Song:** `It is`, which is a great task.
 
-"So a lot more people are starting to adopt this autopilot model of operations"
+> I think AI and centralization go hand in hand
+
+> So a lot more people are starting to <u>adopt this autopilot model of operations</u>
