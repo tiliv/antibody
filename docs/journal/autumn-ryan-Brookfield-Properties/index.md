@@ -52,7 +52,7 @@ index: false
 
 - I spent an hour walking around the property talking to my fellow residents, just enjoying some conversation. Who knows if we talked about EliseAI. Who knows.
 
-**I will try to make You illegal**, and Your insatiable capture of Our Homes, the whole nation over. You drive up our prices without remorse so that you can spend your capital on hoaxes to run against us, and then feign your helplessness.
+**I will try to make You illegal**, and Your insatiable capture of Our Homes, the whole nation over, You and your national PropTech cartel. You drive up our prices without remorse so that you can spend your capital on hoaxes to run against us, and then feign your helplessness while you enrich yourselves and AI vendors who intend your financial destruction after our own.
 
 **You Sold Us With Enthusiasm.**
 
@@ -66,7 +66,7 @@ index: false
 
 **For what? So that you don't have to do Your Job?**
 
-**You won't have a job, once these Agents are through with you.** Even Minna Song thinks so.
+**You won't have a job, once these Agents are through with you.** Even Minna Song thinks so. She doesn't even come from this industry.
 
 I have scheduled both a live demo with EliseAI, and a return meeting with the property management.
 
