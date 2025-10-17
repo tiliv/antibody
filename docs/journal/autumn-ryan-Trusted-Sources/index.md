@@ -31,7 +31,7 @@ The Trust Project
 - Sally Lehreman
 
 SPJ Code of Ethics:
-- I worry about this being a really bankrupt document today.
+- I worry about this being a really bankrupt document today. It's saturated in meaningless buzzwords without testability.
 
 I don't think it lands well to say that journalists are under attack. This can be true without needing to think it's the keystone issue.
 
