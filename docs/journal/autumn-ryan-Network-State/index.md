@@ -1,6 +1,6 @@
 ---
 date: 2025-09-12
-rank: 1
+rank: 2
 title: "NOTING: The Network State movement"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

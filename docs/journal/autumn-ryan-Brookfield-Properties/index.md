@@ -1,6 +1,6 @@
 ---
 date: 2025-10-16
-rank: 2
+rank: 1
 title: "NOTING: Brookfield Properties"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
