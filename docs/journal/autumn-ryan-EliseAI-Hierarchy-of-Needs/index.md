@@ -1,14 +1,14 @@
 ---
 date: 2025-10-16
 rank: -1
-title: "NOTING: EliseAI's Hierarchy of Needs"
+title: "EliseAI's Hierarchy of Needs"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 re: https://www.thesisdriven.com/letters/elise-ais-minna-song-on-building/
 
 tags: [ai, renter, capture]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true
