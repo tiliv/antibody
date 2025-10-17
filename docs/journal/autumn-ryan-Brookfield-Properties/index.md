@@ -52,7 +52,7 @@ index: false
 
 - I spent an hour walking around the property talking to my fellow residents, just enjoying some conversation. Who knows if we talked about EliseAI. Who knows.
 
-**I will try to make You illegal**, and Your insatiable capture of Our Homes, the whole nation over, You and your national PropTech cartel. You drive up our prices without remorse so that you can spend your capital on hoaxes to run against us, and then feign your helplessness while you enrich yourselves and AI vendors who intend your financial destruction after our own.
+This must end, Your insatiable capture of Our Homes the whole nation over with a multinational PropTech cartel. You drive up our prices without remorse so that You can spend Your Capital on Hoaxes to run against us, and then feign Your Helplessness while You enrich Yourselves and AI vendors who intend for Your Financial Destruction too.
 
 **You Sold Us With Enthusiasm.**
 
@@ -66,7 +66,13 @@ index: false
 
 **For what? So that you don't have to do Your Job?**
 
-**You won't have a job, once these Agents are through with you.** Even Minna Song thinks so. She doesn't even come from this industry.
+**You won't have a job, once these Agents are through with you.** Even Minna Song thinks so. She doesn't even come from this industry. She thinks My Home is a Product for her and you to wield against me on a compounding basis, and intends to release predictive algorithms that let you gouge me appropriately when it detects that you have broken me into leaving.
+
+**And You Love Vacancies. Time to turn the price up even higher.**
+
+**Minna Song intends to centralize all of America's multifamily housing operations offshore**, And Then Bleed Us Forever having gotten You to pay them for the opportunity, with Our Money You Seized With Rent Software.
+
+**I will make You illegal.**
 
 I have scheduled both a live demo with EliseAI, and a return meeting with the property management.
 
