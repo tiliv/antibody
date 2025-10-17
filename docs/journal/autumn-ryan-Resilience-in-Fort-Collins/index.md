@@ -135,7 +135,7 @@ As a resident of Loveland, I attend my own City Councils and hear them cite Fort
 When I discovered this year that AT&T was using phone upgrades to opt-in attack the public to resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then I found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
 
 - [://www.att.com/legal/terms.personalizedPlus.html](https://www.att.com/legal/terms.personalizedPlus.html){: target="_blank" rel="nofollow noopener"}
-- [://antibody/journal/autumn-ryan-Personalized-Plus/](https://antibody.discoverywritten.com/journal/autumn-ryan-Personalized-Plus/)
+- [://antibody/journal/autumn-ryan-Personalized-Plus/](/journal/autumn-ryan-Personalized-Plus/)
 - [://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service](https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service){: target="_blank" rel="nofollow noopener"}
 
 I had to stop and wonder at if Fort Collins was buying my realtime location, every time I made it to Visit Fort Collins for a 1 Million Cups meeting of entrepreneurs doing pitches to each other, or when I participated in a citizen committee.
@@ -320,7 +320,7 @@ Loveland and Fort Collins share a regional airport which opened its new terminal
 
 Parking fees in Fort Collins have been an issue for some, and the City is promising to take feedback.
 
-- [://antibody/journal/autumn-ryan-Park-Mobile](https://antibody.discoverywritten.com/journal/autumn-ryan-Park-Mobile)
+- [://antibody/journal/autumn-ryan-Park-Mobile](/journal/autumn-ryan-Park-Mobile)
 
 We are really into travel. Fort Collins has been trying to keep the fee taxation very low, but we know which way fees like to go.
 
