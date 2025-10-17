@@ -27,7 +27,7 @@ h2 {
   word-wrap: break-word;
   hyphens: auto;
   text-align: center;
-  margin: 0 auto;
+  margin-top: 1.8rem !important;
 
   font-size: 7em;
   text-shadow: 0 .06em var(--sh);

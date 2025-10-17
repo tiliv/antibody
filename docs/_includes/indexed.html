@@ -1,0 +1,7 @@
+<div id="robots">
+  {%- if page.index -%}
+    <div class="truthy-pill" role="status" data-public="true" aria-label="Robots are allowed here."></div>
+  {%- else -%}
+    <div class="truthy-pill" role="status" data-public="false" aria-label="Robots were told to go away."></div>
+  {%- endif -%}
+</div>

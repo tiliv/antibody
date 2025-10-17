@@ -4,6 +4,8 @@ index: true
 priority: 1.0  # minor: sitemap scan priority
 ---
 
+{% include indexed.html %}
+
 <section id="readme" class="content" markdown="1">
 {{ site.civic_readme }}
 </section>
