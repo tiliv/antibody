@@ -49,8 +49,8 @@
   }
 
   article.content > *:not(h3,h4,h5,h6,hr) {
-    margin-left: 1rem !important;
-    margin-right: 1rem !important;
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
   }
 
   #layout { container: layout / inline-size; grid-template-columns: none; }
