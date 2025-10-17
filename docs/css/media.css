@@ -48,7 +48,10 @@
     flex-direction: column;
   }
 
-  article.content > *:not(h3,h4,h5,h6,hr) { margin-left: 1em; margin-right: 1em; }
+  article.content > *:not(h3,h4,h5,h6,hr) {
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+  }
 
   #layout { container: layout / inline-size; grid-template-columns: none; }
   @container layout (max-width: 1200px) {
