@@ -1,9 +1,18 @@
+{% capture _src %}
+{{ include.location | default: './exhibits' }}/{{ include.file }}
+{% endcapture -%}
 <aside class="{% if include.side %}side {{ include.side }}{% endif %}">
   <iframe
-    src="{{ include.location | default: './exhibits' }}/{{ include.file }}"
+    src="{{ include.url | default: _src }}"
+    title="{{ include.overview }}"
     width="100%"
-    height="400px"
+    height="{{ include.height | default: 400 }}px"
     frameBorder="0"
-    title="{{ include.overview }}"></iframe>
+    {% if include.sandbox %}
+    sandbox="{{ include.sandbox | default: 'allow-scripts allow-same-origin' }}"
+    {% endif %}
+    {% if include.style %}
+    style="{{ include.style }}"
+    {% endif %}></iframe>
   <figcaption>{{ include.caption }}</figcaption>
 </aside>
