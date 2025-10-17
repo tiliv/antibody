@@ -83,7 +83,7 @@ Given that this LLM is fundamentally unknown to all residents and does not expre
 1. On what date was my personally identifiable information (PII) first given to the LLM?
 2. At what frequency does the LLM receive updates to our PII?
   - If the LLM is the source of truth and does not need async updates, that's important to know.
-3. Why did the LLM reach out to me
+3. Why did the LLM initiate contact with me? What _exactly_ instigated this contact?
 4. What decision-making powers are enumerated for the LLM?
 5. Can the LLM make decisions without your foreknowledge?
 6. What does your database schema allow you to track about me?
