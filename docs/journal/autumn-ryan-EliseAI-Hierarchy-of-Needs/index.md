@@ -39,11 +39,11 @@ including <u>70% of the 50 largest rental housing operators in the U.S.</u>
 > but Song’s vision goes <u>far</u> beyond leasing
 
 > `she thinks real estate is` finally waking up
-to first-principles `product design`
+to first-principles `product design`.
 
 > That is, more <u>multifamily operators</u> are taking tasks
 that have historically been completed by team members on-site,
-<u>moving</u> them <u>off-site to centralized offices</u>, whether here, Or <u>Offshore</u>
+<u>moving</u> them <u>off-site to centralized offices</u>, whether here, Or <u>Offshore</u>.
 
 > What are our thinking (sic) about <u>the hierarchy of needs</u>, right?
 
@@ -55,6 +55,6 @@ that have historically been completed by team members on-site,
 
 > **Minna Song:** `It is`, which is a great task.
 
-> I think AI and centralization go hand in hand
+> I think AI and centralization go hand in hand.
 
-> So a lot more people are starting to <u>adopt this autopilot model of operations</u>
+> So a lot more people are starting to <u>adopt this autopilot model of operations</u>.
