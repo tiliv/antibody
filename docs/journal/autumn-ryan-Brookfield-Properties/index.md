@@ -52,7 +52,7 @@ index: false
 
 - I spent an hour walking around the property talking to my fellow residents, just enjoying some conversation. Who knows if we talked about EliseAI. Who knows.
 
-This must end, Your insatiable capture of Our Homes the whole nation over with a multinational PropTech cartel. You drive up our prices without remorse so that You can spend Your Capital on Hoaxes to run against us, and then feign Your Helplessness while You enrich Yourselves and AI vendors who intend for Your Financial Destruction too.
+This must end, Your insatiable capture of Our Homes the whole nation over with a multinational PropTech cartel. You drive up our prices without remorse so that You can spend Your Capital on Hoaxes to run against us, and then feign Your Helplessness while You Enrich Yourselves and the AI vendors who intend for Your Financial Destruction too.
 
 **You Sold Us With Enthusiasm.**
 
