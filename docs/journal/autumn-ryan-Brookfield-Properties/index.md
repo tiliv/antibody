@@ -92,4 +92,4 @@ Given that this LLM is fundamentally unknown to all residents and does not expre
 9. If EliseAI suffers a data breach, what is your responsibility to protect my privacy, if any?
 10. Can EliseAI resell derivative metadata about me to its own partners?
 11. Where are you most likely to work after they fire you for being less efficient than an LLM?
-12. Can EliseAI retain all of my PII after I an no longer financially obligated to you?
+12. Can EliseAI retain all of my PII after I am no longer financially obligated to you?
