@@ -4,6 +4,7 @@ rank: -2
 title: "LIVE: Engineering in Practice"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
+re: https://r5.ieee.org/highplains/event/ai-2025/
 
 tags: [ai, engineering, agency]
 
