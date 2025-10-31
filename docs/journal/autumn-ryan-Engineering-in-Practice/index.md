@@ -119,4 +119,20 @@ I got to sit next to Andres at the networking segment, before I realized he was 
   - What, tell me more
   - I'm very interested in this because I want to do climate monitoring via unconventional devices
 - Department of defense contracting, top-secret clusters, HP labs is funding research looking at carbon- and water-efficiency in data centers.
+- AI has enabled pathways for student engagement. They get excited.
+- Compute is not easily available at schools because it is expensive.
+- Content becomes outdated very qucikly.
+  - Syllabus changes every semester
+  - This bodes. I'll have more to writ elater.
+- Interdisciplinary integration.
+- Too many things to master in a university context, inflates credit hours, but promotes more problem-solving talking between departments.
+- Universities were trained before AI.
+- Assessment and Evaluation
+  - This is about AI use at school
+  - Doesn't blame them, but what are they doing at university that they couldn't be doing on their own? (He phrased it inverted, but it's the identical question.)
+- Ethical and societal implications of AI
+  - This is directly touching semiconductors to IoT, he's covering the whole gambit in this statement
+- Ai is starting to displace entry-level jobs, and it is worrying.
+  - What can faculty do?
+- How can falculty and students change the way they are interacting with the course so that they are not redundant.
 
