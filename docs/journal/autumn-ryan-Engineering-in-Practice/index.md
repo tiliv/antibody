@@ -16,7 +16,7 @@ index: false
 
 {% include toc/aside.html %}
 
-### The Most Innovative IEEE Section in the World
+"The Most Innovative IEEE Section in the World"
 
 AI in engineering is going to be complicated subject.
 
@@ -52,7 +52,16 @@ I will not show their job titles, because that information is available at the R
   3. Structure
   4. Foundation Data
 
-#### Siddharth Suryanarayanan
+#### (Sid) Siddharth Suryanarayanan
+
+- This is a government programs engineer, with a focus on infrastructure
+- He says that they don't market themselves well but that they are everywhere
+  - It seems government groups enjoy an easy of effective secrecy. Even when the secrecy isn't really the goal (he's talking about it in public, after all) it seems government has a marketing hack.
+- Data center cooling, solid state transformers
+- Defense customers, TRL6, TRL7
+  - He's talking about [://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/), technological readiness.
+  - TRL6 is a prototype
+  - TLR7 is an implementation (and not the top of the scale)
 
 #### Andres Sepulveda Morales
 
