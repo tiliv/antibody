@@ -8,13 +8,17 @@ re: https://r5.ieee.org/highplains/event/ai-2025/
 
 tags: [ai, engineering, agency]
 
-layout: noting
+layout: live
 public: true
 published: true
 index: false
 ---
 
 {% include toc/aside.html %}
+
+_An audio recording was taken of most of this event. I may use it to refine this piece at a later time._
+
+### Venue preamble
 
 "The Most Innovative IEEE Section in the World"
 
@@ -32,7 +36,7 @@ Sponsoring assistance for this event. They are local.
 
 I'm glad a long-lived company like this exists here, but they know that networking is complicated and must be forcefully pushed out because people don't know that they're here.
 
-As I listen tonight, I will be thinking about how people are bad at marketing by default. We except people to just show up, and I think we all know that's not how anything works. We trust the universe and the fruits of our labor. It seems merits aren't enough.
+As I listen tonight, I will be thinking about how people are bad at marketing by default. We accept that people just show up, and I think we all know that's not how anything works. We trust the universe and the fruits of our labor. It seems merits aren't enough.
 
 ### The Panel
 
@@ -136,18 +140,22 @@ I got to sit next to Andres at the networking segment, before I realized he was 
   - What can faculty do?
 - How can falculty and students change the way they are interacting with the course so that they are not redundant.
 
-### QA
+### Q&A
 
-(skipped a couple)
+_I annotate in-flight Q&A by the panel seating order, left to right as viewed from the audience. These numbers correspond to the names in the order I presented them above._
+
+(skipped a couple boring questions)
 
  **What's the energy use path forward?**
-1. Research, more efficient, reduce training costs. Used the tired metaphor of scaling down costs. This is a blind faith argument, more of the same, the future is the same as the past, etc.
-2. Can't have the cake and eat it too. (Good start.) Moving from a server that has a rack of 72 GPUs that consume a lot of power (small by scale) to 576 GPUs and eat more thermal demand. He's focusing on chips and their names changing. Chip to the room, room to the building, building to the campus, campus to the grid. Have to focus on the whole strongly linked chain. The isolated cogs are probably a liability here. Renewables are """nice""", but we can't do it without batteries, and batteries are not optimized for this middle position. Batteries will fail us before our methods do, and so we need better solutions. Big giant NUCLEAR. He wants nuclear. Woah, he's jumping straight to nuclear disasters. He's doing damage control to help us understand that we should just do it again. He's not talking about anything new, just that we should be less scared. He thinks Fukushima is "the worst" nature could throw at us (and I fundamentally reject this). "Those are the facts." He's propagandizing that bombs aren't power. Jumping "these are just the facts." Losing interest in this person. I don't disagree with the need for nuclear, but that was not "the facts". The problem I have is that He Needs Us To Believe that the casualties from Fukushima was Just One. As if we were wrong to be frightened of what happened.
-4. We pay a lot for AI. Google is getting into TPU. (He's not talking about NPU, but he's in the ballpark.)
+(1) Research, more efficient, reduce training costs. Used the tired metaphor of scaling down costs. This is a blind faith argument, more of the same, the future is the same as the past, etc.
+(2) Can't have the cake and eat it too. (Good start.) Moving from a server that has a rack of 72 GPUs that consume a lot of power (small by scale) to 576 GPUs and eat more thermal demand. He's focusing on chips and their names changing. Chip to the room, room to the building, building to the campus, campus to the grid. Have to focus on the whole strongly linked chain. The isolated cogs are probably a liability here. Renewables are """nice""", but we can't do it without batteries, and batteries are not optimized for this middle position. Batteries will fail us before our methods do, and so we need better solutions. Big giant NUCLEAR. He wants nuclear. Woah, he's jumping straight to nuclear disasters. He's doing damage control to help us understand that we should just do it again. He's not talking about anything new, just that we should be less scared. He thinks Fukushima is "the worst" nature could throw at us (and I fundamentally reject this). "Those are the facts." He's propagandizing that bombs aren't power. Jumping "these are just the facts." Losing interest in this person. I don't disagree with the need for nuclear, but that was not "the facts". The problem I have is that He Needs Us To Believe that the casualties from Fukushima was Just One. As if we were wrong to be frightened of what happened.
+(4) We pay a lot for AI. Google is getting into TPU. (He's not talking about NPU, but he's in the ballpark.)
 
  **What can we do?**
-4. Hallucinations result in wasted time. We are shocked that they are biased but We Are Biased. (He's trying to talk about regulation but he's not sure how to get into it from here.)
-3. AI can capture good, bad and ugly, and needs to not concern itself with knowing facts as much as representing what's there.
+(4) Hallucinations result in wasted time. We are shocked that they are biased but We Are Biased. (He's trying to talk about regulation but he's not sure how to get into it from here.)
+(3) AI can capture good, bad and ugly, and needs to not concern itself with knowing facts as much as representing what's there.
+
+_The following was my question, though it was rendered differently in speech._
 
  **Do you think AI will have to invalidate all embeddings and vectorizations when we learn how to use our data better? I heard data described as fossile fuels, but I think it's more like Uranium.**
 
