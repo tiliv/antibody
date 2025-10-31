@@ -83,5 +83,15 @@ I got to sit next to Andres at the networking segment, before I realized he was 
 - Impact Makers and Barrier Breakers
 - Serving people who don't have the budget
 - Tech really isn't magic, but what you're trying to do is
+- Focus on agency itself. 34% of leaders polled say that employees have left their jobs because of how AI is implemented at their company.
+  - I resonate with this. I left because my company was brick-headed about AI, would only consult washed up ML engineers who didn't want to be involved. It was a fundamental mockery of talent, merit, and lived experience.
+- When you pawn your autonomy to the people who control the models, where are you left? Are you even wondering.
+- Where is your data at 10pm at night? (fun callback to 90s)
+- Companies are compulsively creating sparkle icons (the icon for starting an AI agent without knowing wtf it can do or why)
+- The prior Defcon, salesforce AI agents were compromised live. "Are you really that surprised?"
+  - There are some interesting articles about how employees break rules to put data in AI even though they know the risks are unknown (or high) that data breaches are possible. (They barely understand where the risk comes from, and that might placate them.)
+- What Are Your Thoughts?
+  - This is a great sentence that I feel matches my desire to use Instruction Case.
+- Keep learning and adapting; Be excited to learn; Honor The Human.
 
 #### Sudeep Pasricha
