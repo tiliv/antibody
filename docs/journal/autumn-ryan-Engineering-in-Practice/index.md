@@ -68,7 +68,8 @@ I will not show their job titles, because that information is available at the R
   - TLR7 is an implementation (and not the top of the scale)
 - Never expected us to be recommissioning nuclear power
 - He's finally talking about energy
-- Oooh, he's talking Aldous huxley: the real devils of houdon. the data centers in northern virgina
+- Oooh, he's talking Aldous Huxley: The (Real) Devils of Loudun
+- Look into the data centers in northern Virginia
 - Stranded investments. I was questioning his relevance to the bigger conversation, but this last bit got interesting. Modular reactors.
 - He's pushing on the Gallium oxide, gallium nitrate. He wants it to come, stop talking and do.
 
