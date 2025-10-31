@@ -8,8 +8,8 @@ author_email: autumn@discoverywritten.com
 tags: [ai, engineering, agency]
 
 layout: noting
-public: false
-published: false
+public: true
+published: true
 index: false
 ---
 
