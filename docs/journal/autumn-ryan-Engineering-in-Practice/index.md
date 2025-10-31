@@ -25,3 +25,11 @@ AI in engineering is going to be complicated subject.
   - Wow! That's one month of rent!
 
 [://r5.ieee.org/highplains](https://r5.ieee.org/highplains)
+
+#### Vergent Products
+
+Sponsoring assistance for this event. They are local.
+
+I'm glad a long-lived company like this exists here, but they know that networking is complicated and must be forcefully pushed out because people don't know that they're here.
+
+As I listen tonight, I will be thinking about how people are bad at marketing by default. We except people to just show up, and I think we all know that's not how anything works. We trust the universe and the fruits of our labor. It seems merits aren't enough.
