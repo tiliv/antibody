@@ -10,7 +10,7 @@ tags: [traffic, cameras, abuse]
 layout: noting
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
