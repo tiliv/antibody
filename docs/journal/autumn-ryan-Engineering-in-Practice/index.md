@@ -78,5 +78,10 @@ He's talking about modular reactors and I want to
 I got to sit next to Andres at the networking segment, before I realized he was a panelist. Amazing guy.
 
 - Less tangible
+- How can humans stay agentic? (sleeper of a question, I love)
+- Rocky Mountain AI Interest Group (501(c)(3)--didn't realize)
+- Impact Makers and Barrier Breakers
+- Serving people who don't have the budget
+- Tech really isn't magic, but what you're trying to do is
 
 #### Sudeep Pasricha
