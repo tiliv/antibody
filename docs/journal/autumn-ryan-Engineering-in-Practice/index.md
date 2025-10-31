@@ -95,3 +95,28 @@ I got to sit next to Andres at the networking segment, before I realized he was 
 - Keep learning and adapting; Be excited to learn; Honor The Human.
 
 #### Sudeep Pasricha
+
+- AI has been around for "70 to 80 years"
+  - I get what he's saying, but this does remind me of pedestrians who pretend like the future has always been here, just because they see a headline.
+- Energy efficiency, fault tolerant, real-time and secure computer
+- Academia gets to enjoy having a longer timeline.
+  - It's a good reminder.
+- Using AI techniques to look at data movement and storage
+- New architectures to accelerate architectures.
+- Looking at the optical domain, fundamental to most characterstics.
+- NSF grant (Fall 2025) to do this sustainable and efficiently.
+  - It's a good sign in this era that grants are being given
+- Doing some things in the devices, instead of strict CPU/GPU
+  - I'm not entirely sure what he categorizes as the "device" if not the CPU, but I understand this about the GPU.
+- Charging sucks.
+- Mobile energy optimization
+  - Learning how to do usage optimization to manage processes via middleware, mostly on Android as a test bed.
+  - Edge devices (as a phrase, this is the first time we've talked about Edge tonight.)
+- Indoor navigation, no GPS
+- Code decision for perception in autonomous vehicles.
+  - This is a "big data" issue for AI, not necesarily as a scale problem of orders of magnitude, but of disparate multimodal sources.
+- IoT-driven weather monitoring
+  - What, tell me more
+  - I'm very interested in this because I want to do climate monitoring via unconventional devices
+- Department of defense contracting, top-secret clusters, HP labs is funding research looking at carbon- and water-efficiency in data centers.
+
