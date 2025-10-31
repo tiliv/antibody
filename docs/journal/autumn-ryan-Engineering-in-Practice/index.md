@@ -72,7 +72,8 @@ I will not show their job titles, because that information is available at the R
 - Stranded investments. I was questioning his relevance to the bigger conversation, but this last bit got interesting. Modular reactors.
 - He's pushing on the Gallium oxide, gallium nitrate. He wants it to come, stop talking and do.
 
-He's talking about modular reactors and I want to
+He's talking about modular reactors and I want to hear more.
+  - Later, he sort of lost the plot and Needed Us To Believe his "it's just the facts" line about how we're wrong to be wary of nuclear power. I think nuclear power is unavoidable now, but I don't adopt his (lack of) reasoning.
 
 - [://www.terrapower.com/](https://www.terrapower.com/) (traveling wave)
 - [://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn](https://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn)
