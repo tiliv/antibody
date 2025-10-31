@@ -135,4 +135,3 @@ I got to sit next to Andres at the networking segment, before I realized he was 
 - Ai is starting to displace entry-level jobs, and it is worrying.
   - What can faculty do?
 - How can falculty and students change the way they are interacting with the course so that they are not redundant.
-
