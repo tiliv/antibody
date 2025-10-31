@@ -42,7 +42,7 @@ As I listen tonight, I will be thinking about how people are bad at marketing by
 
 Some of this discussion will be about introductions and backgrounds. My interest is not in the technical vomit of documenting them, but I will try to highlight what they're doing that is unique and bespoke.
 
-I will not show their job titles, because that information is available at the RE link. In addition, I won't feel compelled to write about how they agree with me unless it is an under-represented
+I will not show their job titles, because that information is available at the RE link. In addition, I won't feel compelled to write about how they agree with me unless it is an under-represented piece of speech.
 
 #### Greg Nuccio
 
