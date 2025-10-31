@@ -75,4 +75,8 @@ He's talking about modular reactors and I want to
 
 #### Andres Sepulveda Morales
 
+I got to sit next to Andres at the networking segment, before I realized he was a panelist. Amazing guy.
+
+- Less tangible
+
 #### Sudeep Pasricha
