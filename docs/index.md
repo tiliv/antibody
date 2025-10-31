@@ -44,6 +44,12 @@ priority: 1.0  # minor: sitemap scan priority
         | where_exp: "p", "p.public"
         | where_exp: "p", "p.published" -%}
 
+      {%- assign live = site.pages
+        | where_exp: "p", "p.layout == 'live'"
+        | where_exp: "p", "p.author == author"
+        | where_exp: "p", "p.public"
+        | where_exp: "p", "p.published" -%}
+
       <div data-kind="journal" markdown="1">
         {%- assign ranked = journal | sort: "date" | sort: "rank" -%}
         {%- for piece in ranked -%}
@@ -51,6 +57,10 @@ priority: 1.0  # minor: sitemap scan priority
         {%- endfor -%}
       </div>
       <div data-kind="noting" markdown="1">
+        {%- assign ranked = live | sort: "date" | sort: "rank" -%}
+        {%- for piece in ranked -%}
+          {%- include piece.html piece=piece -%}
+        {%- endfor -%}
         {%- assign ranked = noting | sort: "date" | sort: "rank" -%}
         {%- for piece in ranked -%}
           {%- include piece.html piece=piece -%}
