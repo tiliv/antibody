@@ -108,7 +108,7 @@ I got to sit next to Andres at the networking segment, before I realized he was 
   - It's a good reminder.
 - Using AI techniques to look at data movement and storage
 - New architectures to accelerate architectures.
-- Looking at the optical domain, fundamental to most characterstics.
+- Looking at the optical domain, fundamental to most characteristics.
 - NSF grant (Fall 2025) to do this sustainable and efficiently.
   - It's a good sign in this era that grants are being given
 - Doing some things in the devices, instead of strict CPU/GPU
