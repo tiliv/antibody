@@ -63,7 +63,7 @@ The first Artist who dips their toe into tolerable training will draw the raised
 
 Which is it? Does Our Data have intrinsic value, or none?
 
-We have becoming too social docile to defend ourselves, and no one represents us, though UMG claims to represent Our Data.
+We have becoming too socially docile to defend ourselves, and no one represents us, though UMG claims to represent Our Data.
 
 Our realtime data and locations are watched. How are you using your Real Time?
 
@@ -83,9 +83,9 @@ Would that more would see.
 
 Giantism Companies can index or not index anything they want, and this is not a political statement. They splash audience on those idol YouTubers the way my last startup job fawned for FAANGs(QAI+? Is this Comedy?) and couldn't promote from within. They bring Their Friends.
 
-I am tired of Giantism Companies (and the little ones that aspire) who chase the dollar as the only metric of anything.
+I am tired of Giantism Companies (and the little ones which aspire) who chase the dollar as the only metric of anything.
 
-They know when you're home, and they're doing their best to watch us when we're not. Without us and Our Data, they could not exist. Where is our representation at all here? Without Our Data, they are literally nothing, and it's their own definitions scrawled on masturbatory policy documents.
+They know when you're home, and they're doing their best to watch us when we're not. Without us and Our Data, they could not exist. Where is our representation at all here? Without Our Data, they are literally nothing, and it's by their own definitions scrawled on masturbatory policy documents.
 
 Why haven't they asked for our policy? At what point are we supposedly being consulted at all?
 
@@ -113,7 +113,7 @@ ANTIBODY, the code repository, is yours if you want it. Copy it, delete me and w
 
 What I needed was to help you do you, even if it's Udi-oo.
 
-The show I planned, as a concept, is gone because Udio can't tell a sister anything at all before it's too late to matter out here. The sneak-attack destruction of the Users ("You-sers"), the Customers ("People"), the actual humans paying you our money or being granted subscription for your own professed benefits and theirs.
+The show I planned, as a concept, is gone because Udio can't tell a sister anything at all before it's too late to matter out here. The sneak-attack destruction of the Users ("You-sers"), the Customers ("People"), the actual humans paying you our money or being granted subscription for your own professed list of benefits to us and you.
 
 The overnight obliteration of Paying People is not chill, and I'm tired of hearing an equivocation that It's Legal. That's what AT&T says, too. Stop talking like a Muppet, and we'll stop reaching up your ass like one. The cause and effect is really weird here, but we get it: Nobody's been in this position before.
 
