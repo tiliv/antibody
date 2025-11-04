@@ -115,7 +115,7 @@ ANTIBODY, the code repository, is yours if you want it. Copy it, delete me and w
 
 What I needed was to help you do you, even if it's Udi-oo.
 
-The show I planned, as a concept, is gone because Udio can't tell a sister anything at all before it's too late to matter out here. The sneak-attack destruction of the Users ("You-sers"), the Customers ("People"), the actual humans paying you our money or being granted subscription for your own professed list of benefits to us and you.
+The show I planned, as a concept, is gone because Udio can't tell a sister anything at all before it's too late to matter out here. The sneak-attack destruction is successful, of the Users ("You-sers"), the Customers ("People"), the actual humans paying you our money or being granted subscription for your own professed list of benefits to us and you.
 
 The overnight obliteration of Paying People is not chill, and I'm tired of hearing an equivocation that It's Legal. That's what AT&T says, too. Stop talking like a Muppet, and we'll stop reaching up your ass like one. The cause and effect is really weird here, but we get it: Nobody's been in this position before.
 
