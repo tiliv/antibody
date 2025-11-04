@@ -57,7 +57,7 @@ Being human, do we realize that we possess the power to speak without first sign
 
 You are something else. You are laying claim to a medium You Cannot Own. We are sorry that computers heard your clients, like we already did.
 
-AI is all of us, and soon, data training will require completely new methods.
+AI is all of us, and soon data training will require completely new methods.
 
 We are at Terminal Velocity on our approach to a future where they make us pay royalties just to hear music they wouldn't have published in the first place. They want to be paid for the work of those they don't represent, in addition to those they do.
 
