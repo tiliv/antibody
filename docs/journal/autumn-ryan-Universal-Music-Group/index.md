@@ -21,7 +21,7 @@ I barely know you, Universal Music Group. My friends also can't decipher "UMG" w
 
 Here's something about us, since you haven't bothered asking:
 
-You companies are making models of us from Our Data, and Our Metadata. They Pay Us Nothing for it.
+You companies are making models of us from Our Data, and Our Metadata. You Pay Us Nothing for it.
 
 I understand where you came from and why, UMG, but Who Are You? Where'd your Artists learn those Tunes?
 
