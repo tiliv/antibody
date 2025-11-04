@@ -125,7 +125,7 @@ Please Stand By.
 
 #### In-Person
 
-At the Visit Fort Collins center mixer event on November 3rd, there was a slow slideshow display on the wall, featuring QR code packed with a lot more metadata than is usual.
+At the Visit Fort Collins center mixer event on November 3rd, there was a slow slideshow display on the wall, featuring a QR code packed with a lot more metadata than is even usual.
 
 QR holds URLs mostly, and that size often means there's a lot of tracking data in there, even just another domain it's forwarding to. Maybe it's just a really poorly chosen long url. There were upwards of 16 anchor points inside it to support its size, but I knew the QR wasn't "full".
 
