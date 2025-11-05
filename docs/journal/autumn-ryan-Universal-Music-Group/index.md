@@ -37,7 +37,7 @@ You, Actual People, your companies and governments cannot hear you. They circumv
 
 Polling is broken, even when companies and their corporate agents pose us questions.
 
-I want to see a culture of fewer statistics, interference, context, and instead I want to see A Lot More Raw Fucking Data.
+I want to see a culture of fewer statistics, less interference and "context" and instead I want to see A Lot More Raw Fucking Data.
 
 We have no representation, let alone in This Country's government, which is shut down, having willingly killed itself on orders from the Democratic Party (whatever that is). It's not coming back.
 
@@ -65,7 +65,7 @@ The first Artist who dips their toe into tolerable training will draw the raised
 
 Which is it? Does Our Data have intrinsic value, or none?
 
-We have becoming too socially docile to defend ourselves, and no one represents us, though UMG claims to represent Our Data.
+We have become too socially docile to defend ourselves, and no one represents us, though UMG claims to represent Our Data.
 
 Our realtime data and locations are watched. How are you using your Real Time?
 
