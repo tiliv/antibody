@@ -1,6 +1,6 @@
 ---
 date: 2025-10-30
-rank: -2
+rank: 1
 title: "LIVE: Engineering in Practice"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -8,13 +8,17 @@ re: https://r5.ieee.org/highplains/event/ai-2025/
 
 tags: [ai, engineering, agency]
 
-layout: live
+layout: noting
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
+
+<em>
+  Notes were made contemporaneously, but are not an objective recreation of the event. Typed errors are more likely in this format.
+</em>
 
 _An audio recording was taken of most of this event. I may use it to refine this piece at a later time._
 
