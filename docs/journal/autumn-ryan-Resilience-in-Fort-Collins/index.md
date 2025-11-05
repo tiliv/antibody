@@ -389,7 +389,7 @@ The $11M shortfall in 2025 feels like a stick that got caught in their bike whee
 
 This bucking of TABOR-like restraint can and will unlock new funding, though not in a fully wildcard way.
 
-My eye is on this category of issue in 2026, as it may properly annotate something about how money is gets hard to talk and campaign about when it is a mirage until tested. Speculative thinking about forward money is risky, and the public is often susceptible to speech that can flick its wrist about unknowable details. The limits are valuable, but all across Colorado we may be bucking our TABOR roots. Our cities need money, though I am happiest when I see planners on the field, not just progressives who squeal happily at found money.
+My eye is on this category of issue in 2026, as it may properly annotate something about how money gets hard to talk and campaign about when it is an untested mirage. Speculative thinking about forward money is risky, and the public is often susceptible to speech that can flick its wrist about unknowable details. The limits are valuable, but all across Colorado we may be bucking our TABOR roots. Our cities need money, though I am happiest when I see planners on the field, not just progressives who squeal happily at found money.
 
 I know Fort Collins has practice operating from a position of excess and their voting blocks are often resoundingly clear on the ballot results. The locals aren't fearful of this $11M oopsie, and I didn't see much attention reflected on it besides with Adam Hirschhorn.
 
