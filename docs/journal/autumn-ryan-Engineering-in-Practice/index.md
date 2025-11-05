@@ -83,9 +83,9 @@ He's talking about modular reactors and I want to hear more.
 - [://www.terrapower.com/](https://www.terrapower.com/) (traveling wave)
 - [://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn](https://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn)
 
-#### Andres Sepulveda Morales
+#### Andrés Sepulveda Morales
 
-I got to sit next to Andres at the networking segment, before I realized he was a panelist. Amazing guy.
+I got to sit next to Andrés at the networking segment, before I realized he was a panelist. Amazing guy.
 
 - Less tangible
 - How can humans stay agentic? (sleeper of a question, I love)
