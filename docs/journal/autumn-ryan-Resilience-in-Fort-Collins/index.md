@@ -365,8 +365,6 @@ I had a very difficult time trying to write about the entrepreneurs in Fort Coll
 
 Adam Eggleston was the closest thing to one of these business owners, and his testimony of local business agreed with mine, that it felt bad to sell products he was losing price control over. He didn't have a taste for the consumer's blood, and wanted to play a better kind of game.
 
-I shall immortalize my early disconnected notes for this section here:
-
 Local employment issues and quagmires won't be healed by any city representative, after one or two asks from us. We need to bring our own x-factor and teach locals why it's better to be hired in town, and then the representatives can discover value for us with that data.
 
 On November 3rd, I was able to watch Emily be brief, together with the Visit Fort Collins staff leadership apologizing that they were interrupting such a smooth-gliding social event to yap at them.
