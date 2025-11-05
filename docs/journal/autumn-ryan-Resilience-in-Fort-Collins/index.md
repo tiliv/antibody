@@ -401,7 +401,7 @@ Adam Hirschhorn is the only candidate who uses sustainability-oriented thinking 
 
 The notes I took away for sustainability come after I spoke with John Grant, a member of the citizen committee seeking support for a Community Opinion Platform and many climate issues. Grant's efforts for Sustilience brought me a unique focus on what it means to endure disasters, not prevent them by strange principles of Exceptionalism.
 
-- [://sustilience.com](https://sustilience.com)
+- [://sustilience.com](https://sustilience.com){: rel="nofollow noopener"}
 
 Adam Hirschhorn spoke more like a Resilience observer I had hoped to locate, but the ideas are a hard side turn.
 
