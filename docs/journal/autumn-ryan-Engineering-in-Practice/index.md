@@ -8,7 +8,7 @@ re: https://r5.ieee.org/highplains/event/ai-2025/
 
 tags: [ai, engineering, agency]
 
-layout: noting
+layout: journal
 public: true
 published: true
 index: true

@@ -1,16 +1,16 @@
 ---
 date: 2025-10-14
 rank: 1
-title: "NOTING: Trusted Sources"
+title: "Trusted Sources"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [journalists, media, fraud]
 
-layout: noting
+layout: journal
 public: true
 published: true
-index: false
+index: true
 ---
 
 _These contemporaneous notes are more raw than is typical._
