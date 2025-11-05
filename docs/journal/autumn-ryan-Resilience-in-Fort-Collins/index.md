@@ -1,7 +1,7 @@
 ---
 date: 2025-10-05
 rank: -1
-title: "NOTING: Resilience in Fort Collins"
+title: "Resilience in Fort Collins"
 re: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-whos-running-for-fort-collins-mayor-and-city-council-ranked-voting/85997339007/
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -16,10 +16,10 @@ links:
   adam_h: https://bsky.app/profile/electadammayor.bsky.social
   jeffrey:
 
-layout: noting
+layout: journal
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
@@ -297,11 +297,6 @@ Northern Colorado's water is a series of connected paths. In 2025, Loveland's se
 
 > **¶ 10**: Hubbard noted that the lake is managed by the Greeley Loveland Irrigation Company (GLIC), which uses it <u>primarily for irrigation purposes</u>, meaning it is designed to be drained.
 
-- fees and districts
-- A Desert
-- the Colorado River
-- agriculture
-
 #### Free movement
 
 Tricia Canonico is doing a lot to cooperate for rail in Fort Collins by 2029. This is an air quality topic because of cars. She believes the rail site choice in Fort Collins is the right one and is working with our Governor's office to validate and move forward. She can speak well about it and go to bat.
@@ -358,22 +353,70 @@ I am tempted to make Housing my shortest piece of this write-up, but because if 
 
 #### Local businesses
 
-- uneven prices in goods, must sometimes take on offensive pricing without their control.
-- unpredictability
-- local economic development
-- training programs
-- diversity
-- the franchise problem
-- local employment
+Though I met Shirley at an entrepreneur event first, I met Emily Francis at one last.
+
+{% include figure.html file="emily.jpeg"
+  side="right"
+  overview="Emily Francis awaits a chance to speak briefly on the low-rise front stage."
+  caption="Emily Francis awaits a chance to speak a few invitations to a room of more entrepreneurs than the city anticipated would come."
+%}
+
+I had a very difficult time trying to write about the entrepreneurs in Fort Collins. They are active here, but I can't get many to attend the Community Conversations series going on at the Poudre Libraries. It has remained unclear to me how to say anything that helps these solo business owners or dreamers.
+
+Adam Eggleston was the closest thing to one of these business owners, and his testimony of local business agreed with mine, that it felt bad to sell products he was losing price control over. He didn't have a taste for the consumer's blood, and wanted to play a better kind of game.
+
+I shall immortalize my early disconnected notes for this section here:
+
+Local employment issues and quagmires won't be healed by any city representative, after one or two asks from us. We need to bring our own x-factor and teach locals why it's better to be hired in town, and then the representatives can discover value for us with that data.
+
+On November 3rd, I was able to watch Emily be brief, together with the Visit Fort Collins staff leadership apologizing that they were interrupting such a smooth-gliding social event to yap at them.
+
+My intuition says that they cut their remarks deeply. Deeeeeply. They had pages stapled together, and read only tiny bits to fulfill a need to be seen, but also a need to get out of the way.
+
+At Visit Fort Collins on the night before election day, she knew that things were taking place on the floor between the entrepreneurs, and that very few of the words on those papers were more important than what we were already doing.
+
+In searching for someone whose powers of decision made me resonate with agreement, I did certainly feel that here. How easy it may have been for a candidate to use that microphone like they stole it, like it was their race and ego to bandy about with the power of the floor.
+
+Emily Francis has an advantage with visibility and speaking time. I've seen her standing in the City Council chamber as she receives comments, while others must be seated. Her levelness suggests to me a kind of alertness about what is immediately head, like she's reading her rooms.
+
+I could never rubber-stamp another person, but I am glad that Emily is steady and even.
 
 #### $11M
 
+Fort Collins has had excess money to argue about more often than not. All of Larimer County can vote on ballot measures for the cities to keep money in excess of declared goals, if collected via tax, instead of returning it.
+
+I have been a fan of the concept of capped amounts and returns, because it forces much care at the design stage of the ask, and fewer moving goal posts. It is a nice feeling, to know that a number actually means something, instead of being a literally fake piece of data lacking impact on any decision the officials face.
+
+The $11M shortfall in 2025 feels like a stick that got caught in their bike wheel, but they're strong enough to handle it. The projected shortfall in the year ahead is larger.
+
+This bucking of TABOR-like restraint can and will unlock new funding, though not in a fully wildcard way.
+
+My eye is on this category of issue in 2026, as it may properly annotate something about how money is gets hard to talk and campaign about when it is a mirage until tested. Speculative thinking about forward money is risky, and the public is often susceptible to speech that can flick its wrist about unknowable details. The limits are valuable, but all across Colorado we may be bucking our TABOR roots. Our cities need money, though I am happiest when I see planners on the field, not just progressives who squeal happily at found money.
+
+I know Fort Collins has practice operating from a position of excess and their voting blocks are often resoundingly clear on the ballot results. The locals aren't fearful of this $11M oopsie, and I didn't see much attention reflected on it besides with Adam Hirschhorn.
 
 #### Sustainability
 
-- Closed systems
-- Self sufficiency
-- Unions
-- Climate
-- Trash
-- Opportunity
+Adam Hirschhorn is the only candidate who uses sustainability-oriented thinking the way I want everyone to. I couldn't vouch for specific candidate policies or how they'd improvise in a pinch (sometimes creativity can violate a lot of norms without time to explain; See the Unitary Executive), but I appreciated that this larger political environment produced a candidate that could look us in the eye and promise he understood what the breakdown of order can require from us.
+
+The notes I took away for sustainability come after I spoke with John Grant, a member of the citizen committee seeking support for a Community Opinion Platform and many climate issues. Grant's efforts for Sustilience brought me a unique focus on what it means to endure disasters, not prevent them by strange principles of Exceptionalism.
+
+- [://sustilience.com](https://sustilience.com)
+
+Adam Hirschhorn spoke more like a Resilience observer I had hoped to locate, but the ideas are a hard side turn.
+
+One day not far away, we may need people brave enough to use the wheel in front of them. People who contemplate how to use it (who contemplate anything at all, tbh) are rare.
+
+Hirschhorn is using the tools available to locate information in the wind, and I know well that the wind is the only place to find it, when so-called Journalists write under digital accounts named "Staff Writer" and fulfill their obligation to reblog whatever is emailed to them with only sparse interest.
+
+If at some time we must be a closed system, I understand how Hirschhorn would approach it. Reliance on ourselves is fundamental. I'm concerned that Fort Collins is arriving at a plan to federalize more traffic systems to tap federal funding.
+
+Reliance must be on ourselves, not on the federal vending machine that threatens to wink out of existence to please some types of federal Authority.
+
+Unions make this possible in the basics, but unions are vanishingly rare for our working population. I find it hard to blanket promote unions, because the devils are always in details, but I admit for us that we need the power to conspire against those who conspire against us first.
+
+There is so much to say about sustainability, resilience and the confluence of them. We will hunt for value at this intersection of needs, because no one is bringing a compatible plan, and no one is really yet listening.
+
+Fort Collins was ranked a Number One place to live, and locals often know it. Yet, software workers are getting destroyed and leaving for other markets (actual or remote). The defense industry alone is **Teeming**. Well, ad-tech tech too, but that is a parasite industry.
+
+Anduril will have notes soon.
