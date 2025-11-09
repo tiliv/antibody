@@ -10,7 +10,7 @@ tags: [ai, renter, sellout]
 layout: noting
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}

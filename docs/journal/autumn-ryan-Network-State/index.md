@@ -10,7 +10,7 @@ tags: [governance, billionaire, charisma states]
 layout: noting
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include iframe.html file="tns.pdf"
