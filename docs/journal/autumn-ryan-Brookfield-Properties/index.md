@@ -15,7 +15,7 @@ index: true
 
 {% include toc/aside.html %}
 
-### Notes
+### Unsolicited
 
 - On the morning of October 16, I was contacted by an LLM with an unsolicited message.
 - An LLM exactly like the First State Auto Group's Impel.ai
@@ -76,7 +76,7 @@ This must end, Your insatiable capture of Our Homes the whole nation over with a
 
 I have scheduled both a live demo with EliseAI, and a return meeting with the property management.
 
-### Questions
+#### Questions
 
 Given that this LLM is fundamentally unknown to all residents and does not expressly identify its nature when it instigates contact autonomously, my questions are these:
 
@@ -93,3 +93,71 @@ Given that this LLM is fundamentally unknown to all residents and does not expre
 10. Can EliseAI resell derivative metadata about me to its own partners?
 11. Where are you most likely to work after they fire you for being less efficient than an LLM?
 12. Can EliseAI retain all of my PII after I am no longer financially obligated to you?
+
+### Followup
+
+- At the return visit, the human agent of Brookfield Properties listened to the questions recorded below. I skipped only the one about where they'll work after they lose their jobs.
+- The human agent failed to record any of these, and latently tried to summarize my questions as a request for which triggers allow the LLM hoax to decide to contact me. This damaged summary was performed because they felt the other questions were being addressed then, in situ. This was not the case: The human agent's answers were all I-Don't-Knows or improvised conjecture.
+
+#### Request Cannot Be Completed
+
+{% include figure.html file="request.png"
+  side="left"
+  overview="Screenshot of the identity platform making me enter basic details they already know about me"
+  caption='This introduction to their identify verification platform completely disconnects me from what they already know about me. They are fundamentally evading the premise of my request by making me go through some other portal they could send anyone to. My letter is scarcely relevant.'
+%}
+
+{% include figure.html file="quiz-redacted.png"
+  side="right"
+  overview="Screenshot of an identity verification quiz question which demands I know where someone in my extended family owns property."
+  caption='This quiz question demands I know where someone lives "OR" owns property. The person in question is married to a military doctor who moves around, and their property is paid for by extended-extended family.'
+%}
+
+- On October 30 2025, the legal team representing Brookfield Properties with an address in Ontario Canada sent me a receipt of my request, some 14 days after their human agent received it.
+- The link they provided to "verify" my identity for proof of which state I live in (How could I live anywhere but the property they sell me?) was a broken link that led to an HTTP 404.
+- The wording of their receipt acknowledgement made it highly ambiguous whether they considered October 16 or 30 as the receipt date.
+- I issued a second signed document requesting they attest to the date, and whether their human agent was in fact an agent representing them.
+- They did not acknowledge my second letter directly, but improperly quoted from it the sabotaged date of October 17, instead of 16.
+- They are freestyling without verifying their own obligations.
+- They issued a new link.
+- The new link was a quiz with no notice of time limits, but on a particularly egregious question about which other states some random person from my extended family owns property (??), I paused the quiz to receive a phone call.
+- I returned to the quiz to find that I was locked out, having "failed" my verification. The platform emailed me confirmation that my data privacy request would not be honored.
+
+{% include cite.html
+  credit="Email with footer signed by 'Service Account'"
+  headline="(Request ID: BHF3X4QJ7N) Request cannot be completed"
+  url="mailto:dataprivacy@brookfieldproperties.com"
+%}
+
+> Dear Autumn Valenta,
+
+> Your request cannot be completed at this time.
+
+> Dear [Consumer Name],
+
+> Thank you for contacting us. Based on the information you provided, we were not able to verify that you are a resident of a jurisdiction that provides specific data privacy rights, so we are unable to process your request.
+
+> Sincerely,
+
+> Brookfield Properties Data Privacy
+
+- At no point is a human's name visible in this process. All emails exchanged on the platform are from concealed identities, while they try to harass mine.
+- I wrote back to condescend and I demanded that they reset the process, and not to test me lest I swing at them harder.
+
+{% include cite.html
+  credit="Me"
+  headline="(Request ID: BHF3X4QJ7N) Request cannot be completed"
+  url="mailto:autumn@discoverywritten.com"
+%}
+
+> I pay you out the nose. Tell me I'm not real again.
+
+{% include cite.html
+  credit="Me, after a new link is issued"
+  headline="(Request ID: BHF3X4QJ7N) Request cannot be completed"
+  url="mailto:autumn@discoverywritten.com"
+%}
+
+> I am going to try again soon, but I cannot predict which stupid questions you use as a proxy to tell whether I am who you already know I am. You possess all my data and you know full well I am the valid resident I must be to live on your property.
+
+> If I open that again and it asks me a stupid question that I have to go validate with extended family, I will indeed send new legal action. You are obstructing, and I am doing my best to jump through your hoops.

@@ -5,16 +5,16 @@
         {{- include.credit -}}
       </a>
     {%- else -%}
-      {{- include.credit -}}
+      <span markdown="1">{{- include.credit -}}</span>
     {%- endif -%}
   </div>
   <h5>
     <code>“</code>
     <div>
       {{ include.headline }}
-      <cite><a href="{{ include.url }}" target="_blank" rel="nofollow noopener">
-        {{- include.url | replace: "https:",":" -}}
-      </a></cite>
+      <cite>{% if include.url %}<a href="{{ include.url }}" target="_blank" rel="nofollow noopener">
+        {{- include.url | replace: "https:",":" | replace: "mailto:","" -}}
+      </a>{% else %}{{- include.cite -}}{% endif %}</cite>
     </div>
   </h5>
 </header>
