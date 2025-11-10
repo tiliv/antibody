@@ -81,6 +81,9 @@ article blockquote p {
   padding: 0;
   position: relative;
 }
+article blockquote p img {
+  width: 100%;
+}
 article h5::before,
 article blockquote p::before {
   content: "";

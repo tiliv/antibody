@@ -56,6 +56,18 @@ trendingpoliticsnews:
     - |
       `The short clip was` ~~posted to~~ (read: `PUBLICLY POLLED ON`) `ICE’s account` on X
 
+chicago_illinois:
+- url: https://chatgpt.com/share/69118426-3580-800d-b372-b47019a1785c
+  title: |
+    what is this? `describe it` like an image reader `for someone who is blind.`
+  when: Sunday, November 9, 2025 at 6:23:50 AM MST
+  author: ChatGPT5
+  who: assistive agent
+  quote: |
+    u/Visible-Grass-8805: "Your tax dollars at work in Chicago yesterday"
+  extended:
+    - <img src="exhibits/your-tax-dollars-at-work-in-chicago-yesterday-v0-j9w71hp4g80g1.webp" />
+    - A man is sitting in the driver's seat of a vehicle, looking intently out the open window. He's wearing `camouflage` clothing, a `dark cap`, and a `green cloth covering` the lower half of `his face like a mask`. His right arm is extended toward the camera, `holding a handgun`, which he appears to be `aiming directly` outward. The vehicle looks like a light-colored truck or SUV. `The focus` of the image is the man's intense gaze and `the gun pointed toward the viewer.`
 ---
 
 {% include toc/aside.html %}
@@ -63,3 +75,5 @@ trendingpoliticsnews:
 {% include_relative quote.html info=page.thegatewaypundit %}
 
 {% include_relative quote.html info=page.trendingpoliticsnews %}
+
+{% include_relative quote.html info=page.chicago_illinois %}
