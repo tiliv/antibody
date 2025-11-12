@@ -1,6 +1,6 @@
 ---
 date: 2025-11-03
-rank: -2
+rank: 2
 title: "NOTING: Universal Music Group"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
