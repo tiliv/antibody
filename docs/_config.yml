@@ -28,3 +28,6 @@ defaults:
   - scope: {path: ""}
     values:
       preferences: journal
+  - scope: {path: "journal"}
+    values:
+      layout: journal

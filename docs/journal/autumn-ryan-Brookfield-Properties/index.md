@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [ai, renter, sellout]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: true

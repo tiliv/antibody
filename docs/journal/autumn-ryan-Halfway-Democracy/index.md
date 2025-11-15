@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [democracy, governance, polling]
 
-layout: journal
 public: true
 published: true
 index: true

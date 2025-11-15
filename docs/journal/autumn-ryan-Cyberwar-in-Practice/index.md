@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [peacetime, frontlines, assertion]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: false

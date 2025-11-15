@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [donald john trump, ice, goading]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: false

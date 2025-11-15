@@ -8,17 +8,13 @@ re: https://r5.ieee.org/highplains/event/ai-2025/
 
 tags: [ai, engineering, agency]
 
-layout: journal
+live: true
 public: true
 published: true
 index: true
 ---
 
 {% include toc/aside.html %}
-
-<em>
-  Notes were made contemporaneously, but are not an objective recreation of the event. Typed errors are more likely in this format.
-</em>
 
 _An audio recording was taken of most of this event. I may use it to refine this piece at a later time._
 

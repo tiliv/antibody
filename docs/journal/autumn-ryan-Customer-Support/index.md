@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [choices, consent, customers]
 
-layout: journal
 public: true
 published: true
 index: true

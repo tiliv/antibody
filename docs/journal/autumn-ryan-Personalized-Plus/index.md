@@ -8,7 +8,7 @@ author_email: autumn@discoverywritten.com
 contact_top: true
 tags: [precise location, ethnicity, resale]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: true

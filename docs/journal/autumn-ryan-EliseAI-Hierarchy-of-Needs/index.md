@@ -8,7 +8,6 @@ re: https://www.thesisdriven.com/letters/elise-ais-minna-song-on-building/
 
 tags: [ai, renter, capture]
 
-layout: journal
 public: true
 published: true
 index: true

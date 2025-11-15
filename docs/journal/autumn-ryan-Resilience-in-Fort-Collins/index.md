@@ -16,7 +16,6 @@ links:
   adam_h: https://bsky.app/profile/electadammayor.bsky.social
   jeffrey:
 
-layout: journal
 public: true
 published: true
 index: true

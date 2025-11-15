@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [fsag, social-engineering, ai]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: true

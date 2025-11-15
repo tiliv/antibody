@@ -1,13 +1,13 @@
 ---
 date: 2025-10-14
 rank: 1
-title: "Trusted Sources"
+title: "LIVE: Trusted Sources"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [journalists, media, fraud]
 
-layout: journal
+live: true
 public: true
 published: true
 index: true

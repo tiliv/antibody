@@ -8,7 +8,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [professionals, content, questions]
 
-layout: journal
 public: true
 published: true
 index: true

@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [location, homeless, silence]
 
-layout: journal
 public: true
 published: true
 index: true

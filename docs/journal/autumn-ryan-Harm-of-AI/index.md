@@ -8,7 +8,7 @@ re: https://www.jivesoftware.com/product-1/MyPersonas
 
 tags: [value, extraction, denominator]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: false

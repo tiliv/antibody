@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [vehicle, location, data warehousing]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: true

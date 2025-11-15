@@ -7,7 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [esports, fantasy, strategy]
 
-layout: noting
+noting: true
 public: true
 published: true
 index: false

@@ -45,6 +45,12 @@ contact/{{ page.author | slugify }}.md
 </div>
 <div id="layout">
   <article class="content">
+    {%- if page.noting -%}
+      <em>Notes are under development. Any sourcing is preserved and will be added to a draft.</em>
+    {%- endif %}
+    {% if page.live -%}
+      <em>Notes were made contemporaneously, but are not an objective recreation of the event. Typed errors are more likely in this format.</em>
+    {%- endif -%}
     {%- if page.contact_top -%}
       {{ contact_html }}
     {%- endif -%}

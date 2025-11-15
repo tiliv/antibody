@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [journalism, media design, reactionary]
 
-layout: journal
 public: true
 published: true
 index: true

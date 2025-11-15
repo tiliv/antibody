@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [local, discourse, FCCOPI]
 
-layout: journal
 public: true
 published: true
 index: true
