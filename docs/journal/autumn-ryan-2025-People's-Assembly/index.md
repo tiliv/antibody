@@ -102,19 +102,25 @@ There have been many gatherings. At the state level, there were over 150 partici
 
 (insert picture of "a better option" card)
 
-In Boulder County: initiative 1B, funding for mental health services.
+**In Boulder County**: initiative 1B, funding for mental health services.
 
-In Louisville: defeated bill to prevent affordable housing.
+**In Louisville**: defeated bill to prevent affordable housing.
 
-In Lakewood: expand housing options.
+**In Lakewood**: expand housing options.
 
-In Denver: defeated backroom agreement between the city and Xcel energy.
+**In Denver**: defeated backroom monopolistic agreement between the city and Xcel energy.
 
-In Colorado Springs: defeated a camping ban that would have criminalized the unhoused.
+**In Colorado Springs**: defeated a camping ban that would have criminalized the unhoused.
 
 New organizing efforts in many more cities and towns.
 
-Many day-long trainings for leaders, over 400.
+Many day-long trainings for over 400 leaders.
+
+Over 200 house meetings engaging a thousand participants.
+
+Fighting the deconstruction of our public education.
+
+The house meetings are the creation of a community that did not exist to be heard before. Now it has brought governor candidates into this room.
 
 ### Gubernatorial Forum
 
