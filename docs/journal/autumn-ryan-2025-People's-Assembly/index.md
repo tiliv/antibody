@@ -132,4 +132,84 @@ Prioritize People over profits.
 
 ### Gubernatorial Forum
 
+Scott Bottoms and Phil Weiser are here. The others declined.
+
+#### Phil Weiser
+
+**Tell us why you decided to run.**
+
+His mother's birth was in a concentration camp. His family believes that this nation is commtited to freedom and opportunity to all. His family has experience what justice looks like. A story of resilience. They went from that camp to This Country.
+
+The audience likes his understudy of RBG.
+
+A bullying administration. He's sued the 43 times an counting.
+
+An affordable Colorado for our kids. Our kids have to thrive and make a good living wage. We need a resilient future and protect our natural resources.
+
+Showing up and really listening to meet the challenges.
+
+**What, if any roles, does the state government has in immigration?**
+
+A first generation American. A deeply personal situation. This administration says that this system has failed. What can we do?
+
+Keep a close eye on ICE coordinating together. Office works with immigriants rights coalition and RM rights. Every person has the right to due process of law. In Colorado, our law enforcement does that, not immigration. The government is suing him personally and he says he won't back down. The "New Americans" office. Immigrants are a strenght, and we have an obligation to treat them fairly under law.
+
+**What would be your priorities for Colorado's system of education?**
+
+Our kids must have opportunities for their future. Starts with thorough system of public education. Fight against the privitization of education. Meet the moment for our kids, who are not okay. Mental health, safety, no mentors. Mentoring gap for income and POC. Lead an initiative for mentors in their lives. Pay teachers failures. Those teachers are heroes.
+
+Retain teachers, provide career and technical education. Path to an actual job. Youth mental health crisis. Already: Suing Meta for their Poisonous Algorithms. As governor: Colorado Corps, how they can engage in good service in industries that are understaffed, like nurses, firefighters, lots more.
+
+**What will be your policy prorities for Colorado's need for energy and water?**
+
+Government has urgency to get oil producers online, but when they're producing, there is no urgency at all. Public health department is not passive and reactive, must be proactive. Capacity to enforce. On track for a clean energy initiative. Federal government is trying to pull us backward: "Hell No."
+
+Water is our most crucial natural resource. A halmark of his leadership.
+
+**What is your perspective on the Co labor peace act, how works form a union?**
+
+When grandparents got here, with no money or language, they got union jobs, and it worked. Fought for unions in a court room; Albertsons merger with Kroger. Safeway & King Soopers.
+
+End the antiquated Labor Peace Act.
+
+> We are on our own in Colorado.
+
+**What are your plans to address housing challenges in CO, especially as it relates to renters?**
+
+Bennets housing plan ginores renters and rural colorado. All matter and they're different.
+
+Renters: In denver today, landlords conspire to raise the rent. Sto pcollusion. Suing the companies who do this. End this harmful practice. End junk fees.
+
+Rural colorado: housing laws are not working for rural. Prop 123 is set up for Urban areas.
+
+Colorado Partnership for Rural partnership and revitalization. Home ownership must be acceptible. Median age for home owners if 40.  Will have a Chief Housing Officer.
+
+**What would be your priorities for healthcare in our state?**
+
+The crisis we have in healthcare has multiple causes. Will work to address it on as many fronts as we can. Federal government is in effect taking healthcare away from people. Basic right. Life expentancy. ACA was narrowing the gap. Innovation task fofrce. Rural hospitals are threatened with closure. Privet equity rollups that jack up costs. Medical debt, surprise in being charged. Pushed in more expensive procedures and tests than they need. Keep providing essential care.
+
+> We will pay for this one way or another in this society.
+
+Behavioral health, not ending up in amergency room in states of crisis.
+
+**Please share with us what co-governance means to you, and how you can imagine TG and other orgs building co-governing with you?**
+
+Co-governance means that you show up again and again, not just at election time. You listen to work together and solve problems.
+
+Democratic party is failing us. Shumer should be gone.
+
+Make sure you show up at caucuses.
+
+> Our Democracy is not a spectator Sport.
+
+He likes that TG is always on the field. He needs us ongoing. Needs us even more on the other side. These issues affect our lives on such a basic level.
+
+Colorado's population is at risk of contracting. Young people can't afford to live here, healthcare, childcare. Kids don't have a good oppportunity for a future. Will this be a resilience state for air and water.
+
+Show up with community, work the problems and come up with solutions that are grounded in the neds of the people in our state.
+
+Critical work, co-governance like this, inspired by this commitment.
+
+> For The People
+
 ### Call-to-Action
