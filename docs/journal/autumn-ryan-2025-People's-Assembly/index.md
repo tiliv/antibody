@@ -122,6 +122,14 @@ Fighting the deconstruction of our public education.
 
 The house meetings are the creation of a community that did not exist to be heard before. Now it has brought governor candidates into this room.
 
+Co-governance, commit to community-driven governance, from local to state. Their budgets, policies and initiatives are seen by us, but we have rarely been consulted.
+
+Prioritize People over profits.
+
+(insert photo of People's Vision)
+
+**Brookfield Properties, Do You See Our Collective Demand For Affordible Housing, while you drive up our costs with feckless AI services you wield against us?**
+
 ### Gubernatorial Forum
 
 ### Call-to-Action
