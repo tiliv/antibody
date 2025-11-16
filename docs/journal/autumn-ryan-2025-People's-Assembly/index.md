@@ -15,7 +15,10 @@ index: false
 
 {%- comment -%} {% include toc/aside.html %} {%- endcomment -%}
 
-(insert photograph)
+{% include figure.html file="interior.jpeg"
+  overview="View of the long, tall church interior. A projector screen is set up at the center of the raised platform. Lecturns exist on either side. Pipes at the back. A star-like Christian cross is peaking up behind the projector screen."
+  caption='The church interior.'
+%}
 
 Presented by:
 
@@ -59,7 +62,10 @@ We are using a technology called Mentimeter to do live audience polling.
 
 - This technology with face competition from me in 2026. It is centralized and used for live interactive presentations. It's fine, but it's not sufficient. It pitches itself as a word cloud maker, among other things.
 
-(insert word cloud)
+{% include figure.html file="locations.jpeg"
+  overview="A word cloud of our free-entry locations. Some county names appear, but mostly people have entered their towns."
+  caption='Denver is represented, but so is just about everywhere. Northern Colorado is significant here.'
+%}
 
 #### Collective Moment We're In
 
@@ -100,7 +106,10 @@ It has been a painful year. (I will note that Together Colorado helped compel ou
 
 There have been many gatherings. At the state level, there were over 150 participants in the legislative lobbying day. Family visitation is a right for those who are incarcerated. Passed a bill to study a universal healthcare plan.
 
-(insert picture of "a better option" card)
+{% include figure.html file="a-better-option.jpeg"
+  overview="A 'card' that is just multiple unseparated and unopened bandaid sleeves with a message stuck to the front. It has the form and function of an index card, but it's homemade. It is proving a point."
+  caption='Not an official resource, but it is making the rounds here.'
+%}
 
 **In Boulder County**: initiative 1B, funding for mental health services.
 
@@ -126,7 +135,10 @@ Co-governance, commit to community-driven governance, from local to state. Their
 
 Prioritize People over profits.
 
-(insert photo of People's Vision)
+{% include figure.html file="peoples-vision.jpeg"
+  overview="A 'card' that is just multiple unseparated and unopened bandaid sleeves with a message stuck to the front. It has the form and function of an index card, but it's homemade. It is proving a point."
+  caption='Not an official resource, but it is making the rounds here.'
+%}
 
 **Brookfield Properties, Do You See Our Collective Demand For Affordible Housing, while you drive up our costs with feckless AI services you wield against us?**
 
@@ -134,7 +146,7 @@ Prioritize People over profits.
 
 Scott Bottoms and Phil Weiser are here. The others declined.
 
-Bottoms is not a governor candidate, he's representing the CO General Assembly.
+Bottoms is not a governor candidate according to official resources, he's representing the CO General Assembly. He may intend to run.
 
 #### Phil Weiser
 
@@ -217,8 +229,6 @@ Critical work, co-governance like this, inspired by this commitment.
 #### Scott Bottoms
 
 _Colorado General Assembly_
-
-(This is not a governor candidate.)
 
 **Tell us why you decided to run.**
 
@@ -317,3 +327,35 @@ Government money going to food programs and Meals on Wheels. In churches, theres
 Federal effort isn't working out. (Cites the shutdown, but that's inverted from his point so I think he's just freestyling.)
 
 ### Call-to-Action
+
+**Vickie Wilhite & Katy Lunsford**: Sign Up for Future Actions.
+
+Voting rights continue to be assaulted. Humanitarian issues like immigration and mass deportations, neighbors are being snatched for their color and language. They continue to be incarcerated at improportional rates.
+
+It is a spiritual struggle over who we are, and how we are connected.
+
+We are called to Dignity, Equity and Justice.
+
+We are losing our basic freedoms. This is not our vision.
+
+We have a different vision. Imagine a democracy remade by us.
+
+We must be able to freely exercise our basic right to vote. The ones we vote for must protect our rights and preresent us in all matters. It is our time to create something good, not reduce something bad. Freedom is a state, not an act.
+
+We desire a Colorado where human dignity is at the center of public life. We have been too quiet for too long. There comes a time where you have to say something, make noise and move your feet. The time has chosen us.
+
+Power is organized people, organized ideas and organized money. Power is the ability to achieve our purpose.
+
+We seek power with people, not power over people.
+
+We need you.
+
+You do not need to be a member of a faith community to join us.
+
+We need to build a power base. Develop a sense of belonging.
+
+We want to equip you with the skills to confront the forces with deep pockets, which want to dilute the power of normal people. Social organizing is the machine that amplifies our most powerful tool, which is you.
+
+If you want to help us write the next chapter, we can show you how.
+
+(insert future-actions)
