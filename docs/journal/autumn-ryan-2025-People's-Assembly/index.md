@@ -134,6 +134,8 @@ Prioritize People over profits.
 
 Scott Bottoms and Phil Weiser are here. The others declined.
 
+Bottoms is not a governor candidate, he's representing the CO General Assembly.
+
 #### Phil Weiser
 
 **Tell us why you decided to run.**
@@ -166,7 +168,7 @@ Government has urgency to get oil producers online, but when they're producing, 
 
 Water is our most crucial natural resource. A halmark of his leadership.
 
-**What is your perspective on the Co labor peace act, how works form a union?**
+**What is your perspective on the Colorado Labor Peace Act, how works form a union?**
 
 When grandparents got here, with no money or language, they got union jobs, and it worked. Fought for unions in a court room; Albertsons merger with Kroger. Safeway & King Soopers.
 
@@ -211,5 +213,107 @@ Show up with community, work the problems and come up with solutions that are gr
 Critical work, co-governance like this, inspired by this commitment.
 
 > For The People
+
+#### Scott Bottoms
+
+_Colorado General Assembly_
+
+(This is not a governor candidate.)
+
+**Tell us why you decided to run.**
+
+History goes back to being a pastor for a church. Being engaged in the things of the day. The churches should be engaged with the things of the day.
+
+A few years ago he was asked to run for a representative. He used to say no. Someone asked him to pray about and it sounded like a trap, but now here he is.
+
+Sitting in the House for 3 years, he feels he wants to do more. Voting against bad laws. He wants to have more sway as Governor to help shape that conversation.
+
+**What, if any roles, does the state government has in immigration?**
+
+There are cartels in our state and it must stop. Talking about migrant communities all over, some by name.
+
+> We have been going the wrong direction in our state legislature and we've got to turn that around.
+
+**What would be your priorities for Colorado's system of education?**
+
+Both parents were educators, superintendent and principal. Hears we're above 50th percentile. He says it's not true. Casual search on the internet: If you include higher education, we're bringing up the average. But K-12 is lacking, reading levels. Colorado spends more in the top 10 states every year, but our education level and quality and product stays the same every year.
+
+We're spending more for less. We're spending 75% of all new money to broaden out the administrative body, but not the teacher. Hundreds of millions of dollars, but it's not going to teachers to pay them what they're worth.
+
+> I definitely believe in school choice, strongly.
+
+- School choice is a trap designed to bankrupt public education.
+
+**What will be your policy prorities for Colorado's need for energy and water?**
+
+We are a coal, oil and gas state. Every single statistic says that solar and wind is being subsidized more than it is provided. We're paying more money than it's helping us.
+
+Drill again in Colorado. Small nuclear reactor, 11-acre footprints. We're going to have data centers "that go off the charts" for AI.
+
+The biggest issue we have with water in CO is that it's being sold to out-of-state wealthy people who sit in our highest offices.
+
+January 2025, acquire water rights and then sell it to other states. Keep the water in Colorado.
+
+**What is your perspective on the Colorado Labor Peace Act, how works form a union?**
+
+Colorado is a Right To Work state: you don't have to be part of a union if you don't want to. Does not think unions are ethical if they force people to join in. Voluntarily pay.
+
+> Unions used to be a very important part of our society.
+
+Now they're corrupt and taking our money.
+
+So many new vice principals making more than the teachers.
+
+Unions should have the volunteer mentality. Behind-the-doors deals to say you're part of a union now.
+
+**What are your plans to address housing challenges in CO, especially as it relates to renters?**
+
+Housing has been a major issue for a long time.
+
+Growing kids who can't afford to buy a house. Talking this morning. "Came from church" (pandering)
+
+5.2% more supply than demand.
+
+> You're not hearing that in the news.
+
+Renter costs have started coming down. Interest rates are coming down.
+
+> As a home owner, I don't care either way.
+
+Renter costs are going down. (I'm shaking my head.)
+
+The legislature made laws that made it so easy to sue condo builders that
+
+All the laws we pass are for renters. (What?)
+
+Rent is coming down. (What?)
+
+**What would be your priorities for healthcare in our state?**
+
+Meeting with doctors and such in the state. Legislature has been taking money from mental health providers every year. Closed down all but one facility in CO. 2 Insurance companies left CO because of state regulation, state regulation, state regulation.
+
+He wants to prevent the closure of rural hospitals. Drive 4 hours to have a baby.
+
+> There are too many regulations hurting insurance companies.
+
+Insurance company panels are telling you when you can have surgeries, etc.
+
+> One of the worst things that has ever happened to this country is Obamacare.
+
+**Please share with us what co-governance means to you, and how you can imagine TG and other orgs building co-governing with you?**
+
+> This has been in my wheelhouse for 35 years.
+
+Always put the emphasis on church groups, pushing and doing the job that government takes over.
+
+Government money going to food programs and Meals on Wheels. In churches, theres no space for corruption. (He is saying that government use of funds is corruption by literal definition.)
+
+> How do churches do this?
+
+(Buddy, they just don't.)
+
+> That's the job of the church.
+
+Federal effort isn't working out. (Cites the shutdown, but that's inverted from his point so I think he's just freestyling.)
 
 ### Call-to-Action
