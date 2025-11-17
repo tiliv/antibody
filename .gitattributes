@@ -2,6 +2,8 @@
 docs/journal/**/*.md -linguist-detectable
 # remove scaffold stuff
 docs/vendor/** linguist-vendored
+# ignore news-clues
+news-clues.html -linguist-detectable
 # expose as code
 docs/** linguist-documentation=false -linguist-vendored
 *.css linguist-vendored
