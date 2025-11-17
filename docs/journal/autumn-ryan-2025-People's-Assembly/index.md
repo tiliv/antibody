@@ -162,13 +162,13 @@ His mother's birth was in a concentration camp. His family believes that this na
 
 The audience likes his understudy of RBG.
 
-A bullying administration. He's sued the 43 times an counting.
+A bullying administration. He's sued them 43 times and counting.
 
 An affordable Colorado for our kids. Our kids have to thrive and make a good living wage. We need a resilient future and protect our natural resources.
 
 Showing up and really listening to meet the challenges.
 
-**What, if any roles, does the state government has in immigration?**
+**What, if any roles, does the state government have in immigration?**
 
 A first generation American. A deeply personal situation. This administration says that this system has failed. What can we do?
 
@@ -250,7 +250,7 @@ A few years ago he was asked to run for a representative. He used to say no. Som
 
 Sitting in the House for 3 years, he feels he wants to do more. Voting against bad laws. He wants to have more sway as Governor to help shape that conversation.
 
-**What, if any roles, does the state government has in immigration?**
+**What, if any roles, does the state government have in immigration?**
 
 There are cartels in our state and it must stop. Talking about migrant communities all over, some by name.
 
@@ -304,7 +304,7 @@ Renter costs have started coming down. Interest rates are coming down.
 
 Renter costs are going down. (I'm shaking my head.)
 
-The legislature made laws that made it so easy to sue condo builders that
+The legislature made laws that made it so easy to sue condo builders that they quit building.
 
 All the laws we pass are for renters. (What?)
 
