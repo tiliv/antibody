@@ -22,7 +22,7 @@ contact/{{ page.author | slugify }}.md
 {{- contact_md | markdownify -}}
 {%- endcapture -%}
 
-{%- assign data_key = page.path | replace: "/", "" | replace: ".md", "" -%}
+{%- assign data_key = page.path | antibody_data_key -%}
 {%- for kind in layout.data.git -%}
 {%- assign data = site.data.git[kind][data_key] %}
 <script id="{{ kind }}" type="application/json">{{ data | jsonify }}</script>

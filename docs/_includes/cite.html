@@ -12,8 +12,8 @@
     <code>“</code>
     <div>
       {{ include.headline }}
-      <cite>{% if include.url %}<a href="{{ include.url }}">
-        {{- include.url | replace: "https:",":" | replace: "mailto:","" -}}
+      <cite>{% if include.url %}<a href="{{ include.url | antibody_unscheme }}">
+        {{- include.url | antibody_unscheme: "label" | replace: "mailto:","" -}}
       </a>{% else %}{{- include.cite -}}{% endif %}</cite>
     </div>
   </h5>

@@ -1,5 +1,5 @@
 {%- if page.re -%}
-{%- assign domain = page.re | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first -%}
+{%- assign domain = page.re | antibody_domain -%}
 [Re: {{ domain }}]({{ page.re }})
 {% endif %}
 * (dynamic)

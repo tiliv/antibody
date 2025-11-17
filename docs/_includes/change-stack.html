@@ -1,7 +1,4 @@
-{%- assign history_path = include.piece.path
-  | replace: "/", ""
-  | replace: ".md", ""
--%}
+{%- assign history_path = include.piece.path | antibody_data_key -%}
 {%- assign history = site.data.git.history[history_path] -%}
 <ol class="change-stack">
   {% for slot in history.histogram %}
