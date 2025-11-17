@@ -1,7 +1,7 @@
 # remove the prose silo
 docs/journal/**/*.md -linguist-detectable
 # remove scaffold stuff
-docs/vendor/** -linguist-detectable
+docs/vendor/** linguist-vendored
 # expose as code
 docs/** linguist-documentation=false -linguist-vendored
 *.css linguist-vendored
