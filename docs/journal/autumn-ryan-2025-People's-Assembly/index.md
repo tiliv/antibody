@@ -16,7 +16,7 @@ index: false
 {%- comment -%} {% include toc/aside.html %} {%- endcomment -%}
 
 {% include figure.html file="interior.jpeg"
-  overview="View of the long, tall church interior. A projector screen is set up at the center of the raised platform. Lecturns exist on either side. Pipes at the back. A star-like Christian cross is peaking up behind the projector screen."
+  overview="View of the long, tall church interior. A projector screen is set up at the center of the raised platform. Lecterns exist on either side. Pipes at the back. A star-like Christian cross is peaking up behind the projector screen."
   caption='The church interior.'
 %}
 
@@ -86,7 +86,7 @@ Together, we rise in love and strength. These moments are not new to us; we have
 
 We will come through stronger, and this one too. We've come this far by faith. We won't turn around. We've come this far by faith.
 
-Wehther you draw strength from sacred texts, community or resilience within, we are here together.
+Whether you draw strength from sacred texts, community or resilience within, we are here together.
 
 Some of us gather in places of worship; Some in living rooms; Some in silence.
 
@@ -140,7 +140,7 @@ Prioritize People over profits.
   caption='What Do You Need?'
 %}
 
-**Brookfield Properties, Do You See Our Collective Demand For Affordible Housing, while you drive up our costs with feckless AI services you wield against us?**
+**Brookfield Properties, Do You See Our Collective Demand For Affordable Housing, while you drive up our costs with feckless AI services you wield against us?**
 
 ### Gubernatorial Forum
 
@@ -158,7 +158,7 @@ Bottoms is not a governor candidate according to official resources, he's repres
 
 **Tell us why you decided to run.**
 
-His mother's birth was in a concentration camp. His family believes that this nation is commtited to freedom and opportunity to all. His family has experience what justice looks like. A story of resilience. They went from that camp to This Country.
+His mother's birth was in a concentration camp. His family believes that this nation is committed to freedom and opportunity to all. His family has experience what justice looks like. A story of resilience. They went from that camp to This Country.
 
 The audience likes his understudy of RBG.
 
@@ -172,19 +172,19 @@ Showing up and really listening to meet the challenges.
 
 A first generation American. A deeply personal situation. This administration says that this system has failed. What can we do?
 
-Keep a close eye on ICE coordinating together. Office works with immigriants rights coalition and RM rights. Every person has the right to due process of law. In Colorado, our law enforcement does that, not immigration. The government is suing him personally and he says he won't back down. The "New Americans" office. Immigrants are a strenght, and we have an obligation to treat them fairly under law.
+Keep a close eye on ICE coordinating together. Office works with immigrants rights coalition and RM rights. Every person has the right to due process of law. In Colorado, our law enforcement does that, not immigration. The government is suing him personally and he says he won't back down. The "New Americans" office. Immigrants are a strength, and we have an obligation to treat them fairly under law.
 
 **What would be your priorities for Colorado's system of education?**
 
-Our kids must have opportunities for their future. Starts with thorough system of public education. Fight against the privitization of education. Meet the moment for our kids, who are not okay. Mental health, safety, no mentors. Mentoring gap for income and POC. Lead an initiative for mentors in their lives. Pay teachers failures. Those teachers are heroes.
+Our kids must have opportunities for their future. Starts with thorough system of public education. Fight against the privatization of education. Meet the moment for our kids, who are not okay. Mental health, safety, no mentors. Mentoring gap for income and POC. Lead an initiative for mentors in their lives. Pay teachers failures. Those teachers are heroes.
 
 Retain teachers, provide career and technical education. Path to an actual job. Youth mental health crisis. Already: Suing Meta for their Poisonous Algorithms. As governor: Colorado Corps, how they can engage in good service in industries that are understaffed, like nurses, firefighters, lots more.
 
-**What will be your policy prorities for Colorado's need for energy and water?**
+**What will be your policy priorities for Colorado's need for energy and water?**
 
 Government has urgency to get oil producers online, but when they're producing, there is no urgency at all. Public health department is not passive and reactive, must be proactive. Capacity to enforce. On track for a clean energy initiative. Federal government is trying to pull us backward: "Hell No."
 
-Water is our most crucial natural resource. A halmark of his leadership.
+Water is our most crucial natural resource. A hallmark of his leadership.
 
 **What is your perspective on the Colorado Labor Peace Act, how works form a union?**
 
@@ -196,27 +196,27 @@ End the antiquated Labor Peace Act.
 
 **What are your plans to address housing challenges in CO, especially as it relates to renters?**
 
-Bennets housing plan ginores renters and rural colorado. All matter and they're different.
+Bennets housing plan ignores renters and rural colorado. All matter and they're different.
 
-Renters: In denver today, landlords conspire to raise the rent. Sto pcollusion. Suing the companies who do this. End this harmful practice. End junk fees.
+Renters: In denver today, landlords conspire to raise the rent. Stop collusion. Suing the companies who do this. End this harmful practice. End junk fees.
 
 Rural colorado: housing laws are not working for rural. Prop 123 is set up for Urban areas.
 
-Colorado Partnership for Rural partnership and revitalization. Home ownership must be acceptible. Median age for home owners if 40.  Will have a Chief Housing Officer.
+Colorado Partnership for Rural partnership and revitalization. Home ownership must be acceptable. Median age for home owners if 40.  Will have a Chief Housing Officer.
 
 **What would be your priorities for healthcare in our state?**
 
-The crisis we have in healthcare has multiple causes. Will work to address it on as many fronts as we can. Federal government is in effect taking healthcare away from people. Basic right. Life expentancy. ACA was narrowing the gap. Innovation task fofrce. Rural hospitals are threatened with closure. Privet equity rollups that jack up costs. Medical debt, surprise in being charged. Pushed in more expensive procedures and tests than they need. Keep providing essential care.
+The crisis we have in healthcare has multiple causes. Will work to address it on as many fronts as we can. Federal government is in effect taking healthcare away from people. Basic right. Life expectancy. ACA was narrowing the gap. Innovation task force. Rural hospitals are threatened with closure. Private equity roll-ups that jack up costs. Medical debt, surprise in being charged. Pushed in more expensive procedures and tests than they need. Keep providing essential care.
 
 > We will pay for this one way or another in this society.
 
-Behavioral health, not ending up in amergency room in states of crisis.
+Behavioral health, not ending up in emergency room in states of crisis.
 
 **Please share with us what co-governance means to you, and how you can imagine TG and other orgs building co-governing with you?**
 
 Co-governance means that you show up again and again, not just at election time. You listen to work together and solve problems.
 
-Democratic party is failing us. Shumer should be gone.
+Democratic party is failing us. Schumer should be gone.
 
 Make sure you show up at caucuses.
 
@@ -224,9 +224,9 @@ Make sure you show up at caucuses.
 
 He likes that TG is always on the field. He needs us ongoing. Needs us even more on the other side. These issues affect our lives on such a basic level.
 
-Colorado's population is at risk of contracting. Young people can't afford to live here, healthcare, childcare. Kids don't have a good oppportunity for a future. Will this be a resilience state for air and water.
+Colorado's population is at risk of contracting. Young people can't afford to live here, healthcare, childcare. Kids don't have a good opportunity for a future. Will this be a resilience state for air and water.
 
-Show up with community, work the problems and come up with solutions that are grounded in the neds of the people in our state.
+Show up with community, work the problems and come up with solutions that are grounded in the needs of the people in our state.
 
 Critical work, co-governance like this, inspired by this commitment.
 
@@ -266,7 +266,7 @@ We're spending more for less. We're spending 75% of all new money to broaden out
 
 - School choice is a trap designed to bankrupt public education.
 
-**What will be your policy prorities for Colorado's need for energy and water?**
+**What will be your policy priorities for Colorado's need for energy and water?**
 
 We are a coal, oil and gas state. Every single statistic says that solar and wind is being subsidized more than it is provided. We're paying more money than it's helping us.
 
@@ -352,7 +352,7 @@ We are losing our basic freedoms. This is not our vision.
 
 We have a different vision. Imagine a democracy remade by us.
 
-We must be able to freely exercise our basic right to vote. The ones we vote for must protect our rights and preresent us in all matters. It is our time to create something good, not reduce something bad. Freedom is a state, not an act.
+We must be able to freely exercise our basic right to vote. The ones we vote for must protect our rights and represent us in all matters. It is our time to create something good, not reduce something bad. Freedom is a state, not an act.
 
 We desire a Colorado where human dignity is at the center of public life. We have been too quiet for too long. There comes a time where you have to say something, make noise and move your feet. The time has chosen us.
 
@@ -370,7 +370,7 @@ We want to equip you with the skills to confront the forces with deep pockets, w
 
 If you want to help us write the next chapter, we can show you how.
 
-{% include figure.html file="future-action.jpeg"
+{% include figure.html file="future-actions.jpeg"
   overview="A projected slide with bullet points about future action items. It includes a QR code."
   caption='Get involved and exercise your power.'
 %}
