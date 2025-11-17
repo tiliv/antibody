@@ -78,7 +78,7 @@ Cognitive empathy, to listen and believe someone's experience, when it is differ
   headline="Collective Moment We Are In / Momento colectivo en el que nos encontramos"
 %}
 
-> In the face of the fire of injustice, I have seen <u>laborers of love deliver us</u>. Revolutionary Love is the choice to enter into labor, <u>for others</u> who do not look like us, <u>for our opponents</u> who hurt us, <u>and for ourselves</u>. `In this era of enormous rage``, when the fires are burning all around us, I believe that `revolutionary love is the call` of our times.
+> In the face of the fire of injustice, I have seen <u>laborers of love deliver us</u>. Revolutionary Love is the choice to enter into labor, <u>for others</u> who do not look like us, <u>for our opponents</u> who hurt us, <u>and for ourselves</u>. `In this era of enormous rage`, when the fires are burning all around us, I believe that `revolutionary love is the call` of our times.
 
 **Sharon Battle**: The board president of Together Colorado.
 
@@ -136,8 +136,8 @@ Co-governance, commit to community-driven governance, from local to state. Their
 Prioritize People over profits.
 
 {% include figure.html file="peoples-vision.jpeg"
-  overview="A 'card' that is just multiple unseparated and unopened bandaid sleeves with a message stuck to the front. It has the form and function of an index card, but it's homemade. It is proving a point."
-  caption='Not an official resource, but it is making the rounds here.'
+  overview="A word cloud of needs arising from the house meetings."
+  caption='What Do You Need?'
 %}
 
 **Brookfield Properties, Do You See Our Collective Demand For Affordible Housing, while you drive up our costs with feckless AI services you wield against us?**
@@ -149,6 +149,12 @@ Scott Bottoms and Phil Weiser are here. The others declined.
 Bottoms is not a governor candidate according to official resources, he's representing the CO General Assembly. He may intend to run.
 
 #### Phil Weiser
+
+{% include figure.html file="phil-weiser.jpeg"
+  side="right"
+  overview="Phil Weiser returns to his seat after speaking."
+  caption='Phil Weiser returns to his seat after speaking.'
+%}
 
 **Tell us why you decided to run.**
 
@@ -227,6 +233,12 @@ Critical work, co-governance like this, inspired by this commitment.
 > For The People
 
 #### Scott Bottoms
+
+{% include figure.html file="scott-bottoms.jpeg"
+  side="right"
+  overview="Scott Bottoms standing on the stage area after speaking."
+  caption='Scott Bottoms standing on the stage area after speaking.'
+%}
 
 _Colorado General Assembly_
 
@@ -358,4 +370,7 @@ We want to equip you with the skills to confront the forces with deep pockets, w
 
 If you want to help us write the next chapter, we can show you how.
 
-(insert future-actions)
+{% include figure.html file="phil-weiser.jpeg"
+  overview="A projected slide with bullet points about future action items. It includes a QR code."
+  caption='Get involved and exercise your power.'
+%}
