@@ -9,3 +9,11 @@ gem "kramdown-parser-gfm", "~> 1.1"
 
 # Syntax highlighter
 gem "rouge", "~> 3.26"
+
+# Things jekyll-link-attributes fails to do for us
+# We pick 1.13 because it's still compatible with macOS's ancient ruby
+gem "nokogiri", ">= 1.13"
+
+group :jekyll_plugins do
+  gem "jekyll-link-attributes"
+end

@@ -117,7 +117,7 @@ The need for Public infrastructure wasn't hard to notice early, but now we have 
 There is a veritable body of Rules lying about us like so many forgotten sharp weapons. Do you have apostate lawyers searching for these like MAGA does? I prefer to treat their study of Lawfare relics as an obsession with mysticism: They will not require finesse with it when they set to work in earnest.
 
 Today, the Unitary Executive, Chief of all, is not taking feedback, except through Susie Wiles and whichever friends are over. It's why Lefts boo at openly at any White Nationalist dinner guests. MAGA says this is just talk and that The Mind Virus spreads blame like butter without knowing anything—credibility can't be on Their side. You Were Not In The Room (By Design). Susie Wiles and others are (and sometimes not with Wiles).
-- [://en.wikipedia.org/wiki/Susie_Wiles](https://en.wikipedia.org/wiki/Susie_Wiles){: rel="nofollow noopener"}
+- [://en.wikipedia.org/wiki/Susie_Wiles](https://en.wikipedia.org/wiki/Susie_Wiles)
 
 The Office's occupant was installed to not need any feedback.
 

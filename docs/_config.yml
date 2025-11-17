@@ -50,3 +50,9 @@ exclude:
   - .bundle
   - Gemfile
   - Gemfile.lock
+
+plugins:
+  - jekyll-link-attributes
+extlinks:
+  target: "_blank"
+  rel: "nofollow noopener"

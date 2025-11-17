@@ -28,7 +28,7 @@ AI in engineering is going to be complicated subject.
 - Some-odd $2k savings
   - Wow! That's one month of rent!
 
-[://r5.ieee.org/highplains](https://r5.ieee.org/highplains){: rel="nofollow noopener"}
+[://r5.ieee.org/highplains](https://r5.ieee.org/highplains)
 
 #### Vergent Products
 
@@ -63,7 +63,7 @@ I will not show their job titles, because that information is available at the R
   - It seems government groups enjoy an ease of funding. Even when the secrecy isn't really the goal (he's talking about it in public, after all) it seems government has a marketing hack.
 - Data center cooling, solid state transformers
 - Defense customers, TRL6, TRL7
-  - He's talking about [://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/){: rel="nofollow noopener"}, technological readiness.
+  - He's talking about [://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/), technological readiness.
   - TRL6 is a prototype
   - TLR7 is an implementation (and not the top of the scale)
 - Never expected us to be recommissioning nuclear power
@@ -76,8 +76,8 @@ I will not show their job titles, because that information is available at the R
 He's talking about modular reactors and I want to hear more.
   - Later, he sort of lost the plot and Needed Us To Believe his "it's just the facts" line about how we're wrong to be wary of nuclear power. I think nuclear power is unavoidable now, but I don't adopt his (lack of) reasoning.
 
-- [://www.terrapower.com/](https://www.terrapower.com/){: rel="nofollow noopener"} (traveling wave)
-- [://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn](https://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn){: rel="nofollow noopener"}
+- [://www.terrapower.com/](https://www.terrapower.com/) (traveling wave)
+- [://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn](https://ground.news/article/us-nuclear-fusion-start-up-backed-by-sam-altman-and-peter-thiel-secures-425mn)
 
 #### Andrés Sepulveda Morales
 
