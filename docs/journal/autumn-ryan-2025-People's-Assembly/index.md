@@ -60,7 +60,7 @@ This morning at another location, Rev. Gretchen Haley recited similar words: Whe
 
 We are using a technology called Mentimeter to do live audience polling.
 
-- This technology with face competition from me in 2026. It is centralized and used for live interactive presentations. It's fine, but it's not sufficient. It pitches itself as a word cloud maker, among other things.
+- This technology will face competition from me in 2026. It is centralized and used for live interactive presentations. It's fine, but it's not sufficient. It pitches itself as a word cloud maker, among other things.
 
 {% include figure.html file="locations.jpeg"
   overview="A word cloud of our free-entry locations. Some county names appear, but mostly people have entered their towns."
