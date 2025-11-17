@@ -8,13 +8,40 @@ author_email: autumn@discoverywritten.com
 
 tags: [ranked choice, non-partisan, mayor]
 links:
-  shirley: https://shirleyforfoco.com/
-  tricia: http://www.triciaforfoco.com/
+  tricia: https://www.triciaforfoco.com/
   adam_e: https://www.adamegglestonformayor.com/
   emily: https://www.emilyforfc.com/
-  scott: https://scottyv.com/
   adam_h: https://bsky.app/profile/electadammayor.bsky.social
-  jeffrey:
+  shirley: https://shirleyforfoco.com/
+  jeffrey: https://www.shumwayformayor.com/
+  scott: https://scottyv.com/
+coloradoan:
+  tricia: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-tricia-canonico-mayor/85990711007/
+  adam_e: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-eggleston-mayor/85991062007/
+  emily: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-emily-francis-mayor/85991437007/
+  adam_h: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-hirschhorn-mayor/85992417007/
+  shirley: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-shirley-peel-mayor/85991552007/
+  jeffrey: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-jeffrey-shumway-mayor/85991914007/
+  scott: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-scott-scottyv-vantatenhove-mayor/85991984007/
+snapshot_news:
+  tricia: https://www.fcpublicmedia.org/lcsnapshotnews/episode/30ea6d33/tricia-canonico-on-snapshot-news
+  adam_e: https://www.fcpublicmedia.org/lcsnapshotnews/episode/434f11ae/adam-eggleston-on-snapshot-news
+  emily: https://www.fcpublicmedia.org/lcsnapshotnews/episode/21207451/emily-francis-on-snapshot-news
+  adam_h: https://www.fcpublicmedia.org/lcsnapshotnews/episode/1c4708e7/adam-hirschhorn-on-snapshot-news
+  shirley: https://www.fcpublicmedia.org/lcsnapshotnews/episode/34534c45/shirley-peel-on-snapshot-news
+  scott: https://www.fcpublicmedia.org/lcsnapshotnews/episode/258c241e/scott-vantatenhove-on-snapshot-news
+yimby:
+  forum: https://www.youtube.com/watch?v=wwXFrNDotFI
+  coloradoan: https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/
+lwv:
+  forum: https://youtu.be/Wj4nHGeOrco?si=RX7JGcqmFAfnI-N_
+fcreport:
+  lwv_forum: https://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/
+
+additional:
+  att: https://www.att.com/legal/terms.personalizedPlus.html
+  placer: https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service
+  fc1mc: https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co
 
 public: true
 published: true
@@ -33,37 +60,31 @@ This necessarily can't be an exhaustive list, but I hope you look into some of t
 
 #### Their sites
 
-{% include figure.html file="contact_shumwayformayor.png"
-  side="right"
-  overview="Small screenshot of a DOM inspector revealing content implied to be hard to see by normal means."
-  caption="Because Jeffrey Shumway's contact information is damaged in public, I'm going to note it here until I find a non-derelict source."
-%}
-
 I will present them in "ballot order", which wasn't decided by me, but it's better than nothing. May you form mnemonic bonds to this order based on your adventure down this piece.
 
-- [Tricia Canonico]({{ page.links.tricia }}){: target="_blank" rel="nofollow noopener"}
-- [Adam Eggleston]({{ page.links.adam_e }}){: target="_blank" rel="nofollow noopener"}
-- [Emily Francis]({{ page.links.emily }}){: target="_blank" rel="nofollow noopener"}
-- [Adam Hirschhorn]({{ page.links.adam_h }}){: target="_blank" rel="nofollow noopener"}
-- [Shirley Peel]({{ page.links.shirley }}){: target="_blank" rel="nofollow noopener"}
-- [Jeffrey Shumway]({{ page.links.jeffrey }}){: target="_blank" rel="nofollow noopener"}
-- [ScottyV]({{ page.links.scott }}){: target="_blank" rel="nofollow noopener"}
+- [Tricia Canonico]({{ page.links.tricia }})
+- [Adam Eggleston]({{ page.links.adam_e }})
+- [Emily Francis]({{ page.links.emily }})
+- [Adam Hirschhorn]({{ page.links.adam_h }})
+- [Shirley Peel]({{ page.links.shirley }})
+- [Jeffrey Shumway]({{ page.links.jeffrey }})
+- [ScottyV]({{ page.links.scott }})
 
 #### Coloradoan
 
 This piece's topic link is repeated here and in the table of contents.
 
-- [{{ page.re | replace: "https","" }}]({{ page.re }})
+- [{{ page.re | antibody_unscheme: "label" }}]({{ page.re | antibody_unscheme }})
 
 Individual profiles of each candidate are available as well:
 
-- [Tricia Canonico](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-tricia-canonico-mayor/85990711007/){: target="_blank" rel="nofollow noopener"}
-- [Adam Eggleston](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-eggleston-mayor/85991062007/){: target="_blank" rel="nofollow noopener"}
-- [Emily Francis](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-emily-francis-mayor/85991437007/){: target="_blank" rel="nofollow noopener"}
-- [Adam Hirschhorn](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-adam-hirschhorn-mayor/85992417007/){: target="_blank" rel="nofollow noopener"}
-- [Shirley Peel](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-shirley-peel-mayor/85991552007/){: target="_blank" rel="nofollow noopener"}
-- [Jeffrey Shumway](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-jeffrey-shumway-mayor/85991914007/){: target="_blank" rel="nofollow noopener"}
-- [ScottyV](https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-who-is-scott-scottyv-vantatenhove-mayor/85991984007/){: target="_blank" rel="nofollow noopener"}
+- [Tricia Canonico]({{ page.coloradoan.tricia }})
+- [Adam Eggleston]({{ page.coloradoan.adam_e }})
+- [Emily Francis]({{ page.coloradoan.emily }})
+- [Adam Hirschhorn]({{ page.coloradoan.adam_h }})
+- [Shirley Peel]({{ page.coloradoan.shirley }})
+- [Jeffrey Shumway]({{ page.coloradoan.jeffrey }})
+- [ScottyV]({{ page.coloradoan.scott }})
 
 #### CRES Mayoral Candidate Forum
 
@@ -81,12 +102,12 @@ Marjorie (Jorie) Kramer of LWV hosted a question forum in Fort Collins City Hall
 
 *[LWV]: Larimer County's League of Women Voters
 
-- [Tricia Canonico](https://www.fcpublicmedia.org/lcsnapshotnews/episode/30ea6d33/tricia-canonico-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
-- [Adam Eggleston](https://www.fcpublicmedia.org/lcsnapshotnews/episode/434f11ae/adam-eggleston-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
-- [Emily Francis](https://www.fcpublicmedia.org/lcsnapshotnews/episode/21207451/emily-francis-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
-- [Adam Hirschhorn](https://www.fcpublicmedia.org/lcsnapshotnews/episode/1c4708e7/adam-hirschhorn-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
-- [Shirley Peel](https://www.fcpublicmedia.org/lcsnapshotnews/episode/34534c45/shirley-peel-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
-- [Scott VanTatenhove](https://www.fcpublicmedia.org/lcsnapshotnews/episode/258c241e/scott-vantatenhove-on-snapshot-news){: target="_blank" rel="nofollow noopener"}
+- [Tricia Canonico]({{ page.snapshot_news.tricia | antibody_unscheme }})
+- [Adam Eggleston]({{ page.snapshot_news.adam_e | antibody_unscheme }})
+- [Emily Francis]({{ page.snapshot_news.emily | antibody_unscheme }})
+- [Adam Hirschhorn]({{ page.snapshot_news.adam_h | antibody_unscheme }})
+- [Shirley Peel]({{ page.snapshot_news.shirley | antibody_unscheme }})
+- [Scott VanTatenhove]({{ page.snapshot_news.scott | antibody_unscheme }})
 
 This is Hirschhorn's dominant appearance for subjects.
 
@@ -100,8 +121,8 @@ As someone unfamiliar with the deeper particulars, the popularity of this seems 
 
 *[YIMBY]: Yes In My Back Yard
 
-- [://www.youtube.com/watch?v=wwXFrNDotFI](https://www.youtube.com/watch?v=wwXFrNDotFI){: target="_blank" rel="nofollow noopener"}
-- [://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/](https://www.coloradoan.com/story/news/2025/07/14/where-fort-collins-mayoral-candidates-stand-on-housing/84535667007/){: target="_blank" rel="nofollow noopener"}
+- [{{ page.yimby.forum | antibody_unscheme: "label" }}]({{ page.yimby.forum | antibody_unscheme }})
+- [{{ page.yimby.coloradoan | antibody_unscheme: "label" }}]({{ page.yimby.coloradoan | antibody_unscheme }})
 
 #### LWV Mayoral Candidate Forum
 
@@ -109,13 +130,13 @@ As someone unfamiliar with the deeper particulars, the popularity of this seems 
 
 This forum took place in City Hall and featured the candidates answering questions that were gathered and prepared for the host, Jorie Kramer, at the event. There were strict time limits, and the questions were a useful tour, but difficult to dig deeply on.
 
-- [://youtu.be/Wj4nHGeOrco?si=RX7JGcqmFAfnI-N_](https://youtu.be/Wj4nHGeOrco?si=RX7JGcqmFAfnI-N_)
+- [{{ page.lwv.forum | antibody_unscheme: "label" }}]({{ page.lwv.forum | antibody_unscheme }})
 
 #### Fort Collins Report
 
 Chris Crenshaw runs FC Report and is looking for board and content contributions. He's also seeking to serve small journalism projects to give them a platform in this community lacking outlets for writers to use.
 
-- [://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/](https://fcreport.org/fort-collins-mayoral-candidates-spar-over-housing-budget-and-growth-at-league-of-women-voters-forum/){: target="_blank" rel="nofollow noopener"}
+- [{{ page.fcreport.lwv_forum | antibody_unscheme: "label" }}]({{ page.fcreport.lwv_forum | antibody_unscheme }})
 
 #### ANTIBODY
 
@@ -133,13 +154,13 @@ As a resident of Loveland, I attend my own City Councils and hear them cite Fort
 
 When I discovered this year that AT&T was using phone upgrades to opt-in attack the public to resume selling your realtime location and ethnicity to literally anybody, I was concerned in general. Then I found out Fort Collins buys this kind of data to do economic development, and had started virtually immediately when AT&T's program began.
 
-- [://www.att.com/legal/terms.personalizedPlus.html](https://www.att.com/legal/terms.personalizedPlus.html){: target="_blank" rel="nofollow noopener"}
+- [{{ page.additional.att | antibody_unscheme: "label" }}]({{ page.additional.att | antibody_unscheme }})
 - [://antibody/journal/autumn-ryan-Personalized-Plus/](/journal/autumn-ryan-Personalized-Plus/)
-- [://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service](https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service){: target="_blank" rel="nofollow noopener"}
+- [{{ page.additional.placer | antibody_unscheme: "label" }}]({{ page.additional.placer | antibody_unscheme }})
 
 I had to stop and wonder at if Fort Collins was buying my realtime location, every time I made it to Visit Fort Collins for a 1 Million Cups meeting of entrepreneurs doing pitches to each other, or when I participated in a citizen committee.
 
-- [://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co](https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co){: target="_blank" rel="nofollow noopener"}
+- [{{ page.additional.fc1mc | antibody_unscheme: "label" }}]({{ page.additional.fc1mc | antibody_unscheme }})
 
 Was the city getting my data even though I'm not a resident? Am I close enough that they just get me most of the time anyway? Who else "just gets me", actually? Who else can buy my location at will?
 
@@ -398,7 +419,7 @@ Adam Hirschhorn is the only candidate who uses sustainability-oriented thinking 
 
 The notes I took away for sustainability come after I spoke with John Grant, a member of the citizen committee seeking support for a Community Opinion Platform and many climate issues. Grant's efforts for Sustilience brought me a unique focus on what it means to endure disasters, not prevent them by strange principles of Exceptionalism.
 
-- [://sustilience.com](https://sustilience.com){: rel="nofollow noopener"}
+- [://sustilience.com](https://sustilience.com)
 
 Adam Hirschhorn spoke more like a Resilience observer I had hoped to locate, but the ideas are a hard side turn.
 
