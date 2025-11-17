@@ -13,7 +13,7 @@ published: true
 index: false
 ---
 
-{%- comment -%} {% include toc/aside.html %} {%- endcomment -%}
+{% include toc/aside.html %}
 
 {% include figure.html file="interior.jpeg"
   overview="View of the long, tall church interior. A projector screen is set up at the center of the raised platform. Lecterns exist on either side. Pipes at the back. A star-like Christian cross is peaking up behind the projector screen."
