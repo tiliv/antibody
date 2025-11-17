@@ -220,7 +220,7 @@ Democratic party is failing us. Shumer should be gone.
 
 Make sure you show up at caucuses.
 
-> Our Democracy is not a spectator Sport.
+> Our Democracy is not a spectator sport.
 
 He likes that TG is always on the field. He needs us ongoing. Needs us even more on the other side. These issues affect our lives on such a basic level.
 
@@ -370,7 +370,7 @@ We want to equip you with the skills to confront the forces with deep pockets, w
 
 If you want to help us write the next chapter, we can show you how.
 
-{% include figure.html file="phil-weiser.jpeg"
+{% include figure.html file="future-action.jpeg"
   overview="A projected slide with bullet points about future action items. It includes a QR code."
   caption='Get involved and exercise your power.'
 %}
