@@ -316,6 +316,12 @@ Meeting with doctors and such in the state. Legislature has been taking money fr
 
 He wants to prevent the closure of rural hospitals. Drive 4 hours to have a baby.
 
+- His commentary here is that regulation hurts hospitals, but he's spinning it like bad regulation only suddenly showed up and made hospitals die overnight. His points are all aimed at going back to a fabled status quo, but the status quo hasn't changed;
+- Lately in 2024, led by Idaho, now-SG Sauer argued before SCOTUS that local law can ignore EMTALA (Emergency Medical Treatment and Labor Act) rules, effectively ending the duty to care for all patients, based on local politics.
+- By framing healthcare businesses as unsustainable, Bottoms is actually arguing that healthcare became _spontaneously_ unsustainable.
+- In fact, hyper-ambiguous MAGA policies are making it possible for doctors to be sued for following EMTALA, and thus hospitals are closing because the lawsuit liability is unsustainable; Hospitals are leaving because of MAGA policies, but Bottoms is spinning this like it's an attack waged by Democrats.
+- Mr. Bottoms, the doctors who are leaving your area are leaving because they have no method of surviving the litany of lawsuits you want them to be liable for.
+
 > There are too many regulations hurting insurance companies.
 
 Insurance company panels are telling you when you can have surgeries, etc.
