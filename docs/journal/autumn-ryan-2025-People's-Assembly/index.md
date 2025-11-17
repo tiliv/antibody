@@ -10,7 +10,7 @@ tags: [colorado, faith, governors]
 live: true
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
