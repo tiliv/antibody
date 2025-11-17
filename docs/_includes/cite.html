@@ -1,7 +1,7 @@
 <header>
   <div>
     {%- if include.more -%}
-      <a href="{{ include.more }}" target="_blank" rel="nofollow noopener">
+      <a href="{{ include.more }}">
         {{- include.credit -}}
       </a>
     {%- else -%}
@@ -12,7 +12,7 @@
     <code>“</code>
     <div>
       {{ include.headline }}
-      <cite>{% if include.url %}<a href="{{ include.url }}" target="_blank" rel="nofollow noopener">
+      <cite>{% if include.url %}<a href="{{ include.url }}">
         {{- include.url | replace: "https:",":" | replace: "mailto:","" -}}
       </a>{% else %}{{- include.cite -}}{% endif %}</cite>
     </div>
