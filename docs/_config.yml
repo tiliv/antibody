@@ -46,3 +46,7 @@ defaults:
       layout: journal
 exclude:
   - CNAME
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
