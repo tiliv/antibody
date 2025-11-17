@@ -17,12 +17,25 @@ civic_readme: |
 
   It is necessary for our social cohesion that we possess various ways and means of direct information exchange within our cities. Our Domestic Enemies have taken our placation as given, however We the People have acquired on our own several talents and skills to deploy in our defense.
 
-theme: null
-markdown: kramdown
-permalink: pretty
-
 preferences:
   dark: false
+
+# Jekyll options
+theme: null
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: paragraph_end
+  template: ""
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: plaintext
+sass:
+  style: compressed
 
 defaults:
   - scope: {path: ""}
@@ -31,3 +44,5 @@ defaults:
   - scope: {path: "journal"}
     values:
       layout: journal
+exclude:
+  - CNAME
