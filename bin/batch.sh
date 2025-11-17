@@ -23,21 +23,21 @@ echo "script: $script"
 # 1) GNU parallel if present
 if command -v parallel >/dev/null 2>&1; then
   echo "parallel -j $CPU --will-cite $script"
-  cat - | parallel -j "$CPU" --will-cite "$script"
+  tr '\n' '\0' | parallel -0 -j "$CPU" --will-cite -- "$script"
   exit
 fi
 
 # 2) Homebrew GNU xargs if present
 if command -v gxargs >/dev/null 2>&1; then
   echo "gxargs -P $CPU -n 1 $script"
-  cat - | gxargs -P "$CPU" -n 1 "$script"
+  tr '\n' '\0' | gxargs -0 -P "$CPU" -n 1 -- "$script"
   exit
 fi
 
 # 3) System xargs with -P support
 if xargs -P 1 echo </dev/null >/dev/null 2>&1; then
   echo "xargs -P $CPU -n 1 $script"
-  cat - | xargs -P "$CPU" -n 1 "$script"
+  tr '\n' '\0' | xargs -0 -P "$CPU" -n 1 -- "$script"
   exit
 fi
 
