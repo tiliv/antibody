@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "stat-pieces": "git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-piece.sh'",
     "stat-paragraphs": "git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-paragraphs.sh'",
