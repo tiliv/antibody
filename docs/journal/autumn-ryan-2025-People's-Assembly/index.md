@@ -186,7 +186,7 @@ Government has urgency to get oil producers online, but when they're producing, 
 
 Water is our most crucial natural resource. A hallmark of his leadership.
 
-**What is your perspective on the Colorado Labor Peace Act, how works form a union?**
+**What is your perspective on the Colorado Labor Peace Act, regarding how workers form a union?**
 
 When grandparents got here, with no money or language, they got union jobs, and it worked. Fought for unions in a court room; Albertsons merger with Kroger. Safeway & King Soopers.
 
@@ -270,13 +270,20 @@ We're spending more for less. We're spending 75% of all new money to broaden out
 
 We are a coal, oil and gas state. Every single statistic says that solar and wind is being subsidized more than it is provided. We're paying more money than it's helping us.
 
-Drill again in Colorado. Small nuclear reactor, 11-acre footprints. We're going to have data centers "that go off the charts" for AI.
+- He believes clean energy won't pay off for 50-some-odd years, a useful figure for him to bang on to create fear that we shouldn't do clean energy at all.
+
+Drill again in Colorado. Small nuclear reactors (lots of them), 11-acre footprints. We're going to have datacenters "that go off the charts" for AI.
+
+- In an interview setting, I would press him to clarify What Jobs he thinks these will bring, while those datacenters simultaneously driving up our energy costs such that the public is being taxed for Big Tech projects that serve entities outside of our boundaries. IMO, the only jobs will be for Big Tech nepotists who are explicitly trying to optimize humanity out their org charts.
+- I think he's getting away with this argument in his head because we'll suddenly unleash oodles of energy.
 
 The biggest issue we have with water in CO is that it's being sold to out-of-state wealthy people who sit in our highest offices.
 
-January 2025, acquire water rights and then sell it to other states. Keep the water in Colorado.
+January 2025, acquired water rights and then sold it to other states. Keep the water in Colorado.
 
-**What is your perspective on the Colorado Labor Peace Act, how works form a union?**
+- In an interview setting, I would like to press him for what he expects Arizona to do when we refuse them water cooperation.
+
+**What is your perspective on the Colorado Labor Peace Act, regarding how workers form a union?**
 
 Colorado is a Right To Work state: you don't have to be part of a union if you don't want to. Does not think unions are ethical if they force people to join in. Voluntarily pay.
 
