@@ -1,7 +1,5 @@
 require "uri"
 
-puts ">>> HERE"
-
 # `piece_url`: meant to be an internal url
 # `any_url`: meant to be any public url
 
