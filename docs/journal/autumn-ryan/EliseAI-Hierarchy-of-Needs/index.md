@@ -11,6 +11,8 @@ tags: [ai, renter, capture]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-EliseAI-Hierarchy-of-Needs
 ---
 
 {% include iframe.html

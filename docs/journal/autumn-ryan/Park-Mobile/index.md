@@ -10,6 +10,8 @@ tags: [location, data taxation, local]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Park-Mobile
 ---
 
 {% include toc/aside.html %}

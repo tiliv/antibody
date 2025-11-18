@@ -11,6 +11,8 @@ noting: true
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Brookfield-Properties
 ---
 
 {% include toc/aside.html %}
@@ -21,7 +23,7 @@ index: true
 - An LLM exactly like the First State Auto Group's Impel.ai
 - Only this time it's hording my financial metadata and contact information from the outset, because EliseAI is their CRM.
 - The CEO of EliseAI (previously: Meet Elise) proclaims that all multifamily housing operations in America should be offshored and centralized for her industry outsider efficiency kink.
-  - [://antibody/journal/autumn-ryan-EliseAI-Hierarchy-of-Needs](/journal/autumn-ryan-EliseAI-Hierarchy-of-Needs)
+  - [://antibody/journal/autumn-ryan/EliseAI-Hierarchy-of-Needs](/journal/autumn-ryan/EliseAI-Hierarchy-of-Needs)
 
 - When I confronted the office staff (within actual minutes of the unsolicited LLM contact), they had an easier time pulling it up than First State Auto Group, and didn't struggle to identify the LLM's contact with me.
 - They admit this one is called Elise.

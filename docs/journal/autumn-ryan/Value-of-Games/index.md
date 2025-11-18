@@ -11,6 +11,8 @@ noting: true
 public: true
 published: true
 index: false
+redirect_from:
+  - /journal/autumn-ryan-Value-of-Games
 ---
 
 - my old paper about games

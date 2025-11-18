@@ -11,6 +11,8 @@ noting: true
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Network-State
 ---
 
 {% include iframe.html file="tns.pdf"

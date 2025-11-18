@@ -12,6 +12,8 @@ live: true
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Engineering-in-Practice
 ---
 
 {% include toc/aside.html %}

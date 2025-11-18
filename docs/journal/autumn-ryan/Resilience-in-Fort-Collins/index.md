@@ -7,6 +7,13 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [ranked choice, non-partisan, mayor]
+
+public: true
+published: true
+index: true
+redirect_from:
+  - /journal/autumn-ryan-Resilience-in-Fort-Collins
+
 links:
   tricia: https://www.triciaforfoco.com/
   adam_e: https://www.adamegglestonformayor.com/
@@ -42,10 +49,6 @@ additional:
   att: https://www.att.com/legal/terms.personalizedPlus.html
   placer: https://openbook.fcgov.com/#!/year/All%20Years/explore/0-/vendor_name/PLACER+LABS+INC/1/service
   fc1mc: https://www.1millioncups.com/s/account/0014W00002AqQe0QAF/fort-collins-co
-
-public: true
-published: true
-index: true
 ---
 
 {% include toc/aside.html %}

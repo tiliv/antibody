@@ -10,6 +10,8 @@ tags: [local, discourse, FCCOPI]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Community-Opinion-Platform
 ---
 
 **With the retreat of local community outlets,** home- and away-grown to service NoCo by a sort of legacy charity, we find it difficult to keep our City Councils informed of our opinions. The speaking times are pressurized by issues that far exceed the bandwidth available now. We don't wish to flood that specific channel and even experience not talking at all despite signing up (too late). Even so, the speaking slots are distinctly not conversations, and must be rehearsed what for the volume of content that does in fact need to be transmitted.

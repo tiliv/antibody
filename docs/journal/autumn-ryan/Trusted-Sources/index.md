@@ -11,6 +11,8 @@ live: true
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Trusted-Sources
 ---
 
 _These contemporaneous notes are more raw than is typical._

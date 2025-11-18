@@ -10,6 +10,8 @@ tags: [impersonation, consent, counterfeits]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Impact-of-AI
 ---
 
 {% include toc/aside.html %}

@@ -10,6 +10,8 @@ tags: [democracy, governance, polling]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Halfway-Democracy
 ---
 
 {% include toc/aside.html %}

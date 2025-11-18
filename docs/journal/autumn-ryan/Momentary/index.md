@@ -10,6 +10,8 @@ tags: [climate, action, data]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Momentary
 ---
 
 I recently attended my regional Climate Meetup for the year (the event had the year in its name) and found a surprisingly well-staffed event at the park. I go to these things expecting to have to do the networking myself, but climate nerds are all there for the same reason: Their own reason.

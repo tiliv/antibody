@@ -11,6 +11,8 @@ noting: true
 public: true
 published: true
 index: false
+redirect_from:
+  - /journal/autumn-ryan-Space-Force
 ---
 
 - leaving Colorado after a settled prior question about leaving the temporary hq in the state

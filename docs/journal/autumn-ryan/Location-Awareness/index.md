@@ -10,6 +10,8 @@ tags: [location, homeless, silence]
 public: true
 published: true
 index: true
+redirect_from:
+  - /journal/autumn-ryan-Location-Awareness
 ---
 
 {% include toc/aside.html %}
