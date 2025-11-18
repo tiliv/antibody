@@ -12,7 +12,7 @@ layout: null
 {%- for author in authors -%}
 {%- if author -%}
   <sitemap>
-    <loc>{{ site.url }}/journal/sitemap-{{ author | slugify }}.xml</loc>
+    <loc>{{ site.url }}/journal/{{ author | slugify }}/sitemap.xml</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
   </sitemap>
 {%- endif -%}
