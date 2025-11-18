@@ -53,3 +53,4 @@ exclude:
 
 plugins:
   - jekyll-link-attributes
+  - jekyll-redirect-from
