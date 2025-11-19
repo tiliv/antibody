@@ -1,0 +1,5 @@
+**{{ include.name }}** @ {% include link.html url=include.url %}: {{ include.about }}
+
+{% for link in links %}
+- {% include link.html url=link %}
+{% endfor %}
