@@ -10,7 +10,7 @@ tags: [donald john trump, ice, goading]
 noting: true
 public: true
 published: true
-index: false
+index: true
 redirect_from:
   - /journal/autumn-ryan-Naked-Authoritarianism
 
@@ -70,6 +70,31 @@ chicago_illinois:
   extended:
     - <img src="exhibits/your-tax-dollars-at-work-in-chicago-yesterday-v0-j9w71hp4g80g1.webp" />
     - A man is sitting in the driver's seat of a vehicle, looking intently out the open window. He's wearing `camouflage` clothing, a `dark cap`, and a `green cloth covering` the lower half of `his face like a mask`. His right arm is extended toward the camera, `holding a handgun`, which he appears to be `aiming directly` outward. The vehicle looks like a light-colored truck or SUV. `The focus` of the image is the man's intense gaze and `the gun pointed toward the viewer.`
+thegatewaypundit_2:
+- url: https://www.thegatewaypundit.com/2025/11/each-one-should-be-arrested-put-trial-seditious/
+  title: |
+    Six Congressional Democrats Are Demanding Military Defy `Lawful` Orders from Him
+  when: Nov. 20, 2025 9:15 am
+  author: Cullen Linebarger
+  quote: |
+    so-called ‘illegal’ orders
+  who: unspecified contributor, The Gateway Pundit
+  misc:
+    comments: 1153
+  extended:
+    - |
+      As The Gateway Pundit reported, Senators Elissa Slotkin of Michigan and
+      Mark Kelly of Arizona, along with Representatives Chris DeLuzio of
+      Pennsylvania, Chrissy Houlahan of Pennsylvania, Maggie Goodlander of
+      New Hampshire, and Jason Crow of Colorado, posted a video on Tuesday
+      `essentially ordering` these professionals to betray Trump and implement
+      `a ‘soft coup,’` rendering him powerless to carry out his policies.
+    - |
+      A furious Trump `called the video “seditious”` and stated that these “traitors” should be arrested.
+    - |
+      It’s called `SEDITIOUS BEHAVIOR` AT THE HIGHEST LEVEL. Each one of these `traitors to our Country` should be ARRESTED AND PUT ON TRIAL.
+      <br>
+      Their words cannot be allowed to stand – `We won’t have a Country anymore`!!! `An example MUST BE SET`. President DJT
 ---
 
 {% include toc/aside.html %}
@@ -79,3 +104,5 @@ chicago_illinois:
 {% include_relative quote.html info=page.trendingpoliticsnews %}
 
 {% include_relative quote.html info=page.chicago_illinois %}
+
+{% include_relative quote.html info=page.thegatewaypundit_2 %}
