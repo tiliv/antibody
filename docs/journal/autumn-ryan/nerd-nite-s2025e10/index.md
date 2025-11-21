@@ -1,7 +1,7 @@
 ---
-date: 2025-11-15
+date: 2025-11-20
 rank: -2
-title: "LIVE: Nerd Nite"
+title: "LIVE: Nerd Nite S2025E10"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 re: https://fortcollins.nerdnite.com/2025/10/26/november-20-the-state-of-the-art-in-fashion-and-technology/
@@ -14,6 +14,8 @@ public: true
 published: true
 index: false
 ---
+
+{% include toc/aside.html %}
 
 Wolverine Farm The Publick House is a great location. It has history, and books.
 
