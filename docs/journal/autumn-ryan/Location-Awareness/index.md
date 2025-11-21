@@ -14,8 +14,6 @@ redirect_from:
   - /journal/autumn-ryan-Location-Awareness
 ---
 
-{% include toc/aside.html %}
-
 **The pervasive access to our locations** through the use of mobile apps and networks allows companies to silo information even after the point of contact. Imagine opening your parking app from the restaurant, and again at home later. Imagine opening any app, granting someone somewhere the answer to the question of where you went. Data has speculative value, and it must be shared to manifest it.
 
 **Apps that we open at our destinations,** and from home later, are each collecting your location metadata by the necessities of the architecture that allow the digital chatter. That information, even if processed into vague trend report terms, can create claims with metadata about us, and they are likely to be accurate and have value to others. In aggregate, they may know how soon someone like me goes home. They may not know where that is, but it's a hint for anyone who already does.
