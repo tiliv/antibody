@@ -84,7 +84,7 @@ article blockquote p {
 article blockquote p img {
   width: 100%;
 }
-article h5::before,
+article header h5::before,
 article blockquote p::before {
   content: "";
   position: absolute;
