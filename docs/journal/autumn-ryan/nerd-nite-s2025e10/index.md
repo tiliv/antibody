@@ -179,3 +179,207 @@ YOLO. Support your community.
 (I love her.)
 
 ### Andres Sepulveda Morales
+
+Creative Technologist
+
+#### I'm Tired Grandpa
+
+_The rise of the indie-web resistance._
+
+Inspired by Evylinn McMichael
+
+- The State of the Net
+- Why People are Freaking Out
+- The Resistance is Rising
+
+Laid off as a software engineer 3 times in 2 years--If you're starting your career, good luck!""
+
+Impact makers and barrier breakers. Rocky Mountain AI 501(c)(3) in Colorado. The guiding mantra is that we want people to undersatnd how this technolgy works without barriers attached.
+
+This past Monday, they talked about how to protect creativity in an era where AI makes "everyone" a creative.
+
+It's very (read: too) easy to create stuff.
+
+"No Prompt Needed."" December 5th, exhibit & market.
+
+#### It Wasn't Always Like This.
+
+**Remember When** The internet used to feel like a frontier. Personal websites with blinking GIFs. Forums where people actually talked to each other. A place wher eyou could stumble upon something weird and wonderful. Now? It's an endless scroll of the same content, repackaged and regugitated.
+
+**What Changed?** Corporate conslidation turned the web into a handful of walled gardens. Social media platforms became attention extraction machines. And now, AI is flooding everything with synthetic slop. The internet became less about connection and more about conversion.
+
+(insert xkcd-inspired slide.)
+
+Things are becoming weirder than what the Old Weird used to be.
+
+#### A Marsh of Slop
+
+- As an older person, it's hard to tell what's real and not.
+- As a younger person, it's hard to tell what's real and not.
+
+A lot of the internet is ugly. Too much video. It's so loud. You can be out with friends who flip from video to video instead of interacting.
+
+Hoax footage, no guardrails. Watermark removal is effortless.
+
+Generative Ai is everywhere. An authenticity crisis. The corporate takeover.
+
+#### Is it just slop?
+
+Is it genuinely harmful?
+
+Hoaxes: Natural disasters. Sharks in a pool.
+
+> Why Would Someone Make Up A Fake Disaster?
+
+**The sanctity of the dead.** (Ponder this hard.)
+
+#### Why People Are Freaking Out
+
+- Loss of Human Connection
+- Creative Exhaustion
+- Information Overload
+
+You have to deal with all the bullshit associated with it. Cuts, hustles, corporate takeover, struggling to breathe.
+
+#### The Breaking Point
+
+> While content proliferates, engagement is evaporating. Average interaction rates across major platforms are clining fast: Facebook and X posts now scrape an average .15% engagement, while Instagram has dropped 24% year-on-year. Even TikTok has begun to plateau.
+
+#### The Resistance Is Rising
+
+Indie Web Movement. This is Cyclical:
+
+- Personal Websites
+- Community
+- Creative Freedom
+- Real Connection
+
+People are starting to connect to each other direclty again. (We sense the lack of value.)
+
+Principles of the Indie Web:
+
+- Own your data
+- Use what you amek!
+- Making stuff that you need
+- Open source your stuff
+- Longevity
+- Modularity
+- Document your stuff
+
+A snapshot of the indie web.
+
+(insert photo of the web.)
+
+Neocities, free hosting for static sites. It makes a community, but ToS and centralization can radicalize things overnight.
+
+- The Indie Web Is Awesome (Youv'e Got Kat)
+- Make A Webite (Marighoul)
+
+Open source revolution
+- Mastodon
+- ghost
+- community-driven development
+
+Getting off of Windows, Linux has been making large strides into gaming, which is a gap in the ecosystem.
+
+#### Anecdote
+
+- LLMs locally
+- Not a faraway thing
+- Security content loading
+- Out of the cycle of the web
+
+#### AI can be Open Source Too!
+
+Strange use-cases where value is ambiguous and speculative. Running things locally, if you want that, is possible.
+
+You can get some stuff down without having to pay anybody.
+- Time & Effort
+- Integration Headaches
+- The powers That Be
+
+The Linux Problem: You need to have a high pain tolerance.
+
+Some of the fringe stuff is hard to get guides for. (The lack of ecosystem is such a strong problem.)
+
+> Don't go to your job and just say "We should open source everything!"
+
+(True, though.)
+
+Though:
+
+> It's a very exciting time to try things out.
+
+How to Host AI Locally: Ollama and the Open Web UI
+Linus Tovalds: Speaks on the State of Open Source
+If you use Linux, learn how to troubleshoot
+Paying for software is stupid.
+
+#### Lack of Ownership and Accountability
+
+**Ownership**: When you build on someone else's platform, you're a tenant.
+**Freedom**: No terms of service to violate.
+**Creativity**: The constraints of corporate platforms kill creativity.
+**Legacy**: Platforms come and go.
+
+If I wanna break it, that's my perrogative.
+
+- Start Small
+- Find Your People
+- Embrace Weirdness
+- Link Generously
+
+Consent matters.
+
+> If you find that Machego blog, let ME know.
+
+> Get information from your own spaces.
+
+The Economic sof Independence
+
+- The Math of Viability
+- Stop Paying the "Platform Tax"
+- Asset Security (The "Landlord" Problem)
+
+> I can give a whole separate talk about Spam and how it affects Hawaii.
+
+#### The Challenges Ahead
+
+A lot more things are being built on Linux now. Flatpak. Companies are starting to do it for you.
+
+Discoverability, sustainability.
+
+> I'm already busy.
+
+#### Your Next Steps
+
+Create Something.
+
+`#damage`
+
+Tech property surplus.
+
+**CUDA vs ZLUDA**
+
+**Where would you get started with Linux**
+
+**How far away from Skynet are we?**
+
+Looks to Yuan LeCun, soon-to-be former Meta engineer:
+- https://ground.news/article/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company_4f2e1b
+
+> I don't think we're going to have Skynet anytime soon. Don't quote me on that.
+
+(I agree about this, LLMs are not the medium this will take place in.)
+
+**How do the economics work with Neocities?**
+
+(People are remarking that the hustle culture is not cured on this platform.)
+
+**Do you think the AI bubble is bound to burst soon?**
+
+He invites us to look at the quarterly business calls from Enron. They're not being as open about what they're doing with their investments. Even OpenAI is getting grouchy about some questions.
+
+Valuation of data centers is rough with the lifecycle of processors.
+
+
