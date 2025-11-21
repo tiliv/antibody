@@ -5,7 +5,7 @@
 ##### _{{ info.who }}_
 
 #### {{ info.quote }}
-[{{ info.title }}]({{ info.url }})
+[{{ info.title }}]({{ info.url | antibody_unscheme }})
 {{ info.when }}{% if info.misc %},{% endif %} {% for kv in info.misc %} <em>{{ kv[1] }} {{ kv[0] }}</em>{% endfor %}
 
 {% for block in info.extended %}
