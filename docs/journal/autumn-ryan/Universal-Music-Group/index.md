@@ -13,6 +13,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Universal-Music-Group
+  - /journal/autumn-ryan-Universal-Music-Group/
 ---
 
 {% include toc/aside.html %}

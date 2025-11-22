@@ -13,6 +13,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Brookfield-Properties
+  - /journal/autumn-ryan-Brookfield-Properties/
 ---
 
 {% include toc/aside.html %}

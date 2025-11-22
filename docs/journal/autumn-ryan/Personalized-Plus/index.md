@@ -14,6 +14,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Personalized-Plus
+  - /journal/autumn-ryan-Personalized-Plus/
 ---
 
 {% include toc/aside.html %}

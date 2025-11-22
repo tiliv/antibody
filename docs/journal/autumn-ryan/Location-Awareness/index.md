@@ -12,6 +12,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Location-Awareness
+  - /journal/autumn-ryan-Location-Awareness/
 ---
 
 **The pervasive access to our locations** through the use of mobile apps and networks allows companies to silo information even after the point of contact. Imagine opening your parking app from the restaurant, and again at home later. Imagine opening any app, granting someone somewhere the answer to the question of where you went. Data has speculative value, and it must be shared to manifest it.

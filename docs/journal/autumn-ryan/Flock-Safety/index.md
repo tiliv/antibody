@@ -13,6 +13,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Flock-Safety
+  - /journal/autumn-ryan-Flock-Safety/
 ---
 
 ### Flock Safety

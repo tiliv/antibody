@@ -13,6 +13,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Postmodern-Copyright
+  - /journal/autumn-ryan-Postmodern-Copyright/
 ---
 
 This piece will reflect on the sprawl and entitlement of copyright holders. A great thicket of these cling to AI in its LLM form, sticking their assertions that mere encounter with copyrighted information is crime.

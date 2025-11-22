@@ -13,6 +13,7 @@ published: true
 index: false
 redirect_from:
   - /journal/autumn-ryan-Cyberwar-in-Practice
+  - /journal/autumn-ryan-Cyberwar-in-Practice/
 ---
 
 - dns, dnssec

@@ -12,6 +12,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Fanart-of-Enemies
+  - /journal/autumn-ryan-Fanart-of-Enemies/
 ---
 
 **The decay of news media is so visual.** Mounted like a helmet to every article, opinion and court filing is a piece of media fan art of those they write about. At times we see stock photos, but all the same, they are selected to tell us memes.

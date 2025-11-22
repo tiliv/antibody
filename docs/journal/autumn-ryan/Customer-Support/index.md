@@ -12,6 +12,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Customer-Support
+  - /journal/autumn-ryan-Customer-Support/
 ---
 
 **As the web began,** the independent websites and forums could exist with whatever relevancy they proclaimed. They used email, even. Some were creators who wanted to be contacted about their work, and some preferred no such thing. It seemed evident that some kinds of work were meant to spawn discussion, and others were provided as-is to stand in place of one.

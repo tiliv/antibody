@@ -13,6 +13,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-2025-People's-Assembly
+  - /journal/autumn-ryan-2025-People's-Assembly/
 ---
 
 {% include toc/aside.html %}

@@ -12,6 +12,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Halfway-Authority
+  - /journal/autumn-ryan-Halfway-Authority/
 ---
 
 {% include toc/aside.html %}

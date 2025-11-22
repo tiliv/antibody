@@ -13,6 +13,7 @@ published: true
 index: true
 redirect_from:
   - /journal/autumn-ryan-Naked-Authoritarianism
+  - /journal/autumn-ryan-Naked-Authoritarianism/
 
 thegatewaypundit:
 - url: https://www.thegatewaypundit.com/2025/09/breaking-president-trump-designates-antifa-as-major-terrorist/
