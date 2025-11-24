@@ -6,13 +6,12 @@ author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 re: https://fortcollins.nerdnite.com/2025/10/26/november-20-the-state-of-the-art-in-fashion-and-technology/
 
-tags: []
+tags: [fashion, the web, local]
 
 live: true
-noting: true
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
