@@ -23,27 +23,34 @@ priority: 1.0  # minor: sitemap scan priority
     | map: "author_email"
     | uniq %}
 
+  {%- assign journal = site.pages
+    | where_exp: "p", "p.noting == null"
+    | where_exp: "p", "p.author == author"
+    | where_exp: "p", "p.public"
+    | where_exp: "p", "p.published" -%}
+
+  {%- assign noting = site.pages
+    | where_exp: "p", "p.noting == true"
+    | where_exp: "p", "p.author == author"
+    | where_exp: "p", "p.public"
+    | where_exp: "p", "p.published" -%}
+
   <section id="{{ author | slugify }}">
+
     <h2>{{ author }}</h2>
+    {%- assign total_words = 0 -%}
+    {%- for piece in journal -%}
+      {%- assign words = piece.content | number_of_words -%}
+      {%- assign total_words = total_words | plus: words -%}
+    {%- endfor -%}
+    <div class="size"><strong>{{ total_words }} w</strong></div>
     <div class="contacts">
       {% for email in emails %}
         <a href="mailto:{{ email }}">@{{ email | split: "@" | reverse | first }}</a>
       {% endfor %}
     </div>
+
     <div class="piece-list">
-
-      {%- assign journal = site.pages
-        | where_exp: "p", "p.noting == null"
-        | where_exp: "p", "p.author == author"
-        | where_exp: "p", "p.public"
-        | where_exp: "p", "p.published" -%}
-
-      {%- assign noting = site.pages
-        | where_exp: "p", "p.noting == true"
-        | where_exp: "p", "p.author == author"
-        | where_exp: "p", "p.public"
-        | where_exp: "p", "p.published" -%}
-
       <div data-kind="journal" markdown="1">
         {%- assign ranked = journal | sort: "date" | sort: "rank" -%}
         {%- for piece in ranked -%}

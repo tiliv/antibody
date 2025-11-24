@@ -137,6 +137,10 @@ body {
   font-family: ArticleFont, "Times New Roman", times, serif;
   font-size: 2em;
 }
+#authors .size {
+  text-align: center;
+  margin: 0 auto;
+}
 .contacts {
   display: flex;
   flex-direction: row;
