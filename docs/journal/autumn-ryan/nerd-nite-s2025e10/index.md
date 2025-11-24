@@ -21,6 +21,21 @@ Wolverine Farm The Publick House is a great location. It has history, and books.
 
 This panel is a little different than the others I've attended lately, but Andres's face is familiar. I know a little of what he'll be talking about tonight, because he let me approve one of his slides.
 
+{% include figure.html file="venue_outside.jpeg"
+  overview="After dark, a two-story exterior is viewed at its long side. In the second floor, several windows show the illumination of the meeting taking place inside."
+  caption="Wolverine Farm The Publick House, viewed from the sidewalk."
+%}
+
+{% include figure.html file="venue_inside.jpeg"
+  overview="A warm interior of a bookshelf on the wall, an arched path behind to more, and an isle stand with yet more books."
+  caption="Patrons of the shop downstairs will await their turn to order while lined up along these shelves."
+%}
+
+{% include figure.html file="reader_in_residence.jpeg"
+  overview="A sign posted inside, wearing the names Colorado Sun (a local state news operation, and Perelandra Bookshop. The sign indicates that interested parties can take a dangling strip to read for two hours per week at the venue and be compensated with coffee and a book stipend."
+  caption="Notice: None of the slips remain for new interested persons to take with them."
+%}
+
 The Bosses here at Nerd Nite are as these:
 
 - Justin Fritz
@@ -34,6 +49,11 @@ In 2003, Chris Balakrishnan was studying Indogobird as part of his doctorate at 
 
 Freelance artist.
 
+{% include figure.html file="Chris.jpeg"
+  overview="Chris Pruneski stands in her hand-made Victorian-inspired costuming, with hands behind her back. Her glasses have a long chain descending by her face. There is a large broach at her high-necked collar, a small gold amulet, and a pocket watch hangs over her long dark skirt. Her outer layer is fastened by two dark buckles at her middle."
+  caption="Chris Prunseksi, after her presentation."
+%}
+
 #### Fashion-ism
 
 _Historical and Political Influence on Societal Expression_
@@ -46,7 +66,7 @@ Warmth was paramount during the Ice Age. 19,000 years ago, the ice went away in 
 
 Complex garment have to form-fit around your body. These show up by 40,000 BCE. They needed to be sewn, have cut pieces from larger sheets of material, fastened, etc.
 
-We have evidence of homospaiens in regions where the cold would have made it impossible to survive without complex clothing.
+We have evidence of homosapiens in regions where the cold would have made it impossible to survive without complex clothing.
 
 The genetic diversification of head lice coincides with human migration.
 
@@ -77,11 +97,22 @@ The Frankenstein movie is a very fashion-forward film, serving the character sto
 
 #### Fashion as Status Quo
 
+
+{% include figure.html file="fashion1.jpeg"
+  overview="A slide of various feminine figures and illustrations."
+  caption="Colors, shape and new vibrance. The 9/11 photo embedded in the middle is the punchline to a set-up that Americanization has been pushed back upon."
+%}
+
 Who determines what is in Vogue? What "should" you wear? As things goes in cycles, things come into clear phases of demand and rejection.
 
 Mass-produced cars instantly changed the way clothing was used. Hemlines get much longer when times are hard.
 
 #### Fashion as Rebellion
+
+{% include figure.html file="fashion2.jpeg"
+  overview="A slide of several historical photos, and a typewriter adornment featuring a woman in a cap, long-lived evidence of one such hat featured to that photo's right."
+  caption="Colors, defiance and pride."
+%}
 
 Counter-culture arises. Monoculture diverges.
 
@@ -102,15 +133,15 @@ Freddie Mercury is impossible not to mention here.
 
 > I bet she has pronouns!
 
-It's funny.
+(It's funny.)
 
 #### Fashion and Dominance
 
-Fashion reflects primary culutre, religion, expectations. It becomes a law of a kind.
+Fashion reflects primary culture, religion, expectations. It becomes a law of a kind.
 
 Laws against wearing natural hair, shaved, cut. Western clothing has supplanted, more than become adopted naturally.
 
-Marie Antoinnette was accused of acquiring a necklace (though she didn't) and she got killed for it. Vibes.
+Marie Antoinette was accused of acquiring a necklace (though she didn't) and she got killed for it. Vibes.
 
 Mass production and enslaved labor.
 
@@ -124,9 +155,12 @@ Microtrends are this extreme end of capitalism and consumerism. It moves faster 
 
 Clothes are getting cheaper.
 
-(insert picture of Gahana beach.)
-
 A beach in Ghana is full of clothes that have washed up.
+
+{% include figure.html file="Why.jpeg"
+  overview="A top-down view of a beach, where the tide is soaking an existing widespread deposit of abandoned clothes washed in from the ocean."
+  caption="A shocking number of fabricated clothes are never worn, and whether or not they are, many end up abandoned in nature."
+%}
 
 Imitation is flattery. We see only a snippet of of the lives of people, and fashion is dense with the way it communicates to us. Self-image, how you appear. Body shape, style, hair color. "To change your life, you need to have what I have."
 
@@ -156,6 +190,11 @@ Don't let anything--internet or body shape--dictate what you wear.
 
 YOLO. Support your community.
 
+{% include figure.html file="hairpin.jpeg"
+  overview="A vintage coppery hairpin with a slightly rosy stone pierced at the end. Small metalwork folds in on itself, the full shape perhaps conjuring an image of a flower, atop the long thin stake. This photo has my hand in it, and behind it is a blurry view of the iPad used to take these notes."
+  caption="This hairpin was passed around. I like it."
+%}
+
 #### Q&A
 
 **Favorite style?** Victorian stuff.
@@ -170,9 +209,9 @@ YOLO. Support your community.
 
 **What is the significance of the 80s/90s neons?** Part of this very exciting and bright era of American culture, where people were excited to be Americans again. Huge patterns, vivid colors.
 
-**Is there a band or an artist you'd love to have wear one of your creations?** Would love to dress Chappel Roan, she's got a really great butt.
+**Is there a band or an artist you'd love to have wear one of your creations?** Would love to dress Chappell Roan, she's got a really great butt.
 
-**What has been the most impractical fashion trend?** Venician women in the 1200s would wear these insane platform shoes so that their long gowns would not drag in the road and the maneur. Things that get used don't survive, things that don't get used survive instead. (Survivorship bias story, very interesting way to use this.)
+**What has been the most impractical fashion trend?** Venetian women in the 1200s would wear these insane platform shoes so that their long gowns would not drag in the road and the manure. Things that get used don't survive, things that don't get used survive instead. (Survivorship bias story, very interesting way to use this.)
 
 > I know a lot of stupid stuff about a lot of stupid shit.
 
@@ -186,7 +225,7 @@ Creative Technologist
 
 _The rise of the indie-web resistance._
 
-Inspired by Evylinn McMichael
+Inspired by Evelyn McMichael (sp?)
 
 - The State of the Net
 - Why People are Freaking Out
@@ -194,7 +233,7 @@ Inspired by Evylinn McMichael
 
 Laid off as a software engineer 3 times in 2 years--If you're starting your career, good luck!""
 
-Impact makers and barrier breakers. Rocky Mountain AI 501(c)(3) in Colorado. The guiding mantra is that we want people to undersatnd how this technolgy works without barriers attached.
+Impact makers and barrier breakers. Rocky Mountain AI 501(c)(3) in Colorado. The guiding mantra is that we want people to understand how this technology works without barriers attached.
 
 This past Monday, they talked about how to protect creativity in an era where AI makes "everyone" a creative.
 
@@ -204,9 +243,9 @@ It's very (read: too) easy to create stuff.
 
 #### It Wasn't Always Like This.
 
-**Remember When** The internet used to feel like a frontier. Personal websites with blinking GIFs. Forums where people actually talked to each other. A place wher eyou could stumble upon something weird and wonderful. Now? It's an endless scroll of the same content, repackaged and regugitated.
+**Remember When** The internet used to feel like a frontier. Personal websites with blinking GIFs. Forums where people actually talked to each other. A place where you could stumble upon something weird and wonderful. Now? It's an endless scroll of the same content, repackaged and regurgitated.
 
-**What Changed?** Corporate conslidation turned the web into a handful of walled gardens. Social media platforms became attention extraction machines. And now, AI is flooding everything with synthetic slop. The internet became less about connection and more about conversion.
+**What Changed?** Corporate consolidation turned the web into a handful of walled gardens. Social media platforms became attention extraction machines. And now, AI is flooding everything with synthetic slop. The internet became less about connection and more about conversion.
 
 (insert xkcd-inspired slide.)
 
@@ -243,7 +282,7 @@ You have to deal with all the bullshit associated with it. Cuts, hustles, corpor
 
 #### The Breaking Point
 
-> While content proliferates, engagement is evaporating. Average interaction rates across major platforms are clining fast: Facebook and X posts now scrape an average .15% engagement, while Instagram has dropped 24% year-on-year. Even TikTok has begun to plateau.
+> While content proliferates, engagement is evaporating. Average interaction rates across major platforms are declining fast: Facebook and X posts now scrape an average .15% engagement, while Instagram has dropped 24% year-on-year. Even TikTok has begun to plateau.
 
 #### The Resistance Is Rising
 
@@ -254,12 +293,12 @@ Indie Web Movement. This is Cyclical:
 - Creative Freedom
 - Real Connection
 
-People are starting to connect to each other direclty again. (We sense the lack of value.)
+People are starting to connect to each other directly again. (We sense the lack of value.)
 
 Principles of the Indie Web:
 
 - Own your data
-- Use what you amek!
+- Use what you make!
 - Making stuff that you need
 - Open source your stuff
 - Longevity
@@ -272,8 +311,8 @@ A snapshot of the indie web.
 
 Neocities, free hosting for static sites. It makes a community, but ToS and centralization can radicalize things overnight.
 
-- The Indie Web Is Awesome (Youv'e Got Kat)
-- Make A Webite (Marighoul)
+- The Indie Web Is Awesome (You've Got Kat)
+- Make A Website (Marighoul)
 
 Open source revolution
 - Mastodon
@@ -311,7 +350,7 @@ Though:
 > It's a very exciting time to try things out.
 
 How to Host AI Locally: Ollama and the Open Web UI
-Linus Tovalds: Speaks on the State of Open Source
+Linus Torvalds: Speaks on the State of Open Source
 If you use Linux, learn how to troubleshoot
 Paying for software is stupid.
 
@@ -322,7 +361,7 @@ Paying for software is stupid.
 **Creativity**: The constraints of corporate platforms kill creativity.
 **Legacy**: Platforms come and go.
 
-If I wanna break it, that's my perrogative.
+If I wanna break it, that's my prerogative.
 
 - Start Small
 - Find Your People
@@ -331,7 +370,7 @@ If I wanna break it, that's my perrogative.
 
 Consent matters.
 
-> If you find that Machego blog, let ME know.
+> If you find that Manchego blog, let ME know.
 
 > Get information from your own spaces.
 
@@ -353,11 +392,11 @@ Discoverability, sustainability.
 
 #### Your Next Steps
 
-Create Something.
-
-`#damage`
+Create Something. `#damage`
 
 Tech property surplus.
+
+#### Q&A
 
 **CUDA vs ZLUDA**
 
@@ -381,5 +420,3 @@ Looks to Yuan LeCun, soon-to-be former Meta engineer:
 He invites us to look at the quarterly business calls from Enron. They're not being as open about what they're doing with their investments. Even OpenAI is getting grouchy about some questions.
 
 Valuation of data centers is rough with the lifecycle of processors.
-
-
