@@ -164,17 +164,11 @@ A beach in Ghana is full of clothes that have washed up.
 
 Imitation is flattery. We see only a snippet of of the lives of people, and fashion is dense with the way it communicates to us. Self-image, how you appear. Body shape, style, hair color. "To change your life, you need to have what I have."
 
-#### The Makeover.
+**The Makeover.** Desire.
 
-Desire.
+**The Hunger.** Diet culture is a spectrum. Ozempic Chic. Keto, Paleo.
 
-#### The Hunger.
-
-Diet culture is a spectrum. Ozempic Chic. Keto, Paleo.
-
-#### 21 Forever.
-
-Cosmetic plastic surgery is a form of ashion. Augmentation, vanity. Noses.
+**21 Forever.** Cosmetic plastic surgery is a form of ashion. Augmentation, vanity. Noses.
 
 Mormon-adjacent plastic surgery culture.
 
@@ -221,6 +215,11 @@ YOLO. Support your community.
 
 Creative Technologist
 
+{% include figure.html file="group.jpeg"
+  overview="Six individuals stand together for a photo, captured from one side while they look ahead. Andres is wearing a floral shirt, fourth from the left. Andres and Chris occupy the center of the lineup, with four event organizers distributed on either side."
+  caption="Andres poses together with Chris and the organizers after his presentation."
+%}
+
 #### I'm Tired Grandpa
 
 _The rise of the indie-web resistance._
@@ -231,7 +230,7 @@ Inspired by Evelyn McMichael (sp?)
 - Why People are Freaking Out
 - The Resistance is Rising
 
-Laid off as a software engineer 3 times in 2 years--If you're starting your career, good luck!""
+Laid off as a software engineer 3 times in 2 years--If you're starting your career, good luck!
 
 Impact makers and barrier breakers. Rocky Mountain AI 501(c)(3) in Colorado. The guiding mantra is that we want people to understand how this technology works without barriers attached.
 
@@ -239,7 +238,12 @@ This past Monday, they talked about how to protect creativity in an era where AI
 
 It's very (read: too) easy to create stuff.
 
-"No Prompt Needed."" December 5th, exhibit & market.
+"No Prompt Needed." December 5th, exhibit & market.
+
+{% include figure.html file="no_prompt_needed.jpeg"
+  overview="A slide advertising events put on by Fort Collins AI for Everyone."
+  caption="This is part of the Fort Collins 'Art Walk' initiative, which has various locations around the city made available especially for people who want to see things in public."
+%}
 
 #### It Wasn't Always Like This.
 
@@ -247,7 +251,10 @@ It's very (read: too) easy to create stuff.
 
 **What Changed?** Corporate consolidation turned the web into a handful of walled gardens. Social media platforms became attention extraction machines. And now, AI is flooding everything with synthetic slop. The internet became less about connection and more about conversion.
 
-(insert xkcd-inspired slide.)
+{% include figure.html file="the_web_today.jpeg"
+  overview="A slide of two defaced XKCD memes. On the left, one version indicates Furries might be what hold up all modern architecture."
+  caption="These jokes are derivatives from <a href='//xkcd.com/2347/'>://xkcd.com/2347/ (Dependency)</a>. As recently as the day before, Cloudflare took down much of the web, including various 'is it down' detector websites. This came weeks on the heels of a prolific AWS outage affecting the web, including a 'smart bed' company whose home products embed AWS keys and cease basic functions during an outage."
+%}
 
 Things are becoming weirder than what the Old Weird used to be.
 
@@ -282,7 +289,14 @@ You have to deal with all the bullshit associated with it. Cuts, hustles, corpor
 
 #### The Breaking Point
 
+{% include figure.html file="breaking_point.jpeg"
+  overview="A slide describing the projected share of text articles authored by humans vs AI. The line for AI rises sharply after ChatGPT's launch in 2022, and now vies for 52%. The inverse zero-sum nature of the graph conveys that human-made content is eclipsed, if not necessarily diminished. To the right, multiple quotes convey that engagement and the reliability of information is deeply questionable today."
+  caption="While AI-generated content appears to plateau, it holds a threatening position for 50% of all content. <a href='//graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans'>Source: Graphite.io</a>"
+%}
+
 > While content proliferates, engagement is evaporating. Average interaction rates across major platforms are declining fast: Facebook and X posts now scrape an average .15% engagement, while Instagram has dropped 24% year-on-year. Even TikTok has begun to plateau.
+
+> Less than half of American adults now rate the information they see on social media as "mostly reliable"—down from roughly two-thirds in the mid-2010s.
 
 #### The Resistance Is Rising
 
@@ -307,7 +321,10 @@ Principles of the Indie Web:
 
 A snapshot of the indie web.
 
-(insert photo of the web.)
+{% include figure.html file="indie_web.jpeg"
+  overview="A slide of conjecture about the composition of the indie-made web, presented as a three-circle Venn Diagram of truly Indie Web, the Old Web Revival and the Small Web. At the center are the scheme protocols gemini:// and gopher://."
+  caption="Many philosophies compete the in space of indie-made projects, which is part of the nature of decentralized passion projects."
+%}
 
 Neocities, free hosting for static sites. It makes a community, but ToS and centralization can radicalize things overnight.
 
@@ -323,10 +340,17 @@ Getting off of Windows, Linux has been making large strides into gaming, which i
 
 #### Anecdote
 
+(This is my project: [://github.com/tiliv/anecdote](//github.com/tiliv/anecdote))
+
 - LLMs locally
 - Not a faraway thing
 - Security content loading
 - Out of the cycle of the web
+
+{% include figure.html file="anecdote.jpeg"
+  overview="A slide of core goals and technology promises using QR as a medium for distribution. It purports decentralization, privacy, an offline-first model of operation and interaction."
+  caption="I'm in this photo and I like it.bmp"
+%}
 
 #### AI can be Open Source Too!
 
@@ -395,6 +419,11 @@ Discoverability, sustainability.
 Create Something. `#damage`
 
 Tech property surplus.
+
+{% include figure.html file="next_steps.jpeg"
+  overview="A slide of a flowchart suggesting you should 1) Explore, 2) Create, 3) Connect and 4) Share."
+  caption="Do Something."
+%}
 
 #### Q&A
 
