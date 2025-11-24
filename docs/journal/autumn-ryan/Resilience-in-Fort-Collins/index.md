@@ -1,6 +1,6 @@
 ---
 date: 2025-10-05
-rank: -1
+rank: 0
 title: "Resilience in Fort Collins"
 re: https://www.coloradoan.com/story/news/politics/elections/2025/09/08/fort-collins-election-2025-whos-running-for-fort-collins-mayor-and-city-council-ranked-voting/85997339007/
 author: Autumn Ryan

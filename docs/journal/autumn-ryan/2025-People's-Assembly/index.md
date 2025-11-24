@@ -1,6 +1,6 @@
 ---
 date: 2025-11-16
-rank: -3
+rank: -1
 title: "LIVE: 2025 People's Assembly"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
