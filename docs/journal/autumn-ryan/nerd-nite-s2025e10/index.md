@@ -433,7 +433,7 @@ Tech property surplus.
 **How far away from Skynet are we?**
 
 Looks to Yuan LeCun, soon-to-be former Meta engineer:
-- https://ground.news/article/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company_4f2e1b
+- [://ground.news/article/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company_4f2e1b](//ground.news/article/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company_4f2e1b)
 
 > I don't think we're going to have Skynet anytime soon. Don't quote me on that.
 
