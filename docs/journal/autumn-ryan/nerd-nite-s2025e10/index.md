@@ -42,7 +42,7 @@ The Bosses here at Nerd Nite are as these:
 - Hannah Bauer
 - Jamie Fritz
 
-In 2003, Chris Balakrishnan was studying Indogobird as part of his doctorate at Boston University. An NYC event began, and the rest is history (that I can barely abridge because they're going through it fast!)
+In 2003, Chris Balakrishnan was studying Indigobird as part of his doctorate at Boston University. An NYC event began, and the rest is history (that I can barely abridge because they're going through it fast!)
 
 ### Chris Pruneski
 
@@ -432,7 +432,7 @@ Tech property surplus.
 
 **How far away from Skynet are we?**
 
-Looks to Yuan LeCun, soon-to-be former Meta engineer:
+Looks to Yann LeCun, soon-to-be former Meta engineer:
 - [://ground.news/article/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company_4f2e1b](//ground.news/article/metas-chief-ai-scientist-yann-lecun-to-leave-meta-and-start-new-ai-research-company_4f2e1b)
 
 > I don't think we're going to have Skynet anytime soon. Don't quote me on that.
