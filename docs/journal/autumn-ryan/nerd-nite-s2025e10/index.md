@@ -380,8 +380,11 @@ Paying for software is stupid.
 #### Lack of Ownership and Accountability
 
 **Ownership**: When you build on someone else's platform, you're a tenant.
+
 **Freedom**: No terms of service to violate.
+
 **Creativity**: The constraints of corporate platforms kill creativity.
+
 **Legacy**: Platforms come and go.
 
 If I wanna break it, that's my prerogative.
@@ -397,7 +400,7 @@ Consent matters.
 
 > Get information from your own spaces.
 
-The Economic sof Independence
+The Economics of Independence
 
 - The Math of Viability
 - Stop Paying the "Platform Tax"
