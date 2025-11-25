@@ -90,9 +90,7 @@ body {
 #main {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  flex-grow: 1;
-  margin: auto;
+  margin: 0 auto auto;
 }
 #main h3 {
   font-size: 2.4em;
@@ -123,7 +121,15 @@ body {
   font-size: 1.2em;
   font-family: ArticleFont !important;
   margin: 0 auto;
+  gap: 1.8em;
   text-align: justify;
+}
+.dual {
+  display: flex;
+  flex-direction: row;
+}
+#readme h2 {
+  margin: 0 auto !important;
 }
 #authors {
   display: flex;
@@ -137,22 +143,29 @@ body {
   font-family: ArticleFont, "Times New Roman", times, serif;
   font-size: 2em;
 }
-#authors > section > .size {
-  text-align: center;
-  margin: 0 auto;
-}
 .contacts {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding-bottom: 1em;
-  margin: 0 auto 1em;
-  border-bottom: 1px solid var(--fg2);
+  margin: 0 auto;
+}
+#authors section > .size {
+  text-align: center;
+  margin: 1em auto;
+}
+.license {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: JournalFont, "Times New Roman", times, serif;
 }
 .piece-list {
   display: flex;
   flex-direction: row;
   gap: 1em;
+  margin-top: 1em;
+  border-top: 1px solid var(--fg2);
+  padding-top: 1em;
 }
 .piece-list .size {
   width: 8em;

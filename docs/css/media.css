@@ -15,6 +15,9 @@
   :root {
     --w-min: 100%;
   }
+  .dual {
+    flex-direction: column;
+  }
   html::before{
     background:
       /* wider oval for very narrow display */

@@ -6,8 +6,13 @@ priority: 1.0  # minor: sitemap scan priority
 
 {% include indexed.html %}
 
-<section id="readme" class="content" markdown="1">
+<section id="readme" class="dual">
+<div class="content" markdown="1">
 {{ site.civic_readme }}
+</div>
+<div class="content" markdown="1">
+{{ site.civic_license }}
+</div>
 </section>
 
 {% assign authors = site.pages
@@ -43,12 +48,13 @@ priority: 1.0  # minor: sitemap scan priority
       {%- assign words = piece.content | number_of_words -%}
       {%- assign total_words = total_words | plus: words -%}
     {%- endfor -%}
-    <div class="size"><strong>{{ total_words }} w</strong></div>
     <div class="contacts">
       {% for email in emails %}
         <a href="mailto:{{ email }}">@{{ email | split: "@" | reverse | first }}</a>
       {% endfor %}
     </div>
+    <div class="size"><strong>{{ total_words }} w</strong></div>
+    {%- comment -%} <h3 class="license"><a href="/journal/autumn-ryan/LICENSE">LICENSE.md</a></h3> {%- endcomment -%}
 
     <div class="piece-list">
       <div data-kind="journal" markdown="1">
