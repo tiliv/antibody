@@ -6,13 +6,8 @@ priority: 1.0  # minor: sitemap scan priority
 
 {% include indexed.html %}
 
-<section id="readme" class="dual">
-<div class="content" markdown="1">
+<section id="readme" class="content" markdown="1">
 {{ site.civic_readme }}
-</div>
-<div class="content" markdown="1">
-{{ site.civic_license }}
-</div>
 </section>
 
 {% assign authors = site.pages
@@ -74,4 +69,8 @@ priority: 1.0  # minor: sitemap scan priority
   </section>
 
 {% endfor %}
+</section>
+
+<section id="license" class="content" markdown="1">
+{{ site.civic_license }}
 </section>

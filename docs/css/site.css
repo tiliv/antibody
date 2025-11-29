@@ -117,6 +117,7 @@ body {
   white-space: nowrap;
   flex-wrap: initial;
 }
+#license,
 #readme {
   font-size: 1.2em;
   font-family: ArticleFont !important;
@@ -128,7 +129,7 @@ body {
   display: flex;
   flex-direction: row;
 }
-#readme h2 {
+#license h2, #readme h2 {
   margin: 0 auto !important;
 }
 #authors {
