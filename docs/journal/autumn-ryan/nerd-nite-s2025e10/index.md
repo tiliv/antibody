@@ -1,6 +1,6 @@
 ---
 date: 2025-11-20
-rank: -2
+rank: 2
 title: "LIVE: Nerd Nite S2025E10"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

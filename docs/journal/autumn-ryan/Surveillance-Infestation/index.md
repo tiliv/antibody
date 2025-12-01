@@ -1,6 +1,6 @@
 ---
 date: 2025-11-29
-rank: -4
+rank: -1
 title: "NOTING: Surveillance Infestation"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

@@ -1,6 +1,6 @@
 ---
 date: 2025-10-30
-rank: -1
+rank: 5
 title: "NOTING: Verra Mobility"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
