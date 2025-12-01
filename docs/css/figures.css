@@ -1,7 +1,7 @@
 .side {
   margin: 0;
   align-self: start;
-  grid-row: auto / span 5;
+  grid-row: auto / span 10;
 }
 .side.left { grid-column: left / content-start; justify-self: end; }
 .side.right { grid-column: content-end / right; justify-self: start; }
