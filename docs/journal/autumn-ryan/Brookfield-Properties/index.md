@@ -187,7 +187,6 @@ Having filled out this quiz to the best of my ability and recollection, I submit
 
 > If you have any questions, please contact a member of the privacy team.
 
-
 {% include cite.html
   credit="November 8: Me, in reply"
   headline="(Request ID: FJWVTS9ND6) Unable to verify your identity"
@@ -323,3 +322,47 @@ I looked around at them all as I asked this, to make it clear I was a human talk
 I have yet to read one word of anything said `Sincerely` from Service Account.
 
 Methinks they're about to ask for an extension.
+
+#### Fake history
+
+{% include figure.html file="wrong-date.png"
+  overview="A cropped screenshot fragment of the ticket which shows the false date they claim my request began."
+  caption="They are using a fake date as the beginning of my request, while they undoubtedly possess the original letter with the correct date from October."
+%}
+
+{% include figure.html file="access-request-log.png"
+  overview="A cropped screenshot of the comment log that they created with a backdated and empty request in my name."
+  caption="This log documents in reverse chronological order the comments added to the ticket they backdated. It claims I will receive a further response in 'the next 45 days', beginning from December 1."
+%}
+
+The ticket log documents a fake timeline and tries to reset the 45 day clock to begin on December 1:
+
+{% include cite.html
+  credit="Their falsified initial report with an incorrect date:"
+  headline="From Autumn Valenta"
+  cite="Comment 1, claimed date: 11/08/2025 07:49 PM MST"
+%}
+
+> ** _System Generated Message: No text was entered into the Request Details field by the individual_ **
+
+{% include cite.html
+  credit="Their first honest contact:"
+  headline="From Brookfield Data Privacy Team"
+  cite="Comment 2, claimed date: 12/01/2025 09:16 PM MST"
+%}
+
+> "From Brookfield Data Privacy Team"
+
+> _Dear Autumn Valenta,_
+
+> _In view of the nature of the request and associated complexity, Brookfield Properties intends to respond further within the next 45 days._
+
+> _Sincerely,_
+
+> _Brookfield Properties Data Privacy_
+
+This is a wholly wrong timeline that launders the December 1 as the start of the 45 days, when in fact, the 45 days have just ended.
+
+I supplied my correction via a comment, and then made another to inform them that I had completed my report to the Colorado AG Phil Weiser.
+
+Tick tock.
