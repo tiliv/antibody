@@ -29,7 +29,7 @@ redirect_from:
 - When I confronted the office staff (within actual minutes of the unsolicited LLM contact), they had an easier time pulling it up than First State Auto Group, and didn't struggle to identify the LLM's contact with me.
 - They admit this one is called Elise.
 - They want to know what my problem is, so that they can wave their hand and give an empty explanation.
-- I asked who named it (as it tradition), and yet again, I have found that no one is capable of speaking about these Agents as anything other than a fully autonomous hoaxes of humanity.
+- I asked who named it "Brook" (as it tradition with these), and yet again, I have found that no one takes responsibility. The AI agent vendors name the agents for them. No one is capable of speaking about these Agents as anything other than a fully autonomous hoaxes of humanity.
   - It works this way precisely because the services are being sold to the property managers the exact same way: The entire point is to set and forget.
 - When I supplied the questions I wanted to ask, she was not ready for how many, and how specific they were. I will have to provide my questions to her directly, because she did not write a faithful version down for her notes.
 - She did not comprehend my issue with consent.
@@ -118,9 +118,9 @@ Given that this LLM is fundamentally unknown to all residents and does not expre
 
 - On October 30 2025, the legal team representing Brookfield Properties with an address in Ontario Canada sent me a receipt of my request, some 14 days after their human agent received it.
 - The link they provided to "verify" my identity for proof of which state I live in (How could I live anywhere but the property they sell me?) was a broken link that led to an HTTP 404.
-- The wording of their receipt acknowledgement made it highly ambiguous whether they considered October 16 or 30 as the receipt date.
+- The wording of their receipt acknowledgement made it highly ambiguous whether they considered October 17 or 30 as the receipt date.
 - I issued a second signed document requesting they attest to the date, and whether their human agent was in fact an agent representing them.
-- They did not acknowledge my second letter directly, but improperly quoted from it the sabotaged date of October 17, instead of 16.
+- They did not acknowledge my second letter directly, but quoted a date from it which I did not supply in the body of my email text.
 - They are freestyling without verifying their own obligations.
 - They issued a new link.
 - The new link was a quiz with no notice of time limits, but on a particularly egregious question about which other states some random person from my extended family owns property (??), I paused the quiz to receive a phone call.
