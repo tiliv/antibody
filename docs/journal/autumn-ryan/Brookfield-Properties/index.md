@@ -20,6 +20,8 @@ redirect_from:
 
 ### Unsolicited
 
+#### Notes
+
 - On the morning of October 16, I was contacted by an LLM with an unsolicited message.
 - An LLM exactly like the First State Auto Group's Impel.ai
 - Only this time it's hording my financial metadata and contact information from the outset, because EliseAI is their CRM.
@@ -54,6 +56,8 @@ redirect_from:
   - In awe, I just left.
 
 - I spent an hour walking around the property talking to my fellow residents, just enjoying some conversation. Who knows if we talked about EliseAI. Who knows.
+
+#### Self-destruction
 
 This must end, Your insatiable capture of Our Homes the whole nation over with a multinational PropTech cartel. You drive up our prices without remorse so that You can spend Your Capital on Hoaxes to run against us, and then feign Your Helplessness while You Enrich Yourselves and the AI vendors who intend for Your Financial Destruction too.
 
