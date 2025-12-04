@@ -25,7 +25,7 @@ All but invisible, these cameras are positioned at the backs of the drivers who 
 
 This local officer made multiple mistakes that day. His mistakes were not the illegal kind, but he assisted me more than he intended. By pulling up to my position on the roadside, where I tapped the old license plate on my chest, pointed at the camera and mimed a spyglass at oncoming cars, this officer graduated my display from mere irreverence to A Problem.
 
-Without me saying much of anything, he started talking about No Expectation Of Privacy and about the 4th Amendment. I hadn't challenged him at all on this points, but he had done enough thinking about it in advance that these arguments were on his lips before they were on mine.
+Without me saying much of anything, he started talking about No Expectation Of Privacy and about the 4th Amendment. I hadn't challenged him at all on these points, but he had done enough thinking about it in advance that these arguments were on his lips before they were on mine.
 
 Across this country, more than Flock cameras infest our streets and highways. The federal government covets the secrecy of these ALPR networks. The Flock network is ostensibly public, because there is No Expectation Of Privacy for a device mounted to a pole.
 
