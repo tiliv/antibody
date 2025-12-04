@@ -39,7 +39,7 @@ This officer is a henchman for a Big Tech boss he's never met and cannot name.
 
 ### Probable Cause
 
-Border Patrol operates with impunity. Federal agents can sting anyone they want by inventing conjecture from the comfort of their concealed vehicle while they watch us drive and use AI to predict where we go and go we go there to see.
+Border Patrol operates with impunity. Federal agents can sting anyone they want by inventing conjecture from the comfort of their concealed vehicle while they watch us drive and use AI to predict where we go and who we go there to see.
 
 With hearsay on their lips, they call marks and targets. When they pull over a car for any one of the litany of Legal Reasons they have amassed over the decades, they can pivot their accusation and keep you pinned down until Border Patrol arrives from their digital lookout nest. Should you not have contraband as they proposed, they can say that the money you carry is suspicious. (Perhaps they think you should stick to bank and credit cards, where data brokers sell you like candy to anyone at all.)
 
