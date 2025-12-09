@@ -1,6 +1,6 @@
-{% capture _src %}
+{% capture _src -%}
 {{ include.location | default: './exhibits' }}/{{ include.file }}
-{% endcapture -%}
+{%- endcapture -%}
 <aside class="{% if include.side %}side {{ include.side }}{% endif %}">
   <iframe
     src="{{ include.url | default: _src }}"
