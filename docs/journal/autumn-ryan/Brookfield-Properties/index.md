@@ -238,7 +238,7 @@ On November 19, the property sent out an email request to us to fill out their p
 %}
 
 {% include cite.html
-  credit="November 17: My public review"
+  credit="November 19: My public review"
   headline="Review of Eagle Ridge"
   url="https://maps.app.goo.gl/jzxMTcSQBEUnorz27"
 %}
