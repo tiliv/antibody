@@ -369,4 +369,4 @@ This is a wholly wrong timeline that launders the December 1 as the start of the
 
 I supplied my correction via a comment, and then made another to inform them that I had completed my report to the Colorado AG Phil Weiser.
 
-Tick tock.
+Tick tock. `ref:!00Dt004XX8.!500cs01HTckO:ref`
