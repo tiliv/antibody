@@ -1,5 +1,5 @@
 ---
-rank: -3
+rank: 0
 title: "Goth Night"
 date: 2025-11-28
 author: Autumn Ryan
