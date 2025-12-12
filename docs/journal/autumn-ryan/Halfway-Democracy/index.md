@@ -19,8 +19,6 @@ redirect_from:
 
 ### Not enough
 
-This piece will examine some failures of democracy as deployed in the United States, whichever adjectival equivocation of its description that we use.
-
 **We have committed to methods that have the effect** of ensuring small majorities (for certain definitions of majority) can conjure malice on their ideological opponents, and it did not start in 2016.
 
 **Capitalist democracies have functioned well** under conditions that ensure a land of opportunity. We are allowed to debate the methods, but we are not doing that; We have all come to believe in Two Americas, though we divide them in our different ways. Us and Them. We act out competition for something scarce or even zero-sum.
