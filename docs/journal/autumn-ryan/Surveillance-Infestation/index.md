@@ -113,35 +113,81 @@ Would the companies fear us if we could assign consequences that had any meaning
 
 ### The Scope of it
 
-(notes)
+I will urge you to familiarize yourself with Third-Party Doctrine:
 
-- ALPR
-- AI
-- prediction
-- mobile networks
-- Wi-Fi Calling and invisible vendor access points as infrastructure
-- CALEA
-- national security
-- partnership
-- marketplaces of theft
-- laundering of ownership
-- the Israeli digital spy economy
-- collusion
-- the meaninglessness of encryption
+- [://en.wikipedia.org/wiki/Third-party_doctrine](//en.wikipedia.org/wiki/Third-party_doctrine)
+
+This is a legal precedent younger than Corporate Personhood, and it goes to vast lengths to say that data held by third parties on our behalf is not protected by the 4th Amendment's requirement of specific warrants for specific information that contributes to a legal investigation.
+
+Third-Party Doctrine pretends to care very much about data that was Given By Consent. You will read the word Consent on every page of court cases, because it was the fundamental ingredient that made the doctrine possible.
+
+If we consentfully engage in a barter that moves our data elsewhere, that data is no longer ours to protect against search and seizure, reasonable or unreasonable.
+
+**However,** Corporate Capitalism has monopolized every facet of our lives, and we no longer engage in a marketplace of consentful interactions.
+
+**I defy you to locate a single instance of Consent** in the following incomplete list:
+
+1. Our <u>parking meters</u> snitch our data and sometimes block the physical payment terminal in order to compel us to use their smartphone app, so that they can snitch our device identifiers, too.
+2. Our <u>phone networks</u> provide terrible coverage in areas or inside buildings, and so those providers sell cities and businesses services like "AT&T WiFi Passport", which harvest our device identifiers whether we connect or not.
+3. Our <u>ISP companies</u> sell us combination modems and WiFi routers which solicit WiFi to people who don't live in our homes, helping to bus the data of other nearby individuals through our own connections, completely invisibly.
+4. Our <u>landlords</u> install smart locks on our doors and smart lights in our rooms, all controllable through an app anytime we are away, granting them insight into their use and at what times of day.
+5. Our <u>websites</u> presume "consent" to a privacy policy just because our browsers loaded an payload sight unseen. They instantly smuggle cookies for triple-digit numbers of "partners" and then "allow" us to opt out, if you push enough botched buttons under concealed scrolling panels and options with inverted phrasing.
+6. Our <u>carriers</u> argue in court that they don't need any form of consent at all to sell every personal detail in their database to third parties with an AI sales agent.
+7. Our <u>National Security Agency</u> can obtain rooms like 641A to perform cutting edge real-time surveillance on all traffic through the choke-point. They can string us out over the course of 15 years to kill the case by gaslighting us real hard.
+8. Our <u>cities</u> can build municipal broadband like Connexion (like the population wanted), then buy a couple of Nokia 7750-SR12 Broadband Network Gateways for choke-points, hire an interception storage company like Subsentio (Hi, Steve Bock). With these tools, your own city is susceptible to CALEA warrants to break into your secure VoiP connections and spy on everything you say, and keep it for a rolling 2-year window.
+9. Our <u>police</u> can purchase cameras from out-of-state providers and force our data to be transported across state lines anytime Verra Mobility snaps a speculative picture, for any unverifiable reason. Verra has no obligation to inform the police which pictures are being taken, unless they wanna make some money by sending potential traffic violations to the police.
+10. Our <u>city councils</u> can strike local agreements and solicit federal money for system support with surveillance baked in. Because it's cheaper that way.
+11. Our <u>phones</u> promiscuously connect to any "WiFi Calling" support infrastructure nearby, which will forcibly terminate your connection to Apple's "Private Relay" service, even if you've turned WiFi off. This is because you have to disable WiFi Calling itself.
+12. Our <u>metrics providers</u> harvest our incidental behaviors on websites via Qualtrics and a host of other software tools.
+13. Our <u>stores</u> closely track and correlate our motion, purchases, faces and schedules.
+14. Our <u>fingerprints</u> are required to make certain transactions in medical centers whose ownership changes every 8 months. The terms you agreed to before have been rewritten a few times. I wonder which agreement governs the use of the data previously captured?
+15. Our <u>palms</u> are required to buy things in some stores.
+16. Our <u>property mangers</u> are bought and sold, sometimes annually, and their databases are leveraged against us to predict our behaviors so that they can force us to leave if they want to raise rent.
+17. Our <u>banks and credit cards</u> sell our habits every time they feel like it.
+18. Our <u>gas stations</u> buy payment processing terminals by powerful vendors like GoDaddy, who enter markets late because they want our card swipes.
+
+*[ISP]: Internet Service Provider
+*[NSA]: National Security Agency
+
+Our Data goes where they want it to go, and It Has Nothing To Do With Consent.
+
+Our Consent is trampled while we sleep, because it is not required for anything they do. They have developed heuristics about what constitutes Our Human Consent, and they optimize to avoid ever asking for it directly. They fear steps that require our consent, so they attack the very meaning of it. They have performed downgrade attacks on us for decades.
+
+These issues are not purely domestic. Our governments have begun data-sharing, too, realizing that by simply becoming Willing Parties, there is no complaint.
+
+The (very) willing companies building spyware for This Country have an astonishingly high incidence of coming from Israel. The Israeli Super-Spartan economy wields more spyware products than you have ever heard of, and Our Governments Are Partnered With Them All.
+
+I sat in a room of SAGE advisors and founders celebrating the year's end, in the Innosphere building in Fort Collins, and somehow, even here, Israel was on the slide about who we had helped via partnership with some other state's university. I Am @#$!%ing Sick Of It. It Is Demented.
+
+**Companies have fully leaned into willful sale and barter of your data.** It is why they exist at all. They are middlemen who realized that there is a (very large) market for willing data rapists.
 
 ### Destruction
-
-(notes)
 
 The 4th Amendment has been fully defeated by companies whatever those are.
 
 We have incentivized monopoly in every form, approving virtually every anti-competitive merger that has ever crossed the desk of regulators. When a deal is at risk, it is just a show, a stickemup for someone to pay someone for the privilege (and that someone is never us).
 
-We have done this by reasoning that anti-competitive behaviors don't touch the mythical asymptote of monopoly. Because the monopoly is not complete against us, it is therefore allowed and encouraged. And it is lucrative, especially for the lawyer class, who have more Privilege in their typing fingers than any one of us will ever enjoy in our entire lives.
+We have done this by reasoning out that anti-competitive behaviors never touch **the mythical asymptote** of monopoly. Because the monopoly is not complete against us, it is therefore allowed and encouraged. And it is lucrative, especially for the lawyer class, who have more Privilege in their typing fingers than any one of us will ever enjoy in our entire lives.
+
+Monopolies surround us, and yet our regulators say `It Doesn't Look Like Anything To Me.`
+
+Spyware is hosted by our own public servants, and our police say `It Doesn't Look Like Anything To Me.`
+
+Corruption infests our development projects, and our mayor says `It Doesn't Look Like Anything To Me.`
+
+Vulnerable systems are relied upon at every corner of the street, and our Governor says `It Doesn't Look Like Anything To Me.`
+
+Mergers are instigated by conflicted interests, and yet our Unitary Executive says `It Doesn't Look Like Anything To Me.`
+
+The corpses of competitive companies are strewn across the resumes of those who worked on them, because powerful corporations bought them, and sighing with relief, they finally say `It Doesn't Look Like Anything To Me.`
+
+**We Are Sick Of It.**
+
+**We want a corporate death penalty.**
+
+**You Are Monopolies, You Conspire Against Us And We Think You're Illegal. We Don't Believe In You Or Your Protectors.**
 
 #### Disgorgement
-
-(notes)
 
 More than mere penalties, we must be powerful enough to take back what they stole from us. This is complicated by the fact that these companies have already spent our money paying their executives and their underlings. The fast reinvestment of our wealth for the compounding attack is a primary feature of the complexity.
 
@@ -149,14 +195,74 @@ The companies whatever those are will surely argue that giving value back to us 
 
 It is time for an explanation. For Once In Their So-Called Lives they must be made to account for their piracy of us.
 
+Every company and third-party partner exists to leverage Our Data as if it were Their Data.
+
+Executives must be fired, bearing culpability for errors in addition to their gains. Their lopsided accountability favors them only. They set the metrics, they set the bonuses. They dictate everything, and they say there is no abuse.
+
+Before music streaming was widely available, we saw so many YouTube uploads containing copyrighted music, and youngsters would write in their video descriptions "No Copyright Infringement Intended", and literally thought that was enough.
+
+**That is how insufficient your disclaimers are, executives.** You are pathetic, evasive and sinister in the enumeration of your responsibilities. You do whatever you want, and point to scribbled disclaimers in documents for protection, which no one reads, not even you.
+
+**Is your shield really lost in the pile of that text?** You have to equip it if you want the AC bonus, dummy. You made up some pretty strange house rules, saying that it counts as equipped even if no combatant has seen it drawn.
+
 #### Disclosure
 
-(notes)
+There is no rational way to fight back against wildcard Terms and the corpus of policy documents that no single human can comprehend. These must be destroyed outright. It must not be possible to reserve untramplable rights while every right left to us is Encumbered by theirs.
 
-There is no rational way to fight back against wildcard Terms and the corpus of policy documents that no single human can comprehend. These must be destroyed outright. It must not be possible to reserve untramplable rights while every right we call our own is Encumbered.
+No matter what state law says, no matter which licenses we force them to obtain, they are too empowered by related law. Our rights are encumbered by their wildcard assertion that privacy policies and terms of use and service can be modified any time they want. When they make errors, they are allowed to recant.
+
+Even when they disclose to us, they can lie to us with impunity (just like the cops!). They disclose nothing of value, while maximizing the rape of Our Data, metadata and derivatives.
+
+**If they do not disclose, their license should be terminated immediately.** They cannot be trusted to do business if they cannot be trusted to tell truth.
+
+Lying is not a crime, but the good news is that we in our cities can write any terms we want via our city governments.
+
+**We should throw out civil leaders** who allow these liars to skate through every planning meeting, every purchasing agreement, every incident.
+
+**We should hold public servants to account** when they abandon their duty to say hard things and protect us.
+
+**Our public servants are failing us** inside of every meeting they have ever taken with a company who later got away with our abuse.
+
+Why is it that our public servants cannot detect predators when they sit in the same room and share a table?
+
+What is going wrong, I dare ask?
+
+**Our servants may be unfit.**
+
+Do you think you would make a better public servant? Do you know how to spot liars and cheaters?
+
+**Would you like to run for a board or commission**, or even a vacancy board? ...Do you even know what those things are? Why don't you know?
 
 #### Disincentive
 
-(notes)
-
 Move Fast And Break Things used to be a sexy slogan in tech companies. They realized that we live in a regulation desert. They knew there were no consequences before we did.
+
+Cities whatever those are get caught up in contracting out to third parties expressly because it is a delegation out to presumed experts.
+
+The companies sure are experts at _something_, but be mindful of what.
+
+The CALEA standards are meaningless when consequences for risky behaviors are masked by language like "unless", "knowingly" or "precautions". These words are smoke, and allow for rampant unaccountable behavior. Our federal administration is a collection of compulsive liars, proving so plainly that these words can be fully ignored if it is expedient in someone's eyes.
+
+*[CALEA]: Commission on Accreditation for Law Enforcement Agencies
+
+The Constitution Of These United States prescribes conflict by argument. Words alone on paper are the subject of the arguments, not the solutions to them.
+
+**Argue.** Take up your power and Argue With Them.
+
+There are simply too many companies who can pretend to respect the contract language, and then do no such thing once they got the coveted signature from a public servant. Governance of yesteryear considered inspections for compliance, but this is a fully failed model of accountability.
+
+**We should seek to harm companies** who enact crime against our privacy and consent.
+
+**We should thin out the herd** of companies who claim to be experts.
+
+**We should create a climate of fear in them**, lest they perpetuate their climate of apathy.
+
+#### Data Whores
+
+**These companies are whores**, and they compete to be the worst. In their world, the whores are competing to be the best.
+
+**The metrics of their success are whorish.** If we saw the extent of their whoring, we would not endorse it. Instead, they hide their whore behavior and write PR to assuage us, using words we get bored of reading.
+
+**These whores do not deserve the prestige** they have cemented in our policies and procedures, our boards and committees, our contracts and agreements. The laws in This Country do not yet recognize them as whores, but We People do.
+
+**Stone these data whores.** They are whores of the highest order, and they have been smiling sickly sweet for far, `far` too long.
