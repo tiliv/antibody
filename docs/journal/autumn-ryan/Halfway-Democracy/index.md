@@ -160,7 +160,7 @@ Talk radio was an important resource in rural America. It had been delivering co
 
 Fox News Entertainment was the visual media version of the same, and though the web has housed communities for some time, The News is where we centralized ourselves. This old media only lasted as long as it took to abandon cable packaging and get digital viewership. Digital viewership was massive in rural communities, frequently leaving Fox digital channels on all day long like a prideful and active billboard for good conservative values and endeavors. They've been stream boosting media since forever.
 
-In Phoenix, malls had suffered the same fate as many places, cutting down the walkable space and wearing its vestigial wings with empty parking lots there. Some malls stayed alive and busy by being outdoor, cheaper to cool and prettier to use. Intel was seen as powerhouses of employment.
+In Phoenix, malls had suffered the same fate as many places, cutting down the walkable space and wearing its vestigial wings with empty parking lots there. Some malls stayed alive and busy by being outdoors, cheaper to cool and prettier to use. Intel was seen as powerhouses of employment.
 
 Today, Intel is "saving" its failed business with a government stake and an abusive relationship to the Unitary Executive.
 
@@ -240,7 +240,7 @@ Texas opens its doors to businesses with confidence. Dallas and San Antonio form
 
 The casual conservative principles I understood from my upbringing were present least of all in Texas's leadership. I yearned for more Ann Richards, but that wasn't a name on lips like Ted Cruz's.
 
-The Uvalde massacre and cascading failure of the police punctured a hole in my hope that Texas would do better with their tools.
+The Uvalde massacre and cascading failure of the police punctured my hope that Texas would do better with their tools.
 
 Today, the flagrant disregard of what regulation does exist is explained with waivers negotiated in private meetings. The AG and governor there seek the medical records of many, to witch hunt the medical histories of families they can't name. I had been taught that the government had no business in medicine, but around me they were conducting investigations into medical histories.
 
