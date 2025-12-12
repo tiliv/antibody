@@ -1,16 +1,15 @@
 ---
 date: 2025-11-29
-rank: -1
-title: "NOTING: Surveillance Infestation"
+rank: -5
+title: "Surveillance Infestation"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [4th amendment, reasonable, penalty]
 
-noting: true
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
