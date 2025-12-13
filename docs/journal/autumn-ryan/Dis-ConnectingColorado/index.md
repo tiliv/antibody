@@ -48,7 +48,7 @@ Local companies (who like to fire a random number every quarter) like HP, Oracle
 
 It had been brewing in me for some time that one reason I loathed writing resumes and cover letters (despite loving the opportunity to shine by writing unique ones) was that I didn't believe in the flimsy rush-to-IPO mission selected by virtually every tech startup.
 
-I have worked in HVAC efficiency and home building incentives through local power utility programs. I have worked in the hiring pipeline itself (and our company got banned from accessing LinkedIn). I have worked in maternal telehealth benefits right at COVID hit the planet.
+I have worked in HVAC efficiency and home building incentives through local power utility programs. I have worked in the hiring pipeline itself (and our company got banned from accessing LinkedIn). I have worked in maternal telehealth benefits right as COVID hit the planet.
 
 In each industry, I have witnessed software engineers who have no training and minimal respect for the regulations they are ostensibly under. I've witnessed work ticket orchestration that implemented GDPR removals by hand, instead of through automation, and I've seen errors. I've seen the apathy. I've seen everyone just trying to make their manager happy so that they don't get another project stolen from their micromanaging co-director of engineer.
 
@@ -78,7 +78,7 @@ That man scheduled a follow-up interview and provided no agenda whatsoever. A we
 
 It was one of the weirdest followups I ever slam dunked. I got that man wrapped around my professionally documented finger, and he told me he wanted me to meet their other executive staff.
 
-He scheduled me for direct injection into the hiring pipeline. My first programming interview was with a young rockstar programmer who needed me to share my screen on my IDE, having provided no guidelines at all. I'm love these live coding backseat driving experiences, because I get to explain how I think and solve problems.
+He scheduled me for direct injection into the hiring pipeline. My first programming interview was with a young rockstar programmer who needed me to share my screen on my IDE, having provided no guidelines at all. I love these live coding backseat driving experiences, because I get to explain how I think and solve problems.
 
 Unfortunately, this tech child saw my Copilot integration (which I keep on a toggle because I hate the autocomplete spam) and something changed instantly in him. He stopped being interested. He must have thought the entire weight of my 15 years of experience was a sham. That child had no idea that I'd been making Graham Dumpleton mad on his mod_python email list in the early 2000s, because this child was barely old enough to walk back then.
 
@@ -162,7 +162,7 @@ The state-backed site is a cookie-cutter job board with no innovation in it at a
 
 > Every candidate deserves to be heard. Eightfold AI Interviewer screens candidates and elevates top talent, so you can focus on final decisions, not first-round interviews.
 
-This site is a horrifying oversimplification of the workforce development mission. It deliberate squashes candidates so that only top candidates stand out, and no one has to focus on first-round interviews.
+This site is a horrifying oversimplification of the workforce development mission. It deliberately squashes candidates so that only top candidates stand out, and no one has to focus on first-round interviews.
 
 Furthermore, this website issues emails to me with multiple "matches" for work, and every single one they have ever sent me is for Oracle, a multinational company who needs no exposure at all.
 
