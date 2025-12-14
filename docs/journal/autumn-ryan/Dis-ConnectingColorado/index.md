@@ -112,7 +112,7 @@ I told him I had.
 
 The Small Business Development Center quit advising non-profits in 2023. You'll have to ask them why, but don't expect a coherent answer. Nobody really knows. They told me to connect with the Poudre Libraries system, which had taken on the brunt of non-profit advising.
 
-When I investigated these resources, it became clear that no non-profit meetings had taken place in over a year.
+When I investigated these resources, it became clear that no non-profit meetings had taken place in over a year. The quarterly meetings were for existing non-profits to shake hands again.
 
 #### FC Chamber of Commerce
 
