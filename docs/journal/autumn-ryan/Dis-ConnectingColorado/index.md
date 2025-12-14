@@ -122,11 +122,11 @@ I walked into their office and met their front desk administrator. This woman th
 
 She didn't seem to care. She gave me a card for Ann Hutchison, the President and CEO of the chamber. Moments later, from my car just outside, I dialed the number. The same administrator picked up.
 
-I made her transfer me to Ann's voicemail. Ann followed up with one of the most disinterested emails I have ever read. The only information Ann thought suitable to type to me was that Comcast was their email provider.
+I made her transfer me to Ann's voicemail. I emailed Suzanne Miller through a contact form, and she followed up with one of the most disinterested emails I have ever read. The only information she thought suitable to type to me was that Comcast was their email provider, and that they weren't a City of Fort Collins office. Neither of these mean anything.
 
 **Is Comcast responsible for checking your spam box for ignored communcations?**
 
-Ann dropped the communication and never replied again.
+Suzanne dropped the communication and never replied again.
 
 In the time since, in the course of my networking in town, I have encountered no fewer than four other business owners who all reported that Ann Hutchison ghosted them for meetings they had set up with her, or quit communicating altogether before a meeting could be established.
 
