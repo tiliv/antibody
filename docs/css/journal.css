@@ -106,7 +106,7 @@ article blockquote u {
 }
 article blockquote u,
 article blockquote del {
-  text-decoration-color: var(--accent);
+  text-decoration-color: var(--io);
 }
 article blockquote code {
   box-shadow: .35em .35em 0 black;
