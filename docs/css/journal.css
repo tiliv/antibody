@@ -220,7 +220,6 @@ article > hr {
   border-color: var(--sh) transparent var(--shade);
   border-style: dashed;
   mix-blend-mode: screen;
-  filter: drop-shadow(0 .3em 0 var(--accent));
 }
 
 article header * {

@@ -1,6 +1,11 @@
+[data-year="2025"] { --accent-age: #990049; }
+[data-year="2026"] { --accent-age: #007d99; }
+[data-year]:not(hr) { background-color: var(--accent-age); }
+hr[data-year] { filter: drop-shadow(0 .3em 0 var(--accent-age)); }
+
+
 .change-stack {
   --bg: canvas;
-  --ink: var(--accent);
   --cap: 0.78;
   display: flex;
   flex-direction: row;
@@ -16,8 +21,7 @@
 .change-stack .bar {
   inline-size: max-content;  /* effective height */
   padding: 0;
-  background: var(--ink);
-  position:relative;
+  position: relative;
 }
 .change-stack li {
   margin: 0;

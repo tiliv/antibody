@@ -55,7 +55,7 @@ contact/{{ page.author | slugify }}.md
       {{ contact_html }}
     {%- endif -%}
     {{ content }}
-    <hr />
+    <hr data-year="{{ page.date | split: '-' | first }}" />
     {{ contact_html }}
   </article>
 </div>

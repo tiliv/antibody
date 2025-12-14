@@ -9,6 +9,7 @@
     {%- endif -%}
     {%- endif -%}
     <li class="bar"
+        data-year="{{ slot.week | split: '-' | first }}"
         data-week="{{ slot.week }}"
         aria-label="{{ slot.week }}: {{ slot.commits }} commits">
       <code data-type="iso-week">{{ slot.week }}</code>
