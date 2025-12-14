@@ -52,7 +52,7 @@ I have worked in HVAC efficiency and home building incentives through local powe
 
 In each industry, I have witnessed software engineers who have no training and minimal respect for the regulations they are ostensibly under. I've witnessed work ticket orchestration that implemented GDPR removals by hand, instead of through automation, and I've seen errors. I've seen the apathy. I've seen everyone just trying to make their manager happy so that they don't get another project stolen from their micromanaging co-director of engineer.
 
-I have seen managers perform hostile takeovers of companies by bringing in hordes of engineers from other companies they've worked in, diluting the culture until it is just another IPO shop. I've exercised stock in such a company, and watched them fail to IPO for three years, despite all of their marketing and time spend on financial news programs talking about IPO coming.
+I have seen managers perform hostile takeovers of companies by bringing in hordes of engineers from other companies they've worked in, diluting the culture until it is just another IPO shop. I've exercised stock in such a company, and watched them fail to IPO for three years, despite all of their marketing and time spent on financial news programs talking about IPO coming.
 
 I've seen managers fawn over nepotistically selected ex Facebook engineers, by that credential alone. The red carpet comes out. No one asks hard questions of the techno-nepotism hires, because we're drowning and just want superstars to help us by magic.
 
