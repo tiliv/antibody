@@ -98,9 +98,9 @@ No One Was Working On What I Wanted To Work On.
 
 The workforce office advisor confirmed this for me. They had no leads. They had no names. They had no groups.
 
-I told him about [://Reset.tech](//reset.tech), who has a job listing page that has been empty for nearly a straight year. I told him about how I emailed them anyway, and then about how I'd asked to interview _them_ so that I could boost their mission. I've never received a reply of any kind.
-
 The thought had been fomenting in me now for some time: Maybe I was the leader, and that was why I had so much pain writing these cover letters for groups I didn't believe in.
+
+I told him about [://Reset.tech](//reset.tech), who has a job listing page that has been empty for nearly a straight year. I told him about how I emailed them anyway, and then about how I'd asked to interview _them_ so that I could boost their mission. I've never received a reply of any kind.
 
 This advisor asked if I'd considered running for office.
 
