@@ -1,6 +1,16 @@
-[data-year="2025"] { --accent-age: #990049; }
-[data-year="2026"] { --accent-age: #007d99; }
-[data-year]:not(hr) { background-color: var(--accent-age); }
+:root {
+  --accent-age-2025: #990049;
+  --accent-age-2025-bright: var(--io);
+  --accent-age-2026: #007d99;
+  --accent-age-2026-bright: #007d99;
+}
+:root[data-dark="true"] {
+  --accent-age-2026-bright: #cdf7ff;
+}
+[data-year="2025"] { --accent-age: var(--accent-age-2025); --accent-age-bright: var(--accent-age-2025-bright); }
+[data-year="2026"] { --accent-age: var(--accent-age-2026); --accent-age-bright: var(--accent-age-2026-bright); }
+
+[data-year]:not(hr,h1,h2,h3,h4,h5,h6) { background-color: var(--accent-age); }
 hr[data-year] { filter: drop-shadow(0 .3em 0 var(--accent-age)); }
 
 

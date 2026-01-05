@@ -44,6 +44,9 @@
   color: var(--fg2);
   text-shadow: 1px 3px var(--sh);
 }
+.journal-font a {
+  color: var(--accent-age-bright);
+}
 #tag {
   font-family: ArticleFont, "Georgia", serif;
 }

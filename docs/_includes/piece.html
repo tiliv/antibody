@@ -2,7 +2,7 @@
   {% include change-stack.html piece=include.piece %}
 
   <div>
-    <h3 class="journal-font">
+    <h3 class="journal-font" data-year="{{ include.piece.date | date: '%G' }}">
       <a href="{{ include.piece.url }}">{{ include.piece.title }}</a>
     </h3>
     <aside>

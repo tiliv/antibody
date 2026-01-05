@@ -38,7 +38,7 @@ contact/{{ page.author | slugify }}.md
   {% include tags.html piece=page %}
   {% include duration.html piece=page %}
   {% include indexed.html %}
-  <code class="date">
+  <code class="date" data-year="{{ page.date | date: '%G' }}">
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>
   </code>
   {% include change-stack.html piece=page %}
