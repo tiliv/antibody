@@ -43,6 +43,7 @@ civic_license: |
 
 preferences:
   dark: false
+  year: "2026"
 
 # Jekyll options
 theme: null
