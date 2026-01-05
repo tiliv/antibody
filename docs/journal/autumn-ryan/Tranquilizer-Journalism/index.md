@@ -28,7 +28,7 @@ We especially refer to outlets which treat political events like a hero-driven s
 
 In writing something (truly anything) about a current event, an outlet plots to swindle you of your attention from the outset. They published it for the purpose. You cannot read two postings at once, so if your eyes are on theirs, they have won the moment. Their prepared trap has already sprung.
 
-Reputability in outlets is not real. You have been tempted to believe it is. However, it is not. Who or what is reputable exactly? The writer or the editor? Is it the CEO? Is the logo? Is it the ethos? Which of these cannot simply be changed in a private board meeting? Reputability may be an accident of converging factors, none of which any cog can force the deliver of.
+Reputability in outlets is not real. You have been tempted to believe it is. However, it is not. Who or what is reputable exactly? The writer or the editor? Is it the CEO? Is the logo? Is it the ethos? Which of these cannot simply be changed in a private board meeting? Reputability may be an accident of converging factors, none of which can any cog force a delivery.
 
 The form is mistaken for function. They all share the same sources, because they are so many birds with their gullets open for more, to be first or to fabricate scoops for karma. The first mover will mathematically get more attention when it matters most. Slow movers can often earn much more, but we will shortly discuss their slop.
 
