@@ -116,7 +116,9 @@ jamesfell:
     - |
       `We saw Ross execute her, and we heard him call her a “Fucking bitch” after doing so.`
     - |
-      This is the mentality that ICE and the DHS is threatening to adopt should people `dare to resist the American Gestapo`.
+      Thousands more were arrested and tortured. The fucking Nazis wrongly believed the assassins had come from Lidice, and so its population was to be wiped from the face of the earth. On June 9, 1942, five days after Heydrich died of his wounds, Nazis began a round up in the village. The next day, the killing began.
+    - |
+      The events in Czechoslovakia in 1942 are but one example of how the fucking Nazis reacted with extermination of “all of yours” when “one of ours” was killed. This is the mentality that ICE and the DHS is threatening to adopt should people `dare to resist the American Gestapo`.
 ---
 
 {% include toc/aside.html %}
