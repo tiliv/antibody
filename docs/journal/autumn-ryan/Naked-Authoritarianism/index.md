@@ -1,6 +1,6 @@
 ---
 date: 2025-09-18
-rank: 2
+rank: -8
 title: "NOTING: Naked Authoritarianism"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -96,6 +96,27 @@ thegatewaypundit_2:
       It’s called `SEDITIOUS BEHAVIOR` AT THE HIGHEST LEVEL. Each one of these `traitors to our Country` should be ARRESTED AND PUT ON TRIAL.
       <br>
       Their words cannot be allowed to stand – `We won’t have a Country anymore`!!! `An example MUST BE SET`. President DJT
+jamesfell:
+- url: https://jamesfell.substack.com/p/ice-and-the-nazi-history-of-one-of
+  title: |
+    ICE and the Nazi History of `“One of Ours, All of Yours”`
+  when: Jan 12, 2026
+  author: James Fell
+  quote: |
+    American Gestapo
+  who: Sweary historian
+  misc:
+    comments: 24
+    restacks: 128
+  extended:
+    - |
+      <img src="exhibits/One-of-Ours-All-of-Yours-cd052d12-2329-4815-a5f2-e45dbc35d794_2176x1512.jpg" />
+    - |
+      After `the murder of Renee Good`, this puppy-killing and plasticized bag of fascism gave a press conference saying the Good shooting was a good shoot. Botox (Klaus) Barbie `proclaimed Renee a domestic terrorist`.
+    - |
+      `We saw Ross execute her, and we heard him call her a “Fucking bitch” after doing so.`
+    - |
+      This is the mentality that ICE and the DHS is threatening to adopt should people `dare to resist the American Gestapo`.
 ---
 
 {% include toc/aside.html %}
@@ -107,3 +128,5 @@ thegatewaypundit_2:
 {% include_relative quote.html info=page.chicago_illinois %}
 
 {% include_relative quote.html info=page.thegatewaypundit_2 %}
+
+{% include_relative quote.html info=page.jamesfell %}
