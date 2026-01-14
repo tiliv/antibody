@@ -11,7 +11,6 @@ public: true
 published: true
 index: true
 redirect_from:
-  - /journal/autumn-ryan-Halfway-Democracy
   - /journal/autumn-ryan-Halfway-Democracy/
 ---
 

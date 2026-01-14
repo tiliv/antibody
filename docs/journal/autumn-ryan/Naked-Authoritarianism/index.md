@@ -12,7 +12,6 @@ public: true
 published: true
 index: true
 redirect_from:
-  - /journal/autumn-ryan-Naked-Authoritarianism
   - /journal/autumn-ryan-Naked-Authoritarianism/
 
 thegatewaypundit:

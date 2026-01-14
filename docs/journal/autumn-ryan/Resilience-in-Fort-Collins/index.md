@@ -12,7 +12,6 @@ public: true
 published: true
 index: true
 redirect_from:
-  - /journal/autumn-ryan-Resilience-in-Fort-Collins
   - /journal/autumn-ryan-Resilience-in-Fort-Collins/
 
 links:

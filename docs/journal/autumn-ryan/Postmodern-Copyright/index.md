@@ -12,7 +12,6 @@ public: true
 published: true
 index: true
 redirect_from:
-  - /journal/autumn-ryan-Postmodern-Copyright
   - /journal/autumn-ryan-Postmodern-Copyright/
 ---
 

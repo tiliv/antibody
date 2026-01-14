@@ -13,6 +13,10 @@ noting: true
 public: true
 published: true
 index: true
+
+redirect_from:
+  - /journal/autumn-ryan/Homelessness/
+
 ---
 
 {% include toc/aside.html %}

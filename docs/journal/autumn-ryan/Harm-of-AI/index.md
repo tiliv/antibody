@@ -13,7 +13,6 @@ public: true
 published: true
 index: false
 redirect_from:
-  - /journal/autumn-ryan-Harm-of-AI
   - /journal/autumn-ryan-Harm-of-AI/
 ---
 

@@ -11,7 +11,6 @@ public: true
 published: true
 index: true
 redirect_from:
-  - /journal/autumn-ryan-Customer-Support
   - /journal/autumn-ryan-Customer-Support/
 ---
 

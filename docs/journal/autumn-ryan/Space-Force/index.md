@@ -12,7 +12,6 @@ public: true
 published: true
 index: false
 redirect_from:
-  - /journal/autumn-ryan-Space-Force
   - /journal/autumn-ryan-Space-Force/
 ---
 

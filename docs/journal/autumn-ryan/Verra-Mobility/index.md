@@ -12,7 +12,6 @@ public: true
 published: true
 index: true
 redirect_from:
-  - /journal/autumn-ryan-Verra-Mobility
   - /journal/autumn-ryan-Verra-Mobility/
 ---
 
