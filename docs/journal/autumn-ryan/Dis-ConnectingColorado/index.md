@@ -189,3 +189,76 @@ If you don't hire me, you will find yourself in competition with me.
 In the Spring of 2026, I will set loose tools for locals to find each other without these horrifying platforms. Our local businesses are closing, failing and drowning.
 
 Our leaders are failing, and they should be losing their jobs instead.
+
+### Reconnecting
+
+The disconnection detailed above was sent to city councils of Loveland and Fort Collins. In Loveland, my Ward's representative replied by CC'ing Senate District 15's Janice Marchman, and the board of county commissioners Jody Shadduck-McNally, Kristin Stephens and John Kefalas.
+
+A placation I have observed as common appeared: No business is required to use the ConnectingColorado database.
+
+This is correct, and I made clear to them that the bleak adoption rate is the problem I am observing. No business seems to have heard of it, so I am not comforted at the lack of outreach to those businesses. No business seems to use it, so I am not satisfied with the database's lack of value or incentive.
+
+The board of commissioners, in doing their jobs, have been repeatedly quick to state that we can go find help in one of a number of support groups.
+
+My observation is that support groups are wholly insufficient. I will go so far as to call them remedial.
+
+In mastering the skills fostered in these groups, jobseekers remain completely stuck beneath a barricade forged by AI platforms and human distance. You can write the best resume and cover letter this side of the Mississippi and still not be seen by local businesses, because it all goes into the same garbage chute that AI is being trained to efficiently ignore.
+
+#### Placement agencies
+
+Recruiting agencies like TEKsystems are filling a gap, and keeping jobseekers pinned down as temporary resources who gain no health benefits for six months or longer. They proxy employment into local businesses who have wholly given up on working with job portals and doing their own interviews. The businesses which TEKsystems works with have barricaded themselves in and now trust TEKsystems to trawl these support groups for leads. When candidates get placed in a company this way, the success is gained by circumventing popular platforms like Greenhouse, Workday, LinkedIn, Indeed and more.
+
+Success via placement agencies is further proof to me that the status quo systems being sidestepped are sick and failing. The TEKsystems model is a condom which lets employers trial employees without having to look very hard at them, making the employees pay for their own healthcare until the perceived risk of removing the employment condom is past.
+
+I attended a NoCoNet meeting and found a full room of people stuck with the lack of opportunity. TEKsystems is there on Zoom to help, for certain values of "help".
+
+To date, the only answer that Larimer County has for job leads is to submit to TEKsystems.
+
+I am concerned that the county is forcing us into a pipeline of one recruiting agency, which apparently maintains a better job database than anyone else by contractual agreement.
+
+I should like to see TEKsystems divest their exclusivity with these local businesses, and for the county to provide tooling that enables these businesses to be visible to us directly. TEKsystems can supply interviewing infrastructure and talent acquisition, but they should not become our employer.
+
+**Workforce Development must not be reduced to stuffing TEKsystems with employees.**
+
+On paper, the TEKsystems mission is to graduate jobseekers into direct employment with one of TEKsystems' exclusively contracted clients. But until it accomplishes that, we are being shoveled into businesses who don't interview us themselves.
+
+TEKsystems exists to quite nearly rehabilitate people into employment. It should not be the primary tool for literally every jobseeker to find leads.
+
+### Reestablishing
+
+#### City Council
+
+On January 6 2026, I gave public comment at my City Council, continuing my civil tirade against tech and private equity stealing away layers of public life. Alongside Flock and Verra Mobility, I called attention to ConnectingColorado.
+
+There was a very large group at this particular council meeting, because Loveland's council continually strives to vanish the homeless and there are many voices for and against that.
+
+I bent this audience into listening to me for two minutes (shortened from three because that's what keeps happening when Loveland votes on contentious issues and draws so many comments).
+
+**You pay them, _and_ you give them our data. That is not the art of the deal.**
+
+#### SD-15 listening session
+
+On January 7 2026, SD-15's Janice Marchman held a listening session at the Loveland Public Library. I took notes.
+- [://antibody/Senate-District-15/](//antibody.discoverywritten.com/journal/autumn-ryan/Senate-District-15/)
+
+Janice had been present at the city council meeting the night before, and recognized me right away when I entered the Gertrude Scott Room. She thanked me for what I'd said.
+
+I wrote down my question for her on a paper, but we did not end up reading those directly. As a result, I raised the issue directly in the closing minutes of the listening session. I watched as two state candidates immediately wrote down the name `eightfold.ai` when it left my lips.
+
+After, spoke with Mackenzie, Janice's campaign manager. I arranged coffee to discuss campaign experiences.
+
+#### County Administrative Matters
+
+On January 13 2026, I gave public comment for the board of Larimer County commissioners. Jody Shadduck-McNally, Kristin Stephens and John Kefalas were all present. Few others were there, because the meeting takes place at 9am on a Tuesday.
+
+I began my comment by informing them that they had an email from me in mid December, and that I was contacting SD-15's rep about it, on account of ConnectingColorado being a State Issue. All three of them nodded immediately, which affirmed to me that I was doing the right thing.
+
+All three gave individual reply to me. A county assistant (forgive me if there is a better job title I did not realize) gave me the contact information for Mark Johnston, Director of Economic & Workforce Development, which is public anyway.
+
+Immediately after this comment, I had that coffee with Mackenzie, and I prepared myself for what it would mean to go to caucus in a few short months.
+
+Within hours, Janice emailed me personally with a confirmation that Jody Shadduck-McNally had re-forwarded my emails from December, which links to this piece.
+
+Janice Marchman is scheduling a meeting with Mark Johnston.
+
+Kelly Folks, I'm coming for you next.
