@@ -61,7 +61,7 @@ Transparency: She does not monetize stories about injustice on social media plat
 
 #### Who is The System?
 
-Every agency that can be abbreviated is part of this network. City councils, elected county commisioners, police departments, boards, commissions, courts, district attorneys, public defenders, and more.
+Every agency that can be abbreviated is part of this network. City councils, elected county commissioners, police departments, boards, commissions, courts, district attorneys, public defenders, and more.
 
 It does not include benevolent individuals who work in The System.
 
@@ -71,7 +71,7 @@ The more you stay silent, the more money they make.
 
 The corruption controls the good guys.
 
-It includes every private and or non-profit organization that takes money from the government. Goveernment money is control of non-profits and private organizations. You may not be successful at your mission if this is you.
+It includes every private and or non-profit organization that takes money from the government. Government money is control of non-profits and private organizations. You may not be successful at your mission if this is you.
 
 #### Asa Peck #B2401624
 
@@ -109,13 +109,13 @@ The System has control because people are overwhelmed by surviving.
 
 ### Homelessness Feeds The System
 
-Shelters feeds The System, while housing does not.
+Shelters feed The System, while housing does not.
 
 Stepping outside of your comfort zone, read things you don't want to read.
 
 The System knows that it is not working, but it keeps you in a chaos loop.
 
-- Upstream: Dan Heath (The quest to solve [...])
+- Upstream: Dan Heath (The Quest to Solve Problems Before They Happen)
 - Bench Ansfield: Born In Flames (Wealthy  builders and developers and slum lords intentionally design entire communities to be controlled by and dependent on The System)
 - gardiner harris: no more tears (The System intentionally creates products that hurt people. And. The System intentionally prescribes drugs to get people addicted.)
 - Timothy Egan: A Fever In The Heartland (The System designs programs to attack the most vulnerable people in our community and then design programs to "solve" the problem.)
@@ -169,7 +169,7 @@ Attend Asa Peck's sentencing hearing.
 
 > Fort Collins, Colorado 80521
 
-Guilty of violating a protection order, sexual assault, and murder.
+Guilty of violating a protection order, sexual assault and murder.
 
 ### Loveland Is Dirty
 

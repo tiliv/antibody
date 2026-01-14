@@ -8,7 +8,6 @@ author_email: autumn@discoverywritten.com
 tags: [representation, local, engagement]
 
 live: true
-noting: true
 public: true
 published: true
 index: true
@@ -60,7 +59,7 @@ Fires.
 
 > They can't get anything but Xcel. They can't get anything back when they lose money. They're kinda stuck with that.
 
-> Boulder COunty has some rules that require someof their pumps to be grinder pumps as part of water and sewer. They are completely electric. When the power goes out there are only 10 gallons of water and it becomes a sanitary issue.
+> Boulder County has some rules that require someof their pumps to be grinder pumps as part of water and sewer. They are completely electric. When the power goes out there are only 10 gallons of water and it becomes a sanitary issue.
 
 > We've been moving towards closing down coal, meeting environmental targets.
 
@@ -102,7 +101,7 @@ On Monday is a senate retreat to put heads together and figure out what to do, s
 
 Freight rail safety controls being antagonized because we want to do rail between Denver and Fort Collins.
 
-Have a steady plan to make a steady plan. We are scrambling. Watching GOvernor Walz. Political violence in the state previously.
+Have a steady plan to make a steady plan. We are scrambling. Watching Minnesota Governor Tim Walz. Political violence in the state previously.
 
 > We are in a four alarm crisis.
 
@@ -128,7 +127,7 @@ The parents and students are impacted by these issues. Local wants it to be more
 
 Denver Health is private even though we subsidize it. It can't be told what to do.
 
-####
+#### Sex offenders
 
 Home opened in the neighborhood and someone began renting it to five child sex offenders, plans to increase it to eight. Convictions, substance abuse. 4-block proximity to school. CARR-permitted a facility.
 
@@ -152,17 +151,17 @@ Concern that there is a propensity to place these within school range.
 
 Here, there is no on-site staff. Concern with how few barriers there are.
 
-- Tricia is frequently going off on national social media-tier issues. Lauren Boebert, Matt Gaetz, Epstein. This is missing the local issue. Sharp blame on Republicans for not getting a return on TABOR. Very broad anti-focus, talking like a soundbite generator. Bad Venezuela, offshore accounts.
+- Trisha is frequently going off on national social media-tier issues. Lauren Boebert, Matt Gaetz, Epstein. This is missing the local issue. Sharp blame on Republicans for not getting a return on TABOR. Very broad anti-focus, talking like a soundbite generator. Bad Venezuela, offshore accounts.
 
-> Tricia: I'm going to the mat on that. We have to get rid of Lauren Boebert, though.
+> Trisha: I'm going to the mat on that. We have to get rid of Lauren Boebert, though.
 
-> Tricia: MAGA is not a coherent coalition. [...] I was just on conservative radio today. [...] I've worked with MAGA republicans. I was Bernie Sanders very first press intern, by the way.
+> Trisha: MAGA is not a coherent coalition. [...] I was just on conservative radio today. [...] I've worked with MAGA republicans. I was Bernie Sanders very first press intern, by the way.
 
 #### Proud of Colorado
 
 Tina Peters. Governor is wavering on this. Thinks sentence was too long.
 
-- Polis needs to straighten up.
+- Polis needs to straighten up. During this meeting, I wrote and sent an email to our governor urging him not to bend on this. Within two days, he gave an interview to
 
 #### Tipping Point
 
@@ -170,7 +169,7 @@ Tina Peters. Governor is wavering on this. Thinks sentence was too long.
 
 Partners at all levels.
 
-Tricia comes from US National Science Foundation. Technology going to farmers, storing carbon, and more.
+Trisha comes from US National Science Foundation. Technology going to farmers, storing carbon, and more.
 
 > People are waking up.
 
