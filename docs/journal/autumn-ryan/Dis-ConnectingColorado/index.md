@@ -245,7 +245,7 @@ Janice had been present at the city council meeting the night before, and recogn
 
 I wrote down my question for her on a paper, but we did not end up reading those directly. As a result, I raised the issue directly in the closing minutes of the listening session. I watched as two state candidates immediately wrote down the name `eightfold.ai` when it left my lips.
 
-After, spoke with Mackenzie, Janice's campaign manager. I arranged coffee to discuss campaign experiences.
+After, I spoke with Mackenzie, Janice's campaign manager. I arranged coffee to discuss campaign experiences.
 
 #### County Administrative Matters
 
