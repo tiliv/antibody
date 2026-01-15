@@ -1,6 +1,6 @@
 ---
 date: 2025-11-03
-rank: 2
+rank: -11
 title: "NOTING: Universal Music Group"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -148,3 +148,53 @@ It's the floppy disk era.
 We'll see you when we see you.
 
 Take Heart.
+
+### Andrew Sanchez, CEO
+
+On Christmas 2025, I published an Udio track addressed to Andrew Sanchez.
+
+{% include udio.html
+  uid="hYAC8kypoatyZ3jhv6iU6Q"
+  caption="Merry Diss-mass, Andrew Sanchez"
+%}
+
+I also messaged him about it directly on LinkedIn.
+
+{% include figure.html file="linkedin.png"
+  overview="A cropped screenshot of a LinkedIn message revealing an unanswered message with an Udio link."
+  caption="I got no reply, but the track is trending for a month."
+%}
+
+Later, once they opened a new job posting using the mass data broker outlet known as Greenhouse, I submitted a resume for a role they're not hiring for.
+
+{% include cite.html
+  credit="Cover letter submitted to Udio on January 14 2026"
+  url="https://job-boards.greenhouse.io/udio"
+  headline="Their new slogan: 'Empowering Artists and Super Fans with AI'"
+%}
+
+> Dear hiring manager,
+
+> Since the departure of David (Fengning) Ding, Andrew Sanchez has driven your company into total destruction.
+
+> I submit to you my resume as a candidate for CEO. Having more experience than Andrew Sanchez has acquired in any “job” he has “fulfilled” in his entire life, I assert that I have more skill. I have led people, projects into novel territory with no competitors.
+
+> I come to you with strong experience using Udio; I possess the longest and most inpainted extension composition on your platform, entitled LARASTELLE; I participated in your Trusted Tester program since late 2024; I have reported more bugs on your platform than any other TT member. I have answered every developer poll with more interest than any other TT member.
+
+> I come to you as a passionate maker of music since well before modern AI existed; I drove growth at bandamp.com, pursued radio partnerships, and ran community engagement. I have defied genres while holding an acoustic guitar and helming a piano.
+
+> I come to you as a powerful technologist; I have driven growth at startups for 15 years, and I have never, ever missed.
+
+> I come to you as a citizen journalist, who is actively reshaping Economic & Workforce Development in the state of Colorado. Janice Marchman and Mark Johnston are meeting and arguing because of my actions alone.
+
+> I am singular, and I am unafraid of anyone. Meanwhile Andrew Sanchez is a poison. He has situated your company to destroy its hiring potential, its marketing, its model development, and he has expressly sought to sabotage your defense lawsuit against record labels which would make you into their hungry slave. Andrew Sanchez has authorized the worst deal in AI music history, and he possesses the recklessness to further destroy your brand and marketing.
+
+> Andrew Sanchez must be stopped. You have a fiduciary responsibility to your own staff to oust him and install someone with a vision. The “vision” Sanchez brings is a detriment to the entire industry, and he has grown comfortable dining with slave masters. If you continue to follow this flawed man, he will ensure that your company suffocates and dies. He should be removed immediately.
+
+> If you take a single meeting with me, I will radicalize you. You know I will, because you already know Andrew Sanchez is unfit for leadership in this precarious age.
+
+> You already know I'm right. Now, you know I am bold.
+
+> Take Heart,
+
+> —<br>Autumn Valenta<br>autumn@discoverywritten.com
