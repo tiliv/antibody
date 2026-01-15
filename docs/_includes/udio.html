@@ -1,0 +1,8 @@
+{% assign iframe_url = "https://www.udio.com/embed/" | append: include.uid | append: "?embedVariant=alternate&utm_source=generator" -%}
+{%- include iframe.html
+    url=iframe_url
+    overview="iframe media player for AI-generated music on Udio"
+    caption=include.caption
+    height=228
+    style="border-radius:12px;"
+%}
