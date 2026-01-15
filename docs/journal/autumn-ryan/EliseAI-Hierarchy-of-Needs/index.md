@@ -15,12 +15,9 @@ redirect_from:
   - /journal/autumn-ryan-EliseAI-Hierarchy-of-Needs/
 ---
 
-{% include iframe.html
-    url="https://www.udio.com/embed/4pKwWtCSz7dRSY12e668yX?embedVariant=alternate&utm_source=generator"
-    overview="AI-generated music player in an iframe"
-    caption="An AI-generated song about how EliseAI is proudly offshoring your financial and contact information without recourse."
-    height=228
-    style="border-radius:12px;"
+{% include udio.html
+  uid="4pKwWtCSz7dRSY12e668yX"
+  caption="An AI-generated song about how EliseAI is proudly offshoring your financial and contact information without recourse."
 %}
 
 {% include cite.html
