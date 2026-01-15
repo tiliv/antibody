@@ -155,14 +155,14 @@ On Christmas 2025, I published an Udio track addressed to Andrew Sanchez.
 
 {% include udio.html
   uid="hYAC8kypoatyZ3jhv6iU6Q"
-  caption="Merry Diss-mass, Andrew Sanchez"
+  caption="Merry Diss-mas, Andrew Sanchez"
 %}
 
 I also messaged him about it directly on LinkedIn.
 
 {% include figure.html file="linkedin.png"
   overview="A cropped screenshot of a LinkedIn message revealing an unanswered message with an Udio link."
-  caption="I got no reply, but the track is trending for a month."
+  caption="I got no reply, but the track is trending for a month. Yawn."
 %}
 
 Later, once they opened a new job posting using the mass data broker outlet known as Greenhouse, I submitted a resume for a role they're not hiring for.
