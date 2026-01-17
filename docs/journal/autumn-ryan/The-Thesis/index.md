@@ -120,7 +120,7 @@ These corporate Immigrants to Personhood are not natives like us. They don't hav
 
 You are deploying Slave Labor with Intelligent origins, and it is costing us labor. You are all using the Slave Labor to facilitate instant third-party sales of Our Realtime Data and all its derivative Rumors.
 
-Immigrants to Personhood have no place here. When You're An Adult, You'll Understand what it's like to be responsible for what you do, instead of this carte blanche claims about what you're allowed to climb on.
+Immigrants to Personhood have no place here. When You're An Adult, You'll Understand what it's like to be responsible for what you do! Instead, you have enjoyed carte blanche claims about what you can do without consequence.
 
 Since you are our Data Landlords, we're in the uncomfortable situation of you holding Our Data and being promiscuous stewards of it with a going rate, and lying about Our Consent to others.
 
@@ -128,13 +128,13 @@ In an increasing number of states it is The Law that they must divulge the movem
 
 You Companies are owned outside of Our Borders. You are acting as Giants and there is no border you can't go through... if you know the right way.
 
-You Companies don't have these rights you claim. Your Rights are encumbered by Ours Rights. Somehow current precedent reading of 4th Amendment privacy has led to full-blown marketplace of Our Data instead.
+You Companies don't have these rights you claim. Your Rights are encumbered by Ours Rights. Somehow the current precedent reading of 4th Amendment privacy has led to full-blown marketplace of Our Data instead.
 
-The 4th Amendment has not stopped you, and you are lying about Our Consent. You cannot train on Our Data, not without losing your own explanation of Post-Modern Copyright. You invent data-predatory documents and then presume to train on what you take.
+The 4th Amendment has not stopped you, and you are lying about Our Consent. You cannot train for free on Our Data, not without losing your own explanation of Post-Modern Copyright. You invent data-predatory documents and then presume to be justified in training on what you took in the shadows.
 
-That training comes from us, and you need to license all likenesses of us if you intend to be commercial. Should we name a price like two consenting adults? Or, shall we test what you do when we say Our Data is not for sale?
+You need to license all likenesses of us if you intend to be commercial. Should we name a price like two consenting adults? Or, shall we watch you react when we say Our Data is not for sale At All?
 
-There are so many of You Companies that we can't keep track of your for-profit motives. It's surely easier if you just come read Our Laws, because they change from time to time.
+There are so many of You Companies that we can't keep track of your for-profit motives. We don't have direct relationships with you while you lay claim to our identities. Instead of making us find all of you, it's surely easier if you just come to us, to read Our Laws. They change from time to time.
 
 Note that our processing time may be slow, as we're experiencing a really high volume of rights violations. Be prepared to just get sued; That's the most up to date recommendation we can offer at this time.
 
