@@ -7,6 +7,7 @@ author_email: autumn@discoverywritten.com
 
 tags: [data, broker, corporations]
 
+re: https://privacy.ca.gov/drop/about-drop-and-the-delete-act/
 noting: true
 public: true
 published: true
@@ -134,19 +135,21 @@ The 4th Amendment has not stopped you, and you are lying about Our Consent. You 
 
 You need to license all likenesses of us if you intend to be commercial. Should we name a price like two consenting adults? Or, shall we watch you react when we say Our Data is not for sale At All?
 
-There are so many of You Companies that we can't keep track of your for-profit motives. We don't have direct relationships with you while you lay claim to our identities. Instead of making us find all of you, it's surely easier if you just come to us, to read Our Laws. They change from time to time.
+There are so many of You Companies that we can't keep track of your for-profit motives. We don't have direct relationships with you while you lay claim to our identities.
 
-Note that our processing time may be slow, as we're experiencing a really high volume of rights violations. Be prepared to just get sued; That's the most up to date recommendation we can offer at this time.
+Instead of making us find all of you, it's surely easier if you just come to us, to read Our Laws. They change from time to time.
+
+Note that our processing times may be slow, as we're experiencing a really high volume of rights violations. Be prepared to just get sued; That's the most up to date recommendation we can offer at this time.
 
 ### Passive Income
 
-Passive income is what The Companies get when they sell Our Realtime Data. They invented it, not us. But we own that data, and so if it has a price, we will name it ourselves; I'm woke enough to cheer for your right to sell yourself without judgement, whatever the pitch.
+Passive income is what The Companies get when they sell Our Realtime Data. We own that data, and so if it has a price, we will name it ourselves; I'm woke enough to cheer for your right to sell yourself without judgement, whatever the pitch.
 
-If I want to stream My Data to strangers, I think I'll handle discussion about that, not You Companies. We'll have every right to make you deal with our hoops and obstructions to stop You Companies from asking at all. We'll probably definitely post an FAQ that I'm sure answers all your questions.
+If I want to stream My Data to strangers, I think I'll handle discussion about that, not The Companies. We'll have every right to make you deal with our hoops and obstructions to stop You Companies from asking at all. We'll probably definitely post an FAQ that I'm sure answers all their questions.
 
 *[FAQ]: Frequently Asked Questions
 
-Citizens of This Country should receive all proceeds of what The Companies do with Our Data. If we don't like what they do, then we don't participate. Consent is in our hands. Discriminating of no one's choices, let The Companies can come market at us with honesty about their asks. You know, basic advertising compliance. Like jeez, make them at least request it. Don't be free-use.
+Citizens of This Country should receive all proceeds of what The Companies do with Our Data. If we don't like what they do, then we don't participate. Consent is in our hands. Discriminating of no one's choices, let The Companies can come market at us with honesty about their asks. You know, like basic advertising compliance. Like jeez, make them at least request it. Don't be free-use.
 
 Artificial Intelligence exists now, and so highly programmable surveillance does too.
 
@@ -161,3 +164,113 @@ If they're gonna sell, at least let's see the price tag.
 Mandate that Data Brokers reform as consentful research depots, just by halting the sale of Rumors without our compensation. We have Rogue Agents out there selling our derived likenesses, and that is not authorized.
 
 Solve Data Tenancy by addressing Passive Income. Don't try to make something new like a Progressive, just use what's in front of us. Don't compete with them, just take over its revenue stream. Think Like A Company if you can.
+
+### Likeness and Licensing
+
+Since we cannot prevent AI unfolding in our space, we shall have to make room for it. At present, The Companies steal from us, and make money doing it.
+
+Layers of our public life have been given over to services like ParkMobile, who suffers data breaches of Our Data. Each company will claim they have No Responsibility for when Our Data gets loose, and then they sell it promiscuously in ways that no member of the public can follow. While they have Our Data Without Responsibility For It, of course it can end up anywhere.
+
+**The Fines For Our Data Loss Are Compound.** We have seen the low quality take-all Privacy Policies that ParkMobile deploys, where 98% clean language can be invalidated by one quick turn to `Unless`. Exceptions carve out extensive power to Do More Without Asking Us.
+
+They have been empowered this way because they can approve Fail Open Consent.
+
+We are powerless to be heard by them, by Their Design, and They Keep Taking More while we cry `Stop`.
+
+Our Governments must not delegate core functions to bro-tier Tech Toys where we pay them **and** give them Our Data. No official I have talked to has dived deeply into Privacy Policies or the core Terms and Conditions.
+
+**We are not participating in The Terms And Conditions. If Our Governments don't read them, then why should anyone assume that we are either?
+
+We all know no one reads them. How, honestly, could anyone? It goes truly without saying that no one reads them.
+
+Frequently, we seem bound by such documents even when we haven't heard of you before.
+
+The Power Of Our Consent must be fundamental to new Labor.
+
+At present, These Companies don't read Our Terms either. Our laws are trampled by the reality that they can make it hard, and turn high effort signs of No Consent away with no obligation to listen.
+
+The Rape Of Our Consent Is Loud. It is everywhere. Companies operating in Colorado are "compliant" with the Colorado Privacy Act in the same way The Rapists haven't been caught yet. I receive non-compliant responses from companies, from Brookfield Properties to 2Auto Group (or its many shifting names). If they are reading the law, then they are even being Advised before giving bad responses.
+
+The only way we get out of this is by wrestling ourselves away from their feeding of technology, which now goes directly the hearts of our police departments and ownership of data no one knows they gather. Presumably, Flock claims all their data comes from Our Consent because the police gave it on their behalf. One could participate in local government City Council meetings and never even know a contract started.
+
+More layers fallen to Not-Responsible Technology Firms, backed by Private Equity who can make anything free. Have they not demonstrated this by pour money into technology firms Who Seem To Burn Money Worse The Bigger They Get.
+
+OpenAI faces diverse criticisms, and a pressing one is this: Tech Firms are powered by Negative Money and They Don't Read.
+
+And they call themselves People by Corporate Personhood, their Negative Money spending the same as Our Free Speech, and apparently allowed to own Our Houses and Real Estate.
+
+No matter what talking heads say about AI running out of data to train on, AI comes for us precisely because we give off the most continuous data, and we can't help it. We might choose to be flattered that they correctly assessed our importance.
+
+Companies proved they were not interested in listening to us at any time, and now suddenly They All Have Their LLM Ears Pressed On Us because Now, Now They Really Are Listening.
+
+If companies can listen this well and claim They Own It All, then change must occur: All AI agents representing and doing business in front of their brand must be capable of directing local privacy law requests to the right inbox.
+
+If these Agents are sold to us on their ability to do anything, but don't have a finger on the privacy request pipeline either, Do You Think We Have A Problem?
+
+Sufficiently Intelligent AI with words must be auditable for its ability to Do Literally Anything about what the AI received while Doing Business and be accountable.
+
+If Our Data has a price, we shall set our own, you gremlins. And it'll be the price They Need To Pay Us for a license on our likeness, no matter how sparsely represented. If These Companies think they can make money because it is a likeness, they'll pay us up front, and for royalties in training and for part of the business graph they say they want to grow. If I give them My Stock, I better be the first one compensated for its demand.
+
+Tech Firms are leading the pack for unaccountable behavior, but they are all capable. It is the Tech Firms who spend so much Negative Money against us and keep taking over Our Data and making us pay for it in our own Governments.
+
+Tech Firms are expressly not responsible in every reading of their behaviors. They could be helping us be heard, and instead they're helping us be Not Heard. Social Media is a boiling pot watched by many, and what you see is shaped by Algorithms, whose court tests revealed it too was Un-Responsible for what it did.
+
+Companies Admit Blame For Nothing, and you are not required to buy that plea. In certain worst cases, there is no competitor to flee to, and they have no greater obligations for it. They get to treat us like they have competitors, but they're using telescopes to spy the horizons to find any, and have no customer service, except through a landlord who is also selling my data.
+
+Our Systems are not watching out for us. They are layered when try to throw them off, and they're all finding Our Data can be given away for corporate toy software to look at it with.
+
+Capitalism's Private Equity will continue to inflate our assets while they still hold them. Our pain is actively fueling their financial gain, while they should have already been trod out on the streets on a court order to meet the buyers of previously stolen homes.
+
+Companies which work with Our Governments, especially local, should be paying us a liability insurance fee, and additional fines when they inevitably lose control of data. The risk should be aligned to what These Companies perceive as risk. We can define the risks to them, and if they think twice about entering an industry, Good.
+
+Companies which do not adhere to our local laws should be Ejected From Business Licensing In The State. Breaking our privacy in particular and building systems that don't let us talk to them, they should not be allowed.
+
+Corporate Immigrants To Personhood which attempt to smuggle data over state lines, by a personal or private relationship or through affiliation, including by API, must operate under New Observability Principles.
+
+Data which is composed of human subjects must have written approval per production, or a signed non-perpetual license for a durable approval.
+
+The Surveillance Of Traits is rapidly becoming pure AI hearsay, and includes things that two people discussing it over lunch would have reason to blush if heard aloud.
+
+No Agent should transact or perform any task that is not also transacted or performed by human employees, with the same data. Here, we secure monitors on what it is You Rumor about us, and simultaneously put it into the heads of humans who on the whole I have found reason to trust from time to time. and if those humans are willing to do the same work. We'd also like to have their reasons Why or Why Not in public filings about the AI pipeline.
+
+AI Employee Managers will soon inhale meeting data and hold 1-on-1 meetings where you will be required to consent to someone warehousing data about a rough patch at work or metrics, and we won't have a choice. We are not only being replaced, the survivors are told to talk to the AI, going on the record for the interested parties to figure out what they wanted to ask about what they exfiltrate, Seized Without A Warrant or Meaningful Consent.
+
+In the world we have, we should be paid for our digital likenesses fetching value with their partners, in aggregate or otherwise. Presently, they handle documents about us knowing that they own it all and that we already lack representation in the process.
+
+Companies do not abide by Colorado Privacy Act rules. I can demonstrate this. Look Anywhere to start. They won't answer in compliant ways.
+
+They are already not obeying the rules, and each disobedience perpetuates Fraud against Our Consent, Our Data used without licensing for commercial intent. We are owed profits and punitive awards on Every Company made to file public record intent to sell consumer data derivatives for any reason.
+
+We must gain the ability to Sue Their Terms in our own medium, as it appears their digital Terms and Privacy documents change too continuously for preservation. If they had to file such notices and core documents in Each State, we make them preserve their intent in the records we find actionable, no longer this nebulous digital paper that wears a single edit date but changes often.
+
+We may bring lawsuits over the document's failed obligations, reporting requirements or paid compensation to the city or to us individually.
+
+There is no Federal Law that can govern, when we all have States of us. Chasing a national rule will harm our rights, as decided by States and Cities which we call home the most. It is good for them to differ, so that the companies can learn they must not sleep on the job of meeting their obligations. With national rules, they will be encouraged to become good friends with the inspector and find their passing marks on a government paper somewhere, like Our Consent ends up on their documents.
+
+Fraudulent Consent must be a harm we can cite and demonstrate in public, and we need to be eager to eject These Companies from Our State and Our Government when they cannot cover sufficient data tenancy liability insurance for their publicly documented behavior.
+
+Too often, when we are harmed by Companies, it is while our local authority cannot tell and is just one of you. These Companies can find themselves on a Peace Board. They have no need to care about borders or jurisdiction law. They are Too Giant.
+
+Eagerly eject companies en route to Giantism from Your State. Look for and promote the use of local companies which have not been allowed to do business. Google has been setting the rate for being listed in certain kinds of results, and County Commissioners dropped business discovery resources.
+
+Let us start hiring our proverbial neighbors, our own Actual People. Let us do it in mediums The Companies don't own or operate.
+
+We need to know LICIL in every instance:
+
+*[LICIL]: Landlord, Insurance, Custody, Intent, Licensing
+
+1. who is our Data `Landlord`
+2. where they get Data Loss `Insurance`
+3. who by name has `Custody` of classes of data
+4. how to express clear `Intent` Signals about Consent
+5. the quantity awarded to us in `Licensing`
+
+This is a distinct break from their simpler tradition of No Responsibility.
+
+If we had power over, and no responsibility for, their internal data, they would be right to be nervous. They'd be nervous if they had a custodian as thoughtless with data as they are.
+
+Governments should be firm in demanding quality expectations for civil infrastructure. As low as the parking meters, we are being harvested at the point of sale, and via location tracking on their app they sometimes force you to use. This includes where you go afterward when you check on the app.
+
+At no point have I Meaningfully Consented to this specific system, because my Consent is being counted automatically, forged for new uses, and profited on.
+
+Consent Forgery protections are now mandatory for us, and we are owed damages. Fines should put some of These Companies out of business. If one wants to gobble up the others and Do Consent Right, feel free. You could always do that.
