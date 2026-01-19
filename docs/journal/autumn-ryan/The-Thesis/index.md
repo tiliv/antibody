@@ -179,25 +179,25 @@ We are powerless to be heard by them, by Their Design, and They Keep Taking More
 
 Our Governments must not delegate core functions to bro-tier Tech Toys where we pay them **and** give them Our Data. No official I have talked to has dived deeply into Privacy Policies or the core Terms and Conditions.
 
-**We are not participating in The Terms And Conditions. If Our Governments don't read them, then why should anyone assume that we are either?
+**We are not participating in The Terms And Conditions.** If Our Governments don't read them, then why should anyone assume that we are either?
 
 We all know no one reads them. How, honestly, could anyone? It goes truly without saying that no one reads them.
 
-Frequently, we seem bound by such documents even when we haven't heard of you before.
+Frequently, we seem bound by such documents even when we haven't heard of 'em before.
 
-The Power Of Our Consent must be fundamental to new Labor.
+The Power Of Our Consent must be fundamental to New Labor.
 
 At present, These Companies don't read Our Terms either. Our laws are trampled by the reality that they can make it hard, and turn high effort signs of No Consent away with no obligation to listen.
 
 The Rape Of Our Consent Is Loud. It is everywhere. Companies operating in Colorado are "compliant" with the Colorado Privacy Act in the same way The Rapists haven't been caught yet. I receive non-compliant responses from companies, from Brookfield Properties to 2Auto Group (or its many shifting names). If they are reading the law, then they are even being Advised before giving bad responses.
 
-The only way we get out of this is by wrestling ourselves away from their feeding of technology, which now goes directly the hearts of our police departments and ownership of data no one knows they gather. Presumably, Flock claims all their data comes from Our Consent because the police gave it on their behalf. One could participate in local government City Council meetings and never even know a contract started.
+The way out is to wrestle ourselves away from their feeding of technology, which now goes directly the hearts of our police departments and ownership of data that no one knows they gather. Presumably, Flock claims all their data comes from Our Consent because the police gave it on their behalf. One could participate in local government City Council meetings and never even know a contract started.
 
-More layers fallen to Not-Responsible Technology Firms, backed by Private Equity who can make anything free. Have they not demonstrated this by pour money into technology firms Who Seem To Burn Money Worse The Bigger They Get.
+More layers are fallen to Not-Responsible Technology Firms, backed by Private Equity who can make anything free. Have they not demonstrated this by pouring money into technology firms Who Seem To Burn Money Worse The Bigger They Get?
 
 OpenAI faces diverse criticisms, and a pressing one is this: Tech Firms are powered by Negative Money and They Don't Read.
 
-And they call themselves People by Corporate Personhood, their Negative Money spending the same as Our Free Speech, and apparently allowed to own Our Houses and Real Estate.
+And they call themselves People by Corporate Personhood, their Negative Money spending the same as Our Free Speech, and are apparently allowed to own Our Houses and Real Estate.
 
 No matter what talking heads say about AI running out of data to train on, AI comes for us precisely because we give off the most continuous data, and we can't help it. We might choose to be flattered that they correctly assessed our importance.
 
