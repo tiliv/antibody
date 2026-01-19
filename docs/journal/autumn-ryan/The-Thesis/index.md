@@ -211,7 +211,7 @@ Sufficiently Intelligent AI with words must be auditable for its ability to Do L
 
 If Our Data has a price, we shall set our own, you gremlins. And it'll be the price They Need To Pay Us for a license on our likeness, no matter the fidelity of the data. If These Companies think they can make money because it is a likeness, they'll pay us up front, and for royalties in training and for part of the business graph they say they want to grow. If I give them My Stock, I better be the first one compensated for its demand.
 
-Tech Firms are leading the pack for unaccountable behavior, but they are all capable. It is the Tech Firms who spend so much Negative Money against us and keep taking over Our Data and making us pay for it in our own Governments.
+Tech Firms are leading the pack for unaccountable behavior, but they are all capable. It is the Tech Firms who spend so much Negative Money against us and keep taking over Our Data and making us pay for the privilege in our own Governments.
 
 Tech Firms are expressly not responsible in every reading of their behaviors. They could be helping us be heard, and instead they're helping us be Not Heard. Social Media is a boiling pot watched by many, and what you see is shaped by Algorithms, whose court tests revealed it too was Un-Responsible for what it did.
 
