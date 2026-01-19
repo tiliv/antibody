@@ -207,9 +207,9 @@ If companies can listen this well and claim They Own It All, then change must oc
 
 If these Agents are sold to us on their ability to do anything, but don't have a finger on the privacy request pipeline either, Do You Think We Have A Problem?
 
-Sufficiently Intelligent AI with words must be auditable for its ability to Do Literally Anything about what the AI received while Doing Business and be accountable.
+Sufficiently Intelligent AI with words must be auditable for its ability to Do Literally Anything about what it received in the course of Doing Business. It must be liable. Somehow, some way, an AI must be liable. We can't let Corporate Personhood be its upbringing, where it is immune to all like a Terrorist President.
 
-If Our Data has a price, we shall set our own, you gremlins. And it'll be the price They Need To Pay Us for a license on our likeness, no matter how sparsely represented. If These Companies think they can make money because it is a likeness, they'll pay us up front, and for royalties in training and for part of the business graph they say they want to grow. If I give them My Stock, I better be the first one compensated for its demand.
+If Our Data has a price, we shall set our own, you gremlins. And it'll be the price They Need To Pay Us for a license on our likeness, no matter the fidelity of the data. If These Companies think they can make money because it is a likeness, they'll pay us up front, and for royalties in training and for part of the business graph they say they want to grow. If I give them My Stock, I better be the first one compensated for its demand.
 
 Tech Firms are leading the pack for unaccountable behavior, but they are all capable. It is the Tech Firms who spend so much Negative Money against us and keep taking over Our Data and making us pay for it in our own Governments.
 
