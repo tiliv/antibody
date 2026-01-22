@@ -301,7 +301,7 @@ Colorado Open Records Act has led me to look for literally any evidence at all o
 
 I'm not nostalgic for a phone book, but that would literally be better than what we have today, and what I'm telling You, All Of You, is that all ConnectingColorado.gov had to do was _be a phone book_ and it would be more useful than this AI Slop.
 
-What I see from eightfold.ai is the most vanilla boring thing literally any talentless software engineer would picture.
+What I see from eightfold.ai is the most vanilla boring thing any talentless software engineer would picture.
 
 We possess tremendously poor powers of Reflection in our communities. Eightfold.ai's product could not possibly do it. It is categorically unable. And so, I want to know about the project staff.
 
