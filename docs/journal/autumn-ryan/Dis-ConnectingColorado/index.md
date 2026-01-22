@@ -283,17 +283,17 @@ Jobseekers did not benefit from this, so who did?
 
 I would like to see the project documents because I know eightfold.ai is incompetent for our mission, but I need to know if our local officials are too.
 
-A workforce platform in the state of Colorado must acknowledge how sharply split it is for urban and rural. Don't draw lines there though, because I've met metal and woodworkers with a long history in Loveland or Fort Collins. For as many moved here, many are well into a third decade.
+A workforce platform in the state of Colorado must see the composition of our communities and the way DoorDash draws big boxes around you.
 
-Elected officials and appointees, what does Minecraft has in common with Workforce Development? The short answer: The fun is building what you want with what you have, and your group knows how to come see.
+What Minecraft should have in common with Workforce Development is sandbox with choices. Games make it easy to scratch at our satisfaction for incremental progress. While jobseeking, progression is rare. I'd struggle to keep an honest list of top 20 companies I care anything for, but I have to send to 100 and more.
 
-Games make it easy to scratch at our satisfaction for incremental progress. While jobseeking, progress comes rarely even when you're looking out for some.
+Instead of no-progression hell, Chamber of Commerce needs to innovate how to gain a voice with small business owners, using what they know of larger modes of business to do more.
 
-Chamber of Commerce needs to participate in small business conversations, using what they know of larger modes of business to do more than point people at the SBDC. Fort Collins Chamber of Commerce is not a city-run org, and they're immune to the feedback I've tried. They would first of all need to care.
+They have wanted membership dues, and they're collecting with larger companies. You can hear the Chamber of Commerce ads on the gas station radios in Johnstown, and its glossy production that advertise how to become a member. There really isn't a pitch to win you over, just, become a member.
+
+Fort Collins Chamber of Commerce is not a city-run org, and they're immune to the feedback I've tried. They would first of all need to care.
 
 They reportedly do not.
-
-They want membership dues, and they're collecting with larger companies. You can hear the Chamber of Commerce ads on the gas station radios in Johnstown, and its glossy production that advertise how to become a member. There really isn't a pitch to win you over, just, become a member.
 
 ConnectingColorado.gov should be a place where we see our communities come to life without ad spends with Google, Meta and on AI. Our site should be built on technology that we get to own and be proud of because it gives our communities the powers of Reflection, to see themselves without the toxins of Big Tech and advertisement.
 
