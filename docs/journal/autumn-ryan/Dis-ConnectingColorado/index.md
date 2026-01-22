@@ -259,6 +259,24 @@ Immediately after this comment, I had that coffee with Mackenzie, and I prepared
 
 Within hours, Janice emailed me personally with a confirmation that Jody Shadduck-McNally had re-forwarded my emails from December, which links to this piece.
 
-Janice Marchman is scheduling a meeting with Mark Johnston.
+Janice Marchman is scheduling a meeting with accountable groups, like Mark Johnston as Director of Economic and Workforce development, and the CDLE.
 
-Kelly Folks, I'm coming for you next.
+*[CDLE]: Colorado Department of Labor and Employment
+
+Kelly Folks, I'm coming for you. I don't know if she has a say in anything at all, or power to recommend changes. I'd love to have an interview, though.
+
+#### Recalculating
+
+Colorado appropriated some $5M to give us what we have with ConnectedColorado.gov, and I am genuinely not sure I can make a well-formed list of what that is. I can describe what it displaced, but that is not a description of what it does. I can describe what jobs I want to find in Colorado, but the website does not orient itself to allow that.
+
+We in Colorado paid for the creation of a site which, offense intended, isn't impressive. It is rubberstamp tech with no supervisor in a multi-tenant database.
+
+The $5M toy website is a me-too product with no vision statement except "eliminate interviews". I'm not sure who led this in Colorado, but I'm noting for that eventual meeting.
+
+The metrics for assessing this product implementation should be made public, and I would like to see the criteria we agreed to send them as a specification.
+
+It strains my belief that a manager asked for what I see running on ConnectingColorado.gov. I would like to speak to your project manager, and my name's Autumn, not Karen.
+
+If any in Colorado knows about the project/product design for ConnectingColorado.gov, I would like to speak with them about their experience.
+
+Jobseekers are not being benefitted by this, so who did?
