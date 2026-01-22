@@ -34,7 +34,7 @@ I came away feeling insulted by their lack of interest.
 
 Barring local work, I wanted to make a difference in government. I solicited myself for hire via a personal contact at Tyler Technologies, which is a sprawling assembly of smaller tech companies that work together to build tools like what Fort Collins uses for their open data platform.
 
-This company, too, refused to give a rational pay range and made me guess at a salary on their intake form, and I never even heard back from them because, as my contact reported to me in a side channel, they didn't even want to talk to me because of the number I put down, which they made me put down like a shot in the dark. I never got a single phone call or email from them, until my application reached the 3-month end-of-life window and they sent a fake personal message promising that they'd looked real hard.
+This company, too, refused to give a rational pay range and made me guess at a salary on their intake form. I never even heard back from them because, as my contact reported to me in a side channel, they didn't want to talk to me due to a number I typed, which they made me put down like a shot in the dark. I never got a phone call or email from them, until my application reached the 3-month end-of-life window and they sent a fake personal message promising that they'd looked real hard.
 
 I came away feeling angered by their dereliction of interest.
 
@@ -144,7 +144,7 @@ I noticed that the office's phone menu dumps you into a voicemail basically no m
 
 After two voicemails from me, being confused and a touch irate, I got a call back from a manager, Tammy Olivas. I expressed my frustrations and made apologies for the premise of my tone.
 
-I asked what was going wrong, and how I could them. I asked if they would hire me to liaise with local businesses.
+I asked what was going wrong, and how I could help them. I asked if they would hire me to liaise with local businesses.
 
 Tammy said they couldn't. Why? Because the county had fired all of her staff but one.
 
