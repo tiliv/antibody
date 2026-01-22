@@ -327,7 +327,7 @@ I want it to be so good that we offer to consult on doing it in more states.
 
 Right now, Economic and Workforce Development shuttles people to a number of groups, and this faux wisdom is doing harm instead of good.
 
-The department needs to be creating county-specific spaces where we businesses and we workers can make anything for ourselves from the ingredients we see. We should have choice paralysis, not choice scarcity.
+The department needs to be creating county-specific spaces where we businesses and we workers can make anything for ourselves from the ingredients we see. We should have choice paralysis, not choice scarcity. This often means going to them, not waiting for them to come to you. This is why it incenses me somewhat to know we are losing county staff roles with Tammy's office, who should be thriving instead.
 
 Even if ConnectingColorado.gov continues to lumber forward unchanged, Larimer County should be throwing enormous interest and support into detailing small businesses and making it possible for others to find us, without layers of Big Technologies shaping the process and demanding fees to exist.
 
