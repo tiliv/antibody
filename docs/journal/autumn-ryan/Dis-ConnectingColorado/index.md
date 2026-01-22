@@ -277,6 +277,70 @@ The metrics for assessing this product implementation should be made public, and
 
 It strains my belief that a manager asked for what I see running on ConnectingColorado.gov. I would like to speak to your project manager, and my name's Autumn, not Karen.
 
-If any in Colorado knows about the project/product design for ConnectingColorado.gov, I would like to speak with them about their experience.
+If any Coloradoan knows about the project/product design for ConnectingColorado.gov, I would like to speak with them about their experience.
 
-Jobseekers are not being benefitted by this, so who did?
+Jobseekers did not benefit from this, so who did?
+
+I would like to see the project documents because I know eightfold.ai is incompetent for our mission, but I need to know if our local officials are too.
+
+A workforce platform in the state of Colorado must acknowledge how sharply split it is for urban and rural. Don't draw lines there though, because I've met metal and woodworkers with a long history in Loveland or Fort Collins. For as many moved here, many are well into a third decade.
+
+**Elected officials and appointees, I address you:** Contemplate what Minecraft has in common with Workforce Development.
+
+The short answer: The fun is building what you want, and your group knows how to come see.
+
+Fort Collins Chamber of Commerce needs to participate in small business matters. This is not a city-run org, and they're immune to feedback. They would first of all need to care.
+
+They reportedly do not.
+
+We do not have a healthy culture in Loveland and Fort Collins for the local business resources. Chamber of Commerce is too corporate or something to dip into Small Business land. They want dues, and they're collecting with larger companies. You can hear the Chamber of Commerce ads on the gas station radios, and it's glossy production advertising to become a member, not anything to do with the businesses they manage in the county.
+
+ConnectingColorado.gov should be a place where we see our communities come to life without ad spends with Google, Meta and on AI. Our site should be built on technology that we get to own and be proud of because it gives our communities the powers of Reflection, to see themselves without the toxins of Big Tech and advertisement.
+
+Colorado Open Records Act has led me to look for literally any evidence at all of our local businesses in public records, and it is not rational to find businesses this way. It is so sparse that the most I can say is that "realtime" information in this category is limited to watching a year of restaurant inspection grades.
+
+I'm not nostalgic for a phone book, but that would literally be better than what we have today, and what I'm telling You, All Of You, is that all ConnectingColorado.gov had to do was _be a phone book_ and it would be more useful than this AI Slop.
+
+What I see from eightfold.ai is the most vanilla boring thing literally any talentless software engineer would picture.
+
+We possess tremendously poor powers of Reflection in our communities. Eightfold.ai's product could not possibly do it. It is categorically unable. And so, I want to know about the project staff.
+
+Who Wrote This Spec?
+
+#### ConnectingColorado.gov
+
+ConnectingColorado.gov needs to be about rigging us up in lights, with attention to detail that shows love for Colorado. It does not need AI, no expensive contracts for hyper modern backends. No comments or ratings or anything. No payments, and only accounts for our businesses. They can set job titles they want to give and how many. We see numbers. We go and meet people.
+
+Again, the competition is a phone book, just a literal phone book.
+
+We do not need to upload our resumes to a system like this, we need cubbies to keep our different resumes, where maybe the site makes it easy to print them sometimes. Maybe it handles a little appointment email to both parties if you click a button to go see the place.
+
+ConnectingColorado should be a toolbox where every single business, consumer, and jobseeker can see something raw, real and rich about their area. Give it a map and let us explore our city and worry about watching leads we find interesting.
+
+On-demand gig work has risen in prominence and is not gone. The appeal is that you can dip into it and it's mostly always there. We need our business data to be flowing all the time, so that anyone can dip in and decide what they're hunting for.
+
+It should be our workforce weather map and everyone should recognize it when they see it.
+
+I want it to be so good that we offer to consult on doing it in more states.
+
+#### Economic and Workforce Development
+
+Right now, Economic and Workforce Development shuttles people to a number of groups, and this faux wisdom is doing harm instead of good.
+
+The department needs to be creating county-specific spaces where we businesses and we workers can make anything for ourselves from the ingredients we see. We should have choice paralysis, not choice scarcity.
+
+Even if ConnectingColorado.gov continues to lumber forward unchanged, Larimer County should be throwing enormous interest and support into detailing small businesses and making it possible for others to find us, without layers of Big Technologies shaping the process and demanding fees to exist.
+
+Our businesses are absolutely mired in costs, and social media is pay to play. When I ask Google or Apple mapping tools to show me Local Restaurants, what I get is national chains pushed to the top. In a car console, the top few options are impactful.
+
+The department should be kicking down our business doors to tease out interesting needs or openings we have for workers. We should know who is liaising us, and it should be someone we trust and know cares.
+
+#### Small Business Development Center
+
+SBDC provides advice to for-profit businesses. I am working on learning about what they say to businesses looking for employees, and whether that is like listening to sales pitch for using More Big Tech.
+
+*[SBDC]: Small Business Development Center
+
+SBDC should be running their events in collaboration with the workforce map, and use face-to-face time to invite people to update their job opening numbers.
+
+Economic and Workforce Development and SBDC are missing in action, at best like a sophisticated phone menu or glorified doorman on your way to somewhere else. They don't need to run heavy programs to be effective. If they want to be a gateway to a Work Net for hiring people, that's more useful than scraping the workers out of the way into support groups.
