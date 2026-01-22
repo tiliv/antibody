@@ -285,15 +285,15 @@ I would like to see the project documents because I know eightfold.ai is incompe
 
 A workforce platform in the state of Colorado must acknowledge how sharply split it is for urban and rural. Don't draw lines there though, because I've met metal and woodworkers with a long history in Loveland or Fort Collins. For as many moved here, many are well into a third decade.
 
-**Elected officials and appointees, I address you:** Contemplate what Minecraft has in common with Workforce Development.
+Elected officials and appointees, what does Minecraft has in common with Workforce Development? The short answer: The fun is building what you want with what you have, and your group knows how to come see.
 
-The short answer: The fun is building what you want, and your group knows how to come see.
+Games make it easy to scratch at our satisfaction for incremental progress. While jobseeking, progress comes rarely even when you're looking out for some.
 
-Fort Collins Chamber of Commerce needs to participate in small business matters. This is not a city-run org, and they're immune to feedback. They would first of all need to care.
+Chamber of Commerce needs to participate in small business conversations, using what they know of larger modes of business to do more than point people at the SBDC. Fort Collins Chamber of Commerce is not a city-run org, and they're immune to the feedback I've tried. They would first of all need to care.
 
 They reportedly do not.
 
-We do not have a healthy culture in Loveland and Fort Collins for the local business resources. Chamber of Commerce is too corporate or something to dip into Small Business land. They want dues, and they're collecting with larger companies. You can hear the Chamber of Commerce ads on the gas station radios, and it's glossy production advertising to become a member, not anything to do with the businesses they manage in the county.
+They want membership dues, and they're collecting with larger companies. You can hear the Chamber of Commerce ads on the gas station radios in Johnstown, and its glossy production that advertise how to become a member. There really isn't a pitch to win you over, just, become a member.
 
 ConnectingColorado.gov should be a place where we see our communities come to life without ad spends with Google, Meta and on AI. Our site should be built on technology that we get to own and be proud of because it gives our communities the powers of Reflection, to see themselves without the toxins of Big Tech and advertisement.
 
