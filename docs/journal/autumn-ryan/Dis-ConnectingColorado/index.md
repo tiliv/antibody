@@ -265,7 +265,7 @@ Janice Marchman is scheduling a meeting with accountable groups, like Mark Johns
 
 Kelly Folks, I'm coming for you. I don't know if she has a say in anything at all, or power to recommend changes. I'd love to have an interview, though.
 
-#### Recalculating
+### Recalculating
 
 Colorado appropriated some $5M to give us what we have with ConnectedColorado.gov, and I am genuinely not sure I can make a well-formed list of what that is. I can describe what it displaced, but that is not a description of what it does. I can describe what jobs I want to find in Colorado, but the website does not orient itself to allow that.
 
