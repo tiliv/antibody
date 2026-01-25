@@ -53,7 +53,7 @@ A Mormon college boy shot a propagandist, and now we are executed in the streets
 
 It doesn't make sense, not the macro scale.
 
-Your Classmates bring with them biases and prejudices that they carried all along, and they are being asked to finally use against us, for any wildcard reason.
+Your Classmates bring with them biases and prejudices that they carried all along, and they are being asked to finally use those against Us, for any wildcard reason they have in their hand.
 
 This is true because they can execute you for any reason, and if they are still new and unable to invent a cool story fast, the Department of Homeland Security is quick to a microphone to repeat the same line as last time as though it comes with Authority: This Was A Domestic Terrorist.
 
@@ -77,7 +77,7 @@ Their Thesis is that the world was already going wrong by the time you were kids
 
 Do you trust those idiot boys in middle school or high school with a gun and that job?
 
-Capitalist systems grow evil in their hearts when nothing is allowed to observe, by competition or regulation. SCOTUS has allowed a United Executive to flex all his power, and they hang on for him when he insists he's not done. The President cannot be Observed, and he may claim that your impromptu execution was Official Business.
+Capitalist systems grow evil in their hearts when nothing is allowed to observe, by competition or regulation. SCOTUS has allowed a Unitary Executive to flex all his power, and they hang on for him when he insists he's not done. The President cannot be Observed, and he may claim that your impromptu execution was Official Business.
 
 The Unitary Executive stochastically begs for new executions, which are fielded instantly with hoax explanations.
 
