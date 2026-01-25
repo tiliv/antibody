@@ -59,7 +59,7 @@ Your Classmates bring with them biases and prejudices that they carried all alon
 
 This is true because they can execute you for any reason, and if they are still new and unable to invent a cool story fast, the Department of Homeland Security is quick to a microphone to repeat the same line as last time as though it comes with Authority: This Was A Domestic Terrorist.
 
-When your classmates kill you, they are being asked to call You a Domestic Terrorist. This places the authority to pick who they want to dance with, who they think fits their own view of Probably The Sort To Like Domestic Terrorists.
+When your classmates kill you, they are being asked to call You a Domestic Terrorist. This places the authority in their hands to pick who they want to dance with, who they think fits their personal view of Probably Likes Domestic Terrorists.
 
 Donald John Trump was found to be a pedophile, and now he has Millennials killing each other and picking sides.
 
