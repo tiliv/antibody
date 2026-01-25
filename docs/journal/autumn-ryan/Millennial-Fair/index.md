@@ -13,6 +13,8 @@ published: true
 index: false
 ---
 
+{% include toc/aside.html %}
+
 ### Your Classmate Reunion
 
 Violence blossomed in This Country. It came after Facebook took our attention, sold it and then paraded propagandas in our faces from people we didn't know.
