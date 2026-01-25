@@ -101,7 +101,9 @@ Do you stop them by handling their distribution pipeline?
 
 Is that your limit?
 
-They have proved that they do not care who you are. They going so deeply to their bully cores and deciding that anyone they hate deserves what comes next if they squirm.
+They have proved that they do not care who you are. They are going so deeply to their bully cores, coming up deciding that anyone they hate deserves what comes next, especially if they squirm.
+
+Making you squirm and do nothing is the power they are flexing. They don't care who they kill to fuel that loop. They Gain Power Over You When You Do Nothing.
 
 The Heritage Foundation continues to whisper in the Unitary Executive's ear, promising plans for `Marriage Camps`.
 
