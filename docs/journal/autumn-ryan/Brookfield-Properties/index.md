@@ -369,3 +369,25 @@ This is a wholly wrong timeline that launders the December 1 as the start of the
 I supplied my correction via a comment, and then made another to inform them that I had completed my report to the Colorado AG Phil Weiser.
 
 Tick tock. `ref:!00Dt004XX8.!500cs01HTckO:ref`
+
+### Designed Ignorance
+
+The nameless faceless people behind Brookfield Properties returned to me the lowest-effort reply I have ever received for a Colorado Privacy Act request.
+
+I was sent an Excel spreadsheet that contained merely a list of types of my data, and a `"FOUND"` if they had it. This spreadsheet disclosed none of the required data points, allowed to me by law, such as the reasons and times my data was shared.
+
+This spreadsheet was designed to convey that they don't share my data at all, not with a single other party, not one on the whole planet.
+
+I know their narrative to be false. My landlord purchased Elise AI without our knowledge or consent. While seated in Francesca Volante's office, she conceded that they could take steps to disclose it at all via little cards or signs in the office.
+
+I recorded her saying it.
+
+This company knows they are not meeting their obligations, and their corporate office is lying about data disclosures.
+
+**They create this lie by being wholly ignorant** to what their local on-site staff do.
+
+With least effort and maximum delay, Brookfield Properties breaks Colorado law with impunity.
+
+Shortly, I will post the Excel file which they fear-mongered for weeks would be so unsafe to transmit unless they could put me through identity challenges.
+
+In truth, what they transmitted has so little information on it that my own google review doxxes me harder than this Excel sheet.
