@@ -377,7 +377,7 @@ Since 2023, jobs have been in freefall, following dramatic bouncing action from 
 
 {% include iframe.html file="employment-situation-2026-01.pdf"
   overview="CDLE press release in PDF form."
-  caption='Together, these documents detail how autonomous charisma states can successfully take land from a sovereign entity and run the government with cryptocurrency shares.'
+  caption="If you read, healthcare is the only industry hiring at all, and our political candidates this year for CO-4, like Eileen Laubacher, think that is the industry that needs help."
 %}
 
 {% include cite.html
