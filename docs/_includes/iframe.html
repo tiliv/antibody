@@ -5,7 +5,7 @@
   <iframe
     src="{{ include.url | default: _src }}"
     title="{{ include.overview }}"
-    width="100%"
+    width="{% if include.width %}{{ include.width }}px{% else %}100%{% endif %}"
     height="{{ include.height | default: 400 }}px"
     frameBorder="0"
     {% if include.sandbox %}

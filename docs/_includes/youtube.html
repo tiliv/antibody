@@ -1,0 +1,17 @@
+{% assign iframe_url = "https://www.youtube-nocookie.com/embed/" | append: include.uid -%}
+{% if include.tracking -%}
+{% assign iframe_url = iframe_url | append: "?si=" | append: include.tracking %}
+{%- endif -%}
+{% assign youtube_url = "https://youtu.be/" | append: include.uid %}
+{% capture youtube_caption -%}
+{{ include.caption }} —{%- include link.html url=youtube_url -%}
+{%- endcapture %}
+{%- include iframe.html
+    url=iframe_url
+    overview="YouTube video player"
+    caption=youtube_caption
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    height=315
+    style="border-radius:12px;"
+    allowfullscreen=true
+%}

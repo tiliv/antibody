@@ -1,6 +1,6 @@
 ---
 date: 2025-12-05
-rank: -10
+rank: -26
 title: "NOTING: Dis-ConnectingColorado"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -344,3 +344,176 @@ SBDC provides advice to for-profit businesses. I am working on learning about wh
 SBDC should be running their events in collaboration with the workforce map, and use face-to-face time to invite people to update their job opening numbers.
 
 Economic and Workforce Development and SBDC are missing in action, at best like a sophisticated phone menu or glorified doorman on your way to somewhere else. They don't need to run heavy programs to be effective. If they want to be a gateway to a Work Net for hiring people, that's more useful than scraping the workers out of the way into support groups.
+
+### Undeniable
+
+{% include youtube.html
+  uid="HYaj-fFt8QI"
+  tracking="Vt8YcrgPp2bhTCv_"
+  caption="The Best Kept Secret"
+%}
+
+The Colorado Department of Labor and Employment is a perfect fortress of silence.
+
+They do not take commentary from senate district representatives or other lawmakers. Kelly Folks appears in public only when necessary, and never with anything to say but what she binges on Netflix, and how CoCo (the PR term for ConnectingColorado, to make it cute) is the "best kept secret".
+
+{% include figure.html file="linkedin_kelly.png"
+  side="right"
+  overview="Screenshot of an unacknowledged LinkedIn message to Kelly Folks. The message is pointed and criticizes Kelly's lack of availability in all other mediums."
+  caption='CDLE and its directors communicate with silence, as in every other medium.'
+%}
+
+{% include figure.html file="youtube_cdle_secret.jpg"
+  side="left"
+  overview="Screenshot of a CDLE Youtube video, its empty suppressed comments and Kelly calling ConnectingColorado the 'best kept secret'."
+  caption='The social media manager has not allowed any comments of any nature on their video, despite being legally required to have comments enabled.'
+%}
+
+I hereby resist quoting Kelly Folks at any length, at risk of publishing her entire corpus of published commentary in just a few paragraphs, where the majority is her speaking PR or nothing at all.
+
+On April 8 2026, CDLE released revised numbers for a 2025 workforce contraction of 11,700 jobs.
+
+Since 2023, jobs have been in freefall, following dramatic bouncing action from recessions and COVID-19.
+
+{% include iframe.html file="employment-situation-2026-01.pdf"
+  overview="CDLE press release in PDF form."
+  caption='Together, these documents detail how autonomous charisma states can successfully take land from a sovereign entity and run the government with cryptocurrency shares.'
+%}
+
+{% include cite.html
+  credit="CDLE"
+  more="mailto:cdle_pr@state.co.us"
+  url="https://lmico.app.box.com/v/employment-situation-2026-01?"
+  headline="Colorado Employment Situation — January 2026"
+%}
+> **Since January 2025**, nonfarm payroll jobs have decreased 11,000, with the private sector losing 7,000 and government losing 4,000 jobs.
+
+> The largest **private sector job gains** were in <u>educational and health services</u> (≈14,200) and other services (≈1,900).
+
+> During that same period, **payroll jobs declined** in trade, transportation, and utilities (≈4,500), leisure and hospitality (≈4,400), manufacturing (≈4,200), financial activities (≈4,000), information (≈2,800), professional and business services (≈2,300), and mining and logging (≈1,600).
+
+> Colorado's **rate of job growth** over the past year is -0.4 percent, below the U.S. rate of 0.2 percent.
+
+_(Bold emphasis theirs.)_
+
+{% include cite.html
+  credit="Tamara Chuang, Business & technology reporter"
+  more="https://coloradosun.com/author/tamara-chuang/"
+  url="https://coloradosun.com/2026/04/09/colorado-lost-jobs-and-saw-its-labor-force-decline-last-year/"
+  headline="Colorado lost jobs and saw its labor force decline last year"
+%}
+
+> It is the first year the state lost jobs since the pandemic. And before the chaos of 2020, <u>Colorado had added jobs every year since 2011</u>.
+
+> January numbers will be <u>revised again and again</u>. The latest benchmarking revisions, which occur regularly as new data is collected by the Bureau of Labor Statistics, <u>resulted in the number of jobs</u> in Colorado being <u>revised downward every month last year</u>.
+
+So what changed?
+
+AI and ConnectingColorado.gov together arrived on the scene, intricately linked by Aaron Weisser who was Project Manager for the "modernization" effort.
+
+Aaron Weisser's first words to you on his LinkedIn profile are "AI".
+
+{% include figure.html file="linkedin_aaron.png"
+  overview="A cropped screenshot of Aaron Weisser's LinkedIn profile headline."
+  caption="AI. Always Insufferable."
+%}
+
+Aaron Weisser sold the state down the rapidly drying river, by advising our government to push millions into the hands of an unproven out-of-state AI farm.
+
+Kelly Folks dutifully fell in line and has preached about our failed "maturing" platform that we should just let AI write our resumes for us. AI who knows nothing about us.
+
+AI-written resumes are a scourge in the market that every recruiter and hiring manager can spot a mile away. AI-written work reflects on us a total lack of ability.
+
+Even some Fort Collins mayoral candidates wrote their pitch as a candidate with ChatGPT, which accidentally linked to their campaign website with a tell-tale query param revealing the traffic arrived via a link ChatGPT made.
+
+On April 2 2026 CDLE, with full knowledge of their failing workforce numbers that would be released on April 8, pushed an email in midmorning announcing a sprawling regional job fair. They improperly labeled it as a 2025 event.
+
+{% include cite.html
+  credit="States of CO and WY Employment Teams"
+  more="mailto:workforcebusinessservices@arapahoegov.com"
+  url="https://app.premiervirtual.com/events/8d75750d-5fe0-443f-9c9a-dc3ae96db1c2/wyoming-colorado-regional-job-fair-spring-2026/attendee"
+  headline="ANNOUNCING:  WY and CO Regional Job Fair Fall 2025 (hybrid)"
+%}
+
+> DON'T MISS THIS EVENT
+
+> OPEN TO ALL WYOMING AND COLORADO JOB SEEKERS
+
+> Announcing the
+> WYOMING AND COLORADO REGIONAL JOB FAIR
+> Spring 2026
+> (Hybrid Format)
+
+> A partnership of 11 Workforce Centers in the
+> States of Colorado and Wyoming
+
+> April 30, 2026
+
+> You Can Attend In-person
+> 10:00 AM to 1:00 PM
+
+If you need accommodations, [you should register](https://app.premiervirtual.com/events/8d75750d-5fe0-443f-9c9a-dc3ae96db1c2/wyoming-colorado-regional-job-fair-spring-2026/attendee) before April 16, which they do not directly spell out anywhere but linked page.
+
+> No Registration Required. Walk-ins are welcome!
+
+Somehow, our workforce resources are incapable of hosting rational web resources to describe this job fair. They are relying on archaic email pushes and scattered pages and PDF flyers. It is as though they do this without knowledge of how to run effect and discoverable web resources at all.
+
+That tracks.
+
+Behold, I publish the data on the web that they fail to, and I do it with corrections to their typos, stripped of their bottom-shelf web tracking links.
+
+**Adams County, CO**
+
+> **Adams County Workforce & Business Center**
+
+> [11860 N Pecos Street Suite 2200, Westminster CO 80234](maps:?q=11860 N Pecos Street Suite 2200, Westminster CO 80234)
+
+**Arapahoe County, CO**
+
+> **Arapahoe Douglas Works! // CentrePoint Plaza**
+> (Littleton Meeting Rooms A, B, and C)
+
+> [14980 E. Alameda Drive, Aurora CO 80012](maps:?q=14980 E. Alameda Drive, Aurora CO 80012)
+
+**Jefferson County, CO**
+
+> **Jefferson County Business & Workforce Center**
+
+> [3500 Illinois Street, Golden CO 80401](maps:?q=3500 Illinois Street, Golden CO 80401)
+
+**Weld County, CO**
+
+> **LINC Library Innovation Center**
+
+> [501 8th Ave, Greeley CO 80631](maps:?q=501 8th Ave, Greeley CO 80631)
+
+**Pueblo County, CO**
+
+> **Pueblo Workforce Center**
+
+> [1045 West 6th Street, Pueblo CO 81003](maps:?q=1045 West 6th Street, Pueblo CO 81003)
+
+**Denver County, CO**
+
+> **Volunteers of America // Colorado Administrative Building**
+
+> [2660 Larimer Street, Denver CO 80204](maps:?q=2660 Larimer Street, Denver CO 80204)
+
+**Boulder County, CO**
+
+> **Boulder County Workforce Center**
+
+> [515 Coffman Street, Longmont CO 80501](maps:?q=515 Coffman Street, Longmont CO 80501)
+
+**Larimer County, CO**
+
+> **Larimer County Administrative Offices**
+
+> [200 West Oak St, Ft Collins CO 80521](maps:?q=200 West Oak St, Ft Collins CO 80521)
+
+They are trying to assemble a list of employers, and unsurprisingly it is stuffed to the gills with companies who already have a web presence. I won't bemoan that they'll attend, but there is Zero Outreach going on to small businesses, as is CDLE tradition.
+
+{% include iframe.html url="https://docs.google.com/spreadsheets/d/1Ph0_Df2dlRfY-Fl_glIceojbyg0qdZzM9LndamjcqFM/edit?gid=0#gid=0"
+  height=700
+  caption="<a href='https://docs.google.com/spreadsheets/d/1Ph0_Df2dlRfY-Fl_glIceojbyg0qdZzM9LndamjcqFM/edit?gid=0#gid=0'>https://docs.google.com/spreadsheets/d/1Ph0_Df2dlRfY-Fl_glIceojbyg0qdZzM9LndamjcqFM/edit?gid=0#gid=0</a>"
+%}
