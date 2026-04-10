@@ -347,9 +347,7 @@ Economic and Workforce Development and SBDC are missing in action, at best like 
 
 ### Undeniable
 
-{% include youtube.html
-  uid="HYaj-fFt8QI"
-  tracking="Vt8YcrgPp2bhTCv_"
+{% include youtube.html uid="HYaj-fFt8QI" tracking="Vt8YcrgPp2bhTCv_"
   caption="The Best Kept Secret"
 %}
 
@@ -406,6 +404,8 @@ _(Bold emphasis theirs.)_
 > It is the first year the state lost jobs since the pandemic. And before the chaos of 2020, <u>Colorado had added jobs every year since 2011</u>.
 
 > January numbers will be <u>revised again and again</u>. The latest benchmarking revisions, which occur regularly as new data is collected by the Bureau of Labor Statistics, <u>resulted in the number of jobs</u> in Colorado being <u>revised downward every month last year</u>.
+
+> "This is the seventh time since 1980 that there has been negative job growth," Broomfield economist Gary Horvath said in an email. "<u>The change in employment for 2025 was not associated with a recession</u> — the others were. Assuming that NBER (National Bureau of Economic Research) does not call a recession, I think <u>something is happening in Colorado that is different than other states</u>."
 
 So what changed?
 
