@@ -33,7 +33,7 @@ Should the talented few become the drivers of actual worth, the universe of infl
 
 Craftsmanship goes punished when noticed.
 
-You will easily peruse YouTube to find any number of propaganda men saying it for Likes, the taste of boot on their lips. In their ecosystem of logic, they are right because they are warning you that Craftsmanship is a disease that management openly prevents and quarantines, going on to punish it.
+You will easily peruse YouTube to find any number of propaganda men saying it for Likes, the taste of boot on their lips. In their ecosystem of logic, they are right because they are warning you that Craftsmanship is a disease that management openly prevents and quarantines, going on to punish the gifted.
 
 In the hallowed name of Hyper-Scaling, the novice's mindset thus became so prized. If code cannot be read by peons, it cannot be maintained by peons.
 
