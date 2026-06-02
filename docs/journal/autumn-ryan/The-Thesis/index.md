@@ -149,7 +149,7 @@ If I want to stream My Data to strangers, I think I'll handle discussion about t
 
 *[FAQ]: Frequently Asked Questions
 
-Citizens of This Country should receive all proceeds of what The Companies do with Our Data. If we don't like what they do, then we don't participate. Consent is in our hands. Discriminating of no one's choices, let The Companies can come market at us with honesty about their asks. You know, like basic advertising compliance. Like jeez, make them at least request it. Don't be free-use.
+Citizens of This Country should receive all proceeds of what The Companies do with Our Data. If we don't like what they do, then we don't participate. Consent is in our hands. Discriminating of no one's choices, let The Companies come market at us with honesty about their asks. You know, like basic advertising compliance. Like jeez, make them at least request it. Don't be free-use.
 
 Artificial Intelligence exists now, and so highly programmable surveillance does too.
 
