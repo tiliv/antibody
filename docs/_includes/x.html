@@ -1,0 +1,9 @@
+{% capture x_url -%}
+https://platform.twitter.com/embed/Tweet.html?id={{ include.id }}
+{%- endcapture %}
+{% include iframe.html side="right"
+  url=x_url
+  overview=include.overview
+  caption=include.caption
+  height="500"
+%}

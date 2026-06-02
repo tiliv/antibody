@@ -112,6 +112,10 @@ article blockquote code {
   box-shadow: .35em .35em 0 black;
   margin-right: .4em;
 }
+aside.center {
+  display: flex;
+  flex-direction: column;
+}
 aside.side {
   font-size: 0.9em;
   text-align: left;

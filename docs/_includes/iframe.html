@@ -1,13 +1,17 @@
 {% capture _src -%}
 {{ include.location | default: './exhibits' }}/{{ include.file }}
 {%- endcapture -%}
-<aside class="{% if include.side %}side {{ include.side }}{% endif %}">
+<aside class="
+{%- if include.side %}side {{ include.side }}{% endif -%}
+{%- if include.center %} center{% endif -%}
+">
   <iframe
     src="{{ include.url | default: _src }}"
     title="{{ include.overview }}"
     width="{% if include.width %}{{ include.width }}px{% else %}100%{% endif %}"
     height="{{ include.height | default: 400 }}px"
     frameBorder="0"
+    loading="{{ include.loading | default: 'lazy' }}"
     {% if include.sandbox %}
     sandbox="{{ include.sandbox | default: 'allow-scripts allow-same-origin' }}"
     {% endif %}
