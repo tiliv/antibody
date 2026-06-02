@@ -456,7 +456,7 @@ If you need accommodations, [you should register](https://app.premiervirtual.com
 
 > No Registration Required. Walk-ins are welcome!
 
-Somehow, our workforce resources are incapable of hosting rational web resources to describe this job fair. They are relying on archaic email pushes and scattered pages and PDF flyers. It is as though they do this without knowledge of how to run effect and discoverable web resources at all.
+Somehow, our workforce resources are incapable of hosting rational web resources to describe this job fair. They are relying on archaic email pushes and scattered pages and PDF flyers. It is as though they do this without knowledge of how to run effective and discoverable web resources at all.
 
 That tracks.
 
@@ -517,3 +517,114 @@ They are trying to assemble a list of employers, and unsurprisingly it is stuffe
   height=700
   caption="<a href='https://docs.google.com/spreadsheets/d/1Ph0_Df2dlRfY-Fl_glIceojbyg0qdZzM9LndamjcqFM/edit?gid=0#gid=0'>https://docs.google.com/spreadsheets/d/1Ph0_Df2dlRfY-Fl_glIceojbyg0qdZzM9LndamjcqFM/edit?gid=0#gid=0</a>"
 %}
+
+### Understandable
+
+Janice Marchman's office had initially perked up at my disclosures about who ran ConnectingColorado.gov, but after getting rebuffed by CDLE too, they gave up without a fight.
+
+Our representatives tell us that There Is Nothing They Can Do.
+
+Oh really?
+
+Oh really.
+
+Of course, You've given away all financial power to federal money, which has strong stipulations for spending. You have shuttered all county offices for workforce, leaving them with skeleton crews. -- I had thought this was merely triage before a pivot.
+
+Of course, Your director openly wishes she were a better public speaker and is scarce in her written communications to the public. -- I had thought this was humility paired with skill and a busy schedule.
+
+Of course, You have no outreach to basically any small local businesses at all. -- I had thought this was taking place out of sight.
+
+But:
+
+As I went and spoke to local businesses... I discovered they don't know what a Workforce office is. They've never heard of it. None Of Them.
+
+As I went through public data left in the open by Kelly Folks and other CDLE staff... I discovered there is no skill, and no positive will for the public, and certainly no room for significant feedback, because that is threatening.
+
+As I went over costs, and spoke to so many county Workforce offices... I discovered that they have zero metrics of efficacy, and zero autonomy.
+
+Zero.
+
+It'd Be Understandable, if we were to take it as given that CDLE is visionless.
+
+It'd Be Understandable, if Kelly Folks isn't trying to connect or improve at all.
+
+It'd Be Understandable, if the people in charge of this project refused critique if they were just protecting their jobs.
+
+We've understood the message quite clearly for a long time:
+
+**You Can't Do Anything To Help.**
+
+Name for us a single person who should keep their job at CDLE, if this is what you have wrought.
+
+### Understated
+
+Most commonly, the people who create such grievances in us are not the embodiment of pestilence.
+
+What comes to mind is a well-known tech guy's recent video, wherein Eric Schmidt, an original founder of Google, at a commencement speech insists that:
+
+1. Big Tech was acting with good intent.
+2. we can all conceded that what Big Tech did was also devestatingly harmful.
+3. we should strive to be in the room where decisions are made, so we can be do better.
+
+They didn't "mean to" make technology so completely terrible to us...
+
+{% include youtube.html uid="tlQ7EoJDTQY" tracking="78X8JkQBJNRWoa62"
+  caption="But it happened."
+%}
+
+{% include cite.html
+  credit="Eric Schmidt, quoted by Casey Muratori @MollyRocket"
+  more="https://caseymuratori.com/about"
+  url="https://youtu.be/tlQ7EoJDTQY?si=YioNhu5d0u0Sy71I"
+  headline="But it happened."
+%}
+
+> We thought we were adding stones to a cathedral of knowledge that humanity had been constructing for centuries.
+
+> <u>The same tools that connect us also isolate us.</u> The same platforms that gave everyone a voice like you're using now also degraded the public square.
+
+> In <u>the way that we treat each other, is [] the essence of a society</u>.
+
+> In the years after I graduated, <u>no one sat down and resolved to</u> build a technology that would <u>polarize democracies</u> and <u>unsettle a generation of young people</u>.
+
+> That was not our plan.
+
+> <u>But it happened.</u>
+
+> My hope is that [] you'll choose to <u>be in the room where these decisions take place</u> and have a voice in how they're made.
+
+Muratori made his video expressly to quote Schmidt this way. "But it happened" is in passive voice like it's no one's fault because the happening just arrived unbidden, attributable to no one. I liked his point.
+
+What stood out to me more in the broader context of Schmidt's speech is that he told a bunch of people who are not in the room, to go be in the room.
+
+**Eric Schmidt is advising The Wrong People.** He should be having to pay tech CEOs for all their doors he's been kicking in for delivery of this most important message. The CEOs are psychopaths and are acting Right Now, and yet Schmidt is smiling consolingly to a bunch of tech's pawns.
+
+Your placation is accomplished when you blame yourself for the vast arsenal of abuse that was already used on you.
+
+Your placation is sealed by you thinking it won't happen again If Only You Were A More Motivated Person.
+
+Schmidt constructs his advice in this way because he, like us, believes tech is actually unaccountable, that he can say "it happened" and not receive blame from even the people he is sedating with his words.
+
+{% include figure.html file="youtube_frankly_consequences.png"
+  overview="A screenshot of the author's YouTube comment on Muratori's video. It conveys that we all, tech and consumers, have internalized that tech is unaccoutable for what people made it do."
+  caption="My off the cuff reply on Muratori's video."
+%}
+
+CDLE is full of rooms You are not in, reader. Yes, you should go seek to be in several types of rooms, but this one for Workforce and Economic Development, you are not there, and you will never be there until Kelly Folks has finished pillaging your counties for slack funding they no longer owe us.
+
+Would that Kelly Folks understood what is understated about the power she wields, while others placate us that Our Time Is Not Now.
+
+Leaders will never tell you they're the problem.
+
+They must be told.
+
+{% include figure.html file="linkedin_cdle_jobfair.png"
+  overview="A screenshot of the author's LinkedIn comment on CDLE's post. There are no other comments, making criticism of their jobs report very visible."
+  caption="Signing my critiques with my own name is the highly documented escalation I intend."
+%}
+
+There is room in this scuffle for soothing, calm words to CDLE leadership, honey not vinegar.
+
+But I will pack vinegar up your nose, CDLE, if that is what it takes to first rouse you to the problem you feign ignorance of, for job security.
+
+It is unavoidably ironic that CDLE will protect their jobs while massacring ours.
