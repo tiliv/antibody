@@ -125,7 +125,7 @@ Immigrants to Personhood have no place here. When You're An Adult, You'll Unders
 
 Since you are our Data Landlords, we're in the uncomfortable situation of you holding Our Data and being promiscuous stewards of it with a going rate, and lying about Our Consent to others.
 
-In an increasing number of states it is The Law that they must divulge the movement of your data and for what reasons. Very few are exercising this right.
+In an increasing number of states it is The Law that they must divulge the movement of Our Data and for what reasons. Very few are exercising this right.
 
 You Companies are owned outside of Our Borders. You are acting as Giants and there is no border you can't go through... if you know the right way.
 
