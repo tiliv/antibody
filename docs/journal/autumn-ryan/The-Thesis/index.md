@@ -61,7 +61,7 @@ Fake Consent. They are making Unauthorized Sales of Our Data, and what's this ab
 
 `You Pay Us.`
 
-Third parties have bullied us and Our Cities into accepting their Terms just to exist. In all we do, w have no meaningful choice of data tenancy.
+Third parties have bullied us and Our Cities into accepting their Terms just to exist. In all we do, we have no meaningful choice of data tenancy.
 
 Many Companies you don't even know exist have Our Data and they each call it theirs, and it doesn't matter if we've read their Terms.
 
