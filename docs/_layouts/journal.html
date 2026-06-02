@@ -22,11 +22,15 @@ contact/{{ page.author | slugify }}.md
 {{- contact_md | markdownify -}}
 {%- endcapture -%}
 
+{%- comment -%} JSON support files from git {%- endcomment -%}
 {%- assign data_key = page.path | antibody_data_key -%}
 {%- for kind in layout.data.git -%}
 {%- assign data = site.data.git[kind][data_key] %}
 <script id="{{ kind }}" type="application/json">{{ data | jsonify }}</script>
 {% endfor %}
+
+{%- comment -%} Obtain the pre-rendered page fragment for inclusion {%- endcomment -%}
+{%- assign page_rendered = site.pages | where: "path", page.path | first -%}
 
 <h2 class="journal-font" aria-describe="Headline:">{{ page.title }}</h2>
 {% if page.re %}
@@ -36,7 +40,7 @@ contact/{{ page.author | slugify }}.md
 {% endif %}
 <div id="by-line">
   {% include tags.html piece=page %}
-  {% include duration.html piece=page %}
+  {% include duration.html piece=page_rendered %}
   {% include indexed.html %}
   <code class="date" data-year="{{ page.date | date: '%G' }}">
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%G-W%V: %B %-d" }}</time>

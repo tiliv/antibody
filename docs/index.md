@@ -40,7 +40,7 @@ priority: 1.0  # minor: sitemap scan priority
     <h2>{{ author }}</h2>
     {%- assign total_words = 0 -%}
     {%- for piece in journal -%}
-      {%- assign words = piece.content | number_of_words -%}
+      {%- assign words = piece.content | strip_html | number_of_words -%}
       {%- assign total_words = total_words | plus: words -%}
     {%- endfor -%}
     <div class="contacts">
