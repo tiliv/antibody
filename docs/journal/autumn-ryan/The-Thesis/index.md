@@ -11,7 +11,7 @@ re: https://privacy.ca.gov/drop/about-drop-and-the-delete-act/
 noting: true
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}
@@ -274,3 +274,47 @@ Governments should be firm in demanding quality expectations for civil infrastru
 At no point have I Meaningfully Consented to this specific system, because my Consent is being counted automatically, forged for new uses, and profited on.
 
 Consent Forgery protections are now mandatory for us, and we are owed damages. Fines should put some of These Companies out of business. If one wants to gobble up the others and Do Consent Right, feel free. You could always do that.
+
+### Ownership
+
+While monopolistic holders of Intellectual Property harass AI trainers for using their data, they ravage ours with such lust.
+
+{% include x.html id="2061631422188626083"
+  overview="An embedded X.com post and video from Bernie Sanders."
+  caption="Bernie Sanders is getting warmer."
+%}
+
+They Need Your Data, and they need to call it Their Data.
+
+Their profits are wholly derived from the value therein. No superhuman CEO or office team is going to make their money without Our Data; It cannot be done.
+
+Our ownership of data is not subject to debate.
+
+Because we cannot stop it from escaping, like so many YouTube videos with stolen music we must be capable of declaring that all instances of our data are necessarily ours, regardless of the (broken) chain of custody.
+
+If we find a corporate actor with Our Data, we must be capable of seizing their proceeds. Maybe like on YouTube, if we find you with even one crumb of it, we shall seize your entire financial output from that instrument.
+
+They have used bluntness and hostility with us.
+
+Allow us to be equally blunt and hostile:
+
+1. We are racist towards Corporate Persons.
+2. Corporate Persons always lie for money.
+3. Governments discriminate against us for their blanket power to rights they have not fought for.
+4. We are all owed a great deal in backpay.
+
+There will be no Settlement that allows companies to evade guilt.
+
+Companies Are Guilty, and the abuser and the abused both think there is nothing to be done.
+
+Companies are welcome to fight for their rights, if they think they have any. We'll be elated to fire our guns on them and walk away innocent of wrongdoing.
+
+Should these Companies want another outcome, we suggest they study the five components of LICIL and how to pay us at every step. Perhaps we cannot stop them from finding copies of our data, like we often find theirs broadcasted through the air on purpose.
+
+Dissemination of data is not a free license, as they know full well.
+
+We will mutilate their dreams by making them deal honestly with us.
+
+Our Domestic Enemies will be disgorged.
+
+Labor lives.
