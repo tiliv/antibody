@@ -10,7 +10,7 @@ tags: [space force, alabama]
 noting: true
 public: true
 published: true
-index: false
+index: true
 redirect_from:
   - /journal/autumn-ryan-Space-Force/
 ---

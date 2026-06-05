@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [worship, violence, ads]
 
-noting: true
 public: true
 published: true
 index: true

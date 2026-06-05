@@ -1,16 +1,16 @@
 ---
 date: 2026-01-25
-rank: -16
-title: "NOTING: Millennial Fair"
+rank: -8
+title: "Millennial Fair"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [generation, violence, glee]
 
-noting: true
+noting: false
 public: true
 published: true
-index: false
+index: true
 ---
 
 {% include toc/aside.html %}

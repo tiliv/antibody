@@ -1,6 +1,6 @@
 ---
 date: 2026-01-07
-rank: -7
+rank: -6
 title: "LIVE: Magic of Homelessness"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -9,7 +9,6 @@ re: https://www.cia.gov/readingroom/document/0001407031
 tags: [homeless, vitriol, victims]
 
 live: true
-noting: true
 public: true
 published: true
 index: true

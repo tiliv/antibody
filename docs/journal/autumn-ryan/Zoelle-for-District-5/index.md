@@ -1,6 +1,6 @@
 ---
 date: 2025-11-08
-rank: 100
+rank: -5
 title: "LIVE: Zoelle for District 5"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -9,9 +9,9 @@ tags: [socialist, democrats, zoelle]
 
 noting: true
 live: true
-public: false
-published: false
-index: false
+public: true
+published: true
+index: true
 ---
 
 This is not a private event. I am taking notes to discover what is going wrong with current races and what impact these groups believe they have and what they believe the gap is.

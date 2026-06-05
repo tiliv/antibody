@@ -1,13 +1,12 @@
 ---
 date: 2026-02-27
-rank: -20
-title: "NOTING: Potluck 8"
+rank: -6
+title: "Potluck 8"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
 
 tags: [copycat, do-nothing, candidates]
 
-noting: true
 public: true
 published: true
 index: true
@@ -96,5 +95,3 @@ I might ask more than one person for a job soon, and two interviews, AG and Coun
 On the side, I'm working out how to write a ballot initiative with a city council support staff member. I met my buddy in that at the event too, and we've got supporting documentation for study.
 
 I intend to generate initiatives that drive a couple of things that have nothing to do with partisanship, like Policed By Our Own, not tech firms located outside our state. Such was in my on-mic comment.
-
-_(cont.)_
