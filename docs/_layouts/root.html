@@ -17,9 +17,9 @@ author: autumn@discoverywritten.com
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
   <meta property="og:site_name" content="{{ site.civic_abbr }}-{{ site.title }}" />
-  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ page.title | site.civic_tag }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
-  <meta property="og:description" content="{{ page.tags | join: ', ' }}" />
+  <meta property="og:description" content="{{ page.tags | join: ', ' | default: 'We assert that there are degrees of information quality, that we must not struggle to distinguish them and that they are these: 1) First-party claims with metadata, 2) Hearsay and 3) Fraud.' }}" />
   <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}" />
   <meta property="og:locale" content="en_US">
   <meta property="og:image" content="{{ '/img/favicon.128.png' | absolute_url }}">
