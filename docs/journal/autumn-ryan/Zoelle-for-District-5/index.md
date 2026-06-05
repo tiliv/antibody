@@ -7,7 +7,6 @@ author_email: autumn@discoverywritten.com
 
 tags: [socialist, democrats, zoelle]
 
-noting: true
 live: true
 public: true
 published: true
