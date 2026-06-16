@@ -105,7 +105,7 @@ If that sentence seemed too long, imagine how long I've been waiting for you to 
 
 **Our issues are matters of proportions.**
 
-We don't have housing. We can't build more. The homeless shelters are evaporating with the Unitary Executive's wish to disappear them, and the ensuing local pressure campaigns to make it happen. We don't get to use healthcare if you let us die on the streets.
+We don't have housing. We can't build more. The homeless shelters are evaporating with the Unitary Executive's wish to disappear them, and the ensuing local pressure campaigns to make it happen are its doing. We don't get to use healthcare if you let us die on the streets.
 
 I am from Kentucky. I have witnessed what happens to a state's workforce when they do not admit what is happening to jobs in their area. Kentucky is propped up by Russian metal companies, and Mitch McConnell has had power since my birth. I am 40 and I graduated in 2004 like Lauren Boebert.
 
