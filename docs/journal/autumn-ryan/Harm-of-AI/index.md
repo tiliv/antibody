@@ -202,4 +202,4 @@ I know that MAGA isn't listening to you anymore. So stop talking to them.
 {% include figure.html file="10-stilted.jpeg" %}
 
 {% include figure.html file="11-interruption.jpeg" %}
-{% endcomment }
+{% endcomment %}
