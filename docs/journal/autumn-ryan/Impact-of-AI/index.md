@@ -1,6 +1,6 @@
 ---
 date: 2025-09-06
-rank: 5
+rank: -28
 title: "Impact of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com

@@ -1,6 +1,6 @@
 ---
 date: 2025-11-15
-rank: -2
+rank: -28
 title: "NOTING: Harm of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
@@ -11,7 +11,7 @@ tags: [value, extraction, denominator]
 noting: true
 public: true
 published: true
-index: false
+index: true
 redirect_from:
   - /journal/autumn-ryan-Harm-of-AI/
 ---
@@ -172,6 +172,7 @@ Maybe that fancy desalination gets us somewhere, although I'll have you remember
 
 I know that MAGA isn't listening to you anymore. So stop talking to them.
 
+{% comment %}
 ### Quality
 
 ### Interaction
@@ -201,3 +202,4 @@ I know that MAGA isn't listening to you anymore. So stop talking to them.
 {% include figure.html file="10-stilted.jpeg" %}
 
 {% include figure.html file="11-interruption.jpeg" %}
+{% endcomment }
