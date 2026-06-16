@@ -4,7 +4,8 @@ rank: -28
 title: "NOTING: Harm of AI"
 author: Autumn Ryan
 author_email: autumn@discoverywritten.com
-re: https://www.jivesoftware.com/product-1/MyPersonas
+re: https://projectjupitertogether.com/
+#re: https://www.jivesoftware.com/product-1/MyPersonas
 
 tags: [value, extraction, denominator]
 
