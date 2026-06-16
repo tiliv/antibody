@@ -113,11 +113,11 @@ I wrote about my experience being courted by a technology program in Kentucky to
 
 I see journalism dead in Colorado, with the rare local exceptions that are in a losing war with fashion or social media. When I asked Dana Coffield how Colorado Sun would reach its invested audience if the staff all got locked out of their social media accounts, the very next question was by a Gen Z man who wanted to know how Colorado Sun planned to lean harder into social media.
 
-For all I wish Journalism in your state was breathing on its own, it is not, and it is not even because there is malice against the local stuff. I casually interviewed a family member of Emily Francis at a mayoral round tables event, like group speed dating each candidate. This niece (I believe) was studying journalism and had no intention of being in Colorado for it. She wanted to go to Hawaii to practice it.
+For all I wish Journalism in your state were breathing on its own, it is not, and it is not even because there is malice against the local stuff. I casually interviewed a family member of Emily Francis at a mayoral round tables event, like group speed dating each candidate. This niece (I believe) was studying journalism and had no intention of being in Colorado for it. She wanted to go to Hawaii to practice it.
 
 I need you to understand that you are losing your workforce because they are not yours to count on. Fort Collins is not in your district, but you should know that Loveland looks to them like an example (though not always one they want to agree with).
 
-Loveland is made up of an aging population, and I personally know Millennials who have already had to flee to much cheaper places just to exist as a childless couple with a dog. They make their own lattees. She's good at it.
+Loveland is made up of an aging population, and I personally know Millennials who have already had to flee to much cheaper places just to exist as a childless couple with a dog. They make their own lattes. She's good at it.
 
 The Small Business Development Centers should be renamed Medium Business Development Centers, because all we have out here is that, and advertising technology, ad technology and the Department Of War. We're losing the Starforce base to a MAGA acoylte's state who held up your own military's promotions over abortion law.
 
