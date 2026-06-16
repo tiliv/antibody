@@ -93,7 +93,7 @@ AI is not going to bring Data Center jobs, and we are already losing our employm
 
 We have few metrics to measure what is taking place. The use of Unemployment Benefits is not a measure at all. I mean, there are clear ways you can simply not qualify for benefits and still be getting bent over by AI and used up.
 
-We Millenials see plainly that, having lost our jobs to now sit back and marvel at what is taking place, the AI Holders are coming for the physical world, while social media is alight with mockery that AI hasn't reached embodiment. 
+We Millennials see plainly that, having lost our jobs to now sit back and marvel at what is taking place, the AI Holders are coming for the physical world, while social media is alight with mockery that AI hasn't reached embodiment. 
 
 AI Holders are laying claim to our water, and our power. The same power they claim they can turn into Yet More workforce for itself.
 
