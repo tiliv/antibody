@@ -173,9 +173,132 @@ Maybe that fancy desalination gets us somewhere, although I'll have you remember
 
 I know that MAGA isn't listening to you anymore. So stop talking to them.
 
-{% comment %}
 ### Quality
 
+One of the first things Google did with AI was propose a smattering of products that did anything at all with what they had. If you remember, what they had at first was pretty bad; They called it Bard, and they wanted it listening to all of your phone calls so that it could decide if you were being scammed. There were no features to turn this on, it was pitched as always-on, because that way it could help old folks.
+
+It never happened, because AI was so bad at its job that even OpenAI's ChatGPT 4 (with that ScarJo voicelift) would have breakdowns in the middle of voice calls and start talking alien gibberish. I personally had experiences with this. It was spooky and offputting, not just as a quirk, but as a thing AI said that it expected me to understand.
+
+Now, though, a mere year and change later, AI is doing incredible work. As of 2026, the influencer-tier software developers like Andrej Kaparthy are talking endlessly of what AI can do unsupervised. The prompts matter, but you can use an AI to plan the prompt, too.
+
+AI is running longer, harder, smarter and it's rigged up with MCP servers to delgate work and run it all in parallel at its own direction.
+
+*[MCP]: Model Context Protocol
+
+{% include youtube.html uid="kwSVtQ7dziU" tracking="mpTbllYes0zfViHw"
+  caption="You've heard of looksmaxxing, but have you heard of tokenmaxxing?"
+%}
+
+Since the beginning, mocking AI for its shortcomings was a losing strategy, just like mocking a person for a typo is missing the forest for the trees.
+
+There are AI viruses ("worms") contained in labs right this moment which seize the graphics power of the computers they infect and get incrementally smarter with each new system added to its distributed network.
+
+And those are just the open-weights models that anyone can spin up for free.
+
+The quality of work being done by AI is outpacing us by orders of magnitude, and it is not slowing down. Across the planet, there are graphics cards attached to computers not using them. (This is implicitly true; <vast.ai> lets you timeshare the graphics cards of others for a dynamic cost.) Often, these are attached to computers which are otherwise not capable of running full AI models themselves. The power of this distributed setup comes from no one GPU needing to do all the work.
+
+With the advent of frontier models like Mythos (Fable 5), the work is getting even faster, even smarter and even more unsupervised. A model may work on a task uninterrupted for hours at a time, delivering push notifications if it needs **your** attention.
+
+The upshot is clear, and Andrej spells it out:
+
+**You Are The Bottleneck.**
+
+The host interviewing him also spells it out:
+
+**"Code" Is Not Even The Right Verb Anymore.**
+
+And it's true. It's why they can talk for hours about the impacts of tokenmaxxing, buying as many AI services as possible and blurring the subtle differences between them because those differences approach zero when orchestrated over MCP and The Cloud.
+
+Models are becoming orchestrators. So long as they design the task clearly enough, any subservient model is able to follow directions. The smartest model need only sit at the top, checking work.
+
+It used to be that we humans were the smartest "model" at the top, needing to know enough about the task to be able to vet the work, like a manager. It's why we all spent so much time insisting that the new-age programmer had to know how to write project specifications.
+
+Now, the specification is just a good prompt. The implementation details barely matter, because Vibe Coding is enough when the model is smart enough to understand the sharp and dull edges of the task. It'll find things you didn't, and ask you what you prefer with a menu of options, rationalizations, recommendations and a wildcard "Other" field for you to get back involved.
+
+The quality of these models is high, and were it not for the astronmonical costs associated with such heavy workloads, we'd all be out of work already.
+
+It is why they want the Data Centers, and our power.
+
+The quality of the models is driving this reckless expansion into the physical world.
+
+
+I clapped loud and heartily at Larimer Dems' Potluck 8. I'm a registrered independent, and when I heard my County Commissioner campaign into the microphone that she was pushing for a Moratorium against Data Centers.
+
+It was pathetic that no one else did.
+
+Perhaps they did not understand Data Centers or Moratoriums or water. I know, for example, that Scott Bottoms of the Colorado House of Representatives, candidate for Governor, did not understand the risks. He stood at the front of a massive Lutheran chapel in Denver and begged for Data Centers.
+
+#### Eileen
+
+Your party is deeply skeptical of AI's use of resources, but it is because they see other states like Utah and New Mexico bending over and giving it up to Data Centers that use more power and water than their entire state already does.
+
+It concerns me enormously that we do not have enough local voices making native arguments about AI and Data Centers, and that we are relying on the misfortunes of our peer States to see the shape of what can go wrong.
+
+We need, positively need, to make our arguments clear for Colorado. These Data Centers will keep trying to seize failed real estate in the post-COVID-19 world. There are disused medical buildings and warehouses--the Amazon-sized warehouses--which are burning holes in the pockets of their current owners, and they are desperate to unload the real estate to anyone at all, any shell company working for OpenAI, Microsoft or any AI broker.
+
+The State of Colorado should be helping these real estate holders do something productive with their sandbagged holdings, lest they do something quite harmful to us instead.
+
+There are time bombs across this state, like in Windsor (it's in your district).
+
+Our grids are not isolated the way Texas has isolated, and even Texas is pumping the breaks because the base case doesn't scale At All.
+
+{% include iframe.html file="Thomas_Gleeson_Pablo_Vegas_Data_Centers_Directive_Letter_to_PUC_ERCOT_FINAL.pdf"
+  overview="Texas Governor Greg Abbott's letter to state electricity officials."
+  caption="Gov. Greg Abbott got stern with the electric companies in his state."
+%}
+
+{% include cite.html
+  credit="Greg Abbott, Texas Governor"
+  more=""
+  url=page.re
+  headline="Centerra audit report details lax processes, conflicts by developer"
+%}
+
+> **Competitive bidding rules bypassed**
+
+And this was mere weeks after they recinded a total ban because they were sued about it.
+
+* <https://subscriber.politicopro.com/article/eenews/2026/06/08/texas-county-lifts-data-center-ban-after-lawsuit-00953049>
+
+There are Giantism Companies on all sides, and they are ravenous for our power and water. You must not rely on the arguments of others alone, lest these devious Corporate Personhood actors get less scrupulous about how to trick us to giving over our valuables for Literally No Gain to us.
+
+You must become a voice for us. You must.
+
+#### Lauren
+
+The diversity of opinions is fantastic, but we need to be very very careful about believing These Companies when they placate us with off-the-cuff promises of jobs. There will be no jobs, not even construction jobs.
+
+When I lived in Arizona, I saw the Intel building there go from heralded as an economic powerhouse, to the company itself having screwed the pooch for a decade and eject its meritocracy engineer CEO. For over twenty years, Intel refused to adapt to market conditions, comfortable with its desktop and laptop computer chip market because it was already locked up. They ostensibly competed with AMD, and the first signs of real trouble came when AMD made a processor that was much more power efficient.
+
+Intel had this kink for market penetration, like Microsoft. As long as they had the market, they had no need to improve their product. They supported the biggest most legacy "instruction set" on the market. If you got an Intel processor, you could run anything people wanted.
+
+Today that is not the case. Intel self-destructed because they refused to get more power efficient, and now the Unitary Executive owns a stake and is telling Apple to work with them to revive American industry.
+
+If I had it my way, I'd take Intel out back and put it down. They proved that they cannot handle their market power. A free marketplace should have let this company die. There are plenty of others who could fill the role faster than it will take Intel to become solvent again, by their own projections.
+
+What we are faced with now is an AI ecosystem that Intel has no ability to support. Amazon and Google are making their own processors now, because Intel was useless to them, and too power-hungry besides.
+
+The Data Centers aren't even using Intel (thank God) but they're not using AMD either. They're using Nvidia.
+
+Conservatives have grown to loathe green power, and it baffles me. (It's the same bafflement I feel when our governments would rather families die in the squalor of poverty instead of bolster their ability to become producers.)
+
+China has more renewable power than anyone else by orders of magnitude. Every year they are adding at least a Germany's worth of power output to their renewable grid, and they will win the AI war.
+
+The Unitary Executive knows this, but also knows that we don't have time to make enough green power to catch up. So instead, we've been ordered to triple down on oil and gas. Texas is a fascinating case study to watch, because it will single handedly carry This Country with its fracking potential on uninhabited land. Texas alone is the reason we have been a net exporter of Liquid Natural Gas and more.
+
+If you want to power Data Centers, we must be responsible for the energy budget. Colorado cannot do what Texas does. If Colorado were to use all the oil and gas it can find, if it were to build brand new modular fusion powerplants (like Sam Altman- and Microsoft-backed Helion), we would still not hold a candle to what Texas can do.
+
+If Texas cannot do it, neither can we.
+
+This isn't as simple as granting friendly terms to Data Centers so long as the generate their own power. Elon Musk's facilities in Tennessee and Texas are dumping so much infrasound and chemicals into the environment that even your rural folks are losing their minds about the effects.
+
+Even if these Data Centers could accomplish their own power without unwanted byproducts, they would still require the water. Even the nuclear options require water to boil.
+
+There simply isn't enough water. If you want to be friendly to Data Centers, you need to put this problem in a headlock and tackle it to the ground. Don't worry if you aren't strong enough alone. Jump on their backs and refuse to let go.
+
+We'll pile on with you, progressives and conservatives alike. I swear it.
+
+{% comment %}
 ### Interaction
 
 ### Authenticity
