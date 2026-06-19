@@ -222,9 +222,9 @@ It is why they want the Data Centers, and our power.
 The quality of the models is driving this reckless expansion into the physical world.
 
 
-I clapped loud and heartily at Larimer Dems' Potluck 8. I'm a registered independent, and when I heard my County Commissioner campaign into the microphone that she was pushing for a Moratorium against Data Centers.
+I clapped loud and heartily at Larimer Dems' Potluck 8. I'm a registered independent, and I heard my County Commissioner campaign into the microphone that she was pushing for a Moratorium against Data Centers.
 
-It was pathetic that no one else did.
+It was pathetic that no one else clapped.
 
 Perhaps they did not understand Data Centers or Moratoriums or water. I know, for example, that Scott Bottoms of the Colorado House of Representatives, candidate for Governor, did not understand the risks. He stood at the front of a massive Lutheran chapel in Denver and begged for Data Centers.
 
