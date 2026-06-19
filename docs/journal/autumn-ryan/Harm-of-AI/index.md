@@ -221,7 +221,6 @@ It is why they want the Data Centers, and our power.
 
 The quality of the models is driving this reckless expansion into the physical world.
 
-
 I clapped loud and heartily at Larimer Dems' Potluck 8. I'm a registered independent, and I heard my County Commissioner campaign into the microphone that she was pushing for a Moratorium against Data Centers.
 
 It was pathetic that no one else clapped.
@@ -246,15 +245,6 @@ Our grids are not isolated the way Texas has isolated, and even Texas is pumping
   overview="Texas Governor Greg Abbott's letter to state electricity officials."
   caption="Gov. Greg Abbott got stern with the electric companies in his state."
 %}
-
-{% include cite.html
-  credit="Greg Abbott, Texas Governor"
-  more=""
-  url=page.re
-  headline="Centerra audit report details lax processes, conflicts by developer"
-%}
-
-> **Competitive bidding rules bypassed**
 
 And this was mere weeks after they recinded a total ban because they were sued about it.
 
