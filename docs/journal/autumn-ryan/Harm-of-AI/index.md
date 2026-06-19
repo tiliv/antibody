@@ -316,7 +316,7 @@ When an AI makes a decision for you, and accountability falls to You to unmake i
 
 You chose to focus on Healthcare, and I know that it is a popular issue, but it popular the way trending topics on X are popular. That is to say, it is memed.
 
-It distresses me that I have sat in the Foothills Unitarian church after hours for group meetings run by Together Colorado only to hear the retirees complain that their healthcare is getting more expensive.
+It distresses me that I have sat in the Foothills Unitarian church after hours for group meetings run by Together Colorado only to hear the retirees complain that their healthcare is getting more expensive. This is the same age category that you can overhear in any Verizon store trying to lower their $481/mo bill for two paltry phones, and still walk out agreeing to pay $511/mo.
 
 I don't even have healthcare. Healthcare is somehow a luxury. I will not argue if you want to fix that, but that's not what any of your campaign emails say. You have used profoundly empty words to say as little as possible.
 
