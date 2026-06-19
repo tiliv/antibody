@@ -222,7 +222,7 @@ It is why they want the Data Centers, and our power.
 The quality of the models is driving this reckless expansion into the physical world.
 
 
-I clapped loud and heartily at Larimer Dems' Potluck 8. I'm a registrered independent, and when I heard my County Commissioner campaign into the microphone that she was pushing for a Moratorium against Data Centers.
+I clapped loud and heartily at Larimer Dems' Potluck 8. I'm a registered independent, and when I heard my County Commissioner campaign into the microphone that she was pushing for a Moratorium against Data Centers.
 
 It was pathetic that no one else did.
 
