@@ -360,7 +360,9 @@ Colorado has no such thing anymore, but I know quite a few of your rural constit
 
 BRINC, Skydio and Flock are infesting Colorado towns and cities. These are Private Equity firms who can afford to give away military-grade drones to city officials who struggle to perform their own law enforcement.
 
-Drones As First Responders is a rapidly growing market, made possible by Cloud technology perched outside of our state lines and immune to state law. Where they are not immune, they lobby to be, and they are not lobbying with local leaders.
+DAFR (Drones As First Responders) is a rapidly growing market, made possible by Cloud technology perched outside of our state lines and immune to state law. Where they are not immune, they lobby to be, and they are not lobbying with local leaders.
+
+*[DAFN]: Drones As First Responders
 
 AI powers all these, and it is unsupervised.
 
