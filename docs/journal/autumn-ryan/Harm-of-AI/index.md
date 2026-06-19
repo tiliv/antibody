@@ -195,7 +195,7 @@ There are AI viruses ("worms") contained in labs right this moment which seize t
 
 And those are just the open-weights models that anyone can spin up for free.
 
-The quality of work being done by AI is outpacing us by orders of magnitude, and it is not slowing down. Across the planet, there are graphics cards attached to computers not using them. (This is implicitly true; <vast.ai> lets you timeshare the graphics cards of others for a dynamic cost.) Often, these are attached to computers which are otherwise not capable of running full AI models themselves. The power of this distributed setup comes from no one GPU needing to do all the work.
+The quality of work being done by AI is outpacing us by orders of magnitude, and it is not slowing down. Across the planet, there are graphics cards attached to computers not using them. (This is implicitly true; [vast.ai](//vast.ai) lets you timeshare the graphics cards of others for a dynamic cost.) Often, these are attached to computers which are otherwise not capable of running full AI models themselves. The power of this distributed setup comes from no one GPU needing to do all the work.
 
 With the advent of frontier models like Mythos (Fable 5), the work is getting even faster, even smarter and even more unsupervised. A model may work on a task uninterrupted for hours at a time, delivering push notifications if it needs **your** attention.
 
