@@ -280,7 +280,7 @@ If you want to power Data Centers, we must be responsible for the energy budget.
 
 If Texas cannot do it, neither can we.
 
-This isn't as simple as granting friendly terms to Data Centers so long as the generate their own power. Elon Musk's facilities in Tennessee and Texas are dumping so much infrasound and chemicals into the environment that even your rural folks are losing their minds about the effects.
+This isn't as simple as granting friendly terms to Data Centers so long as they generate their own power. Elon Musk's facilities in Tennessee and Texas are dumping so much infrasound and chemicals into the environment that even your rural folks are losing their minds about the effects.
 
 Even if these Data Centers could accomplish their own power without unwanted byproducts, they would still require the water. Even the nuclear options require water to boil.
 
@@ -348,7 +348,9 @@ The Colorado State Defense Force is our militia, except it's not really, because
 
 While the Florida State Guard is training skinheads with helicopters since 2022, it has lost a shocking number of leaders. There are even whole groups of veterans who walked out in 2023 because of the militia-like training. That is to say, it was not gentle.
 
-See <https://www.tampabay.com/news/florida-politics/2023/07/14/florida-state-guard-desantis-national-guard-training/>, <https://www.wtsp.com/article/news/national/military-news/florida-removing-military-veterans-from-state-guard/67-bbefcaaa-b715-4091-b951-56a6e5b05e6c> and more.
+- <https://www.tampabay.com/news/florida-politics/2023/07/14/florida-state-guard-desantis-national-guard-training/>
+- <https://www.wtsp.com/article/news/national/military-news/florida-removing-military-veterans-from-state-guard/67-bbefcaaa-b715-4091-b951-56a6e5b05e6c>
+- etc.
 
 Leaders have all left or were forced out for questioning illegal orders, including Luis Soler, Command Sergeant Major Michael Pintacura, Lieutenant Colonel Jordan Bowen, and more.
 
