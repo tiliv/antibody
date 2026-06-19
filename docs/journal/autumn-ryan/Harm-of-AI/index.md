@@ -378,7 +378,7 @@ So while Tim Doran is content to let any number of unknown unnamed actors have o
 
 Campaign with and endorse politicians willing to reactivate the Colorado State Defense Force, and let us get our training.
 
-If the police will not stop Private Equity drones piloted by Cloud-driven AI helmed by military hobbyists like CEO Palmer Lucky of Anduril, Peter Thiel of Palantir, Pete Hegseth of the Department of War, Elon Musk of xAI and Sam Altman of OpenAI (an opportunistic man, that one)--
+If the police will not stop Private Equity drones piloted by Cloud-driven AI helmed by military hobbyists like CEO Palmer Luckey of Anduril, Peter Thiel of Palantir, Pete Hegseth of the Department of War, Elon Musk of xAI and Sam Altman of OpenAI (an opportunistic man, that one)--
 
 And if city councils are too timid--
 
