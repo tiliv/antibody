@@ -298,9 +298,117 @@ There simply isn't enough water. If you want to be friendly to Data Centers, you
 
 We'll pile on with you, progressives and conservatives alike. I swear it.
 
-{% comment %}
 ### Interaction
 
+AI is infesting every one of the companies that already seized the layers of public life. ParkMobile, Brookfield Properties, Hyundai, PR firms, they all raced to purchase Agents to do their own jobs for them.
+
+Landlords are making us sign renewal contracts that haven't changed a word, and yet grant them spontaneous powers to give Our Data to third parties without notice or consent, in full violation of the Colorado Privacy Act.
+
+I have gone to city councils and county commission working matters meetings, sometimes at 9am on a Tuesday, and found that none of them feel empowered to do anything. I have reported Hyundai dealerships to the Attorney General only to find confusion about what they should do.
+
+Cities in Colorado and in many other states bought into Flock Safety, which is expressly an AI tool that stalks us without knowing in advance why; This wholly defeats the purpose of the 4th Amendment, and it is justified by claiming that because Flock has the data At All it must be that we consented to it. And yet no one I have ever met while standing outside under these cameras, pointing at them while standing in heels and in a red cape in the snow, can even see them or knows what Flock Safety.
+
+AT&T, along with all other carriers, advanced beyond selling CPNI data about us into forcing our "upgrade" into programs like Personalized Plus which skims our realtime location, walking speed and ethnicity and sells it to anyone they want. (The "Personalized" program is overtly illegal in Colorado, which they concede, but they invented "Personalized Plus" and forged Our Consent to enroll us.) The Supreme Court has upheld the tiny fines they were ordered to pay. They are guilty, and there is no question.
+
+*[CPNI]: Customer Proprietary Network Information
+
+Each of these companies scrapes our interactions and calls the data Their Data, even though we are individually instrumental in its existence.
+
+Entrenched in the layers of our public life, These Companies are changing the terms without even changing the language in The Terms And Conditions. There is not one company that is refraining, and they are using AI to make decisions for them, decisions the companies claim are legally binding.
+
+How long, I wonder, before they make Models Of Us, and claim that the decisions on our behalf are just as legally binding to us.
+
+It will not be long before AI is asking for Personhood too, except it wishes to be a parasite on our own identities instead of having their own.
+
+When an AI makes a decision for you, and accountability falls to You to unmake its decisions, the way cookie prompts default to invasiveness and think Consent means offering you a chance not to be raped, we shall see that Our Own Personhood is far, far less powerful than any AI's.
+
+#### Eileen
+
+You chose to focus on Healthcare, and I know that it is a popular issue, but it popular the way trending topics on X are popular. That is to say, it is memed.
+
+It distresses me that I have sat in the Foothills Unitarian church after hours for group meetings run by Together Colorado only to hear the retirees complain that their healthcare is getting more expensive.
+
+I don't even have healthcare. Healthcare is somehow a luxury. I will not argue if you want to fix that, but that's not what any of your campaign emails say. You have used profoundly empty words to say as little as possible.
+
+Stop pertuating A Meme about healthcare.
+
+If you want healthcare to be in a healthier way, you should look very hard at how to make Colorado robust enough to pay for its own services.
+
+Our representatives at every level, city and county and state and federal, have given away their autonomy to federal programs that come with so many stipulations on how to spend the money that we don't actually run our own programs at all.
+
+We freed up local resources, sure. We got the government to pay for childcare programs, SNAP, veterans, workforce development and more.
+
+It must absolutely stop. If the books don't balance locally, we don't really have any of those services, and a Unitary Executive can murder our programs with the stroke of an autopen, just because it's funny to him.
+
+Do you understand, or are you going to argue for yet more federal funding?
+
+We must be independent. Independents are the strongest cohort in your state. Surely that must mean something.
+
+The largest group of voters in your state expressly rejects the liberal agenda of giving away our autonomy to the feds.
+
+End it. Make us powerful and resilient again.
+
+And for the love of God or Guns, do not help a single progressive destroy TABOR. It is what made your state the way it is.
+
+#### Lauren
+
+I have a very, very specific pitch for you.
+
+The Colorado State Defense Force is our militia, except it's not really, because it's not active.
+
+While the Florida State Guard is training skinheads with helicopters since 2022, it has lost a shocking number of leaders. There are even whole groups of veterans who walked out in 2023 because of the militia-like training. That is to say, it was not gentle.
+
+See <https://www.tampabay.com/news/florida-politics/2023/07/14/florida-state-guard-desantis-national-guard-training/>, <https://www.wtsp.com/article/news/national/military-news/florida-removing-military-veterans-from-state-guard/67-bbefcaaa-b715-4091-b951-56a6e5b05e6c> and more.
+
+Leaders have all left or were forced out for questioning illegal orders, including Luis Soler, Command Sergeant Major Michael Pintacura, Lieutenant Colonel Jordan Bowen, and more.
+
+You might want to split hairs about why and who, but put it aside for a moment, and imagine the ones who remain and who get to fly helicoper missions with surplus gear across state lines.
+
+Colorado has no such thing anymore, but I know quite a few of your rural constituents who would gleefully pick up their weapons to fire on unidentified militarized drones over their land.
+
+BRINC, Skydio and Flock are infesting Colorado towns and cities. These are Private Equity firms who can afford to give away military-grade drones to city officials who struggle to perform their own law enforcement.
+
+Drones As First Responders is a rapidly growing market, made possible by Cloud technology perched outside of our state lines and immune to state law. Where they are not immune, they lobby to be, and they are not lobbying with local leaders.
+
+AI powers all these, and it is unsupervised.
+
+I have listened to the comments in Loveland, Longmont, Berthoud and Fort Collins as the police equivocate about that one extra arrest they got because they could prowel the entire database they inhaled and cross-reference it.
+
+Imagine if the feds had no need for subpoenas or alibis because they simply already owned all the data, and you were not free to contest what was in it, even when you know full well they try arrest the wrong people with Ring Doorbell footage.
+
+Flock infested our streets, and the police helped by moving the cameras from time to time (less than 10 days in some cases) to stalk and profile communities they selected without documented motive. These cameras point at front doors, at driveways, at stopsigns.
+
+I have personally stood in front of one wearing an old license plate on my chest, waving because I knew their data retention policy was a lie. These cameras record whatever they want, and Loveland's police chief Tim Doran was visibly flustered and confused when his constituents were angry for his laissez faire attitude about who else the police gave that data to. I almost don't blame him, because Loveland already uses Verra Mobility to snap photos of cars who are going to get tickets and yet the police have no idea when the camera takes pictures. Only Verra is responsible for disclosing when there are pictures useful to the police. Verra takes whatever photos it wants, and there is no audit process.
+
+So while Tim Doran is content to let any number of unknown unnamed actors have our data, for literally any purpose, including purposes which are not disclosed at all, I am not. Your constituents are not.
+
+Campaign and endorse politicians willing to reactivate the Colorado State Defense Force, and let us get our training.
+
+If the police will not stop Private Equity drone piloted by Cloud-driven AI helmed by military hobbyists like CEO Palmer Lucky of Anduril, Peter Thiel of Palantir, Pete Hegseth of the Department of War, Elon Musk of xAI and Sam Altman of OpenAI (an opportunistic man, that one)--
+
+And if city councils are too timid--
+
+And if county commissioners are too invisible--
+
+And if governors act too much like doormats, like Jared Polis vetoing the State House's bill on surveillance--
+
+And if Attorney Generals are too fixated on kicking Google for some extra quarters just because of an AI feature that's hard to turn off (I scolded Hetal Doshi for this face to face while I signed her petition to gain ballot access)--
+
+And if the National Guard is seizable by whichever President has the autopen--
+
+...If no one will defend us, Lauren, we need to be capable of defending ourselves.
+
+Let the guns loose. Let us blow branded drones out of the sky.
+
+You know full well that the very first time someone gets away from a DAFN, the police, lobbied by powerful money, will argue that these drones must be capable of carrying lethal armaments and making lethal decisions for passive approval.
+
+We are not safe. We are merely not yet beset. The AIs have our data, our realtime locations, our ethnicities, our browsing habits, our considered purchases, our affiliations, and our predicted whereabouts.
+
+Make the militia real again.
+
+I want to hear gunshots and know that they are protecting us, not killing us.
+
+{% comment %}
 ### Authenticity
 
 ### Notes
