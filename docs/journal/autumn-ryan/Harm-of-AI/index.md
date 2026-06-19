@@ -376,9 +376,9 @@ I have personally stood in front of one wearing an old license plate on my chest
 
 So while Tim Doran is content to let any number of unknown unnamed actors have our data, for literally any purpose, including purposes which are not disclosed at all, I am not. Your constituents are not.
 
-Campaign and endorse politicians willing to reactivate the Colorado State Defense Force, and let us get our training.
+Campaign with and endorse politicians willing to reactivate the Colorado State Defense Force, and let us get our training.
 
-If the police will not stop Private Equity drone piloted by Cloud-driven AI helmed by military hobbyists like CEO Palmer Lucky of Anduril, Peter Thiel of Palantir, Pete Hegseth of the Department of War, Elon Musk of xAI and Sam Altman of OpenAI (an opportunistic man, that one)--
+If the police will not stop Private Equity drones piloted by Cloud-driven AI helmed by military hobbyists like CEO Palmer Lucky of Anduril, Peter Thiel of Palantir, Pete Hegseth of the Department of War, Elon Musk of xAI and Sam Altman of OpenAI (an opportunistic man, that one)--
 
 And if city councils are too timid--
 
