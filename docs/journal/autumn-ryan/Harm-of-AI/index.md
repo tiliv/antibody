@@ -320,7 +320,7 @@ It distresses me that I have sat in the Foothills Unitarian church after hours f
 
 I don't even have healthcare. Healthcare is somehow a luxury. I will not argue if you want to fix that, but that's not what any of your campaign emails say. You have used profoundly empty words to say as little as possible.
 
-Stop pertuating A Meme about healthcare.
+Stop perpetuating A Meme about healthcare.
 
 If you want healthcare to be in a healthier way, you should look very hard at how to make Colorado robust enough to pay for its own services.
 
