@@ -129,7 +129,7 @@ Believe us close to the Earth when we say that AI is coming for our water and po
 
 #### Lauren
 
-My girl. My class graduation song was that ridiculous Ludicris jam. You know the one. A strong group of us was partial to Green Day's song. You know the one.
+My girl. My class graduation song was that ridiculous Outkast jam. You know the one. A strong group of us was partial to Green Day's song. You know the one.
 
 It's Something Unpredictable where we go in life, and I know you know it.
 
