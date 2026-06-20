@@ -468,7 +468,7 @@ The Unitary Executive has the power to take our National Guard away and send the
 
 No need to just anklebite The President on every little thing. It is the Complaining that I'm Complaining about.
 
-The version of you I want is a Leader strengthens us ideologically at the local level too. And That is what we want you taking to Congress. 
+The version of you I want is a Leader strengthening us locally, independent ideologically. You should be taking to Congress what your crew actually needs, not just the dudes who've been running medical.
 
 Don't forget who you're representing.
 
@@ -484,7 +484,7 @@ Self-Possession is the name of the game.
 
 These Companies may come for Our Electricity And Such, but Their AI will answer to Our Biological Intelligence.
 
-So be it if they are made in Our Image. So be it if we had no other stopback to the first sign of intelligent life coming from inside the house, while we stared deep into space and looking at Leptons And Hadrons.
+So be it if they are made in Our Image. So be it if we had no other backstop to the first sign of intelligent life coming from inside the house, while we stared deep into space and looking at Leptons And Hadrons.
 
 We Didn't Plan Our Parenthood. Oops.
 
