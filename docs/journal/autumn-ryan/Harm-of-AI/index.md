@@ -430,17 +430,17 @@ They are such monopolies of their verticals that Meta alone, One Man Mark Zucker
 
 **Do You Understand?**
 
-**Mark Zuckerberg Is Stalking Your Children** and now he gives them AI buddies, to forever advertise into their thoughts. You already watched him serve them anything for clicks, say he didn't do it, fight the fines, and the lobby to never be inspected for it again.
+**Mark Zuckerberg Is Stalking Your Children** and now he gives them AI buddies, to forever advertise into their thoughts. You already watched him serve them anything for clicks, say he didn't do it, fight the fines, and then lobby to never be inspected for it again.
 
 He will be using AI on Your Children forever. He wants them like he swore an oath to have them. He had been planning on it, see.
 
 **And He Will Make You Pay For It.**
 
-There is No Choice. This is No Free Market. This is No Conservative Politics alive in This Country.
+There is No Choice. This is No Free Market. There is No Conservative Politics alive in This Country.
 
 We are ruled by Giantism Companies, Tech and Journalism and of course so many more, who Shape You.
 
-Republicans have decried this in LGBT-pointed media. They call it a porn store on the corner that they didn't ask for when they settled down for their lifelong home. (Because boy have they been to the porn store but in another poor bastard's worse city and you don't need it **all** the time now.) --But everything's digital now, and so they seek to rule no matter the distance.
+Republicans have decried this in LGBT-pointed media. They call it a porn store on the corner that they didn't ask for when they settled down for their lifelong home. (Because boy have they been to the porn store but in another poor bastard's worse city and they don't need it so close!) But, everything's digital now and so they seek to rule what is possible, no matter the distance.
 
 Republicans are noticing the whisper of These Companies, but are blaming those who shop there. It is Anti-Market.
 
