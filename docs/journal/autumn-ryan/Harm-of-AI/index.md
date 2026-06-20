@@ -402,9 +402,117 @@ Make the militia real again.
 
 I want to hear gunshots and know that they are protecting us, not killing us.
 
-{% comment %}
 ### Authenticity
 
+**These Companies have refused Our Terms.** They presently lobby those with Half Trillion Dollar Speech, or if they're Meta then they lobby for themselves, as both the carrier and the profiteer of Our Data.
+
+**You Should Refuse Their Terms.** Our choice is fake. Incogni or California's CPPA Data Broker Registry.
+
+**They Are Still Brokering You. You are their eternal Product, and everything you touch is being sold back to you with **Your Stolen Consent.**
+
+**It is Piracy.**
+
+Where they do perch outside our borders, like the Unitary Executive is happy to allow for its Personal Supervision, we have had tragedy in This Country. We Millennials 
+
+Forget entirely that they need Our Resources to pull this one off and focus only on the fact that They Answer To No One But Themselves:
+
+**If this is what the power of Personhood allows, then Take It Up For Yoursevles.**
+
+Refuse what they ask; Even to them they're not asking. You are being raped by These Companies of all kinds which are Too Big To Succeed. Ever asking more and more subscription costs to offer exactly what they did last month, for the things they pump on Social Media to start selling to Your Children.
+
+They Need Your Children To Succeed. Don't Allow Them To Do It.
+
+They are such monopolies of their verticals that Meta alone, One Man Mark Zuckerberg whom I watched launch The Facebook just mere months before I could have college-age account.
+
+**Now, One Man Mark Zuckerberg Goes To Congress Himself** to ask to be wholly exempted.
+
+**It Is His Fiduciary Responsibility As A Capitalist** To Ask To Keep Raping Your Children For Their Data And Their Lifelong Attention, and it will be with AI that he assaults them next. He has already lost "Their" Data with "Trusted" Partners, the same wording Media websites uses to describe 400-some parterns in advertising if they can trick you into saying Allow All by mistake.
+
+**Do You Understand?**
+
+**Mark Zuckerberg Is Stalking Your Children** and now he gives them AI buddies, to forever advertise into their thoughts. You already watched him serve them anything for clicks, say he didn't do it, fight the fines, and the lobby to never be inspected for it again.
+
+He will be using AI on Your Children forever. He wants them like he swore an oath to have them. He had been planning on it, see.
+
+**And He Will Make You Pay For It.**
+
+There is No Choice. This is No Free Market. This is No Conservative Politics alive in This Country.
+
+We are ruled by Giantism Companies, Tech and Journalism and of course so many more, who Shape You.
+
+Republicans have decried this in LGBT-pointed media. They call it a porn store on the corner that they didn't ask for when they settled down for their lifelong home. (Because boy have they been to the porn store but in another poor bastard's worse city and you don't need it **all** the time now.) --But everything's digital now, and so they seek to rule no matter the distance.
+
+Republicans are noticing the whisper of These Companies, but are blaming those who shop there. It is Anti-Market.
+
+Democrats have been failing all their lives to really Shape Government. Obama did that, and it's why they were so fearful of a Trump Term One. They called it ridiculous because on the face of it there was no seriousness available, but they watched him do it.
+
+Democrats were right to expect more of him in all that has come since but they were wrong to be upset about a situation where they refuse to flex any Power.
+
+#### Eileen
+
+I will tell Lauren to be vicious, because I think you are destined to be too tepid. Steady Hand politics is welcome, but what matters is if you sailed the proverbial calm seas and think yourself a War-Time leader.
+
+I would send Adam Hirschhorn to Congress, do you understand? What politics is teaching the entire planet right now is that it is Donald Trump who makes decisions around here.
+
+**I want someone who doesn't say Yes Sir without believing it.**
+
+What happens in those seats is Permanent, not just a record but a shape and a negative space shape around that. It moves through time, and we will always remember it for what it will have been.
+
+I will not be placated by someone saying only that they will be Better Somehow By Degrees than what we had in the past. That's the weakest interview I Will Have Ever Heard, and I do interviews. I wanna see some vision in you, not in the healthcare CEO reflected on your irises.
+
+Do not be the kind to ask the lifelong King of Peace Board Inc for any respect, for rank will not make anyone expedient in our eyes if they are Wrong.
+
+Show us you're capable of Disobeying. `Disobey` is the only word on my Facebook profile. What's on yours?
+
+The Unitary Executive has the power to take our National Guard away and send them to our Peer States to supervise the murder those civilians, and it is celebrated as not going far enough fast enough. The Unitary Executive leans forward at all the worst times.
+
+No need to just anklebite The President on every little thing. It is the Complaining that I'm Complaining about.
+
+The version of you I want is a Leader strengthens us ideologically at the local level too. And That is what we want you taking to Congress. 
+
+Don't forget who you're representing.
+
+The version of you I want helps us to prepare to defend ourselves from lethal branded drones, AI, Monopolies and hostile Peer States. We want to know you understand the right of it when we refuse illegal orders and fire on invaders which our police and government will refuse to protect us from.
+
+We want the Colorado State Defense Force back. We want it training us. We want it in Our Governor's hands. (May they be much wiser than Jared Polis.)
+
+It is too late to be really ready in time, but we don't turn this around by asking for another opinion while we are too cowardly to know our minds for ourselves.
+
+Self-Possession is the name of the game.
+
+#### Lauren
+
+These Companies may come for Our Electricity And Such, but Their AI will answer to Our Biological Intelligence.
+
+So be it if they are made in Our Image. So be it if we had no other stopback to the first sign of intelligent life coming from inside the house, while we stared deep into space and looking at Leptons And Hadrons.
+
+We Didn't Plan Our Parenthood. Oops.
+
+There is no Late Term Abortion, not unless you're rich Or Something.
+
+Donald John Trump is up to many things and he can get away with it by giving everyone mind viruses to sneeze about by simply saying Literally Anything for the medias to devour. They always just want the next chapter, especially if it's bad.
+
+It is Non-Partisan to say that this is a morality play where We The People continue to lose. Jared Kushner appears and disappears like the inside man helping Saudis buy Our Media Companies.
+
+These Companies have repeatedly failed and turned up their prices, and yet they think themselves qualified to be the one who Merges Again To Save Themselves, Renames Themselves or literally any other thing they invent next.
+
+Frustrating, that the more the Unitary Executive gives away Our Media to foreign nations, the easier they can Pay Up when extorted by our lawmakers without damaging American business.
+
+But if that's the silver lining, we need to weather what's coming for us.
+
+**We need A Rabid Hound Of A Congresswoman** to reserve All Rights to The People Of The State Of Colorado.
+
+These Companies must not be allowed to devour us. It is that simple. They came for the John Deere repairability, and they came for our tech repairability.
+
+They did us all dirty who grew up in the halls of a West Jessamine County High School wrapped in a tabacco field like a scarf.
+
+Companies Will Say Anything, and so we should be saying Anything Necessary to challenge the whole-cloth notion that They Can Bind Us Without Us Even Reading Or Hearing Of Them Before. Tell Them They Can Go Fuck Themselves.
+
+I crave a Conservative movement that sees Giantism Companies as insane and so openly lecherous for Mammon.
+
+After they catch the meta-disease of Fiduciary Responsibilities, what trickles down is the blood of us. They are balancing only their side of the transaction with no reguard for us, the blood blags who make children.
+
+{% comment %}
 ### Notes
 
 {% include figure.html file="1-searching.jpeg" %}
