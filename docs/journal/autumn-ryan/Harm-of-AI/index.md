@@ -412,7 +412,7 @@ I want to hear gunshots and know that they are protecting us, not killing us.
 
 **It is Piracy.**
 
-Where they do perch outside our borders, like the Unitary Executive is happy to allow for its Personal Supervision, we have had tragedy in This Country. We Millennials 
+Where they do perch outside our borders, like the Unitary Executive is happy to allow for its Personal Supervision, we have had tragedy in This Country. We Millennials watched Bush Senior say the same thing, that he had guys he knew who could just handle it without Congress.
 
 Forget entirely that they need Our Resources to pull this one off and focus only on the fact that They Answer To No One But Themselves:
 
