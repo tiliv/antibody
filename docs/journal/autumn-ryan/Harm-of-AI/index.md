@@ -408,7 +408,7 @@ I want to hear gunshots and know that they are protecting us, not killing us.
 
 **You Should Refuse Their Terms.** Our choice is fake. Incogni or California's CPPA Data Broker Registry.
 
-**They Are Still Brokering You. You are their eternal Product, and everything you touch is being sold back to you with **Your Stolen Consent.**
+**They Are Still Brokering You. You are their eternal Product, and everything you touch is being sold back to you with Your Stolen Consent.**
 
 **It is Piracy.**
 
