@@ -422,7 +422,7 @@ Refuse what they ask; Even to them they're not asking. You are being raped by Th
 
 They Need Your Children To Succeed. Don't Allow Them To Do It.
 
-They are such monopolies of their verticals that Meta alone, One Man Mark Zuckerberg whom I watched launch The Facebook just mere months before I could have college-age account.
+They are such monopolies of their verticals that Meta alone, One Man Mark Zuckerberg can do it, whom I watched launch The Facebook just mere months before I could have college-age account.
 
 **Now, One Man Mark Zuckerberg Goes To Congress Himself** to ask to be wholly exempted.
 
