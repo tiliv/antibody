@@ -1,11 +1,9 @@
 name: Deploy Jekyll with GitHub Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+  pull_request:
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -61,8 +59,9 @@ jobs:
         with:
           path: docs/_site
 
-  # Deployment job
+  # Deployment job — main branch only
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
