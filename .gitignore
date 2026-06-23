@@ -1,17 +1,17 @@
-docs/vendor/bundle
-docs/_site
-docs/_data/git
+vendor/bundle
+_site
+_data/git
 retain-*
 
 .DS_Store
 Gemfile.lock
 
 # Synced from journal submodule at build time
-docs/_layouts/
-docs/_plugins/
-docs/css/
-docs/js/
-docs/fonts/
-docs/img/
-docs/_includes/*.html
-docs/_includes/toc/
+_layouts/
+_plugins/
+css/
+js/
+fonts/
+img/
+_includes/*.html
+_includes/toc/

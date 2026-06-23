@@ -1,5 +1,6 @@
 ---
 layout: one-message
+permalink: /LICENSE/
 ---
 
 ## LICENSE.md
