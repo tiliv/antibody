@@ -3,9 +3,9 @@
     "node": "20.x"
   },
   "scripts": {
-    "stat-pieces":     "git ls-files 'docs/journal/**/index.md' | journal/bin/batch.sh 'journal/bin/stat-piece.sh'",
-    "stat-paragraphs": "git ls-files 'docs/journal/**/index.md' | journal/bin/batch.sh 'journal/bin/stat-paragraphs.sh'",
-    "stat-history":    "git ls-files 'docs/journal/**/index.md' | journal/bin/stat-history.sh",
+    "stat-pieces":     "git ls-files --recurse-submodules 'docs/journal/**/index.md' | journal/bin/batch.sh 'journal/bin/stat-piece.sh'",
+    "stat-paragraphs": "git ls-files --recurse-submodules 'docs/journal/**/index.md' | journal/bin/batch.sh 'journal/bin/stat-paragraphs.sh'",
+    "stat-history":    "git ls-files --recurse-submodules 'docs/journal/**/index.md' | journal/bin/stat-history.sh",
     "sync":    "rsync -a --delete --exclude='contact/' journal/_includes/ docs/_includes/ && rsync -a --delete journal/_layouts/ docs/_layouts/ && rsync -a --delete journal/_plugins/ docs/_plugins/ && rsync -a --delete journal/css/ docs/css/ && rsync -a --delete journal/js/ docs/js/ && rsync -a --delete journal/fonts/ docs/fonts/ && rsync -a --delete journal/img/ docs/img/",
     "serve":   "npm run sync && cd docs && bundle exec jekyll serve --config ../journal/_config.yml,_config.yml",
     "build":   "npm run sync && cd docs && bundle exec jekyll build --config ../journal/_config.yml,_config.yml --trace",
