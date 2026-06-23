@@ -1,11 +1,9 @@
 name: Deploy Jekyll with GitHub Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
+  pull_request:
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -28,13 +26,23 @@ jobs:
         with:
           fetch-depth: 0  # we will run some full rev parsing in scripts
           fetch-tags: true
+          submodules: recursive
       - name: Build paragraphs blame
-        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-piece.sh'
+        run: git ls-files 'docs/journal/**/index.md' | journal/bin/batch.sh 'journal/bin/stat-piece.sh'
       - name: Build paragraphs history
-        run: git ls-files 'docs/journal/**/index.md' | bin/batch.sh 'bin/stat-paragraphs.sh'
+        run: git ls-files 'docs/journal/**/index.md' | journal/bin/batch.sh 'journal/bin/stat-paragraphs.sh'
       - name: Build pieces activity history
-        run: git ls-files 'docs/journal/**/index.md' | bin/stat-history.sh
+        run: git ls-files 'docs/journal/**/index.md' | journal/bin/stat-history.sh
         shell: bash
+      - name: Sync journal engine assets into docs/
+        run: |
+          rsync -a --delete --exclude='contact/' journal/_includes/ docs/_includes/
+          rsync -a --delete journal/_layouts/   docs/_layouts/
+          rsync -a --delete journal/_plugins/   docs/_plugins/
+          rsync -a --delete journal/css/        docs/css/
+          rsync -a --delete journal/js/         docs/js/
+          rsync -a --delete journal/fonts/      docs/fonts/
+          rsync -a --delete journal/img/        docs/img/
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -45,14 +53,15 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         working-directory: docs
-        run: bundle exec jekyll build --destination _site
+        run: bundle exec jekyll build --config ../journal/_config.yml,_config.yml --destination _site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/_site
 
-  # Deployment job
+  # Deployment job — main branch only
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
