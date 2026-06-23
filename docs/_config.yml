@@ -41,41 +41,13 @@ civic_license: |
 
   You Are Allowed to rebroadcast what we say, If You Say It Too.
 
+repo_url: https://github.com/tiliv/antibody
+repo_name: tiliv/antibody
+og_description: >-
+  We assert that there are degrees of information quality, that we must not
+  struggle to distinguish them and that they are these: 1) First-party claims
+  with metadata, 2) Hearsay and 3) Fraud.
+
 preferences:
   dark: false
   year: "2026"
-
-# Jekyll options
-theme: null
-permalink: pretty
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  hard_wrap: false
-  gfm_quirks: paragraph_end
-  template: ""
-  math_engine: mathjax
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    default_lang: plaintext
-sass:
-  style: compressed
-
-defaults:
-  - scope: {path: ""}
-    values:
-      preferences: journal
-  - scope: {path: "journal"}
-    values:
-      layout: journal
-exclude:
-  - CNAME
-  - .bundle
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-plugins:
-  - jekyll-link-attributes
-  - jekyll-redirect-from
