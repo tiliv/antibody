@@ -1,3 +1,6 @@
 [submodule "journal"]
 	path = journal
 	url = https://github.com/fccn-antibody/journal.anecdote.channel
+[submodule "docs/journal/autumn-ryan"]
+	path = docs/journal/autumn-ryan
+	url = https://github.com/tiliv/cite-autumn-ryan
