@@ -39,7 +39,7 @@ jobs:
         shell: bash
       - name: Sync journal engine assets into the site root
         run: |
-          rsync -a --delete --exclude='contact/' journal/_includes/ _includes/
+          rsync -a --delete --exclude='contact/' --exclude='constitution/' journal/_includes/ _includes/
           rsync -a --delete journal/_layouts/   _layouts/
           rsync -a --delete journal/_plugins/   _plugins/
           rsync -a --delete journal/css/        css/

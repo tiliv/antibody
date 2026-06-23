@@ -7,7 +7,7 @@ priority: 1.0  # minor: sitemap scan priority
 {% include indexed.html %}
 
 <section id="readme" class="content" markdown="1">
-{{ site.civic_readme }}
+{% include constitution/readme.md %}
 </section>
 
 {% assign authors = site.pages
@@ -72,5 +72,7 @@ priority: 1.0  # minor: sitemap scan priority
 </section>
 
 <section id="license" class="content" markdown="1">
-{{ site.civic_license }}
+## License
+
+{% include constitution/license.md %}
 </section>
