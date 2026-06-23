@@ -1,0 +1,3 @@
+[submodule "journal"]
+	path = journal
+	url = https://github.com/fccn-antibody/journal.anecdote.channel
