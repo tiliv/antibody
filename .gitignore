@@ -6,7 +6,7 @@ retain-*
 .DS_Store
 Gemfile.lock
 
-# Synced from journal submodule at build time
+# Synced from the journal engine at build time (bin/sync.sh)
 _layouts/
 _plugins/
 css/
@@ -15,3 +15,13 @@ fonts/
 img/
 _includes/*.html
 _includes/toc/
+# skel pages delivered from journal/skel/
+/404.md
+/robots.txt
+/sitemap.xml
+/sitemap_root.xml
+/sitemapset.xsl
+/urlset.xsl
+/index.md
+/readme.md
+/license.md

@@ -1,14 +1,13 @@
 {
+  "comment": "Thin relay to the journal engine (mounted at journal/). The build logic lives in journal/bin; add site-specific scripts here as needed.",
   "engines": {
     "node": "20.x"
   },
   "scripts": {
-    "stat-pieces":     "git ls-files --recurse-submodules 'publish/**/index.md' | JOURNAL_MOUNT=publish JOURNAL_BASE=journal journal/bin/batch.sh 'journal/bin/stat-piece.sh'",
-    "stat-paragraphs": "git ls-files --recurse-submodules 'publish/**/index.md' | JOURNAL_MOUNT=publish JOURNAL_BASE=journal journal/bin/batch.sh 'journal/bin/stat-paragraphs.sh'",
-    "stat-history":    "git ls-files --recurse-submodules 'publish/**/index.md' | JOURNAL_MOUNT=publish JOURNAL_BASE=journal journal/bin/stat-history.sh",
-    "sync":    "rsync -a --delete --exclude='contact/' --exclude='constitution/' journal/_includes/ _includes/ && rsync -a --delete journal/_layouts/ _layouts/ && rsync -a --delete journal/_plugins/ _plugins/ && rsync -a --delete journal/css/ css/ && rsync -a --delete journal/js/ js/ && rsync -a --delete journal/fonts/ fonts/ && rsync -a --delete journal/img/ img/",
-    "serve":   "npm run sync && bundle exec jekyll serve --config journal/_config.yml,_config.yml",
-    "build":   "npm run sync && bundle exec jekyll build --config journal/_config.yml,_config.yml --trace",
-    "prebuild": "npm run stat-pieces && npm run stat-paragraphs && npm run stat-history"
+    "stats": "journal/bin/stats.sh",
+    "sync": "journal/bin/sync.sh",
+    "build": "journal/bin/build.sh",
+    "serve": "journal/bin/serve.sh",
+    "prebuild": "journal/bin/stats.sh"
   }
 }
