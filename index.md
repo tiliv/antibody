@@ -7,6 +7,8 @@ priority: 1.0  # minor: sitemap scan priority
 {% include indexed.html %}
 
 <section id="readme" class="content" markdown="1">
+[# README](/CONSTITUTION/)
+
 {% include constitution/readme.md %}
 </section>
 
@@ -72,7 +74,7 @@ priority: 1.0  # minor: sitemap scan priority
 </section>
 
 <section id="license" class="content" markdown="1">
-## License
+[## License](/CONSTITUTION/)
 
 {% include constitution/license.md %}
 </section>
