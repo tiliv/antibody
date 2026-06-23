@@ -1,5 +1,6 @@
 ---
 layout: one-message
+permalink: /README/
 ---
 
 ## README.md
