@@ -30,6 +30,10 @@ jobs:
           fetch-depth: 0  # the stat scripts do full rev parsing
           fetch-tags: true
           submodules: recursive
+      - name: Ensure full submodule history
+        # The stats blame/--follow inside each mounted content submodule; checkout
+        # can leave those shallow. Deepen them (no-op if already complete).
+        run: git submodule foreach --recursive 'git fetch --unshallow 2>/dev/null || true'
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
