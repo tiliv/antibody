@@ -1,0 +1,42 @@
+name: Advance author submodules to HEAD
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Mondays 06:00 UTC — weekly content deadline
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  advance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Advance all publish/* submodule pins to HEAD
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git config -f .gitmodules --get-regexp '^submodule\..*\.path$' \
+            | awk '$2 ~ /^publish\// {print $2}' \
+            | while read -r path; do
+                git submodule update --init "$path"
+                url=$(git -C "$path" remote get-url origin)
+                latest=$(git ls-remote "$url" HEAD | awk '{print $1}')
+                git -C "$path" fetch origin
+                git -C "$path" checkout "$latest"
+                git add "$path"
+              done
+
+          git diff --cached --quiet || {
+            git commit -m "ci: weekly advance submodules to HEAD [skip ci]"
+            git push origin main
+          }
+        shell: bash
