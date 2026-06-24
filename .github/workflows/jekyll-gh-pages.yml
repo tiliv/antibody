@@ -6,7 +6,6 @@ on:
   pull_request:
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -17,52 +16,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job — all logic lives in the journal engine (journal/bin); this just
-  # wires up the toolchains and relays to it.
-  build:
-    runs-on: ubuntu-latest
-    env:
-      BUNDLE_GEMFILE: journal/Gemfile   # the engine carries the canonical deps
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # the stat scripts do full rev parsing
-          fetch-tags: true
-          submodules: recursive
-      - name: Ensure full submodule history
-        # The stats blame/--follow inside each mounted content submodule; checkout
-        # can leave those shallow. Deepen them (no-op if already complete).
-        run: git submodule foreach --recursive 'git fetch --unshallow 2>/dev/null || true'
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version-file: journal/.nvmrc
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Generate git-history data
-        run: journal/bin/stats.sh
-      - name: Build with Jekyll
-        run: journal/bin/build.sh   # syncs engine assets + skel, then builds to _site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-  # Deployment job — main branch only
-  deploy:
-    if: github.ref == 'refs/heads/main'
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  journal:
+    uses: fccn-antibody/journal.anecdote.channel/.github/workflows/build.yml@main
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
