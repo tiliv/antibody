@@ -18,6 +18,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      build_sha: ${{ steps.build.outputs.build_sha }}
+      build_mode: ${{ steps.build.outputs.build_mode }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,7 +29,35 @@ jobs:
           fetch-tags: true
           submodules: recursive
       - name: Build
+        id: build
         uses: ./journal/.github/actions/build
+        with:
+          try_latest: ${{ github.ref == 'refs/heads/main' }}
+
+  write-back:
+    needs: build
+    if: github.ref == 'refs/heads/main' && needs.build.outputs.build_mode == 'latest'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Advance journal submodule pin
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git submodule update --init --depth=1 journal
+          git -C journal fetch origin main
+          git -C journal checkout "${{ needs.build.outputs.build_sha }}"
+          git diff --quiet journal || {
+            git add journal
+            git commit -m "ci: advance journal to ${{ needs.build.outputs.build_sha }} [skip ci]"
+            git push
+          }
+        shell: bash
 
   deploy:
     if: github.ref == 'refs/heads/main'
