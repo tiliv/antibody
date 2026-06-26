@@ -1,16 +1,17 @@
 name: Journal engine upgrade
 
 # Cautiously advances the `journal/` engine pin to its latest HEAD — but only
-# when the latest engine still builds this site cleanly. The build action is run
-# with `try_latest: true`; it reports `build_mode: latest` when the newest journal
-# HEAD built, or falls back to the pinned (known-good) commit otherwise. We only
-# write the new pin back when the latest actually built, so a broken engine HEAD
-# can never displace the known-good config.
+# when the latest engine still builds this site cleanly. The build-gate and
+# write-back live in the journal-supplied `advance-engine` composite action, so
+# this workflow only owns the schedule. That mirrors journal-engine-citations.yml,
+# which composes `advance-submodules` to roll the author submodules forward: the
+# journal is both the build source and the supplier of these actions, and the
+# workspace repo keeps its scheduled workflows thin and easy to maintain.
 #
-# This complements the write-back already embedded in jekyll-gh-pages.yml: that
-# one only rolls the pin forward on a push to main, so the engine could stall
-# whenever no site/author content changes. This scheduled job picks up engine
-# commits regardless.
+# This complements the write-back embedded in antibody.yml: that one only rolls
+# the pin forward on a push to main, so the engine could stall whenever no
+# site/author content changes. This scheduled job picks up engine commits
+# regardless.
 
 on:
   schedule:
@@ -18,14 +19,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  build:
+  advance:
     runs-on: ubuntu-latest
-    outputs:
-      build_sha: ${{ steps.build.outputs.build_sha }}
-      build_mode: ${{ steps.build.outputs.build_mode }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,33 +32,6 @@ jobs:
           fetch-depth: 0
           fetch-tags: true
           submodules: recursive
-      - name: Build against latest journal
-        id: build
-        uses: ./journal/.github/actions/build
-        with:
-          try_latest: true
 
-  write-back:
-    needs: build
-    if: needs.build.outputs.build_mode == 'latest'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: main
-      - name: Advance journal submodule pin
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git submodule update --init --depth=1 journal
-          git -C journal fetch origin main
-          git -C journal checkout "${{ needs.build.outputs.build_sha }}"
-          git diff --quiet journal || {
-            git add journal
-            git commit -m "ci: roll journal forward to ${{ needs.build.outputs.build_sha }} [skip ci]"
-            git push
-          }
-        shell: bash
+      - name: Advance journal engine pin
+        uses: ./journal/.github/actions/advance-engine
