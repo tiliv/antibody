@@ -1,0 +1,15 @@
+# Registry of data-piles this node indexes (grouped behind a Tell in _data/tells.yml).
+# Schema mirrors atlas/_data/piles.yml:
+#   id, name, level (district|city|county|…), scope (branch <scope> segment),
+#   tell (id in _data/tells.yml the pile is reached through),
+#   map (Atlas-hosted path for the coarse slice), branch (pile/<scope>/<id>),
+#   signer (fingerprint expected to have signed the branch's commits)
+# Seed entry below is illustrative of the shape; replace with the node's real piles.
+- id: fc-q1
+  name: "Fort Collins — Question 1"
+  level: city
+  scope: "colorado"
+  tell: tell
+  map: "/piles/fc-q1/map.xml"
+  branch: "pile/colorado/fc-q1"
+  signer: "SHA256:PLACEHOLDER-fc-q1-ssh-key-fingerprint"

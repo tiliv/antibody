@@ -1,0 +1,44 @@
+name: match
+
+# Run the Atlas matchmaker over THIS node's own registries and publish matches.json —
+# the workspace acting as its own self-hosted Atlas. For each need (_data/needs.yml),
+# test candidate piles (_data/piles.yml) in the same scope for constitutional fit
+# (honest needs-judgment by default), and commit the accepted matches to matches.json,
+# which Jekyll serves at /matches.json. The asker PULLS it; this node never writes into
+# an asker.
+#
+# The work itself is atlas's reusable `match` composite action, carried in the atlas/
+# submodule (advanced by modules-upgrade.yml). This workflow just points it at this
+# node's data — the same `./atlas/.github/actions/<name>` convention modules-upgrade.yml
+# already uses for advance-engine. Set the repo variable ATLAS_MATCH_CMD to a judge
+# (agent/human) to accept matches; until then the honest default keeps matches.json empty.
+
+on:
+  schedule:
+    - cron: "47 * * * *" # hourly, best-effort; commits only when matches.json changes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: match
+  cancel-in-progress: false
+
+jobs:
+  match:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive # the match action lives in the atlas/ submodule
+      - uses: ./atlas/.github/actions/match
+        with:
+          needs: _data/needs.yml
+          piles: _data/piles.yml
+          tells: _data/tells.yml
+          config: _config.yml
+          output: matches.json
+          match-cmd: ${{ vars.ATLAS_MATCH_CMD }}
+          git-user-name: antibody-match
+          git-user-email: antibody-match@users.noreply.github.com

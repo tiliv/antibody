@@ -1,0 +1,12 @@
+# Registry of Tells this node lists — the directory it routes piles through.
+# Schema mirrors atlas/_data/tells.yml:
+#   id (also the tell/<scope>/<id> branch segment), name, url (the Tell's domain),
+#   scope (jurisdiction it speaks for), signer (delivery-signer fingerprint),
+#   reports (where it publishes the transparency reports this node aggregates)
+# Seed points at the reference hub for the node's scope; replace with the node's Tell.
+- id: tell
+  name: "Tell (reference hub)"
+  url: "https://tell.anecdote.channel"
+  scope: "colorado"
+  signer: "SHA256:PLACEHOLDER-tell-delivery-signer-fingerprint"
+  reports: "reports/govern-*"
