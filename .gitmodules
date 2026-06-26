@@ -4,3 +4,9 @@
 [submodule "publish/autumn-ryan"]
 	path = publish/autumn-ryan
 	url = https://github.com/tiliv/cite-autumn-ryan
+[submodule "atlas"]
+	path = atlas
+	url = https://github.com/fccn-antibody/atlas.anecdote.channel
+[submodule "tell"]
+	path = tell
+	url = https://github.com/fccn-antibody/tell.anecdote.channel
