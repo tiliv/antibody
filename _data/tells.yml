@@ -1,4 +1,7 @@
-# Registry of Tells this node lists — the directory it routes piles through.
+# Registry of Tells this node lists — the directory it routes piles through. Piles are
+# reached THROUGH these Tells (a pile registers with a Tell via the data-pile handshake →
+# _data/piles.yml), never with this node directly. This node's own Tell can list itself
+# here via register-self.yml (the workspace acting as its own Atlas).
 # Schema mirrors atlas/_data/tells.yml:
 #   id (also the tell/<scope>/<id> branch segment), name, url (the Tell's domain),
 #   scope (jurisdiction it speaks for), signer (delivery-signer fingerprint),

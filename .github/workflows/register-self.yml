@@ -1,0 +1,46 @@
+name: register-self
+
+# Register THIS node's own Tell into THIS node's own Atlas registry — the workspace
+# acting as its own Atlas (the same self-hosting match.yml already does for the
+# matchmaker). It opens a PR on this repo that appends/updates this node's Tell entry in
+# _data/tells.yml, on a `tell/<scope>/<id>` branch whose commit is signed with the Tell's
+# delivery-signer key. When the PR merges, the node's Atlas directory lists its own Tell.
+#
+# The work is tell's reusable `register` composite action, mounted over the tell/
+# submodule (the same ./tell/.github/actions/<name> convention modules-upgrade.yml uses
+# for advance-engine). The action's code ships with it; the IDENTITY is read from the
+# tell/ submodule's own tell.yml + keys/tell.fpr via the identity/fingerprint inputs —
+# so this lists the node's Tell, signed with the node's key, never the template's.
+#
+# Because the Atlas is this same repo, the cross-repo consent reach collapses to a
+# self-PR: no ATLAS_PR_TOKEN is needed — the built-in GITHUB_TOKEN already has
+# Contents+PR write here. bin/register is idempotent by id, so re-running updates the
+# seeded placeholder entry in place instead of duplicating it.
+
+on:
+  workflow_dispatch:
+    inputs:
+      atlas:
+        description: "Atlas repo to register this node's Tell with (default: this repo, i.e. self)"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with the tell/ submodule)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Register this node's Tell into its own Atlas registry
+        uses: ./tell/.github/actions/register
+        with:
+          atlas: ${{ github.event.inputs.atlas || github.repository }}
+          pr-token: ${{ github.token }}
+          signer-key: ${{ secrets.TELL_SIGNER_KEY }}
+          identity: tell/tell.yml
+          fingerprint: tell/keys/tell.fpr
