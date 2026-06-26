@@ -1,4 +1,4 @@
-name: Advance author submodules to HEAD
+name: Update citation submodules to latest
 
 on:
   schedule:
