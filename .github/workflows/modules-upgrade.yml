@@ -1,0 +1,67 @@
+name: Module pin upgrade
+
+# Graduated from journal-engine-upgrade.yml. Rolls every source module this
+# workspace mounts — journal (the engine), atlas and tell (channels) — forward to
+# its latest HEAD on one shared weekly schedule. Each module gets its own job that
+# `uses:` the module's self-hosted advance-engine action over the naturally pinned
+# submodule path. That buys a shared tempo (one cron) with a clean split: drop a
+# module by deleting its job and nothing it owns is rolled — there is no shared
+# write-back logic to untangle, because each module supplies its own.
+#
+# Each module's advance-engine build-gates the latest HEAD against that module's
+# own site and writes the new pin back only on a clean build (reverting to the
+# last-known-good pin otherwise), so a broken HEAD can never displace a known-good
+# pin. The jobs run in parallel and each pushes only its own submodule pin to main;
+# the advance-engine actions retry the push so concurrent (conflict-free) advances
+# rebase cleanly.
+#
+# This complements the write-back embedded in antibody.yml (journal only, on push
+# to main) and the publish/* author advance in journal-engine-citations.yml.
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'  # Mondays 07:00 UTC — after the weekly author-submodule advance (06:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  journal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          fetch-tags: true
+          submodules: recursive
+      - name: Advance journal pin
+        uses: ./journal/.github/actions/advance-engine
+
+  atlas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          fetch-tags: true
+          submodules: recursive
+      - name: Advance atlas pin
+        uses: ./atlas/.github/actions/advance-engine
+
+  tell:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          fetch-tags: true
+          submodules: recursive
+      - name: Advance tell pin
+        uses: ./tell/.github/actions/advance-engine
