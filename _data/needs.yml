@@ -1,0 +1,13 @@
+# Registry of this node's "needs" (requests-for-pile) — the searches it deposits.
+# This workspace runs Atlas's matchmaker (.github/workflows/match.yml ->
+# ./atlas/.github/actions/match) over these against its own piles/tells, publishing
+# /matches.json. Schema mirrors atlas/_data/needs.yml:
+#   id, asker_repo, scope, topic, terms (EMPTY => match needs the asker's consent),
+#   need_url (link to the asker's needs/<id>.json)
+# Seed entry below is illustrative of the shape; replace with the node's real needs.
+- id: fc-repair-cafe
+  asker_repo: tiliv/antibody
+  scope: "colorado"
+  topic: "civic/mutual-aid"
+  terms: ""
+  need_url: https://github.com/tiliv/antibody/blob/main/needs/fc-repair-cafe.json

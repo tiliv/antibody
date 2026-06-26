@@ -1,5 +1,10 @@
 title: ANTIBODY
 
+# Published origin of this node. Read by the Atlas matchmaker (atlas/bin/match via
+# .github/workflows/match.yml) as the `atlas_url` it signs into /matches.json, so this
+# self-hosted Atlas attributes matches to its own URL rather than the upstream default.
+url: "https://antibody.fort-collins.colorado.anecdote.channel"
+
 # Mount mapping (defaults provided by the journal engine; shown here for clarity).
 # `publish` = on-disk dir content is mounted into; `journal` = public URL base.
 # If you change `publish`, also add a matching `defaults` scope (path: <dir>) here.
