@@ -1,4 +1,4 @@
-name: Deploy Jekyll with GitHub Pages
+name: "Deploy civic-node's moniker site"
 
 on:
   push:
