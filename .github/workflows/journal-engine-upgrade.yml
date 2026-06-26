@@ -1,4 +1,4 @@
-name: Roll journal submodule forward
+name: Journal engine upgrade
 
 # Cautiously advances the `journal/` engine pin to its latest HEAD — but only
 # when the latest engine still builds this site cleanly. The build action is run
