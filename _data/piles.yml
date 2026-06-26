@@ -1,15 +1,23 @@
-# Registry of data-piles this node indexes (grouped behind a Tell in _data/tells.yml).
-# Schema mirrors atlas/_data/piles.yml:
-#   id, name, level (district|city|county|…), scope (branch <scope> segment),
-#   tell (id in _data/tells.yml the pile is reached through),
-#   map (Atlas-hosted path for the coarse slice), branch (pile/<scope>/<id>),
-#   signer (fingerprint expected to have signed the branch's commits)
-# Seed entry below is illustrative of the shape; replace with the node's real piles.
+# Registry of the data-piles this node fronts AS A TELL — not a directory of piles
+# attached to it as an Atlas. A pile registers with a TELL, never with an Atlas directly:
+# it has no address without a Tell to receive for it, so this node lists Tells in
+# _data/tells.yml and fronts their piles here. A pile joins by the data-pile `handshake`
+# workflow opening a PR that appends its entry below (the consent gesture). The older
+# "pile attaches directly to an Atlas and places a coarse map on a pile/<scope>/<id>
+# branch it owns" model is retired — discoverability is reached THROUGH a Tell.
+#
+# Schema mirrors tell/_data/piles.yml (the Tell delivery registry):
+#   id            stable slug for the pile (also the served path segment)
+#   scope         region/namespace tier; the <scope> segment of the feed ref
+#   feed          this node's OWN ref carrying the pile's encrypted chain
+#                 (convention feed/<scope>/<id>); the Tell writes it, the pile pulls it
+#   age_recipient the pile's age recipient (age1…), supplied by its handshake PR; the
+#                 Tell wraps each digest's ratchet seed to it so only the owner reads it
+#
+# One meaning, two readers, no clobber: the matchmaker (.github/workflows/match.yml)
+# reads id + scope from here as candidate piles behind this node's Tell(s); deliver /
+# ingress read feed + age_recipient. Seed below is illustrative; replace with real piles.
 - id: fc-q1
-  name: "Fort Collins — Question 1"
-  level: city
   scope: "colorado"
-  tell: tell
-  map: "/piles/fc-q1/map.xml"
-  branch: "pile/colorado/fc-q1"
-  signer: "SHA256:PLACEHOLDER-fc-q1-ssh-key-fingerprint"
+  feed: "feed/colorado/fc-q1"
+  age_recipient: "age1PLACEHOLDER000000000000000000000000000000000000000000000000"
