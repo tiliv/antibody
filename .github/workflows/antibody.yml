@@ -51,6 +51,31 @@ jobs:
         uses: ./tell/.github/actions/widget
         with:
           out: widget/tell.html
+      - name: Detect the Atlas widget action in the pinned submodule
+        # Same best-effort probe as the Tell widget above: the node must build even when the
+        # atlas/ pin is behind the action's introduction, so this is not a hard cross-repo
+        # dependency.
+        id: atlaswidget
+        shell: bash
+        run: |
+          if [ -f atlas/.github/actions/widget/action.yml ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::atlas/ pin predates the widget action — keeping committed widget/atlas.html"
+          fi
+      - name: Render this node's Atlas widget
+        # Regenerate the data-filled Atlas fragment from THIS node's identity (atlas.yml)
+        # straight into the served path widget/atlas.html — a self-contained static file
+        # (no Jekyll front matter, no include), so it never couples to the engine's managed
+        # _includes. Like the Tell widget it bakes a hub locator QR — the Atlas tier of the
+        # same pattern, the single <atlas> label handed to the Atlas hub, which fills the
+        # scanner's state and redirects. When the pinned atlas ships the action this keeps
+        # every deploy fresh; otherwise the committed widget/atlas.html default stands.
+        if: steps.atlaswidget.outputs.present == 'true'
+        uses: ./atlas/.github/actions/widget
+        with:
+          out: widget/atlas.html
       - name: Detect the Journal widget action in the pinned submodule
         # Same best-effort probe as the Tell widget above: the node must build even when the
         # journal/ engine pin is behind the action's introduction, so this is not a hard
