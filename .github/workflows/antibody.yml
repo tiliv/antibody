@@ -48,6 +48,7 @@ jobs:
         # fresh; otherwise the committed widget/tell.html default stands. Same
         # submodule-path convention as the module-pin advances below.
         if: steps.tellwidget.outputs.present == 'true'
+        continue-on-error: true   # a broken channel HEAD never breaks this node — fallback stands
         uses: ./tell/.github/actions/widget
         with:
           out: widget/tell.html
@@ -73,6 +74,7 @@ jobs:
         # scanner's state and redirects. When the pinned atlas ships the action this keeps
         # every deploy fresh; otherwise the committed widget/atlas.html default stands.
         if: steps.atlaswidget.outputs.present == 'true'
+        continue-on-error: true   # a broken channel HEAD never breaks this node — fallback stands
         uses: ./atlas/.github/actions/widget
         with:
           out: widget/atlas.html
@@ -98,6 +100,7 @@ jobs:
         # pinned journal ships the action this keeps every deploy fresh; otherwise the
         # committed widget/journal.html default stands.
         if: steps.journalwidget.outputs.present == 'true'
+        continue-on-error: true   # a broken engine HEAD never breaks this node — fallback stands
         uses: ./journal/.github/actions/widget
         with:
           out: widget/journal.html
@@ -109,7 +112,13 @@ jobs:
 
   write-back:
     needs: build
-    if: github.ref == 'refs/heads/main' && needs.build.outputs.build_mode == 'latest'
+    # Hook the commit-back to a SUCCESSFUL main build: `needs: build` already means the build
+    # passed (a failed build skips this job), so reaching here IS the success finish. We keep the
+    # commit-back in THIS outer workflow rather than leaning on each module's composite to
+    # self-push — the workspace owns its own history and token, so one readable place rolls every
+    # pin it mounts. (No longer gated on build_mode: that gate is journal-specific and now lives
+    # on the journal step below, so the channels still roll when the engine pin holds.)
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -118,19 +127,52 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-      - name: Advance journal submodule pin
+      - name: Roll module pins forward and commit back
+        shell: bash
+        env:
+          JOURNAL_BUILT: ${{ needs.build.outputs.build_mode }}
+          JOURNAL_SHA: ${{ needs.build.outputs.build_sha }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git submodule update --init --depth=1 journal
-          git -C journal fetch origin main
-          git -C journal checkout "${{ needs.build.outputs.build_sha }}"
-          git diff --quiet journal || {
+
+          # journal (the engine): advance ONLY to the SHA the build just gated as latest-good
+          # (build_mode == latest). Otherwise leave the known-good engine pin untouched — a
+          # broken engine HEAD must never displace it.
+          if [ "$JOURNAL_BUILT" = "latest" ] && [ -n "$JOURNAL_SHA" ]; then
+            git submodule update --init --depth=1 journal
+            git -C journal fetch origin main
+            git -C journal checkout "$JOURNAL_SHA"
             git add journal
-            git commit -m "ci: advance journal to ${{ needs.build.outputs.build_sha }} [skip ci]"
-            git push
-          }
-        shell: bash
+          fi
+
+          # atlas + tell (the channels): roll to each channel's own main HEAD. The channels gate
+          # their own main (their test/deploy CI), and the widget renders in the build job are
+          # continue-on-error, so a bad channel HEAD can never break this node's deploy — it just
+          # falls back to the committed widget. This keeps every deploy's pins fresh without
+          # rebuilding the channel sites here; the weekly modules-upgrade.yml stays as the
+          # build-gated belt-and-suspenders.
+          for mod in atlas tell; do
+            git submodule update --init --depth=1 "$mod"
+            git -C "$mod" fetch origin main
+            git -C "$mod" checkout origin/main
+            git add "$mod"
+          done
+
+          # One commit-back for whatever actually moved. Race-safe push: the weekly updater may
+          # advance pins in parallel, so on rejection rebase onto main and retry.
+          if git diff --cached --quiet; then
+            echo "module pins already current — nothing to commit back"
+            exit 0
+          fi
+          git commit -m "ci: roll module pins forward (journal/atlas/tell) [skip ci]"
+          for attempt in 1 2 3 4 5; do
+            if git push origin main; then exit 0; fi
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; break; }
+          done
+          echo "push to main failed after retries" >&2
+          exit 1
 
   deploy:
     if: github.ref == 'refs/heads/main'
