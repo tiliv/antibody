@@ -7,8 +7,9 @@ name: bill
 # are the data. See atlas/CONTRACT.md -> "Requested search from a peer".
 #
 # SCAFFOLD: the action assembles + reports the bill but does not yet perform the live cross-repo emit
-# (deferred pending FCCN-ANTIBODY/judge + a live peer — atlas/OPEN-QUESTIONS.md #6). Requires the
-# atlas/ submodule pin to carry the request-search action (modules-upgrade.yml advances it).
+# (deferred pending FCCN-ANTIBODY/judge + a live peer — see "D. Cross-Atlas peering" in
+# OPEN-QUESTIONS.md). Requires the atlas/ submodule pin to carry the request-search action
+# (modules-upgrade.yml advances it).
 #
 # Cadence is THIS workspace's to set. Dispatch-only by default so adopting it spends no Action
 # minutes silently; uncomment + edit the cron when the live emit is wired.

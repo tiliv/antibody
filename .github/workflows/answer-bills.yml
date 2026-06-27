@@ -8,8 +8,9 @@ name: answer-bills
 # atlas/CONTRACT.md -> "Requested search from a peer".
 #
 # SCAFFOLD: the action runs the matcher+judge seam but does not yet read the request/** branches or
-# deliver the answer PR back (deferred — atlas/OPEN-QUESTIONS.md #6). Requires the atlas/ submodule
-# pin to carry the answer-bills action. The honest default (no ATLAS_MATCH_CMD) accepts nothing.
+# deliver the answer PR back (deferred — see "D. Cross-Atlas peering" in OPEN-QUESTIONS.md). Requires
+# the atlas/ submodule pin to carry the answer-bills action. The honest default (no ATLAS_MATCH_CMD)
+# accepts nothing.
 #
 # Cadence is THIS workspace's to set. Dispatch-only by default; uncomment + edit the cron when the
 # live read/answer is wired.
