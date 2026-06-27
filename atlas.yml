@@ -1,0 +1,28 @@
+# Public identity of THIS node acting as its own Atlas — the entry it registers into a PEER
+# Atlas's _data/atlases.yml. Public face; no secrets. (Mirrors atlas.anecdote.channel's
+# atlas.yml; this node self-hosts the Atlas role — see _data/tells.yml, match.yml.)
+#
+# The register-peer.yml workflow reads this + keys/atlas.fpr to introduce this node to a peer
+# Atlas, signed with this node's own ATLAS_SIGNER_KEY. Replace the placeholders with the node's
+# real values, then run an Atlas bootstrap (see keys/README.md) to publish keys/atlas.fpr.
+
+# Stable slug for this node's Atlas. Also the <id> segment of the atlas/<scope>/<id> branch the
+# peer-registration PR is opened on.
+id: antibody
+
+# Human-readable label shown in a peer's directory of Atlases.
+name: "ANTIBODY (Fort Collins self-hosted Atlas)"
+
+# This node's own domain.
+url: "https://antibody.fort-collins.colorado.anecdote.channel"
+
+# This node's GitHub repo (owner/name) — where a peer opens request/answer PRs.
+repo: FCCN-ANTIBODY/civic-node
+
+# The jurisdiction / namespace this node speaks for. Also the <scope> segment of the
+# atlas/<scope>/<id> registration branch.
+scope: colorado
+
+# Where this node publishes the aggregate reports it rolls up (deferred aggregator; the pointer
+# is the surface a peer would consume).
+reports: "reports/aggregate-*"

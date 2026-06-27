@@ -1,0 +1,43 @@
+name: register-peer
+
+# Introduce THIS node (acting as its own Atlas) as a PEER of another Atlas directory. Opens a
+# consent PR on the peer adding this node's entry to its _data/atlases.yml, on an
+# `atlas/<scope>/<id>` branch whose commit is signed with this node's Atlas peer-signer key.
+# When the peer merges, each side lists the other and the reciprocal-discovery deal is in force.
+#
+# The work is atlas's reusable `register-peer` composite action, mounted over the atlas/
+# submodule (the same ./atlas/.github/actions/<name> convention match.yml uses). The action's
+# code ships with it; the IDENTITY is read from this node's OWN atlas.yml + keys/atlas.fpr (this
+# node self-hosts the Atlas role, so its identity is the workspace root — not the submodule).
+#
+# Peering is NEVER self — `peer` is required and must name a DIFFERENT Atlas. The cross-repo
+# reach is the consent gesture: ATLAS_PR_TOKEN carries Contents+PR write on the PEER (no write on
+# this node is requested); without it the action prints the entry to paste. ATLAS_SIGNER_KEY is
+# this node's peer-signer secret (see keys/README.md); without it the commit is unsigned.
+
+on:
+  workflow_dispatch:
+    inputs:
+      peer:
+        description: "Peer Atlas repo to register with (owner/name) — a DIFFERENT Atlas"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with the atlas/ submodule for the action code)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Introduce this node's Atlas to the peer
+        uses: ./atlas/.github/actions/register-peer
+        with:
+          peer: ${{ inputs.peer }}
+          pr-token: ${{ secrets.ATLAS_PR_TOKEN }}
+          signer-key: ${{ secrets.ATLAS_SIGNER_KEY }}
+          identity: atlas.yml
+          fingerprint: keys/atlas.fpr
