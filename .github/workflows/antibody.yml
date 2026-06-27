@@ -28,6 +28,29 @@ jobs:
           fetch-depth: 0
           fetch-tags: true
           submodules: recursive
+      - name: Detect the Tell widget action in the pinned submodule
+        # The node must build even when the tell/ pin is behind the action's introduction.
+        # Probe for it so the render below is best-effort, not a hard cross-repo dependency.
+        id: tellwidget
+        shell: bash
+        run: |
+          if [ -f tell/.github/actions/widget/action.yml ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::tell/ pin predates the widget action — keeping committed _includes/widgets/tell.html"
+          fi
+      - name: Render this node's Tell widget
+        # Regenerate the data-filled Tell fragment from THIS node's identity (atlas.yml)
+        # straight into the served path widget/tell.html — a self-contained static file
+        # (no Jekyll front matter, no include), so it never couples to the engine's
+        # managed _includes. When the pinned tell ships the action this keeps every deploy
+        # fresh; otherwise the committed widget/tell.html default stands. Same
+        # submodule-path convention as the module-pin advances below.
+        if: steps.tellwidget.outputs.present == 'true'
+        uses: ./tell/.github/actions/widget
+        with:
+          out: widget/tell.html
       - name: Build
         id: build
         uses: ./journal/.github/actions/build
