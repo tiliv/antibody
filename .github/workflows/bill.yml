@@ -1,0 +1,49 @@
+name: bill
+
+# Asker side of Atlas peering: assemble this node's BILL — the bounded list of needs it currently
+# wants found — and (eventually) file it with a friend Atlas as a signed, examine-not-merge request
+# PR on a `request/<scope>/<id>` branch. The work is atlas's reusable `request-search` action,
+# mounted over the atlas/ submodule; this node's needs (_data/needs.yml, each with a `constitution:`)
+# are the data. See atlas/CONTRACT.md -> "Requested search from a peer".
+#
+# SCAFFOLD: the action assembles + reports the bill but does not yet perform the live cross-repo emit
+# (deferred pending FCCN-ANTIBODY/judge + a live peer — atlas/OPEN-QUESTIONS.md #6). Requires the
+# atlas/ submodule pin to carry the request-search action (modules-upgrade.yml advances it).
+#
+# Cadence is THIS workspace's to set. Dispatch-only by default so adopting it spends no Action
+# minutes silently; uncomment + edit the cron when the live emit is wired.
+
+on:
+  workflow_dispatch:
+    inputs:
+      peer:
+        description: "Friend Atlas repo to bill (owner/name) — a DIFFERENT Atlas"
+        required: true
+      max:
+        description: "Block size: cap on needs carried in the bill"
+        required: false
+        default: "25"
+  # schedule:
+  #   - cron: "23 * * * *"   # ← the cadence you choose, once the live emit lands
+
+permissions:
+  contents: read
+
+jobs:
+  bill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with the atlas/ submodule for the action code)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Assemble + file this node's bill
+        uses: ./atlas/.github/actions/request-search
+        with:
+          peer: ${{ inputs.peer }}
+          max: ${{ inputs.max }}
+          needs: _data/needs.yml
+          identity: atlas.yml
+          fingerprint: keys/atlas.fpr
+          pr-token: ${{ secrets.ATLAS_PR_TOKEN }}
+          signer-key: ${{ secrets.ATLAS_SIGNER_KEY }}

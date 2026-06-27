@@ -1,0 +1,45 @@
+name: answer-bills
+
+# Answerer side of Atlas peering: run THIS node's matcher over the bills friend Atlases have filed
+# (the request/<scope>/<id> branches) and return the accepted matches as one bulk signed PR back.
+# Answering a bill is the existing matchmaker with ATLAS_NEEDS=<the bill> + ATLAS_MATCH_CMD=<judge>
+# over this node's own piles/tells — the same `vars.ATLAS_MATCH_CMD` match.yml already uses. The work
+# is atlas's reusable `answer-bills` action, mounted over the atlas/ submodule. See
+# atlas/CONTRACT.md -> "Requested search from a peer".
+#
+# SCAFFOLD: the action runs the matcher+judge seam but does not yet read the request/** branches or
+# deliver the answer PR back (deferred — atlas/OPEN-QUESTIONS.md #6). Requires the atlas/ submodule
+# pin to carry the answer-bills action. The honest default (no ATLAS_MATCH_CMD) accepts nothing.
+#
+# Cadence is THIS workspace's to set. Dispatch-only by default; uncomment + edit the cron when the
+# live read/answer is wired.
+
+on:
+  workflow_dispatch:
+    inputs:
+      bill:
+        description: "Optional path to a received bill to answer now (exercises the matcher+judge seam)"
+        required: false
+  # schedule:
+  #   - cron: "37 * * * *"   # ← the cadence you choose, once the live read/answer lands
+
+permissions:
+  contents: read
+
+jobs:
+  answer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with the atlas/ submodule for the action code)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+      - name: Run the matcher over inbound bills
+        uses: ./atlas/.github/actions/answer-bills
+        with:
+          match-cmd: ${{ vars.ATLAS_MATCH_CMD }}
+          bill: ${{ inputs.bill }}
+          piles: _data/piles.yml
+          tells: _data/tells.yml
+          config: _config.yml
+          pr-token: ${{ secrets.ATLAS_PR_TOKEN }}
