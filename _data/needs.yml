@@ -3,7 +3,10 @@
 # ./atlas/.github/actions/match) over these against its own piles/tells, publishing
 # /matches.json. Schema mirrors atlas/_data/needs.yml:
 #   id, asker_repo, scope, topic, terms (EMPTY => match needs the asker's consent),
-#   need_url (link to the asker's needs/<id>.json)
+#   need_url (link to the asker's needs/<id>.json),
+#   constitution (URL to the asker's live CONSTITUTION.md — travels with the need onto a peer
+#     Atlas's bill so the answering judge can read it; see atlas/CONTRACT.md "Requested search
+#     from a peer". Optional for local matching, required for a need a friend should find.)
 # Seed entry below is illustrative of the shape; replace with the node's real needs.
 - id: fc-repair-cafe
   asker_repo: tiliv/antibody
@@ -11,3 +14,4 @@
   topic: "civic/mutual-aid"
   terms: ""
   need_url: https://github.com/tiliv/antibody/blob/main/needs/fc-repair-cafe.json
+  constitution: https://github.com/tiliv/antibody/blob/main/CONSTITUTION.md
