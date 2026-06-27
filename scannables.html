@@ -1,0 +1,67 @@
+---
+layout: null
+permalink: /scannables/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Scannables · {{ site.title }}</title>
+  <meta name="robots" content="noindex">
+  <style>
+    :root { --line: #d9d9e0; --muted: #6b6b78; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f4f4f7;
+      color: #1d1d22;
+      font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    .scannables-head { padding: 1.5rem 1.5rem 0; }
+    .scannables-head h1 { margin: 0; font-size: 1.25rem; font-weight: 700; }
+    .scannables-head p { margin: .35rem 0 0; color: var(--muted); font-size: .85rem; max-width: 42rem; }
+
+    /* The matrix: one photo, the whole set. auto-fit keeps the codes large and lets the
+       grid reflow to as many columns as fit — a featherweight stand-in for the denser
+       matrix layout to come. align-items:stretch keeps the panels a uniform height. */
+    .matrix {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1rem;
+      padding: 1.25rem 1.5rem 2.5rem;
+      align-items: stretch;
+    }
+
+    /* Bump every code up across the set so the whole matrix stays scannable in a single
+       photo at arm's length — overrides each fragment's own 168px (higher specificity). */
+    .matrix .anecdote-widget__qr svg { width: 240px; height: 240px; }
+    .matrix .anecdote-widget { height: 100%; }
+
+    @media print {
+      body { background: #fff; }
+      .scannables-head { display: none; }
+      .matrix { padding: 0; gap: .5rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="scannables-head">
+    <h1>{{ site.civic_node | default: site.title }} · scannables</h1>
+    <p>
+      The node's baked-QR identity set, one photo's worth. Each code carries this node's
+      geo-less stem to its hub, which fills the scanner's state and redirects. Featherweight
+      for now — the denser matrix layout comes later.
+    </p>
+  </header>
+
+  <!-- The set, inlined verbatim from the served fragments (the embedding the widget READMEs
+       describe). Regenerated each build by the per-engine widget actions; this page only
+       arranges them. -->
+  <main class="matrix">
+    {% include_relative widget/atlas.html %}
+    {% include_relative widget/tell.html %}
+    {% include_relative widget/journal.html %}
+  </main>
+</body>
+</html>
