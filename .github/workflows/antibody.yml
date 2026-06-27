@@ -51,6 +51,31 @@ jobs:
         uses: ./tell/.github/actions/widget
         with:
           out: widget/tell.html
+      - name: Detect the Journal widget action in the pinned submodule
+        # Same best-effort probe as the Tell widget above: the node must build even when the
+        # journal/ engine pin is behind the action's introduction, so this is not a hard
+        # cross-repo dependency.
+        id: journalwidget
+        shell: bash
+        run: |
+          if [ -f journal/.github/actions/widget/action.yml ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::journal/ pin predates the widget action — keeping committed widget/journal.html"
+          fi
+      - name: Render this node's Journal widget
+        # Regenerate the data-filled Journal fragment from THIS node's identity (_config.yml)
+        # straight into the served path widget/journal.html — a self-contained static file
+        # (no Jekyll front matter, no include), so it never couples to the engine's managed
+        # _includes. Unlike the Tell widget's hub locator, journal's QR points straight at
+        # this node's own /journal/ — it is the node's own first-party record. When the
+        # pinned journal ships the action this keeps every deploy fresh; otherwise the
+        # committed widget/journal.html default stands.
+        if: steps.journalwidget.outputs.present == 'true'
+        uses: ./journal/.github/actions/widget
+        with:
+          out: widget/journal.html
       - name: Build
         id: build
         uses: ./journal/.github/actions/build
