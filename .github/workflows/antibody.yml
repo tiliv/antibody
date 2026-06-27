@@ -42,12 +42,15 @@ jobs:
           fi
       - name: Render this node's Tell widget
         # Regenerate the data-filled Tell fragment from THIS node's identity (atlas.yml)
-        # before the site build picks it up via {% include widgets/tell.html %}. When the
-        # pinned tell ships the action this keeps every deploy fresh; otherwise the
-        # committed _includes/widgets/tell.html default stands. Same submodule-path
-        # convention as the module-pin advances below.
+        # straight into the served path widget/tell.html — a self-contained static file
+        # (no Jekyll front matter, no include), so it never couples to the engine's
+        # managed _includes. When the pinned tell ships the action this keeps every deploy
+        # fresh; otherwise the committed widget/tell.html default stands. Same
+        # submodule-path convention as the module-pin advances below.
         if: steps.tellwidget.outputs.present == 'true'
         uses: ./tell/.github/actions/widget
+        with:
+          out: widget/tell.html
       - name: Build
         id: build
         uses: ./journal/.github/actions/build
