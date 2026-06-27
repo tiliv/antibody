@@ -1,0 +1,333 @@
+# Open questions (the constellation)
+
+Deliberately-deferred design problems for the whole `*.anecdote.channel` constellation —
+Atlas, Tell, and the data-pile — gathered here, on the workspace that operates them. Set
+aside, not forgotten. Each notes what it **blocks** so we don't mistake "not yet decided" for
+"covered," and carries a **Tier** tag (atlas / tell / pile / node) so you can see where it
+lands even though the per-repo lists are gone.
+
+This is the *only* open-questions list. `VISION.md` and each repo's `CONSTITUTION` / `CONTRACT`
+state the design as intent; the deferred half lives here, so a solved item drops away from this
+file alone without an agent rewriting vision prose around it. Items are grouped by the
+dependency they share, not by repo — several are one question seen from different tiers, and
+they are collapsed accordingly. The judge (**A**) is load-bearing; much of the rest waits on it.
+
+---
+
+## A. The summonable judge
+
+**Tier: atlas (gating) · tell (pile junction) · pile (elective).** The single largest deferral;
+**B**, **C**, **D**, and **F** all touch it.
+
+A signed registration proves **ownership** (*who* is registering) but never **fitness** (*what* the
+registrant's constitution commits to, and whether it coheres with what the parent attests). An
+ownership signature vouches for identity; it cannot vouch for content. That gap is invisible while
+`register` is narrow — it can only append a node's own self-description — but a **registry-agnostic
+`register`** (**B**) would let a node make a parent commit arbitrary buckets backed by arbitrary
+logic on the strength of an ownership signature alone. The widening is safe **only when a judgement
+is rendered**; unattended, it steals base on consent.
+
+So a registration has **three consent intakes**, and an operator chooses among them *per action*:
+
+- **PR** — a human attests by merging. Registration already leans on this: the human in the merge
+  loop *is* a judgement, by design.
+- **judge** — an agent reads the registrant's live constitution and renders a fitness verdict. The
+  pattern already exists as `bin/match`'s `ATLAS_MATCH_CMD` seam — the first summonable judge, today
+  only in the matchmaker, not the registration path. (The workspace exposes it as
+  `vars.ATLAS_MATCH_CMD`; unset, the honest default accepts nothing.)
+- **unattended** — a parent auto-signs all buckets with no per-item judgement. Cheapest to operate,
+  and the **largest runtime judgement burden to make safe**.
+
+**The judge is a junction, not a hard gate.** It has an *available* state and a *not-available* state
+(too busy, rate-limited, budget spent, a manual switch, or the judge's own uncertainty). The
+not-available state is exactly where a human steps in — the PR's human-merge intake. So the
+registration judge is naturally **a PR hook that can stop _async_, awaiting a human**:
+judge-when-it-can, human-when-it-can't — the two intakes unified rather than competing. The same
+judge, used in `composite`, is reusable for any constitution-comparison work elsewhere.
+
+- **Blocks:** safely generalizing `register` (**B** needs this gate); a listing that isn't purely
+  "a human merged it"; reusing one judge idiom everywhere constitutions are compared; weighing each
+  bill line's constitutional fit (**D**).
+- **Constraint (load-bearing):** binding a registration *parent* to a **scaling** judgement workload
+  is risky even batched — a large backlog grinds the parent to a halt, and *to users that is
+  indistinguishable from being down entirely*. Actions must keep operating on **fixed buckets with
+  narrow workload assurances**: run the judge always on some workloads, route others to human mode,
+  but never hand the judge an unbounded queue.
+- **Open (the judge action's I/O + authorization):**
+  - how a judge action *receives* {the registrant's live constitution, the registry/parent context}
+    and *emits* a verdict that gates a merge — including the async "awaiting a human" verdict — and
+    how that verdict is recorded (a committed verdict, a transparency report, a PR label?);
+  - if a parent calls a shared `FCCN-ANTIBODY/judge` action, how the calling node **identifies
+    itself** and **proves the request is authorized**. Atlas's handle for "this is a legitimate
+    request" is its `needs/` board — but that is Atlas-specific and does not generalize down a tier:
+    a **Tell has no `needs/` board**, so the pile→Tell junction's authorization is its own unsettled
+    question. The authorization model for a shared judge is unsettled.
+- **The same junction, one tier down (Tier: tell).** A pile registers with a Tell by a signed-PR
+  handshake (`handshake.yml` → `_data/piles.yml`), accepted by a human merge; the Tell — the parent
+  at this tier — renders no *fitness* judgement on a registering pile's constitution before fronting
+  it. The live trigger one tier down is gating `bin/govern`'s delegated judging behind the same
+  available/not-available junction rather than assuming the judge is always there.
+- **Elective (opt-in) judgement, and who pays for it (Tier: pile).** Beyond *gating* registration,
+  the same judge can be **summoned electively** by a node that wants its own boundary governed —
+  judgement as a service it opts into, not a checkpoint imposed on it. The pile is the spender most
+  likely to opt in: it may want to **re-judge by hand** after `bin/decrypt` (every record already
+  arrives carrying its `governed` verdict and `constitution_sha`, but there is no pile-side tool for
+  systematic override). The pile-side governor in **closed
+  [data-pile #6](https://github.com/FCCN-ANTIBODY/data-pile/pull/6)** — `bin/accept` + `questions/`
+  guidance + a signed acceptance ledger — is the historical record of wanting exactly this; it was set
+  aside as unsafe **by default** (it re-relocates judging to the pile and re-severs the pile↔Atlas
+  path), so it can only ever return as an *optional* action. Open: whether cost/authority is sourced
+  from the requester's **own** judge credentials (bring your own budget) or a **timeshare** on the
+  Tell's/Atlas's capacity (the parent lends cycles under its own quota, against the fixed-bucket
+  constraint above). Same authorization gap, seen from the spender's side.
+
+---
+
+## B. Registration validation and idiom unification
+
+**Tier: atlas (validation) · tell (canonical idiom) · pile (descendent forms).** Coupled to **A** —
+do not ship the generalized seam without the judge.
+
+The constellation registers by **PR-as-consent** at three tiers: a pile registers with a Tell
+(`handshake.yml` → `_data/piles.yml`); a need registers with an Atlas (`bin/need` + `need.yml` →
+`_data/needs.yml`); and **a Tell registers with an Atlas** (`bin/register` + `register-atlas.yml` →
+`_data/tells.yml`). The last is the **cleanest** version and the canonical home of the paradigm — it
+also **signs the registrant's ownership** (`tell/<scope>/<id>` branch, signed commit, `signer`
+anchor) and ships as the `register` composite action.
+
+Two things are still open:
+
+- **Validation of the consent PR (Tier: atlas).** Acceptance is **entirely manual** — a human merges.
+  Nothing checks that the branch name matches the entry's `id`/`scope`, or that the commit's signature
+  matches the `signer` fingerprint the entry claims.
+  - **Blocks:** trustless listing; catching a registration whose branch/signature doesn't back its
+    ownership claim before merge.
+  - **Sketch (unbuilt):** a PR check that (a) parses the appended entry, (b) confirms the head branch
+    is `tell/<scope>/<id>` for that entry, and (c) verifies the head commit is signed by the key whose
+    fingerprint equals `signer`. Deferred with the Phase-B tooling; needs `bin/register` landed first
+    to produce PRs in the exact shape the check enforces. This validates *ownership* (who registered),
+    **not** *fitness* (whether the registrant coheres with the parent's attestations) — fitness is the
+    judge, **A**. The same check must later also cover `atlas/<scope>/<id>` peer PRs and
+    `request/<scope>/<id>` bill branches (**D**).
+- **Idiom unification (Tier: tell / pile).** The data-pile's two descendent forms (`handshake.yml`;
+  `bin/need` + `need.yml`) still re-implement the PR-append gesture inline instead of calling a shared
+  `register`.
+  - **Blocks:** nothing functional — all three flows work; this is idiom debt.
+  - **Deferred because:** the descendents register *differently-shaped* entries into *different*
+    registries (`piles.yml`: `id`/`scope`/`feed`/`age_recipient`; `needs.yml`:
+    `id`/`asker_repo`/`scope`/`topic`/`terms`). Folding them onto `register` needs a
+    **registry-agnostic entry seam** (caller supplies target registry + branch + a pre-built entry;
+    `register` owns only the signed-PR mechanics) — a real refactor of working PR-opening code that
+    needs `gh` + live repos to exercise. `bin/register`'s `{entry|branch|pr}` split is the shape they
+    would adopt. **Coupled to the judge (A) — do not ship the seam without it:** a registry-agnostic
+    `register` widens what one signed PR can carry from "list *me*" (identity) to "commit *this bucket,
+    backed by this logic*" (content). The generalization and the judge are one decision, not two.
+
+---
+
+## C. Aggregation, reporting-law, and standing
+
+**Tier: atlas (aggregator + standing) · tell (the report surface) · node (where rollups publish).**
+Circular by nature: each tier defers to the other until a real second Tell publishes reports.
+
+- **The aggregator itself is not built (Tier: atlas).** Atlas's `CONSTITUTION` attests **affirmative
+  escalation** — every report a listed Tell publishes is rolled into **all** the constituency
+  aggregations it belongs to — and `CONTRACT` pins the contract (a Tell describes its `reports/govern-…`;
+  Atlas requires the shape and aggregates it). The code that pulls each listed Tell's reports and rolls
+  them up on a schedule does not exist.
+  - **Blocks:** constituency/jurisdiction reports; the standing tally below; the whole point of being a
+    directory that *aggregates*, not just lists.
+  - **Sketch (unbuilt):** a scheduled job (cf. `bin/match` + `match.yml`) that reads `_data/tells.yml`,
+    fetches each Tell's described `reports` path, validates the shape its CONSTITUTION promised, and
+    emits a coarse constituency rollup. Lands when a real listed Tell publishes reports to aggregate.
+- **The field-level report contract is open (Tier: tell).** The **registration** half is written: a
+  Tell lists itself by signed PR, its entry carries a `reports` pointer, and Atlas attests it requires
+  that description. Still open is the **field-level** report contract — the exact `reports/govern-…`
+  fields and cadence an Atlas validates — and the aggregator that consumes it (same item, atlas side).
+  The Tell-side declaration (`CONSTITUTION` → "I describe the transparency reports I publish") is the
+  surface that contract validates.
+- **The standing mechanism is unwritten (Tier: atlas).** Atlas attests it keeps an **open line** —
+  a report gains weight and credibility as it accumulates — but the *concrete mechanism* that
+  materializes "weight" is unwritten.
+  - **Blocks:** any UI or signal showing a constituency's standing rising over time; a machine-readable
+    "credibility" signal a downstream aggregator could rank on.
+  - **Sketch (unbuilt):** a per-constituency tally derived from the reports Atlas aggregates (how long a
+    line has stood, how much it has gathered), surfaced in `/tells.json` or a new `/standing.json` —
+    carried *without* raw per-respondent counts ("coarse standing"). Input is the Tell transparency
+    stream, which isn't aggregated yet (first bullet).
+- **Where this node publishes its rollups (Tier: node).** This workspace's `atlas.yml` names a
+  `reports: reports/aggregate-*` pointer — the surface a peer would consume — but the aggregator that
+  fills it is the same deferred rollup above. The pointer is ready; the producer waits.
+
+---
+
+## D. Cross-Atlas peering: the bill
+
+**Tier: atlas (the protocol) · node (the cadence).** The handshake is built; the live half is
+deferred. Coupled to **A** (the judge weighs each bill line) and **B** (validation must cover peer +
+bill branches).
+
+`CONTRACT` → "Peering with another Atlas" carries the full design, and the **scaffold** is landed: the
+need shape gains a `constitution:` pointer; `_data/requests.yml` is the empty-on-`main` inbound queue;
+`bin/bill` assembles a bounded, needs-shaped bill (offline, pure); and `request-search` / `answer-bills`
+are composite actions whose **offline halves run** (assemble the bill; run `bin/match` with
+`ATLAS_NEEDS=<bill>` + `ATLAS_MATCH_CMD` over this Atlas's own candidates — internal search and a peer's
+bill are one matcher, two triggers, honest default accepts nothing). The workspace drives both as
+**dispatch-only** workflows (`bill.yml`, `answer-bills.yml`) on a cadence it sets.
+
+- **The live cross-Atlas half is unbuilt:** (a) `request-search` actually pushing the
+  `request/<scope>/<id>` bill branch to the peer and opening the examine-not-merge PR (mirroring
+  `bin/register-atlas`), **signed** and **gated** to a peer whose `signer` is already in
+  `_data/atlases.yml`; (b) `answer-bills` reading those inbound `request/**` branches (not just an
+  explicit `bill` input) and (c) delivering the accepted matches as **one bulk signed PR back** to the
+  asking peer, modifying the line for the address it knows (invitation not delivery — one hop, never
+  routing into the ultimate asker).
+- **Blocks:** cross-Atlas discovery in practice — a friend's bill actually reaching a peer and an
+  answer coming back; the half of the peering deal that makes a peer entry worth more than a link.
+- **Deferred because:** there is **no second live Atlas** to handshake with yet, so the path can't be
+  exercised end to end; and it is coupled to the registration-validation check (**B**, which must also
+  cover `atlas/<scope>/<id>` peer PRs and `request/<scope>/<id>` bill branches) and the summonable
+  judge (**A**, the `ATLAS_MATCH_CMD` seam that weighs each bill line's constitutional fit — nearly
+  necessary once a bill drags in a constitution per line). Wire it when a real peer exists and A/B land.
+- **No eviction, by construction:** the bill lives only on a replace-each-cycle branch over an
+  empty-on-`main` queue, so the receiver never tracks or evicts a peer's asks — an ask persists only by
+  the asker **re-including** it (eviction-by-re-inclusion), spending part of its bounded block size.
+- **Bounded to the first hop:** no transitive federation — a peer's peers are not yours.
+- **Asker-side bill governance (Tier: atlas).** Eviction-by-re-inclusion makes the **asker side** the
+  real point of inspection: *which* needs go into a bill, in what priority, and how the block is sized
+  against a peer's capacity to weigh it. `bin/bill` today does the floor — first `--max` needs in file
+  order.
+  - **Blocks:** a bill that reflects intent rather than file order; fairness across an asker's own needs
+    over successive cycles; sizing the block to the friend's judge budget rather than a fixed cap.
+  - **Sketch (unbuilt):** a selection/priority seam in `bin/bill` (recency, an explicit `priority:`/
+    `offer:` field, round-robin across cycles) and a negotiated block size per peer. Deferred until the
+    live emit/answer gives real signal about what a good bill looks like — curation is premature before
+    a bill is actually carried and weighed.
+
+---
+
+## E. Matcher addressing
+
+**Tier: atlas.**
+
+`_data/piles.yml` records the `tell:` each pile groups behind. `bin/match` still resolves a candidate's
+`tell_url` **scope-first** (`_data/tells.yml` first entry in the need's scope), not by the pile's own
+`tell:`. With one Tell per scope these agree; with several they could diverge.
+
+- **Blocks:** correct addressing when a scope holds more than one Tell.
+- **Sketch (unbuilt):** in `bin/match`, look up `tells[piles[i].tell].url` instead of scope-first. Small
+  change; deferred to the Phase-B code pass that builds the Tell↔Atlas registration tooling, so the
+  registry shape and the matcher move together and are exercised against a real second Tell.
+
+---
+
+## F. Tell: public mailbox to pre-public pickup
+
+**Tier: tell.** The Phase-0 → Phase-1 transition (`tell/ROADMAP.md`). The exposure-window principle
+ties these together; the geo-gate (below) is the lever that unlocks the rest.
+
+- **Geolocation adherence in the judge, before public exposure.** `bin/govern` runs today *after* a
+  reply is already a public Issue. Phase 1 requires authorization/judging to enforce **geolocation
+  adherence** — a reply counts only within its constituency's bounds — **before** anything is public.
+  This is the gate that lets a non-operator run a Tell without spilling unvetted plaintext.
+  - **Blocks:** distributed collection (others running their own Tell); pre-public sealing; retiring the
+    public-Issue mailbox.
+  - **Sketch (unbuilt):** the `bin/authz` "type/asker-aware rules (rate, dedup, geo, …)" seam is the
+    home; needs a source of constituency bounds and a trusted-enough location signal that does not drag
+    respondent identity into the core.
+- **Direct-transfer collector (phone tool + daily-cron agent).** The Phase-1 ingress: a tool on the
+  operator's phone browser **buffers collected responses locally** until the known window opens, and a
+  **daily-cron agent** submits the legitimate batch directly — instead of one GitHub Action per Issue.
+  - **Blocks:** ingestion that scales with *legitimate* answers rather than traffic/spam; windowed
+    pickup; the move off public Issues.
+  - **Sketch (unbuilt):** local storage in the browser tool; a batch-submission format the ingress can
+    authorize as a unit; the agent's cron *is* the legitimate-only pickup. Ties to QR expiry and
+    pre-public judging below.
+- **QR token expiry vs. round-bumping.** A QR token is
+  `HMAC(k_pile, "tok:"||pile||":"||poll||":"||round)` — a bearer capability with **no intrinsic
+  expiry**. The only way to retire an outstanding QR is to bump `round` (or pin `TELL_ALLOWED_ROUND`),
+  which is coarse and global.
+  - **Blocks:** posters/printed QR with a defined lifetime; per-poll close dates; "this poll closed on
+    DATE" UX.
+  - **Sketch (unbuilt):** carry an `exp` inside the signed token preimage and check it in `bin/authz`;
+    needs a per-poll registry to hold the schedule. Left out while we settle how much state Tell should
+    keep about polls at all.
+- **Identity model when the page POSTs to the GitHub API directly.** Today the landing page only
+  **builds a prefilled `issues/new` link**; the respondent's own account posts the Issue (the spam/cost
+  shield). A future direction is the page **POSTing to the GitHub API** using the QR's contents — which
+  reopens *who authenticates the POST* (the respondent's token, a service token on a static page — no,
+  or a short-lived capability minted into the QR, tying back to expiry above).
+  - **Blocks:** any move away from the click-through model; one-tap replies; kiosk / no-account flows.
+  - **Status:** the QR now *addresses* the correct jurisdiction Tell; the **identity** of the POST is
+    unchanged and still deferred.
+- **Ingress loop cross-repo adoption.** The ingress (collect → govern → deliver → finalize) is a
+  composite action, but referenced cross-repo its bundled scripts resolve `_data/piles.yml` relative to
+  their own checkout — so a third repo would read *this* Tell's registry, not its own.
+  - **Blocks:** adopting ingress cross-repo while keeping your own piles/constitutions.
+  - **Sketch (unbuilt):** thread the consumer data paths (registry, constitutions, stage, reports)
+    through env so the bundled scripts read the *workspace* — the same code-vs-data split the `deliver`
+    and `register` actions already make. For now, adopt the whole tree (fork/submodule).
+
+---
+
+## G. Tell-less pile ingest
+
+**Tier: pile.**
+
+`keys/pile.age.pub` is public and encrypt-only, so anyone *could* `age`-encrypt a payload to a pile
+without any Tell in the loop. What is missing is a path to **ingest** such a drop: the live feed is a
+one-way ratchet whose seed only Tell holds, so an out-of-band contribution cannot extend that chain.
+
+- **Blocks:** accepting data when no Tell fronts the pile; archival imports; a contributor handing the
+  owner sealed data directly.
+- **Sketch (unbuilt):** a separate `feed/drop` channel — `age`-to-recipient blocks under their own
+  signed, hash-linked manifest (no ratchet, since there is no shared seed), verified by a `bin/verify`
+  variant. Storage *and* encryption solved out of band, **not** by borrowing Tell's key.
+
+---
+
+## H. Hub geo-fill, widget mounting, portability
+
+**Tier: atlas (the scanner) · node (the mount).**
+
+The **baked-QR identity** layer is landed: `bin/widget` (+ the `widget` action) bakes a node's
+**geo-less locator stem** into a QR that opens the hub as
+`atlas.anecdote.channel/?node=<atlas>&home=<scope>`, and `assets/scan.js` is the scanner side, which
+fills the scanner's US state and redirects, or shows the **missing-in-state** page (never a geo-block).
+The routing logic is built and tested; the seams below remain.
+
+- **The geo source — proof-grade, not deployed (Tier: atlas).** `workers/scan-router/` is a Cloudflare
+  Worker that reads `request.cf.regionCode`, maps it to a slug, and 302s **before the request reaches
+  Pages** — no SDK, no third party, the scanner's IP never leaves the edge. Proof-grade fallback: an
+  unresolved region falls back to `colorado` so a scan always lands somewhere live.
+  - **Still needs (not repo code):** the Atlas record flipped to **Proxied** (orange-cloud) so the route
+    can intercept (see `atlas/DNS.md`), and `wrangler deploy`. Until deployed, `scan.js` + the marketing
+    page stand.
+- **Portability beyond the home state (Tier: atlas).** A scan resolves only when the scanner's state
+  matches the node's home `scope`. A directory that genuinely stands in more than one state needs a way
+  for `scan.js` (or the Worker) to know **which** states a node resolves in — a small per-node
+  portability manifest, or letting the target's own 404 be the missing-in-state page. Deferred until a
+  node registers in a second state.
+- **Mounting the Atlas widget in this workspace (Tier: node).** The build (`antibody.yml`) already
+  renders the **tell** and **journal** widgets with a best-effort probe. The Atlas widget is the same
+  shape — add a *"Render this node's Atlas widget"* step `uses: ./atlas/.github/actions/widget` with
+  `out: widget/atlas.html`, then bump the `atlas/` submodule pin. **Deliberately not mounted yet:** the
+  fragment may change as these nodes blossom into full static site branches under `publish/`, so the
+  producer (atlas) lands first and the consumer (this workspace) waits. The probe pattern means a node
+  whose `atlas/` pin predates the action still builds.
+
+---
+
+## I. Operator placeholders
+
+**Tier: node.** Not design gaps — the seed values an operator must replace to go live. Listed here so
+they're not mistaken for "wired."
+
+- **`keys/atlas.fpr`** ships as a **placeholder** — the peer handshake won't verify until an operator
+  provisions a real signer (see `keys/README.md`).
+- **`_data/tells.yml` → `signer`** carries a `SHA256:PLACEHOLDER-…` fingerprint for the reference Tell;
+  replace with the real Tell's delivery-signer fingerprint.
+- **`_data/piles.yml` → `age_recipient`** carries an `age1PLACEHOLDER…` recipient; each fronted pile
+  must supply its real `age` recipient for encrypted delivery.
+- **`vars.ATLAS_MATCH_CMD`** is unset by default, so `match.yml` keeps `matches.json` empty (the honest
+  default accepts nothing). Set it to a judge — an agent or a human seam — to accept matches (**A**).

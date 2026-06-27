@@ -4,7 +4,8 @@ You may copy from this code, text and license, only if you attribute yourself as
 
 # Fort Collins Civic Node: ANTIBODY
 
-See [the wiki](https://github.com/tiliv/antibody/wiki) for various ways to interact with this repository.
+See [`VISION.md`](VISION.md) for the whole picture — the constellation and this node's place in it —
+and [the wiki](https://github.com/tiliv/antibody/wiki) for various ways to interact with this repository.
 
 - [Purpose](https://github.com/tiliv/antibody/wiki/Descriptions)
 - [Hosting information](https://github.com/tiliv/antibody/wiki/Hosting)

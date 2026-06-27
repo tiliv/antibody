@@ -1,9 +1,11 @@
 # Orientation
 
 This repository is one **Civic Node**: a single installation in a network meant
-to be copied. The README and the wiki cover *what* this is and *how* to run it —
-this file is the why-shaped map, the ideas underneath the surface that a README
-won't lead with.
+to be copied. The README and the wiki cover *what* this is and *how* to run it;
+[`VISION.md`](VISION.md) is the whole picture — the constellation and this node's
+place in it; [`OPEN-QUESTIONS.md`](OPEN-QUESTIONS.md) holds what's deferred. This
+file is the why-shaped map, the ideas underneath the surface that a README won't
+lead with.
 
 ## The thrust
 
@@ -39,5 +41,7 @@ won't lead with.
   legible enough that the next operator can read them.
 - **We're in the assisted phase now.** The earlier "await instructions" prohibition
   is retired — agent help is welcome. Earn the trust that prohibition was
-  protecting: don't duplicate what the README, the wiki, or CONSTITUTION.md already
-  say, and don't add weight the project didn't ask for.
+  protecting: don't duplicate what the README, the wiki, VISION.md, or CONSTITUTION.md
+  already say, and don't add weight the project didn't ask for. When something is
+  deferred, record it in OPEN-QUESTIONS.md rather than threading a caveat through the
+  vision — a solved item should drop away from that one file alone.
