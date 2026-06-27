@@ -1,0 +1,9 @@
+---
+# Served bare fragment: this node's DATA-FILLED Tell widget. The build regenerates the
+# partial at _includes/widgets/tell.html from this node's atlas.yml (via
+# ./tell/.github/actions/widget) and this page exposes it at /widget/tell.html — the
+# node's own counterpart to the tell submodule's baked baseline served at
+# tell.anecdote.channel/widget/public.html. The homepage embeds the same partial with
+# {% include widgets/tell.html %}. No layout: the fragment is self-contained.
+---
+{% include widgets/tell.html %}

@@ -28,6 +28,12 @@ jobs:
           fetch-depth: 0
           fetch-tags: true
           submodules: recursive
+      - name: Render this node's Tell widget
+        # Regenerate the data-filled Tell fragment from THIS node's identity (atlas.yml)
+        # before the site build picks it up via {% include widgets/tell.html %}. The
+        # committed _includes/widgets/tell.html is a sensible default; this keeps every
+        # deploy fresh. Same submodule-path convention as the module-pin advances below.
+        uses: ./tell/.github/actions/widget
       - name: Build
         id: build
         uses: ./journal/.github/actions/build
