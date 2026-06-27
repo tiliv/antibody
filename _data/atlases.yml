@@ -1,0 +1,18 @@
+# Registry of PEER Atlases this node (acting as its own Atlas) knows by prior mutual
+# introduction — the friends it may DIRECTLY ask to run a search, and that may directly ask it.
+# One hop only; no transitive federation. No length limit. Schema mirrors
+# atlas/_data/atlases.yml:
+#   id (also the atlas/<scope>/<id> branch segment), name, url (the peer's domain),
+#   repo (owner/name, where request/answer PRs are opened), scope (jurisdiction),
+#   signer (the peer's keys/atlas.fpr fingerprint — the ownership anchor), reports (optional)
+#
+# A peer is listed here by the PEER opening a signed atlas/<scope>/<id> PR appending its entry
+# (the reusable register-peer action, run by the registering Atlas). Listing is mutual; this
+# node introduces itself to a peer via .github/workflows/register-peer.yml. The deal is
+# reciprocal — by getting you give: a listed peer may truthfully trigger this node's matcher
+# (request -> match -> answer is specced in atlas/CONTRACT.md, not yet built). This node never
+# lists itself here: a peer is a DIFFERENT answerer.
+#
+# Empty until this node introduces itself to a real peer. (Run register-peer.yml with the peer's
+# owner/name; the peer's accepted PR adds the reverse entry here.)
+[]
