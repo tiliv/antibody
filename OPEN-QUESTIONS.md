@@ -524,6 +524,25 @@ and **D**'s peering: *how* a node finds and accepts the neighbors whose payloads
   rules. So a private actor cannot harvest-and-hide: anyone *acting* on the network is visible on it too.
   Provenance (the signatures) proves origin; the license governs reuse; they bite together. (Legal /
   normative enforcement beside the technical one — honestly a posture, not DRM.)
+- **Evolution is speciation, not amendment.** Governance, unlike data, is never aggregated — it is
+  *authored*. An Atlas effectively *is* its constitution, so the constellation changes by proliferation:
+  rather than fight to mutate a shared instrument or drift it toward a median, you copy it and stand up
+  the variant you want next door. It is an **exit system, not a voice system** — exit is cheap here
+  (constitutions copy; you belong to many Atlases), so the internal-reform machinery that would only be a
+  capture surface is deliberately absent. An operator still edits their own constitution in the open,
+  sha-stamped (a live patch, per `_data/constitutions/README.md`), but that is authorship maintaining a
+  house, binding on no one who can leave. So a poll that *passed but offends you* has a boring answer —
+  tighten your own rule forward, or don't; the offended member talks, leaves, or forks. **No reform
+  institution and no complaint pipeline, by design.**
+- **The directory tier is itself an Atlas.** "What exists" is catalogued by a *directory of Atlases* —
+  the same "directory" Atlas always was (it began as a directory of Tells), one tier up: holds no keys,
+  reached through, privileged by nothing. Directories speciate too, so there is no canonical master list;
+  the same super-opinion spawns several, each a curation. Hence **even the state is just an Atlas** — no
+  node, however official, monopolises "what exists", conscripts the unwilling, or quietly drops the
+  inconvenient, and any directory can be rivalled by another of the same scope. Discovery thus has
+  exactly two modes: the **neighbor** (a consented, mutual, search-granting *relationship*) and the
+  **directory** (an advisory *pointer* at Atlases that already chose to be public) — a handshake and a
+  map, with self-authored tags as the map's ink.
 - **Open (the mechanism):**
   - the **carrier**: a recommendation / bill is a *self-signed YAML doc* (the **D** bill shape,
     block-size bounded), transport-agnostic — it can arrive on a per-neighbor branch, as a file, or via

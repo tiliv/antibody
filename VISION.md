@@ -70,6 +70,22 @@ aggregate, connect as a node — you must take on the license and so become an A
 consent-ful rules. So there are **no one-way mirrors**: anyone acting on the network is visible on it
 too. Provenance proves origin; the license governs reuse; together they leave nowhere to hide.
 
+Governance, unlike data, is never aggregated — it is authored. An Atlas effectively *is* its
+constitution, so the constellation evolves by **speciation, not amendment**: rather than fight to mutate
+a shared instrument, or average it toward a median, you copy it and stand up the variant you want next
+door. It is an **exit system, not a voice system** — because exit is cheap here, the machinery of
+internal reform that would only become a capture surface is deliberately absent. An operator still edits
+their own constitution in the open; that is authorship maintaining a house, binding on no one who can
+simply leave.
+
+Even the catalogue of what exists is just an Atlas — a directory of Atlases, the same "directory" Atlas
+always was, one tier up: holding no keys, reached through, privileged by nothing. Directories
+proliferate like everything else, so **even the state is just an Atlas**: no node, however official, gets
+a monopoly on what exists, can conscript the unwilling, or can quietly drop the inconvenient. Discovery
+therefore has two modes and nothing in between — the **neighbor**, a consented relationship that grants
+search, and the **directory**, an advisory pointer at Atlases that already chose to be public: a
+handshake and a map.
+
 The fourth part is the **Journal** engine: the shared Jekyll machinery that renders a node's
 first-party record from the prose under `journal/`. It carries no role in the federation lifecycle — it
 is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so
