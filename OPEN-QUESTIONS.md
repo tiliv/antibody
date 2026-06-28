@@ -463,8 +463,9 @@ closed: by signature, not by binding to a registry.
     and answers from what it authoritatively holds, exactly the "one matcher, two triggers" shape **D**
     specs for a peer's bill. Cross-node **discovery** (how friend lists get seeded / advertised — the
     `/polls.json` seam) is the genuinely open part, but it only ever *proposes* friends; the local merge
-    disposes, and authority never leaves the node. Open within this: is the QR-signer friend set the
-    *same* as the peer-Atlas list (`_data/atlases.yml`), or a separate one?
+    disposes, and authority never leaves the node. The friend set is **one list** (a neighbor is a single
+    node-to-node relationship, not separate QR-signer and peer-Atlas lists) — see **M**, where the
+    discovery model now lives.
   - **Size budget / the matrix** — one signed poll fits a single QR; heavier payloads tile into many, so
     the packet format must be chunk-aware (payload id, index/total, a *whole-payload* signature over the
     reassembled bytes). The full tiling format is a later thread.
@@ -473,3 +474,41 @@ closed: by signature, not by binding to a registry.
   set and binds it to the submission by token, as the worth-processing gate (`TELL_REQUIRE_SIG` to
   require it). **Unbuilt:** the friend-list/authority generalization (slice 3, above) and the matrix
   tiling (slice 4). See the Tell's `docs/qr-provenance.md`.
+
+---
+
+## M. Cross-node discovery: neighbors, not a graph
+
+**Tier: atlas (the membrane) · node (the connection).** The open mechanism behind **L**'s trust roots
+and **D**'s peering: *how* a node finds and accepts the neighbors whose payloads it will act on. The
+**model** is settled (and stated in `VISION.md`); the wire-level mechanism is not.
+
+- **One list.** A neighbor is a single node-to-node relationship — it grants both "may trigger my
+  matcher" (**D**) and "I will process your signed polls" (**L**). This closes **L**'s parked
+  one-list-or-two question: one list.
+- **Connection is privileged because connection means searching.** Accepting a neighbor grants a
+  *standing capability* to trigger your matcher, so every edge is deliberate and consented (the
+  signed-PR handshake, merged by hand). There is no "friend everyone" gesture — auto-connect-all would
+  hand out search wholesale.
+- **No transitive, no compulsion.** A neighbor's neighbors are not yours (reaffirms **D**'s first-hop
+  bound). A node does not accumulate everyone; it **joins another Atlas** instead. An Atlas is a
+  purposeful, overlapping slice — a jurisdiction with a logical membership, or an opinion — so a node
+  belongs to many at once and geography stops limiting how many communities it can join.
+- **Rivals can be neighbors — safely.** Because authority is local (the slice-3 rule in `VISION.md`), a
+  neighbor only ever triggers *your* search over *your* data; connecting is the right to ask, never to
+  take. So a node may connect to a rival as a public news-drop — see what's public — which can shift the
+  tone of public discourse. That is culture applied by humans, captured as the neighbor list.
+- **Recommendations are advisory, never connective.** An Atlas may publish *who it rates* ("cream of the
+  crop", or simply who its neighbors are) as a **go-look-yourself** pointer: reading it forms no
+  relationship and grants no search. Adjacent to **C**'s standing (a constituency's own accumulated
+  weight) but distinct — this points at *others*. It only ever *proposes*; the local merge disposes.
+- **Open (the mechanism):**
+  - the structure of a published recommendation / self-advertisement — a made-public list (the
+    `/polls.json` transparency seam generalized) a recipient can read and pin out of band;
+  - how a discovered candidate becomes a *consented* neighbor (the existing signed-PR + out-of-band
+    fingerprint handshake is the likely shape);
+  - whether an Atlas's published "cream of the crop" is the same artifact as **C**'s standing signal, or
+    a separate one.
+- **Blocks:** discovery in practice (finding neighbors beyond manual introduction); belonging to many
+  Atlases without a central directory; a recommendation surface that lets culture travel *without*
+  auto-forming relationships.
