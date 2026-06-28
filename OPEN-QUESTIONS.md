@@ -426,8 +426,8 @@ schedule does.
 
 ## L. Signed self-contained QR provenance
 
-**Tier: tell.** Promoted from **J**. The QR carries **two separable credentials**, and only one is
-built.
+**Tier: tell.** Promoted from **J**. The QR carries **two separable credentials**; the signing and
+verifying halves are built (slices 1–2), the trust and tiling halves are not.
 
 The **token** — `tok = HMAC(k_pile, …)` — is *symmetric*, verifiable only by the minting Tell, and
 authorizes a reply into the mailbox this Tell tracks: a GitHub Issue, or a comment on the poll's
@@ -454,14 +454,22 @@ closed: by signature, not by binding to a registry.
     delivery signature can never be replayed as a QR one.
   - **Signature format vs. size** — the armored SSH blob is large for a QR; a raw Ed25519 signature
     (64 bytes) over the *same* key is compact. Same key, choosable encoding.
-  - **Trust roots without a registry** — the QR asserts *which* signer; the recipient still needs an
-    accepted-signers set to decide trust (the `keys/tell.signers` idiom locally). Where that set comes
-    from for a *foreign* QR is the crux, and where cross-node discovery (the `/polls.json` seam)
-    reconnects.
+  - **Trust roots, and who is authoritative** *(slice 3).* The signature proves *who*; a recipient
+    still needs a **local friend list** to decide *whether to act* — there is no global registry, only a
+    per-node accepted set built out of band by signed handshake (the `keys/tell.signers` idiom; the peer
+    tier's `_data/atlases.yml` is the same shape one level up — a listed peer "may truthfully trigger
+    this node's matcher"). The load-bearing rule, now stated in `VISION.md`: **a verified friend's
+    payload is a _trigger_, never imported truth** — the node runs *its own* search over *its own* data
+    and answers from what it authoritatively holds, exactly the "one matcher, two triggers" shape **D**
+    specs for a peer's bill. Cross-node **discovery** (how friend lists get seeded / advertised — the
+    `/polls.json` seam) is the genuinely open part, but it only ever *proposes* friends; the local merge
+    disposes, and authority never leaves the node. Open within this: is the QR-signer friend set the
+    *same* as the peer-Atlas list (`_data/atlases.yml`), or a separate one?
   - **Size budget / the matrix** — one signed poll fits a single QR; heavier payloads tile into many, so
     the packet format must be chunk-aware (payload id, index/total, a *whole-payload* signature over the
     reassembled bytes). The full tiling format is a later thread.
-- **Sketch (unbuilt):** `bin/qr` signs a canonical preimage and carries `sig` (+ a signer id) beside
-  `tok`; a `bin/verify`-style check (or `bin/authz` extension) verifies `sig` against the
-  accepted-signers set as the worth-processing gate, with `tok` unchanged as the mailbox authorization.
-  See the Tell's `docs/qr-provenance.md`.
+- **Status:** slices 1–2 **built** — `bin/qr --signkey` signs a canonical preimage and carries
+  `sig`+`kid` beside `tok` (namespace `tell-poll`); `bin/authz` verifies it against the accepted-signers
+  set and binds it to the submission by token, as the worth-processing gate (`TELL_REQUIRE_SIG` to
+  require it). **Unbuilt:** the friend-list/authority generalization (slice 3, above) and the matrix
+  tiling (slice 4). See the Tell's `docs/qr-provenance.md`.
