@@ -192,3 +192,27 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  purge-cache:
+    # Purge Cloudflare AFTER the new artifact is live (needs: deploy), so the next
+    # request repopulates cache from the fresh origin rather than the old one.
+    # Precise on content-only pushes, purge-everything otherwise; a no-op until the
+    # CLOUDFLARE_* secrets are set. Never fails the deploy.
+    if: github.ref == 'refs/heads/main'
+    needs: deploy
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # need history to diff the change set
+          submodules: recursive   # need the content submodule to diff its pages
+      - name: Purge changed URLs (fallback: everything)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          EVENT: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: bin/cf-purge.sh
