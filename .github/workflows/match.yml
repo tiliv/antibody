@@ -1,4 +1,4 @@
-name: match
+name: "Federate · match"
 
 # Run the Atlas matchmaker over THIS node's own registries and publish matches.json —
 # the workspace acting as its own self-hosted Atlas. For each need (_data/needs.yml),
@@ -9,7 +9,7 @@ name: match
 #
 # The work itself is atlas's reusable `match` composite action, carried in the atlas/
 # submodule (advanced by modules-upgrade.yml). This workflow just points it at this
-# node's data — the same `./atlas/.github/actions/<name>` convention modules-upgrade.yml
+# node's data — the same `./.atlas-engine/.github/actions/<name>` convention modules-upgrade.yml
 # already uses for advance-engine. Set the repo variable ATLAS_MATCH_CMD to a judge
 # (agent/human) to accept matches; until then the honest default keeps matches.json empty.
 
@@ -32,7 +32,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: recursive # the match action lives in the atlas/ submodule
-      - uses: ./atlas/.github/actions/match
+      - uses: ./.atlas-engine/.github/actions/match
         with:
           needs: _data/needs.yml
           piles: _data/piles.yml

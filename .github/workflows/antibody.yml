@@ -1,4 +1,4 @@
-name: "Deploy civic-node's moniker site"
+name: "Publish · site"
 
 on:
   push:
@@ -29,16 +29,16 @@ jobs:
           fetch-tags: true
           submodules: recursive
       - name: Detect the Tell widget action in the pinned submodule
-        # The node must build even when the tell/ pin is behind the action's introduction.
+        # The node must build even when the .tell-engine pin is behind the action's introduction.
         # Probe for it so the render below is best-effort, not a hard cross-repo dependency.
         id: tellwidget
         shell: bash
         run: |
-          if [ -f tell/.github/actions/widget/action.yml ]; then
+          if [ -f .tell-engine/.github/actions/widget/action.yml ]; then
             echo "present=true" >> "$GITHUB_OUTPUT"
           else
             echo "present=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::tell/ pin predates the widget action — keeping committed _includes/widgets/tell.html"
+            echo "::notice::.tell-engine pin predates the widget action — keeping committed _includes/widgets/tell.html"
           fi
       - name: Render this node's Tell widget
         # Regenerate the data-filled Tell fragment from THIS node's identity (atlas.yml)
@@ -49,21 +49,21 @@ jobs:
         # submodule-path convention as the module-pin advances below.
         if: steps.tellwidget.outputs.present == 'true'
         continue-on-error: true   # a broken channel HEAD never breaks this node — fallback stands
-        uses: ./tell/.github/actions/widget
+        uses: ./.tell-engine/.github/actions/widget
         with:
           out: widget/tell.html
       - name: Detect the Atlas widget action in the pinned submodule
         # Same best-effort probe as the Tell widget above: the node must build even when the
-        # atlas/ pin is behind the action's introduction, so this is not a hard cross-repo
+        # .atlas-engine pin is behind the action's introduction, so this is not a hard cross-repo
         # dependency.
         id: atlaswidget
         shell: bash
         run: |
-          if [ -f atlas/.github/actions/widget/action.yml ]; then
+          if [ -f .atlas-engine/.github/actions/widget/action.yml ]; then
             echo "present=true" >> "$GITHUB_OUTPUT"
           else
             echo "present=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::atlas/ pin predates the widget action — keeping committed widget/atlas.html"
+            echo "::notice::.atlas-engine pin predates the widget action — keeping committed widget/atlas.html"
           fi
       - name: Render this node's Atlas widget
         # Regenerate the data-filled Atlas fragment from THIS node's identity (atlas.yml)
@@ -75,21 +75,21 @@ jobs:
         # every deploy fresh; otherwise the committed widget/atlas.html default stands.
         if: steps.atlaswidget.outputs.present == 'true'
         continue-on-error: true   # a broken channel HEAD never breaks this node — fallback stands
-        uses: ./atlas/.github/actions/widget
+        uses: ./.atlas-engine/.github/actions/widget
         with:
           out: widget/atlas.html
       - name: Detect the Journal widget action in the pinned submodule
         # Same best-effort probe as the Tell widget above: the node must build even when the
-        # journal/ engine pin is behind the action's introduction, so this is not a hard
+        # .journal-engine pin is behind the action's introduction, so this is not a hard
         # cross-repo dependency.
         id: journalwidget
         shell: bash
         run: |
-          if [ -f journal/.github/actions/widget/action.yml ]; then
+          if [ -f .journal-engine/.github/actions/widget/action.yml ]; then
             echo "present=true" >> "$GITHUB_OUTPUT"
           else
             echo "present=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::journal/ pin predates the widget action — keeping committed widget/journal.html"
+            echo "::notice::.journal-engine pin predates the widget action — keeping committed widget/journal.html"
           fi
       - name: Render this node's Journal widget
         # Regenerate the data-filled Journal fragment from THIS node's identity (_config.yml)
@@ -101,14 +101,15 @@ jobs:
         # committed widget/journal.html default stands.
         if: steps.journalwidget.outputs.present == 'true'
         continue-on-error: true   # a broken engine HEAD never breaks this node — fallback stands
-        uses: ./journal/.github/actions/widget
+        uses: ./.journal-engine/.github/actions/widget
         with:
           out: widget/journal.html
       - name: Build
         id: build
-        uses: ./journal/.github/actions/build
+        uses: ./.journal-engine/.github/actions/build
         with:
           try_latest: ${{ github.ref == 'refs/heads/main' }}
+          engine: .journal-engine
 
   write-back:
     needs: build
@@ -140,10 +141,10 @@ jobs:
           # (build_mode == latest). Otherwise leave the known-good engine pin untouched — a
           # broken engine HEAD must never displace it.
           if [ "$JOURNAL_BUILT" = "latest" ] && [ -n "$JOURNAL_SHA" ]; then
-            git submodule update --init --depth=1 journal
-            git -C journal fetch origin main
-            git -C journal checkout "$JOURNAL_SHA"
-            git add journal
+            git submodule update --init --depth=1 .journal-engine
+            git -C .journal-engine fetch origin main
+            git -C .journal-engine checkout "$JOURNAL_SHA"
+            git add .journal-engine
           fi
 
           # atlas + tell (the channels): roll to each channel's own main HEAD. The channels gate
@@ -152,7 +153,7 @@ jobs:
           # falls back to the committed widget. This keeps every deploy's pins fresh without
           # rebuilding the channel sites here; the weekly modules-upgrade.yml stays as the
           # build-gated belt-and-suspenders.
-          for mod in atlas tell; do
+          for mod in .atlas-engine .tell-engine; do
             git submodule update --init --depth=1 "$mod"
             git -C "$mod" fetch origin main
             git -C "$mod" checkout origin/main

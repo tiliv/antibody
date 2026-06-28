@@ -41,9 +41,9 @@ aggregates them. Constitutions bind each layer in the open and constrain the nex
 constitutions are the point, because a few sound ones let one careful operator serve many.
 
 The fourth part is the **Journal** engine: the shared Jekyll machinery that renders a node's
-first-party record from the prose under `publish/`. It carries no role in the federation lifecycle — it
-is how a node *publishes*, not how it federates — and it is vendored as an engine submodule so every
-node renders the same way.
+first-party record from the prose under `journal/`. It carries no role in the federation lifecycle — it
+is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so
+every node renders the same way.
 
 ## What this workspace is
 
@@ -54,13 +54,13 @@ ostensibly able to operate the whole constellation:
   of peer Atlases, and publishes its identity for others to peer with.
 - It **is its own Tell**: piles register with it by signed-PR handshake, and it collects, judges, seals,
   and delivers their digests.
-- It **publishes through Journal**: the engine builds the site from `publish/`, and the node's identity
-  widgets (Tell, Atlas, Journal) are baked at build time.
+- It **publishes through Journal**: the engine builds the site from the prose at `journal/` (served at
+  `/journal/`), and the node's identity widgets (Tell, Atlas, Journal) are baked at build time.
 - It **fronts data-piles** as the Tell they register behind, and can peer with other nodes to ask and
   answer searches across the network — one hop, by mutual consent, never a reach into anyone's repo.
 
-It coordinates the three channels as **submodules** (`atlas/`, `tell/`, `journal/`), rolling their pins
-forward on a cadence it sets, and binds its own identity, signing keys, and constitutional posture on
+It coordinates the three engines as hidden **submodules** (`.atlas-engine/`, `.tell-engine/`,
+`.journal-engine/`), rolling their pins forward on a cadence it sets, and binds its own identity, signing keys, and constitutional posture on
 top. The license is part of that posture, not boilerplate: you may copy the code, the text, and the
 license **only if you attribute yourself as the author**.
 

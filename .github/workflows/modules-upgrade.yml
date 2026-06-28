@@ -1,4 +1,4 @@
-name: Module pin upgrade
+name: "Maintain · module pins"
 
 # Graduated from journal-engine-upgrade.yml. Rolls every source module this
 # workspace mounts — journal (the engine), atlas and tell (channels) — forward to
@@ -38,7 +38,7 @@ jobs:
           fetch-tags: true
           submodules: recursive
       - name: Advance journal pin
-        uses: ./journal/.github/actions/advance-engine
+        uses: ./.journal-engine/.github/actions/advance-engine
 
   atlas:
     runs-on: ubuntu-latest
@@ -51,7 +51,7 @@ jobs:
           fetch-tags: true
           submodules: recursive
       - name: Advance atlas pin
-        uses: ./atlas/.github/actions/advance-engine
+        uses: ./.atlas-engine/.github/actions/advance-engine
 
   tell:
     runs-on: ubuntu-latest
@@ -64,4 +64,4 @@ jobs:
           fetch-tags: true
           submodules: recursive
       - name: Advance tell pin
-        uses: ./tell/.github/actions/advance-engine
+        uses: ./.tell-engine/.github/actions/advance-engine

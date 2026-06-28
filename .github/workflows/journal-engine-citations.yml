@@ -1,4 +1,4 @@
-name: Update citation submodules to latest
+name: "Maintain · citation pins"
 
 on:
   schedule:
@@ -20,4 +20,4 @@ jobs:
           fetch-depth: 0
 
       - name: Advance submodules
-        uses: ./journal/.github/actions/advance-submodules
+        uses: ./.journal-engine/.github/actions/advance-submodules

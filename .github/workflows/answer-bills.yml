@@ -1,4 +1,4 @@
-name: answer-bills
+name: "Federate · answer bills"
 
 # Answerer side of Atlas peering: run THIS node's matcher over the bills friend Atlases have filed
 # (the request/<scope>/<id> branches) and return the accepted matches as one bulk signed PR back.
@@ -36,7 +36,7 @@ jobs:
         with:
           submodules: recursive
       - name: Run the matcher over inbound bills
-        uses: ./atlas/.github/actions/answer-bills
+        uses: ./.atlas-engine/.github/actions/answer-bills
         with:
           match-cmd: ${{ vars.ATLAS_MATCH_CMD }}
           bill: ${{ inputs.bill }}
