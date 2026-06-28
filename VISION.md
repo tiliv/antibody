@@ -48,6 +48,17 @@ earned out of band — a signed handshake the node merges by hand — so a signa
 node's own friend list decides *whether to act*. Discovery may propose new friends; the local merge
 always disposes.
 
+Federation is therefore **neighbors, not a graph**. A node connects only to peers it has accepted by
+hand, one hop, and the connection is privileged precisely because *connection means searching* — to
+accept a neighbor is to let them trigger your matcher. So no node wires itself to everyone; it **joins
+another Atlas** instead. An Atlas is a purposeful, overlapping slice — a jurisdiction, or an opinion —
+which is how a person belongs to many at once and geography stops being the limit on how many
+communities you can join. Because authority stays local, even a *rival* can be a neighbor: connecting is
+a public news-drop, the right to ask, never to take, and it can change the temperature of what happens
+in the open. What an Atlas says about *others* is only a **go-look-yourself recommendation** — a pointer
+that forms no relationship and grants no search. Culture lives in who a node calls a neighbor; the
+system leans on that human judgment instead of an algorithm that connects everyone.
+
 The fourth part is the **Journal** engine: the shared Jekyll machinery that renders a node's
 first-party record from the prose under `journal/`. It carries no role in the federation lifecycle — it
 is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so
