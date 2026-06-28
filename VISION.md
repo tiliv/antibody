@@ -96,6 +96,20 @@ first-party record from the prose under `journal/`. It carries no role in the fe
 is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so
 every node renders the same way.
 
+And there is a part that comes *before* all of these: **Anecdote, the first-contact appliance** — the
+on-ramp to everything. It is a small, on-device model, loaded cold and tamper-evident, whose only job is
+to meet any utterance — a poll, or unsolicited testimony like *there is shade at this park* — and help
+the speaker say it in the fewest verbs and simplest noun phrases. That atomic form is a vector without
+the compute: constrain the language until its shape *is* the meaning — the primitive label every Atlas
+already stands ready to answer in. It is deliberately the **constitutionless** on-ramp: it demands no
+perfect constitution and refuses the social-media loop of endless edits and clarifications; it helps you
+say a thing once, privately, and then gets out of the way. And where the engines are vendored and the
+constitutions copied — plural on purpose, so governance cannot be captured — Anecdote is the one part
+that must *not* fork: a tool can only be trusted if it is uniform, loaded cold, and unambiguous about
+what it can do. The rules are many so no one can seize them; the instrument is one so everyone can trust
+it — supplied authoritatively from the channel itself rather than vendored per node (see
+[`OPEN-QUESTIONS.md`](OPEN-QUESTIONS.md) §O).
+
 ## What this workspace is
 
 This repository is a Civic Node that **self-hosts all three roles and fronts piles** — one workspace

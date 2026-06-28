@@ -601,3 +601,49 @@ nothing; it stops contributing freshness, and the system was already built to le
 - **Open (the mechanism):** the concrete shape of a signed retirement / forward notice; an optional
   `last-seen` / freshness convention holders may render (vs. letting absence-of-refresh speak for
   itself); how a tombstone's forward pointer is expressed and followed.
+
+---
+
+## O. Anecdote: the first-contact appliance
+
+**Tier: anecdote (above the node).** The on-ramp to everything — how any utterance becomes something the
+network can carry. Stated as intent in `VISION.md`; the *supply mechanism* is the open part. This is the
+load-bearing linchpin: it is what offers *anything at all* into these networks, under one promise — that
+it will not bother you with it.
+
+- **Job: first contact, reduced to atoms.** A small on-device model meets any input — a poll, or
+  unsolicited testimony no one could pre-structure (*there is shade at this park*; *these are the Dewey
+  numbers on this shelf this week*) — and helps the speaker say it in fewest-verbs, simplest-noun-phrase
+  form. That atomic form is **a vector without the compute**: constrain the surface language until its
+  shape approximates the meaning — the primitive label (**C**/**N**) every Atlas stands ready to answer
+  in.
+- **Constitutionless by necessity.** Unsolicited input has no governing constitution, and you cannot stop
+  the speaker to demand one; nor will the system enshrine the social-media correction loop (edits,
+  follow-ups, clarifying threads). So the way to "take it seriously" without a constitution is
+  **blind-justice reduction**: moderate away to the sayable atomic core and get it as close to the shared
+  labels as possible. With a constitution (posting on an Atlas/Tell you have chosen) you can do far
+  better; unsolicited, the labels are all you have — and they suffice because they are the lingua franca.
+- **The singular neutral instrument (the trust model).** You cannot trust an LLM unless you know it
+  loaded **cold** and was **never tampered with**. Per-workspace anecdotes reintroduce exactly the
+  ambiguity that destroys that trust ("what can *this* workspace's anecdote do?"). So unlike the engines
+  (vendored, forked) and the constitutions (copied, speciated — plural so governance cannot be captured),
+  anecdote must **not** fork: one uniform, verifiable instrument everyone runs identically. The rules are
+  many so no one seizes them; the tool is one so everyone trusts it. This is the complement of speciation,
+  not a contradiction of it — culture is plural, the instrument is singular.
+- **Privacy by incapability.** It is chosen *because* it is too small and slow to spy or carry a second
+  agenda — the near-zero exposure is obvious from the appliance itself — and it runs **locally, before
+  submission**, so only the speaker's approved result ever leaves. Approval is **nudge, not write-in**:
+  you redirect its interpretation among paths it can validate, never free-text an answer (which would
+  break the atomic form and is the self-reported resolve the system distrusts).
+- **Strong lean (supply):** supplied **authoritatively from `anecdote.channel`** — the top-level concept
+  that initiates the domain — **not** a civic-node submodule each workspace tweaks. The cold-load /
+  no-ambiguity trust argument points hard this way; the wire-level supply is the open piece below.
+- **Open (the mechanism):** who serves the model, and how a client verifies it loaded **cold and
+  untampered** (pinned hash / signed weights?); how the reducer converges reliably on small hardware —
+  the **merge-only ratchet** / noisy-proposer-plus-simple-acceptor design that makes monotone progress
+  and forecloses reversal traps; **label versioning** (a label is tied to a reducer version, like a
+  `constitution_sha`); and whether a workspace may ever supply a *fallback* without reintroducing the
+  ambiguity that voids trust.
+- **Blocks:** ingress of anything at all (it is first contact); trustworthy local reduction without
+  surveillance; and the whole label/collision economy (**C**) and claims-about-subjects (**N**), which
+  all assume utterances arrive already atomised.
