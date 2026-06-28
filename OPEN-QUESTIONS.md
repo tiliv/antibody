@@ -502,7 +502,34 @@ and **D**'s peering: *how* a node finds and accepts the neighbors whose payloads
   crop", or simply who its neighbors are) as a **go-look-yourself** pointer: reading it forms no
   relationship and grants no search. Adjacent to **C**'s standing (a constituency's own accumulated
   weight) but distinct — this points at *others*. It only ever *proposes*; the local merge disposes.
+- **Recommendations may point at opposition, not only praise.** The same advisory pointer can surface
+  *adjacent or opposing* communities — "others in your universe who differ" — so positions don't hide
+  from each other. But the vector that makes someone "like you" is **human-named** ("our rivals",
+  "adjacent groups"), never a computed similarity score (that would rebuild the bubble-maker), and
+  *when* such exposure appears is a human publishing decision — an **explicit non-goal for the machine**:
+  the system never judges that you would "be healthier" for seeing your rivals and pushes them at you.
+- **Membership is opt-in; visibility within it is mandatory — and that is the offer.** You choose
+  whether to join an Atlas; not wanting a public presence means simply not joining. Once in, being found
+  *is* the value (the platform's free advertising), and there are **no secret members and no private
+  lists** — an operator cannot quietly carry a movement off the public listing. The listing mechanism is
+  neutral infrastructure; culture rides on top (who you call a neighbor, what your tags mean), never
+  inside how the listing works.
+- **You author your presentation, not your visibility.** A node controls its *framing* — its name and
+  tags ("so-and-so presents"), indie-bookstore style where the listing entity owns its own tag
+  vocabulary — not whether it appears. The Atlas is then a thin navigation over its rendered files
+  (browse by tag, or read the files raw). Agency is in how you show up, not in hiding.
+- **No one-way mirrors — disclosure travels with the data via the license.** Reading what is public is
+  free (that is the point of socializing it); to *operate* on it — relist, aggregate at scale, connect
+  as a node — you must take on the license, which makes you an Atlas bound by these same consent-ful
+  rules. So a private actor cannot harvest-and-hide: anyone *acting* on the network is visible on it too.
+  Provenance (the signatures) proves origin; the license governs reuse; they bite together. (Legal /
+  normative enforcement beside the technical one — honestly a posture, not DRM.)
 - **Open (the mechanism):**
+  - the **carrier**: a recommendation / bill is a *self-signed YAML doc* (the **D** bill shape,
+    block-size bounded), transport-agnostic — it can arrive on a per-neighbor branch, as a file, or via
+    QR — with trust in the doc's own signature (never in Git itself), and the kept list a rendered
+    `_data` registry partitioned by source. Block size is a per-neighbor setting, possibly reputation- /
+    constitution-informed (cf. **D**'s asker-side bill governance). *(Discussed; leading candidate.)*
   - the structure of a published recommendation / self-advertisement — a made-public list (the
     `/polls.json` transparency seam generalized) a recipient can read and pin out of band;
   - how a discovered candidate becomes a *consented* neighbor (the existing signed-PR + out-of-band
