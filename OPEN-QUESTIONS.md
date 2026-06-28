@@ -391,9 +391,9 @@ and air-gapped with no Tell on the far side (see the Tell's `docs/per-poll-regis
   - **Sketch (unbuilt):** sign the QR payload with the Tell's delivery signer (the asymmetric model
     `bin/deliver` already uses, verified against `keys/tell.signers`). Authorization (HMAC,
     mailbox-scoped) and provenance (signature, anyone-verifiable) are **separable roles** a QR may carry
-    one or both of. Its own thread — the open design questions are the size budget against QR capacity
-    (hence tiling many into a matrix) and how a registry-less recipient learns which signers to trust.
-    See the Tell's `docs/per-poll-registry.md`.
+    one or both of. Tracked as its own thread, **L** — the open design questions (size budget vs. QR
+    capacity and the matrix, trust roots without a registry) live there and in the Tell's
+    `docs/qr-provenance.md`.
 
 ---
 
@@ -421,3 +421,47 @@ schedule does.
   - **Sketch (unbuilt):** a cheap delivery marker the pile can check (a feed-head timestamp / round
     counter) so ingest is delivery-driven, and a per-poll schedule that both the Tell's deliver and the
     QR's `exp` read from — the per-poll registry **F** keeps deferring is the shared home for it.
+
+---
+
+## L. Signed self-contained QR provenance
+
+**Tier: tell.** Promoted from **J**. The QR carries **two separable credentials**, and only one is
+built.
+
+The **token** — `tok = HMAC(k_pile, …)` — is *symmetric*, verifiable only by the minting Tell, and
+authorizes a reply into the mailbox this Tell tracks: a GitHub Issue, or a comment on the poll's
+**canonical Issue** (the scalable shape, **F**), ingested by `bin/collect-submissions`. It keeps its
+job. What it cannot do is prove *where a QR came from* to anyone else — and that is the whole premise of
+the share/air-gap future: a QR travels peer-to-peer with custom payloads and no registry on the far
+side, so a recipient must decide whether it is **worth processing at all** before spending anything.
+That gate is a **signature over the exact payload** — *this version of the question, this share link* —
+giving origin (who) and integrity (this exact content). The asymmetric model `bin/deliver` already uses
+(`ssh-keygen -Y sign`, verified against `keys/tell.signers`) is the reuse seam.
+
+The two ride together at different points: the **token** gates *acceptance of a submission* into the
+tracked mailbox; the **signature** gates *whether a poll/share is processed at all*. A submission also
+carries the poll's signature, so the Tell confirms the reply is to a version of the question a trusted
+signer actually issued — which is how **J**'s old "what the respondent was shown is unverifiable" gap is
+closed: by signature, not by binding to a registry.
+
+- **Blocks:** trusting a shared or foreign QR's origin; the matrix-of-QRs / air-gapped future (QR as the
+  floppy disk); a cheap pre-filter before processing heavier signed payloads off a grid of them; closing
+  **J**'s shown-vs-authentic gap.
+- **Open (the design):**
+  - **What is signed** — a canonical preimage over the payload fields (not the raw URL: param order and
+    re-encoding are not stable), covering `tok` too, under a distinct namespace (e.g. `tell-poll`) so a
+    delivery signature can never be replayed as a QR one.
+  - **Signature format vs. size** — the armored SSH blob is large for a QR; a raw Ed25519 signature
+    (64 bytes) over the *same* key is compact. Same key, choosable encoding.
+  - **Trust roots without a registry** — the QR asserts *which* signer; the recipient still needs an
+    accepted-signers set to decide trust (the `keys/tell.signers` idiom locally). Where that set comes
+    from for a *foreign* QR is the crux, and where cross-node discovery (the `/polls.json` seam)
+    reconnects.
+  - **Size budget / the matrix** — one signed poll fits a single QR; heavier payloads tile into many, so
+    the packet format must be chunk-aware (payload id, index/total, a *whole-payload* signature over the
+    reassembled bytes). The full tiling format is a later thread.
+- **Sketch (unbuilt):** `bin/qr` signs a canonical preimage and carries `sig` (+ a signer id) beside
+  `tok`; a `bin/verify`-style check (or `bin/authz` extension) verifies `sig` against the
+  accepted-signers set as the worth-processing gate, with `tok` unchanged as the mailbox authorization.
+  See the Tell's `docs/qr-provenance.md`.
