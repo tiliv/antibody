@@ -5,11 +5,34 @@ title: ANTIBODY
 # self-hosted Atlas attributes matches to its own URL rather than the upstream default.
 url: "https://antibody.fort-collins.colorado.anecdote.channel"
 
-# Mount mapping (defaults provided by the journal engine; shown here for clarity).
-# `publish` = on-disk dir content is mounted into; `journal` = public URL base.
-# If you change `publish`, also add a matching `defaults` scope (path: <dir>) here.
-publish: publish
-journal: journal
+# The workspace root is the publish root. Journal prose lives at journal/ and
+# serves at /journal/ (disk path == url path; the engine ships the `journal` mount
+# default, so this node need not repeat it). Engine machinery is hidden under the
+# dotted .*-engine submodules.
+
+# Site-owned exclude. Declaring it here REPLACES the engine default on merge, so it
+# re-lists the engine's entries. The dotted .*-engine mounts are also auto-ignored
+# by Jekyll (dotfiles); atlas/ and tell/ are reserved pass-through prefixes, built
+# and deployed by their own engines — never by this node's Jekyll build.
+exclude:
+  - CNAME
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .journal-engine/
+  - .atlas-engine/
+  - .tell-engine/
+  - atlas/
+  - tell/
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - LICENSE.md
+  - AGENTS.md
+  - .github
+  - bin
 
 license_badge: https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-MEDIA-SUP-SV&labelColor=5e2751&color=2a6a65
 license_url: https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html
