@@ -40,6 +40,14 @@ and revokes it by leaving; a Tell describes the reports it publishes and an Atla
 aggregates them. Constitutions bind each layer in the open and constrain the next — copyable
 constitutions are the point, because a few sound ones let one careful operator serve many.
 
+That authority never leaks sideways. **A node is the sole authority over its own data, and a verified
+peer can only _trigger_ it, never reach into it.** A friend's request — or a signed poll shared
+peer-to-peer — is a prompt, not a transfer: it makes the node run *its own* search over *its own* data
+and answer from what it authoritatively holds, importing nothing foreign as truth. Trust is local and
+earned out of band — a signed handshake the node merges by hand — so a signature proves *who* while the
+node's own friend list decides *whether to act*. Discovery may propose new friends; the local merge
+always disposes.
+
 The fourth part is the **Journal** engine: the shared Jekyll machinery that renders a node's
 first-party record from the prose under `journal/`. It carries no role in the federation lifecycle — it
 is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so
