@@ -1,4 +1,4 @@
-name: register-self
+name: "Federate · register self"
 
 # Register THIS node's own Tell into THIS node's own Atlas registry — the workspace
 # acting as its own Atlas (the same self-hosting match.yml already does for the
@@ -7,7 +7,7 @@ name: register-self
 # delivery-signer key. When the PR merges, the node's Atlas directory lists its own Tell.
 #
 # The work is tell's reusable `register` composite action, mounted over the tell/
-# submodule (the same ./tell/.github/actions/<name> convention modules-upgrade.yml uses
+# submodule (the same ./.tell-engine/.github/actions/<name> convention modules-upgrade.yml uses
 # for advance-engine). The action's code ships with it; the IDENTITY is read from the
 # tell/ submodule's own tell.yml + keys/tell.fpr via the identity/fingerprint inputs —
 # so this lists the node's Tell, signed with the node's key, never the template's.
@@ -37,10 +37,10 @@ jobs:
         with:
           submodules: recursive
       - name: Register this node's Tell into its own Atlas registry
-        uses: ./tell/.github/actions/register
+        uses: ./.tell-engine/.github/actions/register
         with:
           atlas: ${{ github.event.inputs.atlas || github.repository }}
           pr-token: ${{ github.token }}
           signer-key: ${{ secrets.TELL_SIGNER_KEY }}
-          identity: tell/tell.yml
-          fingerprint: tell/keys/tell.fpr
+          identity: .tell-engine/tell.yml
+          fingerprint: .tell-engine/keys/tell.fpr

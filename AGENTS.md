@@ -21,14 +21,18 @@ lead with.
 
 ## The shape of the code
 
-- **Two repos.** This is the *site* (configuration, content, identity). The shared
-  *engine* lives in the `journal/` submodule (layouts, includes, plugins, the
-  git-history tooling). Site-specific assets are synced in from the engine at build
-  time; don't hand-edit the synced copies — change the engine.
-- **Real path is not URL path.** Content mounts on disk under `publish/` but serves
-  under `/journal/`. That decoupling is config-driven (`publish` / `journal` keys in
-  `_config.yml`); a small engine plugin does the remap. Don't reintroduce hardcoded
-  paths.
+- **Engines are hidden; content is canonical.** Each service's machinery is a
+  submodule under a dotted `.X-engine/` dir (`.journal-engine` is the shared Jekyll
+  *engine* — layouts, includes, plugins, git-history tooling; `.atlas-engine` and
+  `.tell-engine` are the channels' composite actions). The freed top-level names
+  (`journal/`, `atlas/`, `tell/`) are each a service's canonical prefix. Site-specific
+  assets are synced in from `.journal-engine` at build time; don't hand-edit the synced
+  copies — change the engine.
+- **The workspace root is the publish root.** Journal prose lives at `journal/` and
+  serves at `/journal/` — disk path == URL path, no remap. The non-journal prefixes
+  (`atlas/`, `tell/`) are pass-through: excluded from this node's Jekyll build and
+  produced/deployed by their own engines, so a change there needs no journal build to
+  go public.
 - **History is the data model.** Per-paragraph git blame/history is generated into
   `_data/` and bound into pages at build time. The build runs flattened from the
   repo root.

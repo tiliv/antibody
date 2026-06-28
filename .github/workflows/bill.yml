@@ -1,4 +1,4 @@
-name: bill
+name: "Federate · bill"
 
 # Asker side of Atlas peering: assemble this node's BILL — the bounded list of needs it currently
 # wants found — and (eventually) file it with a friend Atlas as a signed, examine-not-merge request
@@ -39,7 +39,7 @@ jobs:
         with:
           submodules: recursive
       - name: Assemble + file this node's bill
-        uses: ./atlas/.github/actions/request-search
+        uses: ./.atlas-engine/.github/actions/request-search
         with:
           peer: ${{ inputs.peer }}
           max: ${{ inputs.max }}

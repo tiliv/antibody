@@ -1,4 +1,4 @@
-name: register-peer
+name: "Federate · register peer"
 
 # Introduce THIS node (acting as its own Atlas) as a PEER of another Atlas directory. Opens a
 # consent PR on the peer adding this node's entry to its _data/atlases.yml, on an
@@ -6,7 +6,7 @@ name: register-peer
 # When the peer merges, each side lists the other and the reciprocal-discovery deal is in force.
 #
 # The work is atlas's reusable `register-peer` composite action, mounted over the atlas/
-# submodule (the same ./atlas/.github/actions/<name> convention match.yml uses). The action's
+# submodule (the same ./.atlas-engine/.github/actions/<name> convention match.yml uses). The action's
 # code ships with it; the IDENTITY is read from this node's OWN atlas.yml + keys/atlas.fpr (this
 # node self-hosts the Atlas role, so its identity is the workspace root — not the submodule).
 #
@@ -34,7 +34,7 @@ jobs:
         with:
           submodules: recursive
       - name: Introduce this node's Atlas to the peer
-        uses: ./atlas/.github/actions/register-peer
+        uses: ./.atlas-engine/.github/actions/register-peer
         with:
           peer: ${{ inputs.peer }}
           pr-token: ${{ secrets.ATLAS_PR_TOKEN }}

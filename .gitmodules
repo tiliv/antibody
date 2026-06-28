@@ -1,12 +1,12 @@
-[submodule "journal"]
-	path = journal
+[submodule ".journal-engine"]
+	path = .journal-engine
 	url = https://github.com/fccn-antibody/journal.anecdote.channel
 [submodule "publish/autumn-ryan"]
 	path = publish/autumn-ryan
 	url = https://github.com/tiliv/cite-autumn-ryan
-[submodule "atlas"]
-	path = atlas
+[submodule ".atlas-engine"]
+	path = .atlas-engine
 	url = https://github.com/fccn-antibody/atlas.anecdote.channel
-[submodule "tell"]
-	path = tell
+[submodule ".tell-engine"]
+	path = .tell-engine
 	url = https://github.com/fccn-antibody/tell.anecdote.channel
