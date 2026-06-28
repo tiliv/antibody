@@ -12,6 +12,12 @@ file alone without an agent rewriting vision prose around it. Items are grouped 
 dependency they share, not by repo — several are one question seen from different tiers, and
 they are collapsed accordingly. The judge (**A**) is load-bearing; much of the rest waits on it.
 
+Sections **A–I** are protocol-level deferrals from shaking each service out in isolation; **J–K** were
+surfaced by running the **end-to-end poll use case** across all three at once, where the *product
+surface* (authoring, answering, the batch rhythm) lags the cryptographic spine that is otherwise built
+and tested. Some of the latter were left open on purpose; with the whole flow in view they are now
+worth closing rather than deferring.
+
 ---
 
 ## A. The summonable judge
@@ -243,6 +249,17 @@ ties these together; the geo-gate (below) is the lever that unlocks the rest.
   - **Sketch (unbuilt):** local storage in the browser tool; a batch-submission format the ingress can
     authorize as a unit; the agent's cron *is* the legitimate-only pickup. Ties to QR expiry and
     pre-public judging below.
+- **One-Issue-many-comments ingress.** Today each reply opens its *own* Issue (`index.md`'s prefilled
+  `issues/new` link; `bin/collect-submissions` sweeps open Issues), so at poll scale the mailbox grows
+  one Issue per respondent — with traffic, not with *legitimate* answers. The alternative shape the use
+  case floats: a single standing Issue per poll, replies arriving as **comments**, collected and
+  finalized as a thread.
+  - **Blocks:** ingestion that scales with poll size without a per-reply Issue; a single lock/close
+    gesture to retire a round; lower API and notification load than Issue-per-reply.
+  - **Sketch (unbuilt):** the landing page builds a prefilled *comment* rather than `issues/new`;
+    `bin/collect-submissions` reads comments on the poll's pinned Issue instead of (or beside) whole
+    Issues; finalize locks the thread. A second scaling answer alongside the direct-transfer collector
+    above — pick one per deployment, not both.
 - **QR token expiry vs. round-bumping.** A QR token is
   `HMAC(k_pile, "tok:"||pile||":"||poll||":"||round)` — a bearer capability with **no intrinsic
   expiry**. The only way to retire an outstanding QR is to bump `round` (or pin `TELL_ALLOWED_ROUND`),
@@ -252,6 +269,18 @@ ties these together; the geo-gate (below) is the lever that unlocks the rest.
   - **Sketch (unbuilt):** carry an `exp` inside the signed token preimage and check it in `bin/authz`;
     needs a per-poll registry to hold the schedule. Left out while we settle how much state Tell should
     keep about polls at all.
+- **One reply per respondent — dedup, not just expiry.** The token is a *bearer* capability bound to
+  `pile+poll+round` and nothing about *who* presents it, so the same QR replays without limit: one
+  screenshot answers a poll a thousand times, and nothing distinguishes the first respondent from the
+  second. `bin/authz` names the seam — its comment lists "richer, type/asker-aware rules (rate, dedup,
+  geo, …)" behind `TELL_AUTHZ_CMD` — but the default enforces none. Expiry (above) retires a token
+  *globally*; this is the orthogonal axis, retiring it *per respondent*.
+  - **Blocks:** any poll whose result counts *people* rather than *clicks*; ballot-box integrity;
+    telling Person from Person B (the use case leans on exactly that distinction).
+  - **Sketch (unbuilt):** a dedup key in `bin/authz` — but the bearer token carries no stable
+    respondent handle, so this couples to the identity question below (whoever authenticates the POST is
+    also whoever you dedup on). Honest interim: accept the replay, dedup *downstream* in `govern` on a
+    respondent-supplied nonce, knowing it is advisory until identity lands.
 - **Identity model when the page POSTs to the GitHub API directly.** Today the landing page only
   **builds a prefilled `issues/new` link**; the respondent's own account posts the Issue (the spam/cost
   shield). A future direction is the page **POSTing to the GitHub API** using the QR's contents — which
@@ -331,3 +360,68 @@ they're not mistaken for "wired."
   must supply its real `age` recipient for encrypted delivery.
 - **`vars.ATLAS_MATCH_CMD`** is unset by default, so `match.yml` keeps `matches.json` empty (the honest
   default accepts nothing). Set it to a judge — an agent or a human seam — to accept matches (**A**).
+
+---
+
+## J. The poll product surface: authoring and answering
+
+**Tier: tell.** Surfaced by the end-to-end use case. The protocol assumes a poll *exists*, is
+*answerable*, and *means the same thing* on the QR as in the constitution. None of those three is fully
+built — the product surface runs behind the cryptographic spine that feeds it.
+
+- **No custom-entry field on the landing page.** `index.md` renders a poll as a row of clickable option
+  links built from `cfg.opts` (defaulting to `Yes,No`) — there is no text input, yet `type` defaults to
+  `"open"` and the data model fully supports open answers and write-ins (a constitution can set
+  `accept_writein: true`; `bin/govern`/`bin/judge` already handle free text). So an open-answer poll
+  shows as Yes/No buttons and a respondent has no way to type the answer the poll is asking for.
+  - **Blocks:** open-answer and write-in polls end to end (the QR's "…or custom entry" half); any poll
+    that is not a fixed multiple choice.
+  - **Sketch (unbuilt):** when `type=open` (or no `opts`), render a `<textarea>` whose value flows into
+    the same `tell.submission/v1` block the option links already build; multichoice stays the link grid.
+    Small and self-contained — the first product gap to close, and the prototype we start on next.
+- **No authoring path from "make a question" to a live poll.** Going live today is three hand-done acts
+  in three places: write `constitutions/<pile>/<poll>.json`, register the pile in `_data/piles.yml`, and
+  mint+bake the QR (`bin/qr` + `bin/widget`). Nothing composes them, so "User makes a question" (step 1)
+  is an operator chore, not a gesture.
+  - **Blocks:** an operator — or the next operator — standing up a poll without assembling it by hand;
+    the use case's step 1 as a single action.
+  - **Sketch (unbuilt):** a `bin/poll` (or a guided action) that takes a question + options + guidance,
+    writes the constitution, appends the pile entry, and emits the QR — one input, three artifacts.
+- **The shown question and the judged constitution are unbound.** The QR carries `q`, `opts`, and
+  `guidance` as URL params (`index.md`), entirely separate from the `constitutions/<pile>/<poll>.json`
+  that `bin/govern` judges against. `shown_guidance` is sealed into the record verbatim and never
+  reconciled against the constitution, so a QR can display options or guidance the poll's own law does
+  not back, and the pile seals a record whose "what the respondent was shown" is unverifiable.
+  - **Blocks:** trusting that what a respondent saw is what the poll offered; a transparency record
+    whose `shown_*` fields mean anything.
+  - **Sketch (unbuilt):** derive the displayed question/options from the constitution (fetch by
+    pile/poll) instead of trusting URL params, or have `govern` reconcile `shown_guidance` against the
+    constitution and flag drift. Couples to the authoring path above — one source of truth per poll,
+    consumed by both the page and the judge.
+
+---
+
+## K. The batch rhythm: mutual cron windows
+
+**Tier: tell (deliver cadence) · pile (ingest cadence) · node (the shared window).** The use case turns
+on "cron jobs waking up to see the other left something" — deliberate batching scaled by size and
+frequency. The two crons exist, but neither the coordination nor, on the producing side, the live
+schedule does.
+
+- **The producing cron is off; the consuming cron runs into a void.** The pile's ingest schedule is live
+  (`data-pile/.github/workflows/ingest.yml`, `cron: "23 * * * *"`), so it wakes hourly and looks — but
+  the Tell's crunch is `workflow_dispatch`-only, its `schedule:`/`issues:` triggers commented out
+  (`tell.anecdote.channel/.github/workflows/ingest-submissions.yml`), so nothing is ever produced for
+  the pile to find. The consumer's frequency lever works; the producer's is disabled.
+  - **Blocks:** the unattended loop (steps 4–6) running without a human dispatching the Tell each cycle.
+  - **Note:** the disable is intentional template safety (see the workflow header); the unspecified
+    thing is the *coordinated, on* state, not merely the unset switch.
+- **There is no shared notion of a window.** The two crons are independent offsets (`:23` ingest, `:31`
+  deliver-if-enabled) with no handshake: no signal that "this round is sealed, go look," no per-poll
+  open/close, no agreement on size. A fresh batch can wait most of an hour for the next poll, and the
+  cadence is two unrelated numbers rather than one window both sides honor.
+  - **Blocks:** tuning batch size/frequency as one knob; "this poll closed on DATE" semantics (ties to
+    QR expiry, **F**); a pile that polls *because* a delivery happened rather than on a blind timer.
+  - **Sketch (unbuilt):** a cheap delivery marker the pile can check (a feed-head timestamp / round
+    counter) so ingest is delivery-driven, and a per-poll schedule that both the Tell's deliver and the
+    QR's `exp` read from — the per-poll registry **F** keeps deferring is the shared home for it.
