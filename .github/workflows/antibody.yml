@@ -5,6 +5,12 @@ on:
     branches: ["main"]
   pull_request:
   workflow_dispatch:
+  schedule:
+    # Daily redeploy so automated advances become visible. Pushes made by the
+    # weekly citation/pin workflows use GITHUB_TOKEN + [skip ci], which never
+    # trigger a `push` build, so without this the site never rebuilds from main's
+    # latest pins. Runs after the Mon 06:00 citations / 07:00 module advances.
+    - cron: "17 8 * * *"
 
 permissions:
   contents: read
