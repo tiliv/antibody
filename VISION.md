@@ -59,6 +59,17 @@ in the open. What an Atlas says about *others* is only a **go-look-yourself reco
 that forms no relationship and grants no search. Culture lives in who a node calls a neighbor; the
 system leans on that human judgment instead of an algorithm that connects everyone.
 
+Discovery is the deal you opt into by joining an Atlas, and it runs one way: **membership is a choice;
+visibility inside it is not.** Don't want a public presence? Don't join — and if you do, being found
+*is* the point, the platform's free advertising. There are no secret members and no private lists, so an
+operator can't quietly carry a movement off the listing; what you author is your *presentation* — your
+name, your tags, "so-and-so presents" — never your visibility. The listing mechanism stays neutral
+infrastructure, with culture riding on top of it rather than inside how it works. And disclosure travels
+with the data through the license: reading what is public is free, but to *operate* on it — relist,
+aggregate, connect as a node — you must take on the license and so become an Atlas bound by these same
+consent-ful rules. So there are **no one-way mirrors**: anyone acting on the network is visible on it
+too. Provenance proves origin; the license governs reuse; together they leave nowhere to hide.
+
 The fourth part is the **Journal** engine: the shared Jekyll machinery that renders a node's
 first-party record from the prose under `journal/`. It carries no role in the federation lifecycle — it
 is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so
