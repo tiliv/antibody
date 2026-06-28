@@ -86,6 +86,11 @@ therefore has two modes and nothing in between — the **neighbor**, a consented
 search, and the **directory**, an advisory pointer at Atlases that already chose to be public: a
 handshake and a map.
 
+When a node falls silent it **fades rather than detaches**: its signed record stays a permanent,
+mirrorable legacy — you lose its future, never its past — while the pointers others held to it are theirs
+to retire, in the open. Liveness itself is only ever an *observed* claim, never a node's own
+announcement; nothing is a single source of truth, least of all whether something is still alive.
+
 The fourth part is the **Journal** engine: the shared Jekyll machinery that renders a node's
 first-party record from the prose under `journal/`. It carries no role in the federation lifecycle — it
 is how a node *publishes*, not how it federates — and it is vendored as the `.journal-engine` submodule so

@@ -558,3 +558,46 @@ and **D**'s peering: *how* a node finds and accepts the neighbors whose payloads
 - **Blocks:** discovery in practice (finding neighbors beyond manual introduction); belonging to many
   Atlases without a central directory; a recommendation surface that lets culture travel *without*
   auto-forming relationships.
+
+---
+
+## N. Liveness, decay, and a derelict node's legacy
+
+**Tier: node · atlas.** What it looks like when a node goes derelict — powered down, nobody merging its
+PRs — and how the nodes that registered it elsewhere experience the loss. The position: **dereliction is
+decay, not detachment.** Nothing in the constellation is live-coupled, so a node that goes quiet breaks
+nothing; it stops contributing freshness, and the system was already built to let that fade gracefully.
+
+- **Legacy is permanent; pointers are disposable — different layers.** A node's own signed, public record
+  (its rendered files, its signed artifacts) is a **forever-trustworthy legacy**: permanent because it is
+  signed and public, so anyone may mirror it and it still verifies against the node's key — it outlives
+  the original host. The **pointers** to it (others' `_data/atlases.yml` entries, directory listings) are
+  each holder's own data, freely pruned. Dropping a pointer never destroys the legacy; it only stops
+  *you* vouching for it. (This permanence is for the **public-actor layer** — Atlases, Tells, listings,
+  things that chose daylight — never the private replies, which stay sealed to the pile.)
+- **Powered down is a monument, not a 404.** Static hosting serves the last build for free, so "powered
+  down" means *no new merges / no Actions*, not *dark*. The record keeps serving and keeps verifying
+  offline. You lose a node's future, never its past.
+- **Liveness is an observed claim, never a self-report** (the dead cannot announce death). Two flavors of
+  "inactive": a **graceful self-retirement** — a signed final claim while still alive ("retired as of …"),
+  optionally **forwarding to a successor** (the speciation variant next door), a tombstone that is also a
+  signpost; and **observed staleness** — holders annotating their own entry ("inactive, last seen …"),
+  soft and per-holder, with **no central death-flag**. The self-made kind is cleaner when you can get it;
+  the observed kind exists because usually you can't.
+- **De-registration is local, guided, and transparent.** The active layer self-de-registers via
+  eviction-by-re-inclusion (**D**) — a derelict node's asks age out when it stops re-including, no action
+  needed. A persistent entry is *guided, not automated*: a signed retirement is the clean trigger,
+  accumulated observed-staleness the soft one, your own space/relevance a fair reason. It is a local
+  editorial call (local authority), and because lists are public (no private lists, **M**), the drop is
+  itself visible — rendered list plus git history — never a silent memory-hole. De-registering a pointer
+  never touches the legacy.
+- **No single source of truth on "dead".** Liveness is a claim — self-made or observed — weighed by who
+  says it, exactly like everything else.
+- **Claims-about-a-subject need no new primitive.** Liveness, reputation, recommendations, even a tag are
+  one thing: a first-party, signed, attributed claim that *points at a subject* (a node, a topic), read by
+  provenance and trust. A subject is whatever the trust-weighted cloud of claims about it says — never a
+  canonical record. This is the project's first-party-claims thesis turned on subjects, and it is the
+  foundation the rest of this (liveness marks, tombstones, directories, recommendations) is built from.
+- **Open (the mechanism):** the concrete shape of a signed retirement / forward notice; an optional
+  `last-seen` / freshness convention holders may render (vs. letting absence-of-refresh speak for
+  itself); how a tombstone's forward pointer is expressed and followed.
