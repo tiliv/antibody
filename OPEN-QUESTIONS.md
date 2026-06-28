@@ -365,39 +365,35 @@ they're not mistaken for "wired."
 
 ## J. The poll product surface: authoring and answering
 
-**Tier: tell.** Surfaced by the end-to-end use case. The protocol assumes a poll *exists*, is
-*answerable*, and *means the same thing* on the QR as in the constitution. None of those three is fully
-built — the product surface runs behind the cryptographic spine that feeds it.
+**Tier: tell.** Surfaced by the end-to-end use case. The product surface — *authoring* a poll and
+*answering* it — runs behind the cryptographic spine that feeds it. The poll itself is deliberately
+**unbacked**: a respondent answers from the QR alone, never a registry, so a QR can travel peer-to-peer
+and air-gapped with no Tell on the far side (see the Tell's `docs/per-poll-registry.md`).
 
-- **No custom-entry field on the landing page.** `index.md` renders a poll as a row of clickable option
-  links built from `cfg.opts` (defaulting to `Yes,No`) — there is no text input, yet `type` defaults to
-  `"open"` and the data model fully supports open answers and write-ins (a constitution can set
-  `accept_writein: true`; `bin/govern`/`bin/judge` already handle free text). So an open-answer poll
-  shows as Yes/No buttons and a respondent has no way to type the answer the poll is asking for.
-  - **Blocks:** open-answer and write-in polls end to end (the QR's "…or custom entry" half); any poll
-    that is not a fixed multiple choice.
-  - **Sketch (unbuilt):** when `type=open` (or no `opts`), render a `<textarea>` whose value flows into
-    the same `tell.submission/v1` block the option links already build; multichoice stays the link grid.
-    Small and self-contained — the first product gap to close, and the prototype we start on next.
 - **No authoring path from "make a question" to a live poll.** Going live today is three hand-done acts
-  in three places: write `constitutions/<pile>/<poll>.json`, register the pile in `_data/piles.yml`, and
-  mint+bake the QR (`bin/qr` + `bin/widget`). Nothing composes them, so "User makes a question" (step 1)
-  is an operator chore, not a gesture.
+  in three places: write `_data/constitutions/<pile>/<poll>.json`, register the pile in `_data/piles.yml`,
+  and mint+bake the QR (`bin/qr` + `bin/widget`). Nothing composes them, so "User makes a question"
+  (step 1) is an operator chore, not a gesture.
   - **Blocks:** an operator — or the next operator — standing up a poll without assembling it by hand;
     the use case's step 1 as a single action.
   - **Sketch (unbuilt):** a `bin/poll` (or a guided action) that takes a question + options + guidance,
-    writes the constitution, appends the pile entry, and emits the QR — one input, three artifacts.
-- **The shown question and the judged constitution are unbound.** The QR carries `q`, `opts`, and
-  `guidance` as URL params (`index.md`), entirely separate from the `constitutions/<pile>/<poll>.json`
-  that `bin/govern` judges against. `shown_guidance` is sealed into the record verbatim and never
-  reconciled against the constitution, so a QR can display options or guidance the poll's own law does
-  not back, and the pile seals a record whose "what the respondent was shown" is unverifiable.
-  - **Blocks:** trusting that what a respondent saw is what the poll offered; a transparency record
-    whose `shown_*` fields mean anything.
-  - **Sketch (unbuilt):** derive the displayed question/options from the constitution (fetch by
-    pile/poll) instead of trusting URL params, or have `govern` reconcile `shown_guidance` against the
-    constitution and flag drift. Couples to the authoring path above — one source of truth per poll,
-    consumed by both the page and the judge.
+    writes the constitution, appends the pile entry, and emits the *signed* QR — one input, three artifacts.
+- **The poll is unbacked by design — provenance is the open question.** The QR carries the poll
+  (`q`, `opts`, `guidance`) plus a *symmetric HMAC* token that only the minting Tell can verify
+  (`bin/authz`). Keeping the poll self-contained is deliberate — these QRs are meant to travel
+  peer-to-peer, air-gapped, with custom payloads and no registry on the far side; a registry-backed poll
+  cannot survive that trip. What is missing is a way to prove *where a QR came from* to a registry-less
+  recipient: the HMAC authorizes a reply into the minter's own mailbox but is meaningless off-node, so a
+  shared or foreign QR's origin can't be checked. (Binding the shown fields to a Tell-side constitution —
+  the earlier idea here — is the wrong fix and is retired.)
+  - **Blocks:** trusting a shared/foreign QR's origin; the matrix-of-QRs / air-gapped future where the QR
+    is the floppy disk; reading heavier signed payloads off a grid of them.
+  - **Sketch (unbuilt):** sign the QR payload with the Tell's delivery signer (the asymmetric model
+    `bin/deliver` already uses, verified against `keys/tell.signers`). Authorization (HMAC,
+    mailbox-scoped) and provenance (signature, anyone-verifiable) are **separable roles** a QR may carry
+    one or both of. Its own thread — the open design questions are the size budget against QR capacity
+    (hence tiling many into a matrix) and how a registry-less recipient learns which signers to trust.
+    See the Tell's `docs/per-poll-registry.md`.
 
 ---
 
