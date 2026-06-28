@@ -28,6 +28,7 @@ exclude:
   - node_modules
   - package.json
   - package-lock.json
+  - prototype/
   - README.md
   - LICENSE.md
   - AGENTS.md
