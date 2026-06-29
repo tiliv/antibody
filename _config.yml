@@ -34,23 +34,6 @@ exclude:
   - .github
   - bin
 
-# Page defaults. Jekyll REPLACES this array on config merge (the engine's _config.yml
-# loads first and this file wins), so we re-list the engine's two entries verbatim and
-# add this node's `author`. The journal layout builds its per-article contact include as
-# contact/<author>.md and renders {{ page.author }} inside it; the publish/ → journal/
-# move (169b114, "Make the workspace root the publish root") relocated the content without
-# re-declaring the author, so page.author went empty and the include path collapsed to
-# `contact/.md` (the build's "Invalid syntax for include tag" failure). Declaring author at
-# the journal path here — alongside the engine's own layout default — restores it.
-defaults:
-  - scope: {path: ""}
-    values:
-      preferences: journal
-  - scope: {path: "journal"}
-    values:
-      layout: journal
-      author: autumn-ryan
-
 license_badge: https://img.shields.io/static/v1?label=Hippocratic%20License&message=HL3-BDS-MEDIA-SUP-SV&labelColor=5e2751&color=2a6a65
 license_url: https://firstdonoharm.dev/version/3/0/bds-media-sup-sv.html
 civic_node: Fort Collins
