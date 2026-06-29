@@ -308,10 +308,19 @@ without any Tell in the loop. What is missing is a path to **ingest** such a dro
 one-way ratchet whose seed only Tell holds, so an out-of-band contribution cannot extend that chain.
 
 - **Blocks:** accepting data when no Tell fronts the pile; archival imports; a contributor handing the
-  owner sealed data directly.
-- **Sketch (unbuilt):** a separate `feed/drop` channel — `age`-to-recipient blocks under their own
-  signed, hash-linked manifest (no ratchet, since there is no shared seed), verified by a `bin/verify`
-  variant. Storage *and* encryption solved out of band, **not** by borrowing Tell's key.
+  owner sealed data directly; **relocating a whole pile between origins** and **clearing a space** to
+  receive one.
+- **Specified (unbuilt):** [`data-pile/docs/transfer.md`](https://github.com/FCCN-ANTIBODY/data-pile/blob/main/docs/transfer.md).
+  A separate `feed/drop` channel — `age`-to-recipient blocks (each under a random per-block key, itself
+  `age`-wrapped) under their own signed, hash-linked manifest (no ratchet, since there is no shared
+  seed), verified by a `bin/verify` variant in a distinct `data-pile-drop` signing namespace against a
+  local `keys/drop.signers` accepted-signers set. On top of it: the **sendable whole-pile bundle**
+  (`manifest.json` + blocks travel as one self-verifying artifact — a pile is portable because its
+  signed manifest is the sole, transport-agnostic anchor) and the **clear-space ingress**
+  (archive `feed/<source>` → `archive/feed/<source>@<stamp>`, reset the live ref, re-import — never
+  rewriting a signature, per § N's legacy-vs-pointer split). Storage *and* encryption solved out of
+  band, **not** by borrowing Tell's key. The build surface (`bin/send`, the drop verifier, the
+  `file://` ingest path, a clear-space workflow) is named in that doc.
 
 ---
 
