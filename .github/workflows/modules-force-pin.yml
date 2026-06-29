@@ -1,0 +1,108 @@
+name: "Maintain · force module pin"
+
+# Manual escape hatch for the module-pin advance deadlock.
+#
+# The scheduled "Maintain · module pins" workflow (modules-upgrade.yml) rolls
+# each module forward by `uses:`-ing that module's *own* advance-engine action
+# over its pinned submodule path. That is normally the right thing — each module
+# supplies its own write-back logic — but it has a failure mode: if the action at
+# the *pinned* commit is broken, the job that would advance the pin to the fixed
+# commit is the very job that is broken. It cannot look forward to its own fix.
+# The pin is frozen and no amount of fixing the module's main branch helps,
+# because the workspace only ever runs the pinned version.
+#
+# This workflow is the pivot out of that hole. It deliberately does NOT depend on
+# anything inside a submodule: it runs plain git inline, so no broken submodule
+# action can deadlock it. It force-sets a submodule pin to an explicit commit SHA
+# or to the latest origin/main, with no build gate, and pushes the new pin to
+# main. After pivoting to a known-good (fixed) commit, the scheduled maintainer
+# resumes self-advancing normally.
+#
+# Typical recovery: fix the typo/bug on the module's main, then dispatch this with
+# ref=latest (or a specific SHA) to move the workspace pin onto the fixed commit.
+
+on:
+  workflow_dispatch:
+    inputs:
+      module:
+        description: "Which module pin to move"
+        type: choice
+        options:
+          - journal
+          - atlas
+          - tell
+          - all
+        default: all
+      ref:
+        description: "Target commit: a full SHA, or 'latest' for origin/main HEAD"
+        type: string
+        default: latest
+
+permissions:
+  contents: write
+
+jobs:
+  force-pin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          fetch-tags: true
+          submodules: recursive
+
+      - name: Force module pin(s)
+        env:
+          MODULE: ${{ inputs.module }}
+          TARGET: ${{ inputs.ref }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          modules="$MODULE"
+          [ "$MODULE" = "all" ] && modules="journal atlas tell"
+
+          for m in $modules; do
+            path=".${m}-engine"
+            if [ ! -d "$path" ]; then
+              echo "::error::no submodule mounted at $path" >&2
+              exit 1
+            fi
+            echo "::group::$m ($path)"
+            # Fetch refs + tags so both 'latest' and an arbitrary SHA resolve.
+            git -C "$path" fetch origin main --tags
+
+            if [ "$TARGET" = "latest" ]; then
+              sha="$(git -C "$path" rev-parse FETCH_HEAD)"
+            else
+              sha="$TARGET"
+            fi
+            # Fail loudly if the target is not a real commit in the submodule.
+            git -C "$path" cat-file -e "${sha}^{commit}"
+            git -C "$path" checkout --quiet --detach "$sha"
+            echo "$m -> $(git -C "$path" rev-parse HEAD)"
+            git add -- "$path"
+            echo "::endgroup::"
+          done
+
+          if git diff --cached --quiet; then
+            echo "No pin changes to commit (already at target)."
+            exit 0
+          fi
+
+          git commit -m "ci: force module pin(s) [${MODULE} -> ${TARGET}] [skip ci]"
+
+          # Race-safe push, matching advance-engine: retry on a rejected push by
+          # rebasing onto the latest main. Each force-pin stages only the chosen
+          # submodule path(s), so a concurrent scheduled advance rebases cleanly.
+          pushed=
+          for attempt in 1 2 3 4 5; do
+            if git push origin main; then pushed=1; break; fi
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; break; }
+          done
+          [ -n "$pushed" ] || { echo "push to main failed after retries" >&2; exit 1; }
+        shell: bash
