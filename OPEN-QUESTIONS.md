@@ -152,6 +152,23 @@ Circular by nature: each tier defers to the other until a real second Tell publi
   fields and cadence an Atlas validates — and the aggregator that consumes it (same item, atlas side).
   The Tell-side declaration (`CONSTITUTION` → "I describe the transparency reports I publish") is the
   surface that contract validates.
+  - **Specified direction:** [`tell.anecdote.channel/docs/reporting.md`](https://github.com/FCCN-ANTIBODY/tell.anecdote.channel/blob/main/docs/reporting.md)
+    (after the reporting-locus rethink, `tell.anecdote.channel#27`). The aggregate belongs **here, at the
+    Atlas pool** — not at each Tell. A standalone Tell publishes nothing; *only on joining an Atlas* does
+    it deliver de-identified, membership-tagged summaries (`tell.poll.summary/v1`: per-poll `count`,
+    coarse option tallies, verdict counts, topic; never answer text or `asker`) **promoted into the
+    signed manifest head** like the existing `tell.voucher.summary/v1`. **Small-N suppression must happen
+    at this pool**, where N is large across many Tells — at a 2-person Tell it either blanks or
+    re-identifies. Consequences for this §: "compulsory" means *compulsory-on-joining*, so this tier's
+    deadlock eases (the Tell-side input is concrete the moment a Tell lists); the field-level contract is
+    that delivery; the figures are **manifest-committed + provable** (recomputable from public manifests,
+    backed by the pile's `bin/prove`). The per-answer govern log is **re-homed** (sealed evidence locker,
+    single-record justified-query disclosure, Issue-author identity), not a public surface. **Forward
+    seeds** (not specified here): the device-side vouch (signed district membership computed against
+    Atlas-published boundary polygons, geography never leaving the device); Atlas as a **registry of
+    bounded concepts** (label + boundary polygon + authority attestation); and the suspicion that
+    **label-authority and report-credibility are one attestation mechanism** — the same "open line, weight
+    accumulates" problem the standing item below raises.
 - **The standing mechanism is unwritten (Tier: atlas).** Atlas attests it keeps an **open line** —
   a report gains weight and credibility as it accumulates — but the *concrete mechanism* that
   materializes "weight" is unwritten.
