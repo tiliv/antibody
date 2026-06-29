@@ -152,6 +152,16 @@ Circular by nature: each tier defers to the other until a real second Tell publi
   fields and cadence an Atlas validates — and the aggregator that consumes it (same item, atlas side).
   The Tell-side declaration (`CONSTITUTION` → "I describe the transparency reports I publish") is the
   surface that contract validates.
+  - **Specified direction:** [`tell.anecdote.channel/docs/reporting.md`](https://github.com/FCCN-ANTIBODY/tell.anecdote.channel/blob/main/docs/reporting.md).
+    The Tell's *one compulsory* artifact becomes an **anonymous aggregate** — a `tell.poll.summary/v1`
+    (per-poll `count`, coarse option tallies, verdict counts, topic self-description; small-N
+    suppressed; never answer text or `asker`) **promoted into the signed manifest head** like the
+    existing `tell.voucher.summary/v1`, and rolled into `reports/poll-*.json`. Two consequences for
+    this §: the field-level contract now has a concrete shape; and the artifact is **manifest-committed
+    + provable** (recomputable from public manifests, backed by the pile's `bin/prove`), so Atlas
+    aggregation here consumes the *same signed summaries* as a deferred opt-in. Per-record govern
+    detail is demoted from the public surface (sealed to the pile), easing the circular deadlock above:
+    the Tell-side artifact is concrete and compulsory whether or not the aggregator is built.
 - **The standing mechanism is unwritten (Tier: atlas).** Atlas attests it keeps an **open line** —
   a report gains weight and credibility as it accumulates — but the *concrete mechanism* that
   materializes "weight" is unwritten.
