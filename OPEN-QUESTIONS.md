@@ -86,6 +86,16 @@ judge, used in `composite`, is reusable for any constitution-comparison work els
   from the requester's **own** judge credentials (bring your own budget) or a **timeshare** on the
   Tell's/Atlas's capacity (the parent lends cycles under its own quota, against the fixed-bucket
   constraint above). Same authorization gap, seen from the spender's side.
+- **The judge's likely form is a Cloudflare worker, and its debut job is the constituency solve.** The
+  judge is the one piece that genuinely wants to be a live **moving part** (most of the constellation
+  deliberately is not) — a request-time gate, not a static artifact. The first thing it most needs to
+  decide is **constituency membership at the moment of a request**: is this requester inside the bounds
+  right now? — proof-of-access in the spirit of "go to your email to prove you hold it." That is the
+  natural **debut workload of a future `FCCN-ANTIBODY/judge` repo** (the constituency solve, now grouped
+  where it belongs rather than smeared across Tell/Atlas). **Open (scaling):** what a judge **worker**'s
+  capacity/cost envelope is under real poll traffic — it inherits the fixed-bucket / available-vs-not
+  junction above, but as a hot path (gating token *use*), not a PR hook. It is explicitly **not** an edge
+  (a Cloudflare cache rule) *deciding* anything — the worker is a summoned judgement, the edge stays dumb.
 
 ---
 
@@ -273,10 +283,13 @@ ties these together; the geo-gate (below) is the lever that unlocks the rest.
   finalized as a thread.
   - **Blocks:** ingestion that scales with poll size without a per-reply Issue; a single lock/close
     gesture to retire a round; lower API and notification load than Issue-per-reply.
-  - **Sketch (unbuilt):** the landing page builds a prefilled *comment* rather than `issues/new`;
-    `bin/collect-submissions` reads comments on the poll's pinned Issue instead of (or beside) whole
-    Issues; finalize locks the thread. A second scaling answer alongside the direct-transfer collector
-    above — pick one per deployment, not both.
+  - **Built (tell #31/#32).** `bin/open-poll` opens the canonical issue (anchor block, labelled
+    `tell-canonical`); `bin/qr --mode comment --canonical <n>` points replies at it;
+    `bin/collect-submissions` sweeps that issue's **comments** (beside whole Issues) and reads the new
+    `nonce`/`run`/`anecdote` fields; `bin/rollup` seals them; `bin/finalize-submissions` signals a comment
+    by a 👍/👎 **reaction** (comments can't be labelled). The comment's ordinal in the one thread is free,
+    verifiable, contemporaneous cohort metadata. Still a per-deployment choice vs. the direct-transfer
+    collector above — not both.
 - **QR token expiry vs. round-bumping.** A QR token is
   `HMAC(k_pile, "tok:"||pile||":"||poll||":"||round)` — a bearer capability with **no intrinsic
   expiry**. The only way to retire an outstanding QR is to bump `round` (or pin `TELL_ALLOWED_ROUND`),
@@ -304,8 +317,28 @@ ties these together; the geo-gate (below) is the lever that unlocks the rest.
   reopens *who authenticates the POST* (the respondent's token, a service token on a static page — no,
   or a short-lived capability minted into the QR, tying back to expiry above).
   - **Blocks:** any move away from the click-through model; one-tap replies; kiosk / no-account flows.
-  - **Status:** the QR now *addresses* the correct jurisdiction Tell; the **identity** of the POST is
-    unchanged and still deferred.
+  - **Status (homebrew interim, anecdote #18 + tell #32).** Chosen for the first live attempt: a
+    **semi-public POST credential** minted Tell-side — a repo-scoped, Issues:write, short-expiry
+    fine-grained PAT carried in the QR (`TELL_POST_TOKEN`) — so the runtime (`anecdote.channel`) POSTs
+    the comment with **no respondent account**, kiosk-style. The credential rides outside the provenance
+    signature and is never bound under the user's signature; `tok` still gates *acceptance*. The graduation
+    is a **GitHub App + scan-time worker-minted short-lived token** (no durable credential in the QR).
+- **The public-issue side-channel's two abuse problems (homebrew running cost).** We open this access
+  model on purpose — it's a side-channel `anecdote.channel` sites expect, and it must NOT be the operator's
+  Cloudflare edge *deciding* anything. Two distinct risks while we sit on the public GitHub issue layer:
+  - **(1) Spammable, and it draws GitHub's abuse scrutiny.** A semi-public write token (and even the
+    click-through model) lets anyone post; nothing yet gates *use of the token* by whether the requester is
+    **inside the constituency at the moment of request** (the email-style proof-of-access). That gate is
+    the **judge's** job (geo/constituency awareness) — see **A** (judge as a request-time worker, debut =
+    the constituency solve). Until it exists, abuse is bounded only by short token expiry + round-bumping +
+    downstream dedup, and excessive traffic risks the host flagging us.
+  - **(2) Everything on GitHub is public, skimmable, subscribable, and under no purported license at the
+    moment of encounter.** The plaintext window (and the whole issue/comment surface) is world-readable
+    before sealing, and a third party can harvest it off GitHub outside any terms we attach downstream.
+    This is **infrastructural**, not a bug of one deployment: it is the price of using the public layer as
+    the expected side-channel. Mitigations are the Phase-1 pre-public pickup (above) and moving the
+    judgement to a summoned worker (**A**), not the edge. **Open:** how much of this is acceptable for the
+    pilot, and exactly which parts the judge-worker must gate before distributed/at-scale operation.
 - **Ingress loop cross-repo adoption.** The ingress (collect → govern → deliver → finalize) is a
   composite action, but referenced cross-repo its bundled scripts resolve `_data/piles.yml` relative to
   their own checkout — so a third repo would read *this* Tell's registry, not its own.
