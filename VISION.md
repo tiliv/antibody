@@ -135,6 +135,9 @@ license **only if you attribute yourself as the author**.
   blocks — is gathered in [`OPEN-QUESTIONS.md`](OPEN-QUESTIONS.md). It is the only such list; this
   document and the constitutions state the design as intent, and the open questions track what is not
   yet wired, so a solved item drops away there without disturbing the vision here.
+- The operational order — the **poll lifecycle walked literally**, naming the exact workflow or file
+  behind each step and drawing the gaps as dotted lines that cite the open questions above — is
+  [`docs/PIPELINE.md`](docs/PIPELINE.md). It is the connective tissue between this vision and the wire.
 - Each node's binding law is its own `CONSTITUTION.md`, served live; each channel's wire-level
   interfaces are its `CONTRACT.md`; where a node is going is its `ROADMAP.md`. This file is the why they
   share.
