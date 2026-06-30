@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: The poll pipeline, walked
+    url: https://github.com/FCCN-ANTIBODY/civic-node/blob/main/docs/PIPELINE.md
+    about: The end-to-end poll lifecycle this template tracks — each step's concrete artifact, the dotted-line gaps, and the owner-gated acts.
+  - name: Open questions (the constellation)
+    url: https://github.com/FCCN-ANTIBODY/civic-node/blob/main/OPEN-QUESTIONS.md
+    about: What is deferred or unbuilt, with what each gap blocks. The dotted lines in the pipeline cite sections here.

@@ -6,6 +6,8 @@ You may copy from this code, text and license, only if you attribute yourself as
 
 See [`VISION.md`](VISION.md) for the whole picture — the constellation and this node's place in it —
 and [the wiki](https://github.com/tiliv/antibody/wiki) for various ways to interact with this repository.
+For the poll lifecycle walked literally, step by step — the concrete artifact behind each step and the
+dotted-line gaps — see [`docs/PIPELINE.md`](docs/PIPELINE.md).
 
 - [Purpose](https://github.com/tiliv/antibody/wiki/Descriptions)
 - [Hosting information](https://github.com/tiliv/antibody/wiki/Hosting)
